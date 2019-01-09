@@ -1,0 +1,166 @@
+Markua Tests
+
+A> This is a short aside.
+
+A> # A Longer Aside
+A>
+A> This is a longer aside.
+A>
+A> It can have multiple paragraphs.
+A>
+A> The `A> ` stuff can get tedious after a while.
+A>
+A> This is why the `{aside}` syntax exists.
+
+
+{aside}
+# A Note About Asides
+
+This is a longer aside.
+
+It can have multiple paragraphs.
+
+Asides can also have headings, like this one does.
+
+Multi-paragraph asides are more pleasant using this syntax.
+{/aside}
+
+* * *
+
+B> This is a short blurb.
+B> # A Longer Blurb
+B>
+B> This is a longer blurb.
+B>
+B> It can have multiple paragraphs.
+{blurb}
+#A Longer Blurb
+
+This is a longer blurb.
+
+It can have multiple paragraphs.
+{/blurb}
+
+* * *
+
+{class: warning}
+B> This is a warning!
+Here’s how this looks with the {blurb} syntax:
+
+{blurb, class: warning}
+This is a warning!
+{/blurb}
+
+* * *
+
+D> This is a discussion blurb.
+
+E> This is an error blurb.
+
+I> This is an information blurb.
+
+Q> This is a question blurb.
+
+T> This is a tip blurb.
+
+W> This is a warning blurb.
+
+X> This is an exercise blurb.
+
+
+{class: discussion}
+B> This is a discussion blurb.
+
+{class: error}
+B> This is an error blurb.
+
+{class: information}
+B> This is an information blurb.
+
+{class: question}
+B> This is a question blurb.
+
+{class: tip}
+B> This is a tip blurb.
+
+{class: warning}
+B> This is a warning blurb.
+
+{class: exercise}
+B> This is an exercise blurb.
+
+* * *
+
+C> This is a centered blurb.
+
+{class: center}
+B> This is a centered blurb.
+
+* * *
+
+{icon: car}
+B> You can't spell carbon without it!
+
+{icon: leanpub}
+B> Yes, we're in Font Awesome!
+
+{icon: github}
+B> So is GitHub, of course. Unicorns.
+
+* * *
+
+{quiz, id: quiz1}
+? How many letters are in the word Markua?
+
+a) 5
+B) 6
+c) 7
+
+? How many unique letters are in the word Markua?
+
+! 5
+{/quiz}
+
+* * *
+
+{exercise, id: exercise1}
+? How many letters are in the word Markua?
+
+a) 5
+B) 6
+c) 7
+
+? How many unique letters are in the word Markua?
+
+! 5
+{/exercise}
+
+* * *
+
+{quiz, id: quiz2}
+# Markua Quiz
+
+Watch this [video](https://www.youtube.com/watch?time_continue=1&v=VOCYL-FNbr0) of Peter explaining Markua.
+
+? What year was that video from?
+
+What year? Really? Did it really take that long? What was going on???
+
+a) 2012
+b) 2013
+C) 2014
+d) 2015
+
+{words: 500}
+? Why do you think the first version of the Markua spec took so long?
+
+Look at the Leanpub website and read the [pricing essay](https://leanpub.com/pricing).
+
+! Answers could include "bootstrapped startup", the spec evolving, removing HTML mapping, etc.
+
+That's it for this quiz, and this MOOC!
+
+**Thanks for taking my course!**
+{/quiz}
+
+* * *
