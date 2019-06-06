@@ -69,11 +69,11 @@ The base scenario presumes the following audience:
 
 This scenario suggests that a comprehensive cold-storage procedure would be the best practice to maintain and protect this holder's digital assets. Though simple, this scenario is also a foundation for more complex custodial procedures. It introduces many of the basic approaches for managing digital assets, explains their importance, and presents the adversaries that could steal or ruin the holder's digital assets.
 
-This scenario advocates the basic procedure to address nine major types of adversaries, while the optional procedures can help protect against five further adversaries. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in this scenario. See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries).
+This scenario advocates the basic procedure to address nine major types of adversaries, while the optional procedures can help protect against five further adversaries. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in this scenario. See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii).
 
 For simplicity, this document focuses on Bitcoin, but is easily adaptable to other digital assets supported by our suggested hardware wallet.
 
-If you don't meet the description of the holder for this scenario, it will still be useful, but you will have to adapt it for you specific needs. If you are unsure as to whether you should use a cold-storage scenario, please see [Appendix I: Why Cold Storage?](#appendix-i-why-cold-storage).
+If you don't meet the description of the holder for this scenario, it will still be useful, but you will have to adapt it for you specific needs. If you are unsure as to whether you should use a cold-storage scenario, please see [Appendix I: Why Cold Storage?](#appendix-i).
 
 ## PROCEDURES
 
@@ -111,7 +111,7 @@ Some additional processes for this scenario are offered as options—but be care
 
 The most notable of these adversaries may be "Systemic Network Attack", an adversary that is very problematic in hot-wallet scenarios, but largely nullified by removing private keys into cold storage. In many ways, it's the prime adversary overcome by this scenario.
 
-See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries) for a brief overview of the adversaries covered in this document, and _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_ for a more extensive list and discussion.
+See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii) for a brief overview of the adversaries covered in this document, and _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_ for a more extensive list and discussion.
 
 ### Requirements
 
@@ -741,6 +741,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 ## APPENDICES
 
+{id: appendix-i}
 ### Appendix I: Why Cold Storage?
 
 Cold storage is primarily intended for digital-asset custodians who do not actively trade their digital assets. It offers a high level of protection for digital assets, because keys are secured offline or in hardware and _should_ _never be on networked computers._
@@ -757,6 +758,7 @@ After you answer these questions, you may discover that you don't actually need 
 
 Even if you determine that all of your funds must remain hot, this cold-storage scenario still suggests a variety of best practices for managing digital-asset keys, and does so in the context of risks and adversaries that will be used to model other scenarios later in this course.
 
+{id: appendix-ii}
 ### Appendix II: Sample Digital-Assets Letter
 
 _The following is a sample letter which could be used by a digital-asset holder to alert their heirs of the existence of the digital assets. For a more complete book on this topic, see Pamela Morgan's book [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya)._
@@ -781,6 +783,7 @@ There may be some other 24-word keys or passwords at [storage location]. These m
 
 Signed, [Digital Asset Holder]
 
+{id: appendix-iii}
 ### Appendix III: A Brief Overview of Digital-Asset Adversaries
 
 When creating a scenario for protecting digital assets, a custodian makes choices in his procedures to address vulnerabilities to a specific set of adversaries.
