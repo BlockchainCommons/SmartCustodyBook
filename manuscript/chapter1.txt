@@ -111,7 +111,7 @@ Some additional processes for this scenario are offered as options—but be care
 
 The most notable of these adversaries may be "Systemic Network Attack", an adversary that is very problematic in hot-wallet scenarios, but largely nullified by removing private keys into cold storage. In many ways, it's the prime adversary overcome by this scenario.
 
-See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries) for a brief overview of the adversaries covered in this document, and [Adversaries — Case Studies for Securing Digital Assets Against Loss]() _(available late Spring 2019)_ for a more extensive list and discussion.
+See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries) for a brief overview of the adversaries covered in this document, and _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_ for a more extensive list and discussion.
 
 ### Requirements
 
