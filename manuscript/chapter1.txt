@@ -169,7 +169,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     1. Download It
     2. Install It
 
-#### **C. Create Master HD Seed on Ledger**[^9] [^10]
+#### **C. Create Master HD Seed on Ledger** [^9] [^10]
 1. ⎕ Start Up Ledger Live
     1. If necessary, verify for your operating system that you want to run this downloaded app
     2. **On Ledger Live (LL:)** Click "Get started"
