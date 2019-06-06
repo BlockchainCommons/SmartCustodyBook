@@ -121,7 +121,7 @@ The following items are necessary for this procedure, and should be purchased in
 
 * ⎕ Safety Deposit Box at Bank or other institution
 
-* ⎕ Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live)[^2], preferably able to boot from a USB drive
+* ⎕ Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
 
 * ⎕ 1 Fine-point Permanent Marker (Sharpie https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/ or equivalent)
 
@@ -359,7 +359,7 @@ _Each optional step addresses certain adversaries, but adding them ultimately ad
 * Use a USB Drive — for [Bitrot](#bitrot), [Personal Network Attack](#personal-network-attack)
 * Use a (Second) USB Drive — for [Bitrot](#bitrot), [Disaster](#disaster)
 
-See [Securing Digital Assets: Adversaries]() (available late spring 2019) for a full discussion of adversaries. The following adversaries appear for the first time in this section:
+See _Securing Digital Assets: Adversaries_ (available late spring 2019) for a full discussion of adversaries. The following adversaries appear for the first time in this section:
 
 11. [Bitrot](#bitrot) — _a hardware, software, or media failure leading to loss_
 12. [Institutional Theft](#institutional-theft) — _a theft by a trusted institution or its employee_
@@ -789,7 +789,7 @@ Our term “adversary” is slightly different from the more common term “risk
 
 Following is a brief summary of the fifteen adversaries (from a list of twenty-seven) that this particular scenario addresses. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in the procedures offered by this scenario.
 
-For a complete list of digital-asset adversaries, along with motivations, abstract & historical case studies, risks, and potential process solutions for each, see [Adversaries — Case Studies for Securing Digital Assets Against Loss]() _(available late Spring 2019)_.
+For a complete list of digital-asset adversaries, along with motivations, abstract & historical case studies, risks, and potential process solutions for each, see _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_.
 
 #### CATEGORY: Loss by Acts of God
 
