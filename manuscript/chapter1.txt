@@ -169,7 +169,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     1. Download It
     2. Install It
 
-#### **C. Create Master HD Seed on Ledger**[^9][^10]
+#### **C. Create Master HD Seed on Ledger**[^9] [^10]
 1. ⎕ Start Up Ledger Live
     1. If necessary, verify for your operating system that you want to run this downloaded app
     2. **On Ledger Live (LL:)** Click "Get started"
@@ -320,7 +320,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 3. ⎕ Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
-#### **N. Check Storage A (Spring)**[^18][^19]
+#### **N. Check Storage A (Spring)**[^18] [^19]
 1. ⎕ Confirm contents of Home Safe.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -329,7 +329,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 6. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and store in Home Safe.
 7. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
 
-#### **O. Check Storage B (Fall)**[^20][^21]
+#### **O. Check Storage B (Fall)**[^20] [^21]
 1. ⎕ Sign in to check contents of safety deposit box. Check safety deposit box signature logs to see if anyone else has signed in.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -683,11 +683,11 @@ _If you already "Use a USB Drive", you may want to double-up with a second copy.
 The base scenario suggests a secure way to maintain your digital assets in cold storage. A number of optional steps are all available to you in order to increase your security. Following are some ways in which you may combine those optional steps to serve specific needs.
 
 * Avoiding Private Key Loss
-    * Hire a Lawyer, Use Bags (Fire-Resistant, Tamper-Evident), Use a USB Drive, Use a (Second) USB Drive
+   * Hire a Lawyer, Use Bags (Fire-Resistant, Tamper-Evident), Use a USB Drive, Use a (Second) USB Drive
 * Avoiding Private Key Theft, Level 1
-    * Hire a Lawyer, Use Bags (Tamper-Evident)
+   * Hire a Lawyer, Use Bags (Tamper-Evident)
 * Avoiding Private Key Theft, Level 2
-    * Erase Your Ledger,  Hire a Lawyer, Use Bags (Tamper-Evident), Use Metal Enhancement (Redundant Metal Tiles)
+   * Erase Your Ledger,  Hire a Lawyer, Use Bags (Tamper-Evident), Use Metal Enhancement (Redundant Metal Tiles)
 
 #### Alternative: Avoiding Private Key Loss
 
@@ -909,13 +909,13 @@ _An operator mistake leading to loss._ “I’m that niggling mistake that would
 
 [^17]:Like using tamper-proof bags, there are some questions as to how much security is added by physically signing the cases of the hardware, as any attacker sophisticated enough to create a working fake that functions with your PIN could also duplicate the case. However, it is a low cost and easy thing to do.
 
-[^18]:I suggest spring & fall for reviews, to avoid winter and summer holiday times.
+[^18]:I suggest spring and fall for reviews, to avoid winter and summer holiday times.
 
 [^19]:For my spring review, as it is near tax time and April Fool's, I focus on the accounting — I check transactions against my balances on my exchange, consider if I need to balance my portfolio, and in general focus on "foolish" mistakes I may have made.
 
 [^20]:For my fall review, near Halloween and the Day of the Dead,  I focus on updating my instructions to heirs, confirming with my heirs that they know about my digital assets and how to get help if they need it, etc.
 
-[^21]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia & California. See http://abcnews.go.com/GMA/story?id=4832471
+[^21]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia and California. See http://abcnews.go.com/GMA/story?id=4832471
 
 [^22]:Before giving any digital asset key material to a lawyer, make sure the materials are sealed in an opaque envelope in a tamper-evident bag. Never tell your lawyer your 24 words over the phone and never ask the lawyer to write down your 24 words.
 
