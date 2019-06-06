@@ -320,7 +320,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 3. ⎕ Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
-#### **N. Check Storage A (Spring)**[^18] [^19]
+#### **N. Check Storage A — Spring**[^18] [^19]
 1. ⎕ Confirm contents of Home Safe.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -329,7 +329,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 6. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and store in Home Safe.
 7. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
 
-#### **O. Check Storage B (Fall)**[^20] [^21]
+#### **O. Check Storage B — Fall**[^20] [^21]
 1. ⎕ Sign in to check contents of safety deposit box. Check safety deposit box signature logs to see if anyone else has signed in.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
