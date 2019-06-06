@@ -170,7 +170,6 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     2. Install It
 
 #### **C. Create Master HD Seed on Ledger** [^9] 
-[^10]
 1. ⎕ Start Up Ledger Live
     1. If necessary, verify for your operating system that you want to run this downloaded app
     2. **On Ledger Live (LL:)** Click "Get started"
@@ -199,7 +198,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     2. Click both buttons on your Ledger when it says "Welcome"; this is generally how you clear a screen.
     3. Click both buttons again.
     4. You should now see "Configure as new device" with an "X" to the left and a "√" on the right. This means that you hit the left button to choose "No" ("X") and the right button to choose "Yes" ("√"). Click the right button.
-4. ⎕ Create Your PIN
+4. ⎕ Create Your PIN[^10]
     1. Hit both buttons on your Ledger to create a PIN
     2. Create at least a 6-to-8 digit PIN
     3. If you desire PIN compatibility with Trezor, don't use the number "0".
@@ -248,7 +247,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     1. If you didn't, check for simple mistakes. If you see them, repeat step D.
     2. Otherwise, restart from step C-3.
 
-#### **E. Create Test Transaction**[^13]
+#### **E. Create Test Transaction** [^13]
 1. ⎕ Generate a test receive address
     1. **LL:** Select the "Receive" Menu item on Ledger Live
     2. If necessary navigate to the Bitcoin app on your Ledger and open it
@@ -269,7 +268,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     6. Repeat for additional accounts.
 5. ⎕ Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
 
-#### **F. Setup Fireproof Key Recovery Phrase**[^15]
+#### **F. Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
     1. ⎕ Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
         1. Place the Bit Holder over each row before you begin stamping that word.
@@ -314,14 +313,14 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 1. ⎕ Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter below.
 
-#### **M. Store in Safes**[^16]
+#### **M. Store in Safes** [^16]
 1. ⎕ Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
 2. ⎕ OPTIONAL: Store materials in tamper-resistant bag and sign it;
 ⎕ OPTIONAL: Store materials in fire resistant bag.
 3. ⎕ Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
-#### **N. Check Storage A — Spring**[^18] [^19]
+#### **N. Check Storage A — Spring** [^18]
 1. ⎕ Confirm contents of Home Safe.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -330,8 +329,8 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 6. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and store in Home Safe.
 7. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
 
-#### **O. Check Storage B — Fall**[^20] [^21]
-1. ⎕ Sign in to check contents of safety deposit box. Check safety deposit box signature logs to see if anyone else has signed in.
+#### **O. Check Storage B — Fall** [^19]
+1. ⎕ Sign in to check contents of safety deposit box[^20]. Check safety deposit box signature logs to see if anyone else has signed in.
 2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
 4. ⎕ OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates; open Ledger Wallet and confirm balances.
@@ -435,7 +434,7 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 **Created Adversary:** [Process Fatigue](#process-fatigue), [Institutional Theft](#institutional-theft)
 
-_A lawyer can store sealed files for you and will have a fiduciary responsibility to maintain them safely and privately[^22]. This can reduce the problem of [Institutional Theft](#institutional-theft) for those concerned about various privacy or legal issues regarding safety deposit boxes, but you obviously must ensure the lawyer is trusted. This option can also increase the odds of your heirs or family accessing your digital assets, because the lawyer will know what to do if [Death / Incapacitation](#death--incapacitation) occurs. But there is new danger of [Process Fatigue](#process-fatigue), if nothing else because a lawyer is an ongoing cost._
+_A lawyer can store sealed files for you and will have a fiduciary responsibility to maintain them safely and privately[^21]. This can reduce the problem of [Institutional Theft](#institutional-theft) for those concerned about various privacy or legal issues regarding safety deposit boxes, but you obviously must ensure the lawyer is trusted. This option can also increase the odds of your heirs or family accessing your digital assets, because the lawyer will know what to do if [Death / Incapacitation](#death--incapacitation) occurs. But there is new danger of [Process Fatigue](#process-fatigue), if nothing else because a lawyer is an ongoing cost._
 
 **_Replace the safety deposit box in action #4 of step "M" and in step "O" with a lawyer; or, alternatively supplement your safety deposit box to also include the same information with a lawyer in a sealed envelope._**
 
@@ -529,7 +528,7 @@ _Cryptosteel is primarily an alternative to CryptoTag, which means that it can s
 
 _As with any unencrypted copy of your master seed, you should protect it somewhere like a safety deposit box, or you'll increase your vulnerability to [Physical Theft, Casual](#physical-theft-casual). However doing so increases the likelihood of [Institutional Theft](#institutional-theft), so be sure to assess which is more likely given your situation._
 
-_This is one of three possible options for maintaining a copy of your Recovery Phrase using a metal-device to increase its durability and [Disaster](#disaster) resistance. CryptoTag is our default choice, as we believe it best combines fire resistance [^23] and preciseness. Of our two optional choices: Cryptosteel is more precise but more fiddly; while a Metal Tile & Engraver are cheap and simple, but can lead to precision problems with messy transcription._
+_This is one of three possible options for maintaining a copy of your Recovery Phrase using a metal-device to increase its durability and [Disaster](#disaster) resistance. CryptoTag is our default choice, as we believe it best combines fire resistance [^22] and preciseness. Of our two optional choices: Cryptosteel is more precise but more fiddly; while a Metal Tile & Engraver are cheap and simple, but can lead to precision problems with messy transcription._
 
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a Cryptosteel in addition to CrypoTag._**
 
@@ -560,7 +559,7 @@ _A Metal Tile with an Engraver is primarily an alternative to CryptoTag, which m
 
 _As with any unencrypted copy of your master seed, you should protect it somewhere like a safety deposit box, or you'll increase your vulnerability to [Physical Theft, Casual](#physical-theft-casual). However doing so increases the likelihood of [Institutional Theft](#institutional-theft), so be sure to assess which is more likely given your situation._
 
-_This is one of three possible options for maintaining a copy of your Recovery Phrase using a metal-device to increase its durability and [Disaster](#disaster) resistance. CryptoTag is our default choice, as we believe it best combines fire resistance [^24] and preciseness. Of our two optional choices: Cryptosteel is more precise but more fiddly; while a Metal Tile & Engraver are cheap and simple, but can lead to precision problems with messy transcription._
+_This is one of three possible options for maintaining a copy of your Recovery Phrase using a metal-device to increase its durability and [Disaster](#disaster) resistance. CryptoTag is our default choice, as we believe it best combines fire resistance [^23] and preciseness. Of our two optional choices: Cryptosteel is more precise but more fiddly; while a Metal Tile & Engraver are cheap and simple, but can lead to precision problems with messy transcription._
 
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a metal tile & engraver in addition to CrypoTag._**
 
@@ -598,7 +597,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **Created Adversary:** [Death / Incapacitation](#death--incapacitation), [Process Fatigue](#process-fatigue), [User Error](#user-error)
 
-_Cryptosteel, CryptoTag, and engravable steel or titanium tiles are great for preventing disastrous loss of your key, but introduce a real danger since you're forced to leave an unencrypted copy of your master seed in plain sight. An alternative is to use any of these methods to create a redundant set of three metal-protected copies of your master seed, where each copy contains only two-thirds of your words, and any two copies can recover your seed completely[^25]. This continues to protect you from [Disaster](#disaster) and [Key Fragility](#key-fragility) but also introduces robust protections against **Loss by Crime / Theft**, primarily focusing on [Institutional Theft](#institutional-theft) (since you'd usually be protecting your unencrypted master seed in a safety deposit box)._
+_Cryptosteel, CryptoTag, and engravable steel or titanium tiles are great for preventing disastrous loss of your key, but introduce a real danger since you're forced to leave an unencrypted copy of your master seed in plain sight. An alternative is to use any of these methods to create a redundant set of three metal-protected copies of your master seed, where each copy contains only two-thirds of your words, and any two copies can recover your seed completely[^24]. This continues to protect you from [Disaster](#disaster) and [Key Fragility](#key-fragility) but also introduces robust protections against **Loss by Crime / Theft**, primarily focusing on [Institutional Theft](#institutional-theft) (since you'd usually be protecting your unencrypted master seed in a safety deposit box)._
 
 _The downside of using a two-of-three metal tile strategy is that it introduces complexity into your procedure. When you set up your tiles, [User Error](#user-error) could leave you with an incomplete set of 24 words, if you don't break them up correctly. Later, having to constantly collect two out of three tiles can introduce [Process Fatigue](#process-fatigue). Finally, the complexity of this setup might increase the danger of **Danger/Incapacitation** resulting in your digital fortunes being lost._
 
@@ -630,7 +629,7 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 
 * TWO extra Steel or Titanium Tiles; or TWO extra Cryptosteels; or TWO extra CryptoTags.
 
-### ⎕ Optional Step: Use a USB Drive[^26]
+### ⎕ Optional Step: Use a USB Drive[^25]
 **Obstructed Adversary:** [Bitrot](#bitrot), [Personal Network Attack](#personal-network-attack), [Supply-Chain Attack](#supply-chain-attack)
 
 **Created Adversary:** [Process Fatigue](#process-fatigue), [User Error](#user-error)
@@ -645,7 +644,7 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
     1. Format the external USB device
     2. Download the installer for your OS
     3. Install the OS to the external USB drive
-2. ⎕ Boot drive from USB (This will be very slow! It is ok.)[^27]
+2. ⎕ Boot drive from USB (This will be very slow! It is ok.)[^26]
 
     1. Many newer operating systems, including MacOS and Windows, disable booting from an external device by default for security reasons. You'll need to flip a security switch to allow it. If you have this issue, your computer should give you a clear message about what to do when you try to boot.
 3. ⎕ Update with all security updates, but no optional updates and no apps
@@ -910,22 +909,20 @@ _An operator mistake leading to loss._ “I’m that niggling mistake that would
 
 [^17]:Like using tamper-proof bags, there are some questions as to how much security is added by physically signing the cases of the hardware, as any attacker sophisticated enough to create a working fake that functions with your PIN could also duplicate the case. However, it is a low cost and easy thing to do.
 
-[^18]:I suggest spring and fall for reviews, to avoid winter and summer holiday times.
+[^18]:I suggest spring and fall for reviews, to avoid winter and summer holiday times. For my spring review, as it is near tax time and April Fool's, I focus on the accounting — I check transactions against my balances on my exchange, consider if I need to balance my portfolio, and in general focus on "foolish" mistakes I may have made.
 
-[^19]:For my spring review, as it is near tax time and April Fool's, I focus on the accounting — I check transactions against my balances on my exchange, consider if I need to balance my portfolio, and in general focus on "foolish" mistakes I may have made.
+[^19]:For my fall review, near Halloween and the Day of the Dead,  I focus on updating my instructions to heirs, confirming with my heirs that they know about my digital assets and how to get help if they need it, etc.
 
-[^20]:For my fall review, near Halloween and the Day of the Dead,  I focus on updating my instructions to heirs, confirming with my heirs that they know about my digital assets and how to get help if they need it, etc.
+[^20]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia and California. See http://abcnews.go.com/GMA/story?id=4832471
 
-[^21]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia and California. See http://abcnews.go.com/GMA/story?id=4832471
+[^21]:Before giving any digital asset key material to a lawyer, make sure the materials are sealed in an opaque envelope in a tamper-evident bag. Never tell your lawyer your 24 words over the phone and never ask the lawyer to write down your 24 words.
 
-[^22]:Before giving any digital asset key material to a lawyer, make sure the materials are sealed in an opaque envelope in a tamper-evident bag. Never tell your lawyer your 24 words over the phone and never ask the lawyer to write down your 24 words.
+[^22]:https://twitter.com/crypto_tag/status/1073206843525222400
 
 [^23]:https://twitter.com/crypto_tag/status/1073206843525222400
 
-[^24]:https://twitter.com/crypto_tag/status/1073206843525222400
+[^24]:Note that there is some danger if an adversary accesses one of your three metal-devices. Whereas the 24 words gives you 256 bits of entropy, if an adversary knew 16 words but not the remaining 8, you'd drop down to 80 bits of entropy. This is still relatively safe given the state of modern computers, but is far below the recommended entropy for protecting cryptocurrency long-term. If you lost one of your three metal devices, you should immediately reset your master seed and transfer your currency.
 
-[^25]:Note that there is some danger if an adversary accesses one of your three metal-devices. Whereas the 24 words gives you 256 bits of entropy, if an adversary knew 16 words but not the remaining 8, you'd drop down to 80 bits of entropy. This is still relatively safe given the state of modern computers, but is far below the recommended entropy for protecting cryptocurrency long-term. If you lost one of your three metal devices, you should immediately reset your master seed and transfer your currency.
+[^25]:This USB drive is mostly for convenience, to assist against the form of Bitrot that is upgrade rot and to protect against some forms of active attack. The USB drive never has any key material on it, but it does allow you to return to a known working state without adding new code to the system. If a USB drive dies, it can be replaced.
 
-[^26]:This USB drive is mostly for convenience, to assist against the form of Bitrot that is upgrade rot and to protect against some forms of active attack. The USB drive never has any key material on it, but it does allow you to return to a known working state without adding new code to the system. If a USB drive dies, it can be replaced.
-
-[^27]:In my case, I confirmed that the USB drive booted on multiple Macintosh models, not just my primary laptop.
+[^26]:In my case, I confirmed that the USB drive booted on multiple Macintosh models, not just my primary laptop.
