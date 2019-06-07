@@ -14,9 +14,9 @@ _The information below is intended to inform a set of best practices. It may not
 
 Unless otherwise noted, the contents of this white paper are Copyright ©2017-2019 by Blockchain Commons and are licensed CC-BY-SA. ![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Please give attribution by linking to the https://www.SmartCustody.com website.
+Please give attribution by linking to the [https://www.SmartCustody.com](https://www.SmartCustody.com) website.
 
-Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at https://github.com/BlockchainCommons/SmartCustodyWhitePapers.
+Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyWhitePapers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers).
 
 ### Credits
 
@@ -42,7 +42,7 @@ Our goals:
 
 To accomplish these goals, we are creating a series of best-practices white papers and also offering a series of different workshops on these topics. We are additionally collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
 
-This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at https://tinyletter.com/SmartCustody.
+This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
 
 ### The #SmartCustody Team
 
@@ -117,21 +117,21 @@ See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-
 
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
-* ⎕ Small Home Safe (For example: https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/ )
+* ⎕ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
 
 * ⎕ Safety Deposit Box at Bank or other institution
 
 * ⎕ Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
 
-* ⎕ 1 Fine-point Permanent Marker (Sharpie https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/ or equivalent)
+* ⎕ 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
 
-* ⎕ 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4 or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/ or equivalent)
+* ⎕ 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET [https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4](https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4) or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood [https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/](https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/) or equivalent)
 
-* ⎕ 2 Ledger Nano S[^3], Factory sealed, not used https://www.ledgerwallet.com/products/ledger-nano-s or https://www.amazon.com/gp/product/B01J66NF46
+* ⎕ 2 Ledger Nano S[^3], Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
 
-* ⎕ One CryptoTag[^4] https://cryptotag.io/products/cryptotag-starter-kit/
+* ⎕ One CryptoTag[^4] [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
 
-* ⎕ 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at https://www.ledgerwallet.com/products/ledger-otg-kit
+* ⎕ 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at [https://www.ledgerwallet.com/products/ledger-otg-kit](https://www.ledgerwallet.com/products/ledger-otg-kit)
 
   _**Optional Steps** (described later) may require  purchases of additional items._
 
@@ -165,7 +165,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#bitrot) or [Personal Network Attack](#network-attack-personal).*
 2. _This optional action is omitted in this basic procedure._
 3. _This optional action is omitted in this basic procedure._
-4. ⎕ Install Ledger Live for Mac, Windows or Linux https://support.ledger.com/hc/en-us/articles/360006395553
+4. ⎕ Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
     1. Download It
     2. Install It
 
@@ -279,7 +279,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
         6. The first four letters of each word are sufficient to distinctly identify each word.
         7. If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
     2. ⎕ After completing all 24 words, reclip the CryptoTag.
-    3. See: https://cryptotag.io/tutorial/ for a video tutorial.
+    3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
 #### **G. Verify Recovery Phrase & Software Standards Conformance**
 
@@ -461,8 +461,8 @@ _This process is not likely to work equally well for all sorts of metal devices.
 
 **_Add the following to your requirements list:_**
 
-* Plastic Sealant – https://www.amazon.com/dp/B00I9SK8XY
-* Glitter Polish — https://www.amazon.com/essie-luxeffects-nail-polish-stones/dp/B007RS4R9I
+* Plastic Sealant – [https://www.amazon.com/dp/B00I9SK8XY](https://www.amazon.com/dp/B00I9SK8XY)
+* Glitter Polish — [https://www.amazon.com/essie-luxeffects-nail-polish-stones/dp/B007RS4R9I](https://www.amazon.com/essie-luxeffects-nail-polish-stones/dp/B007RS4R9I)
 
 ### ⎕ Optional Step: Use Bags (Fire-Resistant)
 
@@ -478,7 +478,7 @@ _Fire-resistant bags can increase the fire resistance of printed materials, and 
 
 **_Add the following to your requirements list:_**
 
-* 2 Fireproof Bags — 11 x 15" https://www.amazon.com/gp/product/B01NCVKZXG or 11 x 7" https://www.amazon.com/gp/product/B01KWTE9ZU
+* 2 Fireproof Bags — 11 x 15" [https://www.amazon.com/gp/product/B01NCVKZXG](https://www.amazon.com/gp/product/B01NCVKZXG) or 11 x 7" [https://www.amazon.com/gp/product/B01KWTE9ZU](https://www.amazon.com/gp/product/B01KWTE9ZU)
 
 _One bag is used for your home safe, one for your safety deposit box._
 
@@ -498,7 +498,7 @@ _They can also increase [Process Fatigue](#process-fatigue) because of the need 
 
 **_Add the following to your requirements list:_**
 
-* 2 Opaque Tamper-Evident Deposit Bags https://www.amazon.com/MMF-Industries-2362010N06-12-Inch-Tamper-Evident/dp/B000J05F06
+* 2 Opaque Tamper-Evident Deposit Bags [https://www.amazon.com/MMF-Industries-2362010N06-12-Inch-Tamper-Evident/dp/B000J05F06](https://www.amazon.com/MMF-Industries-2362010N06-12-Inch-Tamper-Evident/dp/B000J05F06)
 
 _One bag is used for your home safe, one for your safety deposit box._
 
@@ -546,7 +546,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **_Add the following to your requirements list:_**
 
-* Cryptosteel Master Mnemonic https://cryptosteel.com/ or https://www.amazon.com/gp/product/B0756P57M8
+* Cryptosteel Master Mnemonic [https://cryptosteel.com/](https://cryptosteel.com/) or [https://www.amazon.com/gp/product/B0756P57M8](https://www.amazon.com/gp/product/B0756P57M8)
 * Small flathead screwdriver
 
 ### ⎕ Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
@@ -575,21 +575,21 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **_Add one of the following metal tiles to your requirements list:_**
 
-* Design Ideas Identity Plate https://shop.designideas.net/product/identitycase-holder-give-taketake or
+* Design Ideas Identity Plate [https://shop.designideas.net/product/identitycase-holder-give-taketake](https://shop.designideas.net/product/identitycase-holder-give-taketake) or
 
-* Steel Tile https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I or https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q or
+* Steel Tile [https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I](https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I) or [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
 
-* Steel Tile https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q or
+* Steel Tile [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
 
-* ColdTi Titanium Tile https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6
+* ColdTi Titanium Tile [https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6](https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6)
 
 **_AND add one of the following engravers to your requirements list:_**
 
-* Manual scribe https://www.amazon.com/gp/product/B06XYZVJJ6 or
+* Manual scribe [https://www.amazon.com/gp/product/B06XYZVJJ6](https://www.amazon.com/gp/product/B06XYZVJJ6) or
 
-* Battery-powered engraver https://www.amazon.com/gp/product/B075Z2QR1 or
+* Battery-powered engraver [https://www.amazon.com/gp/product/B075Z2QR1](https://www.amazon.com/gp/product/B075Z2QR1) or
 
-* Dremel Industrial Engraver https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/ with Dremel Diamond Tip https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU
+* Dremel Industrial Engraver [https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/](https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/) with Dremel Diamond Tip [https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU](https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU)
 
 ### ⎕ Optional Step: Use Metal Enhancement (Redundant Metal Devices)
 
@@ -657,7 +657,7 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 **_Add the following to your requirements list:_**
 
-* 1 USB Drive (a new, unopened Memory Stick, rated for fastest speed you can find, that will work with your laptop). I like this dual A & C USB Memory Stick https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2 or just a one small small USB Hard Drive.
+* 1 USB Drive (a new, unopened Memory Stick, rated for fastest speed you can find, that will work with your laptop). I like this dual A & C USB Memory Stick [https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2](https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2) or just a small USB Hard Drive.
 
 ### ⎕ Optional Step: Use a (Second) USB Drive
 
@@ -676,7 +676,7 @@ _If you already "Use a USB Drive", you may want to double-up with a second copy.
 
 **_Add the following to your requirements list:_**
 
-* 1 (more) USB Memory Stick (new, unopened, rated for fastest speed you can find, and will work with your laptop). I like this dual A & C USB Memory Stick https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2 or 1 (more) small USB Hard Drives.
+* 1 (more) USB Memory Stick (new, unopened, rated for fastest speed you can find, and will work with your laptop). I like this dual A & C USB Memory Stick [https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2](https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2) or 1 (more) small USB Hard Drives.
 
 ## ALTERNATIVE SCENARIOS
 
@@ -906,7 +906,7 @@ _An operator mistake leading to loss._ “I’m that niggling mistake that would
 
 [^6]:It could be argued that this Safe Deposit Box should not be in the same town as your home safe. If a earthquake or fire strikes Berkeley, it is not likely to be as bad in San Jose, and vise versa. You will be visiting it at least once a year, so it should not be too inconvenient. If you are near an international border (for instance in Seattle or Vancouver), it can be useful to have your Safe Deposit Box in another country from your residence to assist against Legal Forfeiture. However, it is more important to be sure that both you and your heirs have easy access to it.
 
-[^7]:Joint names associated with a joint account should make it more difficult for legal physical [Denial of Access](#denial-of-access) to box by the heirs, however, the rules for this differ state-by-state. Ideally this account should be in the form of "joint tenancy" and "tenancy by the entirety". You should seek advice of a local lawyer. See http://www.weisslawstl.com/2008/02/16/joint-tenancy-accounts-safe-deposit-boxes-will-substitutes-will-substitute-will
+[^7]:Joint names associated with a joint account should make it more difficult for legal physical [Denial of Access](#denial-of-access) to box by the heirs, however, the rules for this differ state-by-state. Ideally this account should be in the form of "joint tenancy" and "tenancy by the entirety". You should seek advice of a local lawyer. See [http://www.weisslawstl.com/2008/02/16/joint-tenancy-accounts-safe-deposit-boxes-will-substitutes-will-substitute-will](http://www.weisslawstl.com/2008/02/16/joint-tenancy-accounts-safe-deposit-boxes-will-substitutes-will-substitute-will)
 
 [^8]:Higher security scenarios will require the initialization of computer devices and keys generated in a room with no windows, all cell phones turned off, laptop cameras and microphones turned off and taped over, and limited internet connectivity (no wifi). This is not required for this base scenario, but is cheap and easy to do.
 
@@ -932,13 +932,13 @@ _An operator mistake leading to loss._ “I’m that niggling mistake that would
 
 [^19]:For my fall review, near Halloween and the Day of the Dead,  I focus on updating my instructions to heirs, confirming with my heirs that they know about my digital assets and how to get help if they need it, etc.
 
-[^20]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia and California. See http://abcnews.go.com/GMA/story?id=4832471
+[^20]:It is particularly important that you sign in to your safe deposit box yearly. There have been cases where lack of regular access to a box has been interpreted as it being "abandoned" or "dormant", causing its seizure as "unclaimed property" and sale by the state. This has happened in the states of Georgia and California. See [http://abcnews.go.com/GMA/story?id=4832471](http://abcnews.go.com/GMA/story?id=4832471)
 
 [^21]:Before giving any digital asset key material to a lawyer, make sure the materials are sealed in an opaque envelope in a tamper-evident bag. Never tell your lawyer your 24 words over the phone and never ask the lawyer to write down your 24 words.
 
-[^22]:https://twitter.com/crypto_tag/status/1073206843525222400
+[^22]:[https://twitter.com/crypto_tag/status/1073206843525222400](https://twitter.com/crypto_tag/status/1073206843525222400)
 
-[^23]:https://twitter.com/crypto_tag/status/1073206843525222400
+[^23]:[https://twitter.com/crypto_tag/status/1073206843525222400](https://twitter.com/crypto_tag/status/1073206843525222400)
 
 [^24]:Note that there is some danger if an adversary accesses one of your three metal-devices. Whereas the 24 words gives you 256 bits of entropy, if an adversary knew 16 words but not the remaining 8, you'd drop down to 80 bits of entropy. This is still relatively safe given the state of modern computers, but is far below the recommended entropy for protecting cryptocurrency long-term. If you lost one of your three metal devices, you should immediately reset your master seed and transfer your currency.
 
