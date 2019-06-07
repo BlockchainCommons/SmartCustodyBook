@@ -28,7 +28,8 @@ Any questions or issues concerning this white paper or contributions of updates 
 
 **Sponsors:** [Adamant Capital](https://www.adamantcapitalfund.com/), [Blockstream](https://blockstream.com/), [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan, [Digital Contract Design](https://contract.design),  [CryptoTag](https://cryptotag.io/), [Ledger](https://www.ledger.com/), and [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
 
-## PREFACE
+{pagebreak}
+## Preface
 
 ### What is #SmartCustody?
 
