@@ -895,8 +895,10 @@ _Incorrect transaction details leading to loss._  “I am the slightest error in
 
 _An operator mistake leading to loss._ “I’m that niggling mistake that wouldn’t be a major problem in most financial situations. I want you to make a typo or to use the wrong address, so that you don’t get your money or send it to the wrong place. I want you to lose your keys, so that you can’t recover your funds. I am all the anxieties you have about Bitcoin made real.”
 
+{pagebreak}
+
 {id: author-bios}
-## AUTHOR BIOS
+## Author Bios
 
 **_Christopher Allen_** is an entrepreneur and technologist who specializes in collaboration, security, and trust. He worked with Netscape to develop SSL and co-authored the IETF TLS internet draft that is now at the heart of secure commerce on the World Wide Web. More recently, he was Principal Architect at Blockstream, where he led blockchain standards efforts. Christopher is today co-chair of the W3C Credentials CG working on standards for decentralized identity and founder of Blockchain Commons. He also founded and facilitates the semi-annual Rebooting the Web of Trust design workshops, which have generated over 40 collaborative white papers about the next generation of internet privacy, security, and identity software.
 
