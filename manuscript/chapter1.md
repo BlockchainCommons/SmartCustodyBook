@@ -741,7 +741,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 ## APPENDICES
 
-<!-- {id: appendix-i-why-cold-storage} -->
+{id: appendix-i-why-cold-storage}
 ### Appendix I: Why Cold Storage?
 
 Cold storage is primarily intended for digital-asset custodians who do not actively trade their digital assets. It offers a high level of protection for digital assets, because keys are secured offline or in hardware and _should_ _never be on networked computers._
