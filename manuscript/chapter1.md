@@ -4,7 +4,7 @@
 
 #### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
 
-**_Version: 2019-04-05 Release 1.0.1_**
+**_Version: 2019-06-07 Release 1.0.2_**
 
 ### Disclaimer
 
@@ -123,7 +123,7 @@ See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-
 
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
-* ⎕ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
+* [ ] Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
 
 * ⎕ Safety Deposit Box at Bank or other institution
 
@@ -321,8 +321,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 #### **M. Store in Safes** [^16]
 1. ⎕ Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
-2. ⎕ OPTIONAL: Store materials in tamper-resistant bag and sign it;
-⎕ OPTIONAL: Store materials in fire resistant bag.
+2. ⎕ OPTIONAL: Store materials in tamper-resistant bag and sign it; ⎕ OPTIONAL: Store materials in fire resistant bag.
 3. ⎕ Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
@@ -395,8 +394,7 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 1. ⎕ Erase each of your Ledgers by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
     1. Place your Ledgers wherever you want; they no longer need to be secured.
-2. ⎕ OPTIONAL: Store materials tamper-resistant bag and sign it;
-⎕ OPTIONAL: Store in fire resistant bag.
+2. ⎕ OPTIONAL: Store materials tamper-resistant bag and sign it; ⎕ OPTIONAL: Store in fire resistant bag.
 3. ⎕ Place non-key devices in your Home Safe, including your instructions for heirs, and one copy of the cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second copy of instructions and one copy of the cold storage addresses.
 
