@@ -54,7 +54,9 @@ The leads for these [#SmartCustody](https://www.SmartCustody.com) efforts are Ch
 
 The procedures and contents of this white paper have been comprehensively peer-reviewed by a number of experts in the digital-asset ecosystem, including contributors to open-source project like Bitcoin Core and [The Glacier Project](https://glacierprotocol.org/), employees of blockchain technology companies like Blockstream, Ledger, and Tokensoft, and attorneys from a variety of disciplines. We expect to iterate these procedures and update this document regularly as new digital asset technologies and best practices become mature.
 
-## INTRODUCTION
+{pagebreak}
+
+## Introduction
 
 Digital assets are only as safe as the procedures of their custodian. Many digital-asset holders don't practice minimal safety, and this could result in the loss of all of their Bitcoins, Ether, other digital currencies as well as non-fungible digital assets. The following procedures detail simple and practical setups that can be used as the foundation of safer digital-asset management. The base scenario requires just a few hours setup and then a semi-annual check to make sure everything remains secure.
 
@@ -77,7 +79,9 @@ For simplicity, this document focuses on Bitcoin, but is easily adaptable to oth
 
 If you don't meet the description of the holder for this scenario, it will still be useful, but you will have to adapt it for you specific needs. If you are unsure as to whether you should use a cold-storage scenario, please see [Appendix I: Why Cold Storage?](#appendix-i-why-cold-storage).
 
-## PROCEDURES
+{pagebreak}
+
+## Procedures
 
 The following procedure will help ensure the safety of a simple self-custody cold-storage scenario for managing digital assets. It is important that you initiate it when you have a large block of time: usually at least two hours when you will not be interrupted and when you will not be distracted. You don't want to make mistakes, and to avoid that it's best to do everything in one go.
 
@@ -339,7 +343,9 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 5. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and store in safety deposit box.
 6. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
 
-## OPTIONAL STEPS
+{pagebreak}
+
+## Optional Steps
 
 **Created Adversary:** [Process Fatigue](#process-fatigue)
 
@@ -680,7 +686,9 @@ _If you already "Use a USB Drive", you may want to double-up with a second copy.
 
 * 1 (more) USB Memory Stick (new, unopened, rated for fastest speed you can find, and will work with your laptop). I like this dual A & C USB Memory Stick [https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2](https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2) or 1 (more) small USB Hard Drives.
 
-## ALTERNATIVE SCENARIOS
+{pagebreak}
+
+## Alternative Scenarios
 
 The base scenario suggests a secure way to maintain your digital assets in cold storage. A number of optional steps are all available to you in order to increase your security. Following are some ways in which you may combine those optional steps to serve specific needs.
 
@@ -741,7 +749,9 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 | Instructions for heirs and cold storage addresses | Duplicates of instructions for heirs and cold storage addresses | Duplicates of instructions for heirs and cold storage addresses |
 | | | All in a tamper-evident bag |
 
-## APPENDICES
+{pagebreak}
+
+## Appendices
 
 {id: appendix-i-why-cold-storage}
 ### Appendix I: Why Cold Storage?
@@ -893,8 +903,6 @@ _An operator mistake leading to loss._ “I’m that niggling mistake that would
 **_Shannon Appelcline_** is a technical writer with expertise in blockchain, cryptocurrency, and digital identity who specializes in making technical concepts accessible. He has regularly written for Bitmark, Blockchain Commons, Blockstream, and Certicom, and his work has made the front page of Hackernoon. He is also the editor-in-chief for Rebooting the Web of Trust. In the non-technical sector, Shannon wrote a four-book history of the roleplaying field, _Designers & Dragons_, and recently co-authored _Meeples Together_, a study of cooperative game design, with Christopher.
 
 **_Bryan Bishop_** is a Bitcoin Core contributor and independent technology consultant. Bryan previously spent 4 years at LedgerX, the first CFTC- regulated bitcoin options exchange and clearinghouse. At LedgerX, he implemented an industry leading solution for the secure storage of digital assets and cryptographic keys protecting many millions of dollars. Bryan's background began in software, especially in web application development at various startups. Separately in his biotech activities, he co-founded the "Culture Shock" open-source electroporator project. Additionally, he serves on the technology working group and intellectual property working group for Genome Project-Write, an organization tasked with reducing the costs of human genome synthesis by 1000x within 10 years.
-
-## Notes
 
 [^1]: These items should ideally be sent to your work address or to a UPS or FedEx store for pickup, not a home address, so as not to correlate your Bitcoin holdings and your real name.
 
