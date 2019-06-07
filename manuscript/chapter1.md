@@ -123,7 +123,7 @@ See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-
 
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
-* ⎕ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
+* ☐ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
 
 * ⎕ Safety Deposit Box at Bank or other institution
 
