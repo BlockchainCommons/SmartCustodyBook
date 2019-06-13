@@ -1,4 +1,4 @@
-# #SmartCustody: Simple Self-Custody Cold Storage Scenario
+# Chapter One: Cold Storage Self-Custody Scenario
 
 **Best Practices for Protecting Your Personal Digital Assets Using Cold Storage**
 
