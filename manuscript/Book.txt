@@ -1,1 +1,4 @@
-chapter1.md
+00-intro.md
+01-scenario.md
+02-adversaries.md
+XX-bios.md
