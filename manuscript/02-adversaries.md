@@ -81,6 +81,7 @@ Following are extensive descriptions of each adversary, covering their motives, 
 
 ***Motivation.** “I am your last firing neurons, and I seek to drag everything you ever knew down with you, into the darkness.”*
 
+{align: right, width: 30%}
 ![](resources/image10.png)
 
 ***Key Words:** Passive.*
