@@ -188,45 +188,45 @@ if the asset holder hasn’t notified them themselves, the funds
 will be lost forever.
 
 2.  **Key Loss.** If the asset holder was too careful in hiding their
-    > private keys or even just in the methods of obfuscation or
-    > protection that they used, then their heirs or guardians won’t be
-    > able to access cryptocurrency funds even if they know about them.
-    > This could also be an issue in multi-sig scenarios, where one or
-    > more holders are killed or incapacitated, and suddenly a solution
-    > intended to protect bitcoins becomes a new problem.
+private keys or even just in the methods of obfuscation or
+protection that they used, then their heirs or guardians won’t be
+able to access cryptocurrency funds even if they know about them.
+This could also be an issue in multi-sig scenarios, where one or
+more holders are killed or incapacitated, and suddenly a solution
+intended to protect bitcoins becomes a new problem.
 
 ***Process Solutions:***
 
 1.  **Register Your Funds.** Register and document your funds fully with
-    > your nation-state to maximize legal protections. *Dangers: [*Legal
-    > Forfeiture*](#adversary-legal-forfeiture), [*Nation-State
-    > Actor*](#_r30mkanx1jnw).*
+your nation-state to maximize legal protections. *Dangers: [*Legal
+Forfeiture*](#adversary-legal-forfeiture), [*Nation-State
+Actor*](#_r30mkanx1jnw).*
 
 2.  **Redundantly Relay Your Secrets.** Tell someone else the secrets
-    > required to unobscure or unprotect your private keys or to access
-    > your funds. *Dangers: [*Internal
-    > Theft*](#adversary-internal-theft).*
+required to unobscure or unprotect your private keys or to access
+your funds. *Dangers: [*Internal
+Theft*](#adversary-internal-theft).*
 
 3.  **Reveal Your Funds.** Write a letter to your heirs or guardians and
-    > be explicit about the existence of your funds. Include
-    > instructions on how to access them. Provide information about the
-    > necessary passwords or PINs to unlock the private keys. Safely
-    > store this letter with a very trusted person, such as your estate
-    > lawyer, or in a very trusted place, such as a safety-deposit box.
-    > *Dangers: [*Internal Theft*](#adversary-internal-theft),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+be explicit about the existence of your funds. Include
+instructions on how to access them. Provide information about the
+necessary passwords or PINs to unlock the private keys. Safely
+store this letter with a very trusted person, such as your estate
+lawyer, or in a very trusted place, such as a safety-deposit box.
+*Dangers: [*Internal Theft*](#adversary-internal-theft),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations
-    > of your master keys. Store encrypted keys in local storage and
-    > unencrypted keys in more protected storage, such as a safety
-    > deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+of your master keys. Store encrypted keys in local storage and
+unencrypted keys in more protected storage, such as a safety
+deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 2.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Hire a Lawyer.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Hire a Lawyer.
 
 ### Adversary: Denial of Access
 
@@ -262,30 +262,30 @@ home.
 ***Risks:***
 
 1.  **Key Denial.** Much as with Censorship, the user still has
-    > theoretical access to his keys, but can’t actually get to them.
+theoretical access to his keys, but can’t actually get to them.
 
 ***Process Solutions:***
 
 1.  **Neutrally Store Your Funds.** Maintain funds or keys outside of
-    > the sphere of control of fascist and authoritarian nation-states.
+the sphere of control of fascist and authoritarian nation-states.
 
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations
-    > of your master keys. Store encrypted keys in local storage and
-    > unencrypted keys in more protected storage, such as a safety
-    > deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+of your master keys. Store encrypted keys in local storage and
+unencrypted keys in more protected storage, such as a safety
+deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 2.  **Widely Separate Your Keys.** Maintain multiple physical
-    > representations of your master keys in places that are widely
-    > separated. Consider locales under different legal jurisdictions
-    > and with different physical risks.
+representations of your master keys in places that are widely
+separated. Consider locales under different legal jurisdictions
+and with different physical risks.
 
 3.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Hire a Lawyer, Use Metal Enhancement
-    > (Redundant Metal Devices).
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Hire a Lawyer, Use Metal Enhancement
+(Redundant Metal Devices).
 
 *See Related — [*Censorship*](#_hcr2fbjga6nl).*
 
@@ -316,40 +316,40 @@ it was already too late.
 ***Risks:***
 
 1.  **Key Destruction.** The physical representations of private keys
-    > could be lost. Electronic devices could be damaged sufficiently
-    > that keys can no longer be recovered. Printed copies of keys could
-    > be burned by fire, ruined by water, or destroyed by physical
-    > force.
+could be lost. Electronic devices could be damaged sufficiently
+that keys can no longer be recovered. Printed copies of keys could
+be burned by fire, ruined by water, or destroyed by physical
+force.
 
 2.  **Key Loss.** Even if not destroyed, the physical representation of
-    > a key could become unavailable. It might be buried under a
-    > destroyed building, lost behind the lines of a war, or washed out
-    > to sea.
+a key could become unavailable. It might be buried under a
+destroyed building, lost behind the lines of a war, or washed out
+to sea.
 
 ***Cold Storage Solutions:***
 
 1.  **Fortify Your Key Storage.** Ensure that the physical
-    > representations of keys are protected against disaster. Write on
-    > waterproof paper or etch on fire-resistant steel or titanium. Use
-    > sturdy, fortified hardware devices that are more likely to survive
-    > disasters. Use fire-proof bags as an additional level of
-    > protection.
+representations of keys are protected against disaster. Write on
+waterproof paper or etch on fire-resistant steel or titanium. Use
+sturdy, fortified hardware devices that are more likely to survive
+disasters. Use fire-proof bags as an additional level of
+protection.
 
 2.  **Redundantly Store Your Keys.** Maintain multiple representations
-    > of your master keys. Store encrypted keys in local storage and
-    > unencrypted keys in more protected storage, such as a safety
-    > deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+of your master keys. Store encrypted keys in local storage and
+unencrypted keys in more protected storage, such as a safety
+deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 3.  **Widely Separate Your Keys.** Maintain multiple physical
-    > representations of your master keys in places that are widely
-    > separated. Consider locales under different legal jurisdictions
-    > and with different physical risks.
+representations of your master keys in places that are widely
+separated. Consider locales under different legal jurisdictions
+and with different physical risks.
 
 4.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use Bags (Fire-Resistant); Use Metal
-    > Enhancement (Redundant Metal Devices); Use a (Second) USB Drive.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use Bags (Fire-Resistant); Use Metal
+Enhancement (Redundant Metal Devices); Use a (Second) USB Drive.
 
 ## Category: Loss by Computer Error
 
@@ -424,49 +424,49 @@ Story**](https://www.cnbc.com/2017/12/20/man-lost-127-million-worth-of-bitcoins-
 ***Risks:***
 
 1.  **Key Destruction.** Some of the more disastrous forms of bitrot
-    > result in the total annihilation of the key.
+result in the total annihilation of the key.
 
 2.  **Key Loss.** In other cases, the key might still be on the
-    > hardware, but if the hardware doesn’t boot or if the software
-    > doesn’t run, it’s nonetheless lost.
+hardware, but if the hardware doesn’t boot or if the software
+doesn’t run, it’s nonetheless lost.
 
 ***Cold Storage Solutions:***
 
 1.  **Backup Your OS File System.** Make a copy of the known-working
-    > operating system files that you used on the computer that manages
-    > your keys.
+operating system files that you used on the computer that manages
+your keys.
 
 2.  **Maintain Setup Information.** Record as much information as you
-    > can about your computer and wallet setup, so that an expert can
-    > help to restore your state. Try to use open-source software and
-    > backup the source code. Verify that the source code corresponds to
-    > the version of the software that you are using. Also store wallet
-    > documentation.
+can about your computer and wallet setup, so that an expert can
+help to restore your state. Try to use open-source software and
+backup the source code. Verify that the source code corresponds to
+the version of the software that you are using. Also store wallet
+documentation.
 
 3.  **Physically Store Your Keys.** Store a physical representation of a
-    > key on a non-electronic medium, such as paper (or steel).
-    > *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical
-    > Theft*](#section-6), [*Institutional
-    > Theft*](#adversary-institutional-theft).*
+key on a non-electronic medium, such as paper (or steel).
+*Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical
+Theft*](#section-6), [*Institutional
+Theft*](#adversary-institutional-theft).*
 
 4.  **Rotate Your Key Storage.** Move your keys on to newer hardware as
-    > it becomes available. *Dangers:
-    > [*Correlation*](#adversary-correlation).*
+it becomes available. *Dangers:
+[*Correlation*](#adversary-correlation).*
 
 5.  **Verify & Rotate your Backups:** Make multiple backups of working
-    > operating files that are kept in different locations. Use
-    > alternating backups or consider a “[*Tower of
-    > Hanoi*](https://en.wikipedia.org/wiki/Backup_rotation_scheme#Tower_of_Hanoi)”
-    > rotation strategy. Be sure to verify your backups as part of a
-    > regular schedule.
+operating files that are kept in different locations. Use
+alternating backups or consider a “[*Tower of
+Hanoi*](https://en.wikipedia.org/wiki/Backup_rotation_scheme#Tower_of_Hanoi)”
+rotation strategy. Be sure to verify your backups as part of a
+regular schedule.
 
 6.  **Verify Your Key Storage.** Regularly test your key storage to make
-    > sure that it’s still working. If a key storage method becomes
-    > inoperative, quickly replace it.
+sure that it’s still working. If a key storage method becomes
+inoperative, quickly replace it.
 
 7.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use a USB Drive; Use a (Second) USB Drive.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use a USB Drive; Use a (Second) USB Drive.
 
 *See Related — [*Key Fragility*](#section-16)*
 
@@ -511,36 +511,36 @@ Story](https://btcmanager.com/vulnerability-in-javascript-function-may-mean-long
 ***Risks:***
 
 1.  **Funds Loss.** A sophisticated attacker could use the compromise to
-    > discover private keys. This would most likely occur in aggregate,
-    > rather than the asset holder being individually targeted.
+discover private keys. This would most likely occur in aggregate,
+rather than the asset holder being individually targeted.
 
 2.  **Cascade: Censorship.** One of the possible results of a systemic
-    > key compromise is the censorship of the system.
+key compromise is the censorship of the system.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 2.  **Monitor the Industry.** Be aware of happenings in the Bitcoin
-    > industry, particularly security compromises.
+industry, particularly security compromises.
 
 3.  **Rotate Your Keys.** Regularly change the keys being used to
-    > protect funds by sending those funds on to new addresses.
-    > *Dangers: [*Key Fragility*](#section-16).*
+protect funds by sending those funds on to new addresses.
+*Dangers: [*Key Fragility*](#section-16).*
 
 ***Hot Wallet Solutions:***
 
 1.  **Question Policies & Procedures.** Know the security policies and
-    > procedures of any company that you’re working with; be sure that
-    > they have rigorous, well-documented security procedures that they
-    > follow religiously, and that they treat any variance from their
-    > procedure as a problem that must be investigated. Also, be sure
-    > that there are no negative policies that might affect your usage
-    > of its services.
+procedures of any company that you’re working with; be sure that
+they have rigorous, well-documented security procedures that they
+follow religiously, and that they treat any variance from their
+procedure as a problem that must be investigated. Also, be sure
+that there are no negative policies that might affect your usage
+of its services.
 
 ## Category: Loss by Crime, Theft
 
@@ -608,53 +608,53 @@ Story](https://bitcoinmagazine.com/articles/ozcoin-hacked-stolen-funds-seized-an
 ***Risks:***
 
 1.  **Funds Loss.** Though it’s certainly possible that an institutional
-    > thief at a bank doesn’t know what he’s getting, most likely he is
-    > a sophisticated thief who is looking for private keys in order to
-    > steal the funds.
+thief at a bank doesn’t know what he’s getting, most likely he is
+a sophisticated thief who is looking for private keys in order to
+steal the funds.
 
 ***Process Solutions:***
 
 1.  **Monitor the Industry.** Be aware of happenings in the Bitcoin
-    > industry and the hardware devices you uses, particularly
-    > concerning security compromises.
+industry and the hardware devices you uses, particularly
+concerning security compromises.
 
 2.  **Monitor Your Funds.** Regularly monitor funds to make sure they’re
-    > not disappearing. Make sure that alarms are obtrusive. Have a plan
-    > in place to quickly save remaining funds if some disappear.
+not disappearing. Make sure that alarms are obtrusive. Have a plan
+in place to quickly save remaining funds if some disappear.
 
 ***Cold Storage Solutions:***
 
 1.  **Create Tamper Evidence.** Store keys or other secret materials in
-    > tamper-evident bags; place padlocks on your Cryptosteel. *Dangers:
-    > [*Process Fatigue*](#adversary-process-fatigue).*
+tamper-evident bags; place padlocks on your Cryptosteel. *Dangers:
+[*Process Fatigue*](#adversary-process-fatigue).*
 
 2.  **Obscure or Protect Your Keys.** Store keys in an obscured way that
-    > would be readily obvious to the asset holder, but not to a thief.
-    > Alternatively, protect keys with a PIN or other code. *Dangers:
-    > [*Key Fragility*](#section-16).*
+would be readily obvious to the asset holder, but not to a thief.
+Alternatively, protect keys with a PIN or other code. *Dangers:
+[*Key Fragility*](#section-16).*
 
 3.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use Bags (Tamper-Evident), Seal Metal Tiles,
-    > Use Metal Enhancement (Redundant Metal Devices).
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use Bags (Tamper-Evident), Seal Metal Tiles,
+Use Metal Enhancement (Redundant Metal Devices).
 
 ***Hot Wallet Solutions:***
 
 1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage
-    > Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > that moves some or all of your funds off of your hot wallet. Only
-    > keep keys on an exchange or brokerage for the minimum amount of
-    > time required to make a transaction. *Dangers:
-    > [*Disaster*](#adversary-disaster), [*Casual Physical
-    > Theft*](#section-6).*
+Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+that moves some or all of your funds off of your hot wallet. Only
+keep keys on an exchange or brokerage for the minimum amount of
+time required to make a transaction. *Dangers:
+[*Disaster*](#adversary-disaster), [*Casual Physical
+Theft*](#section-6).*
 
 2.  **Question Policies & Procedures.** Know the security policies and
-    > procedures of any company that you’re working with; be sure that
-    > they have rigorous, well-documented security procedures that they
-    > follow religiously, and that they treat any variance from their
-    > procedure as a problem that must be investigated. Also, be sure
-    > that there are no negative policies that might affect your usage
-    > of its services.
+procedures of any company that you’re working with; be sure that
+they have rigorous, well-documented security procedures that they
+follow religiously, and that they treat any variance from their
+procedure as a problem that must be investigated. Also, be sure
+that there are no negative policies that might affect your usage
+of its services.
 
 ### Adversary: Internal Theft
 
@@ -685,39 +685,39 @@ Story](https://news.bitcoin.com/looting-fox-sabotage-shapeshift/).**
 ***Risks***
 
 1.  **Funds Loss.** Since the untrustworthy person knows exactly what
-    > they’re getting and how to use it, the end result is obviously the
-    > theft of your funds.
+they’re getting and how to use it, the end result is obviously the
+theft of your funds.
 
 ***Process Solutions:***
 
 1.  **Create Paper Trails.** Leave records for all access to funds. Make
-    > this a required part of a procedure.
+this a required part of a procedure.
 
 2.  **Limit Funds Spending.** Use smart custody options to limit what
-    > funds can be spent at one time. *Dangers: [*User
-    > Error*](#adversary-user-error).*
+funds can be spent at one time. *Dangers: [*User
+Error*](#adversary-user-error).*
 
 3.  **Monitor Your Funds.** Regularly monitor funds to make sure they’re
-    > not disappearing. Make sure that alarms are obtrusive. Have a plan
-    > in place to quickly save remaining funds if some disappear.
+not disappearing. Make sure that alarms are obtrusive. Have a plan
+in place to quickly save remaining funds if some disappear.
 
 4.  **Use Funds Multisignatures.** Lock funds with a multisignature,
-    > which requires two or more people (possibly from a larger group of
-    > people) to sign off for use of funds. *Dangers: [*Internal
-    > Theft*](#adversary-internal-theft), [*User
-    > Error*](#adversary-user-error) .*
+which requires two or more people (possibly from a larger group of
+people) to sign off for use of funds. *Dangers: [*Internal
+Theft*](#adversary-internal-theft), [*User
+Error*](#adversary-user-error) .*
 
 5.  **Use Funds Timelocks.** Lock funds with a timelock, which doesn’t
-    > allow a specific person to access the funds until a specific time.
-    > Create a regular procedure to update the timelock as it nears
-    > expiration. *Dangers: [*User Error*](#adversary-user-error).*
+allow a specific person to access the funds until a specific time.
+Create a regular procedure to update the timelock as it nears
+expiration. *Dangers: [*User Error*](#adversary-user-error).*
 
 ***Cold Storage Solutions:***
 
 1.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Seal Metal Tiles, Use Bags (Tamper-Evident),
-    > Use Metal Enhancement (Redundant Metal Devices).
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Seal Metal Tiles, Use Bags (Tamper-Evident),
+Use Metal Enhancement (Redundant Metal Devices).
 
 ### Adversary: Network Attack, Personal
 
@@ -778,60 +778,60 @@ Story**](http://fortune.com/2017/08/22/bitcoin-coinbase-hack/).
 ***Risks:***
 
 1.  **Funds Loss.** The ultimate goal of an Personal Network Attack is
-    > usually funds theft, but that can occur via several means.
+usually funds theft, but that can occur via several means.
 
     a.  **Account Compromise.** In a masquerade attack, an Personal
-        > Network Attacker might take control of your account at a
-        > Bitcoin brokerage or exchange, giving them access to any keys
-        > and any records or logs stored there.
+    Network Attacker might take control of your account at a
+    Bitcoin brokerage or exchange, giving them access to any keys
+    and any records or logs stored there.
 
     b.  **Transaction Corruption.** In an en-route attack, an Personal
-        > Network Attacker might corrupt a transaction that you have in
-        > process, misdirecting it.
+    Network Attacker might corrupt a transaction that you have in
+    process, misdirecting it.
 
 2.  **Cascade: Correlation.** If an attacker gains access to logs or
-    > records, they can probably trace an asset holder’s usage of funds.
+records, they can probably trace an asset holder’s usage of funds.
 
 3.  **Cascade: Transaction Error.** If an attacker manages to substitute
-    > a recipient address, the user will send funds to the wrong place.
+a recipient address, the user will send funds to the wrong place.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 2.  **Monitor Your Funds.** Regularly monitor funds to make sure they’re
-    > not disappearing. Make sure that alarms are obtrusive. Have a plan
-    > in place to quickly save remaining funds if some disappear.
+not disappearing. Make sure that alarms are obtrusive. Have a plan
+in place to quickly save remaining funds if some disappear.
 
 3.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 ***Hot Wallet Solutions:***
 
 1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage
-    > Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > that moves some or all of your funds off of your hot wallet. Only
-    > keep keys on an exchange or brokerage for the minimum amount of
-    > time required to make a transaction. *Dangers:
-    > [*Disaster*](#adversary-disaster), [*Casual Physical
-    > Theft*](#section-6).*
+Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+that moves some or all of your funds off of your hot wallet. Only
+keep keys on an exchange or brokerage for the minimum amount of
+time required to make a transaction. *Dangers:
+[*Disaster*](#adversary-disaster), [*Casual Physical
+Theft*](#section-6).*
 
 2.  **Maintain Account Security.** Be sure that all online accounts have
-    > very robust passwords and that the companies have high security
-    > ratings.
+very robust passwords and that the companies have high security
+ratings.
 
 3.  **Practice Session Security.** Ensure that all online communications
-    > are encrypted.
+are encrypted.
 
 ***Cold Storage Solutions:***
 
 1.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use a USB Drive.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use a USB Drive.
 
 ### Adversary: Network Attack, Systemic
 
@@ -881,56 +881,56 @@ most of them from Systemic Attacks, just in the first nine months of
 ***Risks:***
 
 1.  **Funds Loss.** Though it’s a company being attacked, if they lose
-    > their cash, and can’t recover it through insurance claims, this
-    > directly impacts the users.
+their cash, and can’t recover it through insurance claims, this
+directly impacts the users.
 
 2.  **Key Denial or Key Loss.** Attackers might deny users temporary or
-    > permanent access to their online keys, even if they’re not able to
-    > access those keys themselves.
+permanent access to their online keys, even if they’re not able to
+access those keys themselves.
 
 3.  **Cascade: Correlation.** Attackers who have taken over a site can
-    > do all kinds of nefarious things, such as spy upon users and
-    > correlate their various addresses.
+do all kinds of nefarious things, such as spy upon users and
+correlate their various addresses.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 2.  **Monitor the Industry.** Be aware of happenings in the Bitcoin
-    > industry and the hardware devices you uses, particularly
-    > concerning security compromises.
+industry and the hardware devices you uses, particularly
+concerning security compromises.
 
 ***Hot Wallet Solutions:***
 
 1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage
-    > Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > that moves some or all of your funds off of your hot wallet. Only
-    > keep keys on an exchange or brokerage for the minimum amount of
-    > time required to make a transaction. *Dangers:
-    > [*Disaster*](#adversary-disaster), [*Casual Physical
-    > Theft*](#section-6).*
+Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+that moves some or all of your funds off of your hot wallet. Only
+keep keys on an exchange or brokerage for the minimum amount of
+time required to make a transaction. *Dangers:
+[*Disaster*](#adversary-disaster), [*Casual Physical
+Theft*](#section-6).*
 
 2.  **Maintain Account Security.** Be sure that all online accounts have
-    > very robust passwords and that the companies have high security
-    > ratings.
+very robust passwords and that the companies have high security
+ratings.
 
 3.  **Question Policies & Procedures.** Know the security policies and
-    > procedures of any company that you’re working with; be sure that
-    > they have rigorous, well-documented security procedures that they
-    > follow religiously, and that they treat any variance from their
-    > procedure as a problem that must be investigated. Also, be sure
-    > that there are no negative policies that might affect your usage
-    > of its services.
+procedures of any company that you’re working with; be sure that
+they have rigorous, well-documented security procedures that they
+follow religiously, and that they treat any variance from their
+procedure as a problem that must be investigated. Also, be sure
+that there are no negative policies that might affect your usage
+of its services.
 
 ***Cold Storage Solutions:***
 
 1.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use a (Second) USB Drive.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use a (Second) USB Drive.
 
 ### Adversary: Physical Theft, Casual
 
@@ -967,32 +967,32 @@ thousand dollars. Bob can’t remember where he kept his recovery phrase.
 ***Risks:***
 
 1.  **Key Loss.** Because the physical representation of the key has
-    > been taken, it will no longer be available to the asset holder.
+been taken, it will no longer be available to the asset holder.
 
 2.  **Cascade: Sophisticated Theft.** A casual theft could lead to
-    > Sophisticated Theft if the thief realizes what he has and how to
-    > use it.
+Sophisticated Theft if the thief realizes what he has and how to
+use it.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 ***Cold Storage Solutions:***
 
 1.  **Obscure or Protect Your Keys.** Store keys in an obscured way that
-    > would be readily obvious to the asset holder, but not to a thief.
-    > Alternatively, protect keys with a PIN or other code. *Dangers:
-    > [*Key Fragility*](#section-16).*
+would be readily obvious to the asset holder, but not to a thief.
+Alternatively, protect keys with a PIN or other code. *Dangers:
+[*Key Fragility*](#section-16).*
 
 2.  **Redundantly Store Your Keys.** Maintain multiple representations
-    > of your master keys. Store encrypted keys in local storage and
-    > unencrypted keys in more protected storage, such as a safety
-    > deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+of your master keys. Store encrypted keys in local storage and
+unencrypted keys in more protected storage, such as a safety
+deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 ### Adversary: Physical Theft, Sophisticated
 
@@ -1026,49 +1026,49 @@ they’ll be sucked up by the keylogger and available to Mallory.
 ***Risks:***
 
 1.  **Funds Loss.** The goal of the thief is to acquire private keys so
-    > that he can then steal the funds associated with them.
+that he can then steal the funds associated with them.
 
 2.  **Key Loss.** Technically a thief might physically steal private
-    > keys. However, that’s really the least of the problems with a
-    > sophisticated theft. Because the private keys were purposefully
-    > stolen, the goal of the attacker is to acquire the related funds
-    > as soon as possible. Thus, the fact that the asset holder no
-    > longer has access to a key becomes quickly irrelevant.
+keys. However, that’s really the least of the problems with a
+sophisticated theft. Because the private keys were purposefully
+stolen, the goal of the attacker is to acquire the related funds
+as soon as possible. Thus, the fact that the asset holder no
+longer has access to a key becomes quickly irrelevant.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 2.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 3.  **Use Paranoid Key Procedures.** Take extreme protective methods
-    > when generating keys or when accessing accounts. Turn off phones.
-    > Remove cell phones. Unplug electronics. Cover windows. Tape your
-    > computer’s camera and muffle your microphone. Do not work in rooms
-    > adjacent to property that you don’t own. In extreme cases, rent a
-    > random car in a far remote location to serve both as a faraday
-    > cage and as protection against observation. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+when generating keys or when accessing accounts. Turn off phones.
+Remove cell phones. Unplug electronics. Cover windows. Tape your
+computer’s camera and muffle your microphone. Do not work in rooms
+adjacent to property that you don’t own. In extreme cases, rent a
+random car in a far remote location to serve both as a faraday
+cage and as protection against observation. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 ***Cold Storage Solutions:***
 
 1.  **Create Tamper Evidence.** Store keys or other secret materials in
-    > tamper-evident bags; place padlocks on your Cryptosteel. *Dangers:
-    > [*Process Fatigue*](#adversary-process-fatigue).*
+tamper-evident bags; place padlocks on your Cryptosteel. *Dangers:
+[*Process Fatigue*](#adversary-process-fatigue).*
 
 2.  **Obscure or Protect Your Keys.** Store keys in an obscured way that
-    > would be readily obvious to the asset holder, but not to a thief.
-    > Alternatively, protect keys with a PIN or other code. *Dangers:
-    > [*Key Fragility*](#section-16).*
+would be readily obvious to the asset holder, but not to a thief.
+Alternatively, protect keys with a PIN or other code. *Dangers:
+[*Key Fragility*](#section-16).*
 
 3.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use Bags (Tamper-Evident).
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use Bags (Tamper-Evident).
 
 ### Adversary: Social Engineering
 
@@ -1113,35 +1113,35 @@ real site.
 ***Risks:***
 
 1.  **Funds Loss.** The end-game of any social engineering attack
-    > focused on cryptocurrency is going to be the theft of your funds,
-    > and it’s most likely to happen very quickly.
+focused on cryptocurrency is going to be the theft of your funds,
+and it’s most likely to happen very quickly.
 
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes
-    > what to do if your security has been compromised. Follow it
-    > quickly and precisely. Generally, move funds if their keys have
-    > any possibility of compromise. *Dangers: [*Process
-    > Fatigue*](#adversary-process-fatigue).*
+what to do if your security has been compromised. Follow it
+quickly and precisely. Generally, move funds if their keys have
+any possibility of compromise. *Dangers: [*Process
+Fatigue*](#adversary-process-fatigue).*
 
 2.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 3.  **Proactively Visit Sites.** Never reactively visit sites in
-    > response to instructions from a phone call, email, or other
-    > communication. Instead, always type a site name by hand. If
-    > necessary, get yourself out of an acute situation, such as
-    > speaking with someone on the phone, before you access a site.
+response to instructions from a phone call, email, or other
+communication. Instead, always type a site name by hand. If
+necessary, get yourself out of an acute situation, such as
+speaking with someone on the phone, before you access a site.
 
 4.  **Take the Time.** Be very careful when you’re working. Double-check
-    > everything. Don’t take transferring large amounts of funds
-    > lightly, ever.
+everything. Don’t take transferring large amounts of funds
+lightly, ever.
 
 5.  **Use Funds Multisignatures.** Lock funds with a multisignature,
-    > which requires two or more people (possibly from a larger group of
-    > people) to sign off for use of funds. *Dangers: [*Internal
-    > Theft*](#adversary-internal-theft), [*User
-    > Error*](#adversary-user-error).*
+which requires two or more people (possibly from a larger group of
+people) to sign off for use of funds. *Dangers: [*Internal
+Theft*](#adversary-internal-theft), [*User
+Error*](#adversary-user-error).*
 
 ### Adversary: Supply-Chain Attack
 
@@ -1184,36 +1184,36 @@ compromised.
 ***Risks:***
 
 1.  **Funds Loss.** If someone is going to the trouble of corrupting
-    > your supply chain, they’re probably doing it so that they can
-    > steal your money.
+your supply chain, they’re probably doing it so that they can
+steal your money.
 
 2.  **Key Loss.** However, they potentially have complete control over
-    > your hardware, so maybe they’ll just destroy your keys.
+your hardware, so maybe they’ll just destroy your keys.
 
 ***Process Solutions:***
 
 1.  **Buy from Manufacturers.** Purchase hardware that will be used to
-    > protect digital assets directly from the manufacturers, to
-    > minimize the chance of middle-men corrupting the hardware.
+protect digital assets directly from the manufacturers, to
+minimize the chance of middle-men corrupting the hardware.
 
 2.  **Minimize the Supply Chain.** Ensure that there are as few steps as
-    > possible in the purchase and delivery of any hardware used to
-    > protect your digital assets. If you could personally acquire
-    > hardware directly from the manufacturing floor, that would be
-    > ideal; practically, reduce in-between steps as much as you can.
+possible in the purchase and delivery of any hardware used to
+protect your digital assets. If you could personally acquire
+hardware directly from the manufacturing floor, that would be
+ideal; practically, reduce in-between steps as much as you can.
 
 3.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 ***Cold Storage Solutions:***
 
 1.  **Use Well-Known Hardware.** Ensure that any hardware used for your
-    > cold storage is manufactured by a well-known, well-trusted, and
-    > top-tier manufacturer.
+cold storage is manufactured by a well-known, well-trusted, and
+top-tier manufacturer.
 
 2.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Erase Your Ledger(s), Use a USB Drive.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Erase Your Ledger(s), Use a USB Drive.
 
 ## Category: Loss by Crime, Other Attacks
 
@@ -1282,28 +1282,28 @@ pictures is payment of Bitcoins.
 ***Risks:***
 
 1.  **Continued Blackmail.** The biggest risk of blackmail is more
-    > blackmail. If an attacker feels that you’re vulnerable, they’ll do
-    > their best to exploit that vulnerability, again and again. Giving
-    > in to blackmail is rarely the right answer.
+blackmail. If an attacker feels that you’re vulnerable, they’ll do
+their best to exploit that vulnerability, again and again. Giving
+in to blackmail is rarely the right answer.
 
 2.  **Information Loss.** Of course, if you don’t give in to blackmail,
-    > you might lose information that’s been stolen or encrypted.
+you might lose information that’s been stolen or encrypted.
 
 3.  **Reputation Loss.** Alternatively, you might encourage the release
-    > of information that’s embarrassing.
+of information that’s embarrassing.
 
 4.  **Funds Loss.** On the flip side, if you give in to the blackmail,
-    > you’re losing funds.
+you’re losing funds.
 
 ***Process Solutions:***
 
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 2.  **Protect Your Information.** Ensure that your critical information
-    > has strong protection, particularly backups; and if there is some
-    > embarrassing information out there, do what you can to either
-    > quash it or embrace it.
+has strong protection, particularly backups; and if there is some
+embarrassing information out there, do what you can to either
+quash it or embrace it.
 
 *See Related — [*Coercion*](#adversary-coercion)*
 
@@ -1353,47 +1353,47 @@ Story**](https://www.khaleejtimes.com/news/crime-and-courts/3-fake-dubai-cops-ki
 ***Risks:***
 
 1.  **Death.** An asset holder’s life could be threatened if they do not
-    > comply.
+comply.
 
 2.  **Funds Loss.** The goal of coercion is usually to steal funds.
 
 3.  **Physical Damage.** An asset holder could be threatened with
-    > torture or permanent disability if they do not comply.
+torture or permanent disability if they do not comply.
 
 4.  **Physical Detention.** An asset holder could be kidnapped and held
-    > until they comply.
+until they comply.
 
 ***Process Solutions:***
 
 1.  **Create False Funds.** Create a lesser cache of funds to be given
-    > over in case of coercion. Some hardware wallets support this with
-    > a “plausible deniability” or “alternate passphrase” function.
+over in case of coercion. Some hardware wallets support this with
+a “plausible deniability” or “alternate passphrase” function.
 
 2.  **Limit Funds Spending.** Use smart custody options to limit what
-    > funds can be spent at one time. *Dangers: [*User
-    > Error*](#adversary-user-error).*
+funds can be spent at one time. *Dangers: [*User
+Error*](#adversary-user-error).*
 
 3.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 4.  **Use Funds Multisignatures.** Lock funds with a multisignature,
-    > which requires two or more people (possibly from a larger group of
-    > people) to sign off for use of funds. *Dangers: [*Internal
-    > Theft*](#adversary-internal-theft), [*User
-    > Error*](#adversary-user-error).*
+which requires two or more people (possibly from a larger group of
+people) to sign off for use of funds. *Dangers: [*Internal
+Theft*](#adversary-internal-theft), [*User
+Error*](#adversary-user-error).*
 
 5.  **Use Funds Timelocks.** Lock funds with a timelock, which doesn’t
-    > allow a specific person to access the funds until a specific time.
-    > Create a regular procedure to update the timelock as it nears
-    > expiration. *Dangers: [*User Error*](#adversary-user-error).*
+allow a specific person to access the funds until a specific time.
+Create a regular procedure to update the timelock as it nears
+expiration. *Dangers: [*User Error*](#adversary-user-error).*
 
 6.  **Require Public Interaction.** Cross thresholds that put an
-    > adversary at risk. Store one of the necessary keys at a physical
-    > location where interactions with other people can be judged for
-    > signs of coercion. Include the presence or status of your loved
-    > ones in the judgements. Establish code words that actually mean,
-    > "Help"! Make the procedure slow enough that help could arrive.
-    > *Dangers: [*Process Fatigue*](#adversary-process-fatigue)*.
+adversary at risk. Store one of the necessary keys at a physical
+location where interactions with other people can be judged for
+signs of coercion. Include the presence or status of your loved
+ones in the judgements. Establish code words that actually mean,
+"Help"! Make the procedure slow enough that help could arrive.
+*Dangers: [*Process Fatigue*](#adversary-process-fatigue)*.
 
 *See Related — [*Blackmail*](#adversary-blackmail), [*Nation-State
 Actor*](#_r30mkanx1jnw), [*Terrorist / Mob*](#_thf35x4lotcb)*
@@ -1440,19 +1440,19 @@ Story**](https://medium.com/chain-cloud-company-blog/parity-multisig-hack-again-
 ***Risks:***
 
 1.  **Cascade: Correlation.** Some non-financially motivated attackers
-    > may be trying to determine who you are and what you’re doing with
-    > your cryptocurrency.
+may be trying to determine who you are and what you’re doing with
+your cryptocurrency.
 
 2.  **Cascade: Censorship.** Some non-financially motivated attackers
-    > may just want to keep you from accessing your funds.
+may just want to keep you from accessing your funds.
 
 3.  **Cascade: Key Loss.** Some non-financially motivated attackers may
-    > just be destructive.
+just be destructive.
 
 ***Process Solutions:***
 
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 ### Adversary: Terrorist / Mob
 
@@ -1484,20 +1484,20 @@ refuses and they kill Uncle Bob.
 ***Risks: ***
 
 1.  **Cascade: Blackmail.** The threats of a criminal adversary could be
-    > blackmail.
+blackmail.
 
 2.  **Cascade: Coercion.** Or they could be coercive in a more damaging
-    > way.
+way.
 
 ***Process Solutions:***
 
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 2.  **Register Your Funds.** Register and document your funds fully with
-    > your nation-state to maximize legal protections. *Dangers: [*Legal
-    > Forfeiture*](#adversary-legal-forfeiture), [*Nation-State
-    > Actor*](#_r30mkanx1jnw).*
+your nation-state to maximize legal protections. *Dangers: [*Legal
+Forfeiture*](#adversary-legal-forfeiture), [*Nation-State
+Actor*](#_r30mkanx1jnw).*
 
 *See Related — [*Blackmail*](#adversary-blackmail),
 [*Coercion*](#section-11)*
@@ -1551,16 +1551,16 @@ legal system to seize Carol’s bitcoins.
 ***Risks:***
 
 1.  **Funds Loss.** Obviously the danger of legal forfeiture is the loss
-    > of the funds themselves.
+of the funds themselves.
 
 2.  **Cascade: Denial of Access.** A legal forfeiture can sometimes
-    > cause a purposeful denial of access to a house, safe, or safety
-    > deposit box.
+cause a purposeful denial of access to a house, safe, or safety
+deposit box.
 
 ***Process Solutions:***
 
 1.  **Neutrally Store Your Funds.** Maintain funds or keys outside of
-    > the sphere of control of fascist and authoritarian nation-states.
+the sphere of control of fascist and authoritarian nation-states.
 
 2.  ### **Practice Anonymity.** Do not let people know you have bitcoins; ensure that you in no way ever link your key to your real persona.
 
@@ -1628,49 +1628,49 @@ Story](https://arstechnica.com/tech-policy/2017/11/ex-agent-corrupted-by-silk-ro
 ***Risks:***
 
 1.  **Key Loss.** A nation-state could purposefully seize private keys
-    > or they could casually do so while seizing electronics or safety
-    > deposit boxes.
+or they could casually do so while seizing electronics or safety
+deposit boxes.
 
 2.  **Cascade: Coercion.** Authoritarian action could lead to personal
-    > threat.
+threat.
 
 3.  **Cascade: Correlation.** Surveillance could lead to the gathering
-    > of personally identifying information.
+of personally identifying information.
 
 4.  **Cascade: Legal Forfeiture.** Many of the concerns about a
-    > nation-state actor involve it working in illegal ways, but it
-    > could also choose to act within the constraints of its own legal
-    > system, sometimes by using surprise changes or favorable
-    > interpretations of vague laws.
+nation-state actor involve it working in illegal ways, but it
+could also choose to act within the constraints of its own legal
+system, sometimes by using surprise changes or favorable
+interpretations of vague laws.
 
 ***Process Solutions:***
 
 1.  **Neutrally Store Your Funds.** Maintain funds or keys outside of
-    > the sphere of control of fascist and authoritarian nation-states.
+the sphere of control of fascist and authoritarian nation-states.
 
 2.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 3.  **Use Paranoid Key Procedures.** Take extreme protective methods
-    > when generating keys or when accessing accounts. Turn off phones.
-    > Remove cell phones. Unplug electronics. Cover windows. Tape your
-    > computer’s camera and muffle your microphone. Do not work in rooms
-    > adjacent to property that you don’t own. **I**n extreme cases,
-    > rent a random car in a far remote location to serve both as a
-    > faraday cage and as protection against observation. *Dangers:
-    > [*Process Fatigue*](#adversary-process-fatigue)*
+when generating keys or when accessing accounts. Turn off phones.
+Remove cell phones. Unplug electronics. Cover windows. Tape your
+computer’s camera and muffle your microphone. Do not work in rooms
+adjacent to property that you don’t own. **I**n extreme cases,
+rent a random car in a far remote location to serve both as a
+faraday cage and as protection against observation. *Dangers:
+[*Process Fatigue*](#adversary-process-fatigue)*
 
 ***Cold Storage Solutions:***
 
 1.  **Obscure or Protect Your Keys.** Store keys in an obscured way that
-    > would be readily obvious to the asset holder, but not to a thief.
-    > Alternatively, protect keys with a PIN or other code. *Dangers:
-    > [*Key Fragility*](#section-16).*
+would be readily obvious to the asset holder, but not to a thief.
+Alternatively, protect keys with a PIN or other code. *Dangers:
+[*Key Fragility*](#section-16).*
 
 2.  **Widely Separate Your Keys.** Maintain multiple physical
-    > representations of your master keys in places that are widely
-    > separated. Consider locales under different legal jurisdictions
-    > and with different physical risks.
+representations of your master keys in places that are widely
+separated. Consider locales under different legal jurisdictions
+and with different physical risks.
 
 *See Related — [*Coercion*](#section-11)*
 
@@ -1733,34 +1733,34 @@ gone, with her bitcoin wealth!
 ***Risks:***
 
 1.  **Funds Loss.** The worst danger of increased Convenience is the
-    > loss of the coins that are no longer have strong protections.
+loss of the coins that are no longer have strong protections.
 
 2.  **Key Loss.** Alternatively, less rigorous procedures could lead to
-    > the loss of keys.
+the loss of keys.
 
 3.  **Cascade: Personal Network Attack.** Many convenience changes might
-    > take keys out of cold storage; this opens them up to Personal
-    > Network Attacks.
+take keys out of cold storage; this opens them up to Personal
+Network Attacks.
 
 4.  **Cascade: Coercion.** Increased access to coins could lead to
-    > increased vulnerability to coercion.
+increased vulnerability to coercion.
 
 5.  **Cascade: Theft, All.** Increased accessibility and decreased
-    > security might lead to more Casual, Institutional, Internal, or
-    > Sophisticated Thefts.
+security might lead to more Casual, Institutional, Internal, or
+Sophisticated Thefts.
 
 6.  **Cascade: User Error.** Lower attention to details can make User
-    > Error more likely.
+Error more likely.
 
 ***Process Solutions:***
 
 1.  **Create Checklists**. Create simple checklists and print many
-    > copies. Physically check each box as you work down your list of
-    > procedures.
+copies. Physically check each box as you work down your list of
+procedures.
 
 2.  **Maximize Security.** Subject to the needs of Convenience and the
-    > dangers of Process Fatigue, maintain the best security possible
-    > for the situation.
+dangers of Process Fatigue, maintain the best security possible
+for the situation.
 
 *See Related: [*Process Fatigue*](#adversary-process-fatigue)*
 
@@ -1811,37 +1811,37 @@ Story](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar
 ***Risks:***
 
 1.  **Key Loss.** Whatever the exact means by which the key is lost or
-    > corrupted, it becomes unavailable.
+corrupted, it becomes unavailable.
 
 ***Process Solutions:***
 
 1.  **Redundantly Relay Your Secrets.** Tell someone else the secrets
-    > required to unobscure or unprotect your private keys or to access
-    > your funds. *Dangers: [*Internal
-    > Theft*](#adversary-internal-theft).*
+required to unobscure or unprotect your private keys or to access
+your funds. *Dangers: [*Internal
+Theft*](#adversary-internal-theft).*
 
 2.  **Take the Time.** Be very careful when you’re working. Double-check
-    > everything. Don’t take transferring large amounts of funds
-    > lightly, ever.
+everything. Don’t take transferring large amounts of funds
+lightly, ever.
 
 3.  **Verify Your Keys.** Test that your key is correct by signing and
-    > verifying a test message using your key. If you’re really
-    > paranoid, create a test transaction using your private key or
-    > create and send a small transaction from your funds. *Dangers:
-    > [*Correlation*](#adversary-correlation).*
+verifying a test message using your key. If you’re really
+paranoid, create a test transaction using your private key or
+create and send a small transaction from your funds. *Dangers:
+[*Correlation*](#adversary-correlation).*
 
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations
-    > of your master keys. Store encrypted keys in local storage and
-    > unencrypted keys in more protected storage, such as a safety
-    > deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
-    > [*Institutional Theft*](#adversary-institutional-theft).*
+of your master keys. Store encrypted keys in local storage and
+unencrypted keys in more protected storage, such as a safety
+deposit box. *Dangers: [*Casual Physical Theft*](#section-6),
+[*Institutional Theft*](#adversary-institutional-theft).*
 
 2.  ****[Cold Storage
-    > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > Optional Steps:**** Use Metal Enhancement (Redundant Metal
-    > Devices); Use a (USB) Laser Printer.
+Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+Optional Steps:**** Use Metal Enhancement (Redundant Metal
+Devices); Use a (USB) Laser Printer.
 
 *See Related — [*Bitrot*](#_l760ztwakmh4), [*Transaction
 Error*](#adversary-transaction-error), [*User
@@ -1888,34 +1888,34 @@ to hold onto them. The company goes bankrupt.
 ***Risks:***
 
 1.  **Key Loss.** The most likely result of process fatigue is the loss
-    > of a key, which somehow becomes mislaid or corrupted due to the
-    > inattention to the procedure. This usually is the result of one of
-    > several possible cascades.
+of a key, which somehow becomes mislaid or corrupted due to the
+inattention to the procedure. This usually is the result of one of
+several possible cascades.
 
 2.  **Cascade: Bitrot.** Not regularly assessing and rotating key
-    > storage increases the chance of bitrot.
+storage increases the chance of bitrot.
 
 3.  **Cascade: Key Fragility.** Not regularly testing keys also
-    > increases the chance of key fragility.
+increases the chance of key fragility.
 
 4.  **Cascade: User Error.** Finally, the lack of attention to a
-    > procedure can increase the odds of user error.
+procedure can increase the odds of user error.
 
 ***Process Solutions:***
 
 1.  **Check Your Work.** Double-check your work; even better, have
-    > someone else double-check your work; even better, have an official
-    > procedure requiring someone else to double-check your work.
+someone else double-check your work; even better, have an official
+procedure requiring someone else to double-check your work.
 
 2.  **Create Checklists**. Create simple checklists and print many
-    > copies. Physically check each box as you work down your list of
-    > procedures.
+copies. Physically check each box as you work down your list of
+procedures.
 
 3.  **Minimize Your Process.** Choose a minimum number of adversaries,
-    > and use only the solutions related to those adversaries.
-    > Occasionally revisit your procedure and cut out any steps that are
-    > proving too difficult — but carefully consider the dangers that
-    > are reintroduced by doing so.
+and use only the solutions related to those adversaries.
+Occasionally revisit your procedure and cut out any steps that are
+proving too difficult — but carefully consider the dangers that
+are reintroduced by doing so.
 
 *See Related: [*Convenience*](#adversary-convenience)*
 
@@ -1982,46 +1982,46 @@ Story](https://www.coindesk.com/7-million-ico-hack-results-coindash-refund-offer
 ***Risks:***
 
 1.  **Funds Delay.** The least problematic sorts of transaction error
-    > just lead to delayed funds, where you have to resend them when you
-    > realize that you messed up.
+just lead to delayed funds, where you have to resend them when you
+realize that you messed up.
 
 2.  **Funds Loss.** In the worst cases, all of the funds could be lost
-    > due to sending it away or due to theft after not locking it with
-    > the intended sort of signature.
+due to sending it away or due to theft after not locking it with
+the intended sort of signature.
 
 3.  **Funds Vulnerability.** Locking a transaction with the wrong sort
-    > of signature can alternatively just make the funds more
-    > vulnerable: now, a single person can sign for them rather than
-    > multiple people.
+of signature can alternatively just make the funds more
+vulnerable: now, a single person can sign for them rather than
+multiple people.
 
 4.  **Partial Funds Loss.** A fee-related transaction error is an
-    > example of partial funds lost: Perhaps you paid \$100 instead of
-    > \$10 or \$1 — though this is a situation where most interfaces
-    > have gotten better at preventing errors over time.
+example of partial funds lost: Perhaps you paid \$100 instead of
+\$10 or \$1 — though this is a situation where most interfaces
+have gotten better at preventing errors over time.
 
 ***Process Solutions:***
 
 1.  **Check Your Work.** Double-check your work; even better, have
-    > someone else double-check your work; even better, have an official
-    > procedure requiring someone else to double-check your work.
+someone else double-check your work; even better, have an official
+procedure requiring someone else to double-check your work.
 
 2.  **Create Checklists**. Create simple checklists and print many
-    > copies. Physically check each box as you work down your list of
-    > procedures.
+copies. Physically check each box as you work down your list of
+procedures.
 
 3.  **Take the Time.** Be very careful when you’re working. Double-check
-    > everything. Don’t take transferring large amounts of funds
-    > lightly, ever.
+everything. Don’t take transferring large amounts of funds
+lightly, ever.
 
 4.  **Verify Your Scripts.** Double-check that your script has valid
-    > responses. For large-scale funds held by a script, you may want to
-    > first test them with smaller amounts of funds. *Dangers:
-    > [*Correlation*](#adversary-correlation).*
+responses. For large-scale funds held by a script, you may want to
+first test them with smaller amounts of funds. *Dangers:
+[*Correlation*](#adversary-correlation).*
 
 5.  **Verify Your Transactions.** Double-check the recipient addresses
-    > for any transactions. Make sure the change address really belongs
-    > to you. Make sure that the fee looks rational. Validate the
-    > transaction on testnet to verify it.
+for any transactions. Make sure the change address really belongs
+to you. Make sure that the fee looks rational. Validate the
+transaction on testnet to verify it.
 
 *See Related — [*Key Fragility*](#section-16), [*User
 Error*](#adversary-user-error) .*
@@ -2062,38 +2062,38 @@ Article*](http://www.uppo.org/blogpost/925381/281568/Unclaimed-Safe-Deposit-Box-
 ***Risks:***
 
 1.  **Funds Loss.** There’s no arbiter on the Bitcoin network, so if an
-    > asset holder makes a mistake, funds can be irretrievably lost.
+asset holder makes a mistake, funds can be irretrievably lost.
 
 2.  **Cascade: Key Fragility.** A User Error can cause incorrect key
-    > recording.
+recording.
 
 3.  **Cascade: Transaction Error.** A User Error can cause incorrect
-    > address recording, or foul up other elements of a transaction.
+address recording, or foul up other elements of a transaction.
 
 ***Process Solutions:***
 
 1.  **Check Your Work.** Double-check your work; even better, have
-    > someone else double-check your work; even better, have an official
-    > procedure requiring someone else to double-check your work.
+someone else double-check your work; even better, have an official
+procedure requiring someone else to double-check your work.
 
 2.  **Create Checklists**. Create simple checklists and print many
-    > copies. Physically check each box as you work down your list of
-    > procedures.
+copies. Physically check each box as you work down your list of
+procedures.
 
 3.  **Take the Time.** Be very careful when you’re working. Double-check
-    > everything. Don’t take transferring large amounts of funds
-    > lightly, ever.
+everything. Don’t take transferring large amounts of funds
+lightly, ever.
 
 4.  **Verify Your Keys.** Test that your key is correct by signing and
-    > verifying a test message using your key. If you’re really
-    > paranoid, create a test transaction using your private key or
-    > create and send a small transaction from your funds. *Dangers:
-    > [*Correlation*](#adversary-correlation).*
+verifying a test message using your key. If you’re really
+paranoid, create a test transaction using your private key or
+create and send a small transaction from your funds. *Dangers:
+[*Correlation*](#adversary-correlation).*
 
 5.  **Verify Your Transactions.** Double-check the recipient addresses
-    > for any transactions. Make sure the change address really belongs
-    > to you. Make sure that the fee looks rational. Validate the
-    > transaction on testnet to verify it.
+for any transactions. Make sure the change address really belongs
+to you. Make sure that the fee looks rational. Validate the
+transaction on testnet to verify it.
 
 ****[Cold Storage
 Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
@@ -2166,36 +2166,36 @@ Story](https://www.coindesk.com/assange-bitcoin-wikileaks-helped-keep-alive/).**
 ***Risks:***
 
 1.  **Funds Denial.** Though the asset holder still has complete access
-    > to his key and thus exclusive access to his funds, he can’t
-    > actually use them, so they might as well be lost (until something
-    > is done to clear up the censorship).
+to his key and thus exclusive access to his funds, he can’t
+actually use them, so they might as well be lost (until something
+is done to clear up the censorship).
 
 ***Process Solutions:***
 
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 2.  **Practice Key Hygiene.** Follow the best practices of using
-    > different addresses for every transaction that you conduct. Each
-    > time you make a transaction with the same address, you are leaking
-    > information to your counterparty, which could be used to identify
-    > and either censor or correlate future transactions.
+different addresses for every transaction that you conduct. Each
+time you make a transaction with the same address, you are leaking
+information to your counterparty, which could be used to identify
+and either censor or correlate future transactions.
 
 3.  **Request Preferential Mining or Mine Your Own Blocks.** Gain
-    > control of some portion of the block creation infrastructure, most
-    > likely by purchasing enough mining power that you can occasionally
-    > generate a block. Of, more simply, pay a miner directly to mine
-    > your transaction.
+control of some portion of the block creation infrastructure, most
+likely by purchasing enough mining power that you can occasionally
+generate a block. Of, more simply, pay a miner directly to mine
+your transaction.
 
 ***Hot Wallet Solutions:***
 
 1.  **Question Policies & Procedures.** Know the security policies and
-    > procedures of any company that you’re working with; be sure that
-    > they have rigorous, well-documented security procedures that they
-    > follow religiously, and that they treat any variance from their
-    > procedure as a problem that must be investigated. Also, be sure
-    > that there are no negative policies that might affect your usage
-    > of its services.
+procedures of any company that you’re working with; be sure that
+they have rigorous, well-documented security procedures that they
+follow religiously, and that they treat any variance from their
+procedure as a problem that must be investigated. Also, be sure
+that there are no negative policies that might affect your usage
+of its services.
 
 *See Related – [*Correlation*](#adversary-correlation).*
 
@@ -2234,40 +2234,40 @@ her computer and steal her keys.
 ***Risks:***
 
 1.  **Funds Revelation.** An asset holder’s ownership of various funds
-    > can be revealed. This can make it possible to track what they
-    > spent funds on and who they’re associated with. It also puts them
-    > in greater danger from any number of other adversaries.
+can be revealed. This can make it possible to track what they
+spent funds on and who they’re associated with. It also puts them
+in greater danger from any number of other adversaries.
 
 2.  **Cascade: Censorship.** If they know who you are, they can block
-    > you.
+you.
 
 3.  **Cascade: Coercion.** If they know who you are, they can threaten
-    > you.
+you.
 
 4.  **Cascade: Legal Forfeiture.** If they know who you are, you can
-    > become a target for a nation-state or for a civil action.
+become a target for a nation-state or for a civil action.
 
 5.  **Cascade: Loss of Fungibility.** If funds have been correlated,
-    > they may lose fungibility.
+they may lose fungibility.
 
 6.  **Cascade: Sophisticated Theft.** If they know you you are, you can
-    > become a target for thieves.
+become a target for thieves.
 
 ***Process Solutions:***
 
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
-    > ensure that you in no way ever link your key to your real persona.
+ensure that you in no way ever link your key to your real persona.
 
 2.  **Practice Anonymizing Your Funds.** Occasionally use methods like
-    > CoinJoin, SendShared, or Zerocoin to anonymize your transactions.
-    > On Blockstream’s Liquid, always make use of Confidential
-    > Transactions.
+CoinJoin, SendShared, or Zerocoin to anonymize your transactions.
+On Blockstream’s Liquid, always make use of Confidential
+Transactions.
 
 3.  **Practice Key Hygiene.** Follow the best practices of using
-    > different addresses for every transaction that you conduct. Each
-    > time you make a transaction with the same address, you are leaking
-    > information to your counterparty, which could be used to identify
-    > and either censor or correlate future transactions.
+different addresses for every transaction that you conduct. Each
+time you make a transaction with the same address, you are leaking
+information to your counterparty, which could be used to identify
+and either censor or correlate future transactions.
 
 ### Adversary: Loss of Fungibility
 
@@ -2302,34 +2302,34 @@ exchange to pacify the US Department of Justice.
 ***Risks:***
 
 1.  **Funds Denial.** The big problem with loss of fungibility is that
-    > the entire cryptocurrency ecosystem might become unwilling to
-    > accept a coin with a bad history.
+the entire cryptocurrency ecosystem might become unwilling to
+accept a coin with a bad history.
 
 2.  **Key Loss.** More trivially, if you find your account locked by a
-    > particular exchange, you might lose access to keys generated by
-    > the exchange for a while.
+particular exchange, you might lose access to keys generated by
+the exchange for a while.
 
 ***Process Solutions:***
 
 1.  **Practice Anonymizing Your Funds.** Occasionally use methods like
-    > CoinJoin, SendShared, or Zerocoin to anonymize your transactions.
-    > On Blockstream’s Liquid, always make use of Confidential
-    > Transactions.
+CoinJoin, SendShared, or Zerocoin to anonymize your transactions.
+On Blockstream’s Liquid, always make use of Confidential
+Transactions.
 
 ***Hot Wallet Solutions:***
 
 1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage
-    > Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
-    > that moves some or all of your funds off of your hot wallet. Only
-    > keep keys on an exchange or brokerage for the minimum amount of
-    > time required to make a transaction. *Dangers:
-    > [*Disaster*](#adversary-disaster), [*Casual Physical
-    > Theft*](#section-6).*
+Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
+that moves some or all of your funds off of your hot wallet. Only
+keep keys on an exchange or brokerage for the minimum amount of
+time required to make a transaction. *Dangers:
+[*Disaster*](#adversary-disaster), [*Casual Physical
+Theft*](#section-6).*
 
 2.  **Question Policies & Procedures.** Know the security policies and
-    > procedures of any company that you’re working with; be sure that
-    > they have rigorous, well-documented security procedures that they
-    > follow religiously, and that they treat any variance from their
-    > procedure as a problem that must be investigated. Also, be sure
-    > that there are no negative policies that might affect your usage
-    > of its services.
+procedures of any company that you’re working with; be sure that
+they have rigorous, well-documented security procedures that they
+follow religiously, and that they treat any variance from their
+procedure as a problem that must be investigated. Also, be sure
+that there are no negative policies that might affect your usage
+of its services.
