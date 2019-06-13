@@ -1,4 +1,6 @@
-#### *Part of the [*\#SmartCustody*](https://www.smartcustody.com) project of the [*Blockchain Commons*](https://www.blockchaincommons.com/) *
+# Chapter Two: Adversaries
+
+#### _Anthropomorphized risks for digital assets_
 
 ***Version: 2019-04-26***
 
@@ -47,8 +49,7 @@ Shostack [*@adamshostack*](https://twitter.com/adamshostack)
 > [*Ledger*](https://www.ledger.com/), and
 > [*Winstead*](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
 
-About Adversaries
------------------
+## About Adversaries
 
 When creating a digital-asset management procedure, a user adds steps to
 the procedure based on his vulnerability to a set of more than twenty
@@ -81,112 +82,81 @@ exploits.
 
 1.  **Loss by Acts of God**
 
-    a.  [*Adversary: Death / Incapacitation*](#_md0oubcgwdzo) — *a
-        > mortal loss or disability that could endanger funds*
+    a.  [*Adversary: Death / Incapacitation*](#_md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
 
-    b.  [*Adversary: Denial of Access*](#adversary-denial-of-access) —
-        > *physical denial that prevents use of funds*
+    b.  [*Adversary: Denial of Access*](#adversary-denial-of-access) — *physical denial that prevents use of funds*
 
-    c.  [*Adversary: Disaster*](#adversary-disaster) — *a sudden,
-        > large-scale destructive event*
+    c.  [*Adversary: Disaster*](#adversary-disaster) — *a sudden, large-scale destructive event*
 
 2.  **Loss by Computer Error**
 
-    a.  [*Adversary: Bitrot*](#_l760ztwakmh4) — *a hardware, software,
-        > or media failure leading to loss*
+    a.  [*Adversary: Bitrot*](#_l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
 
-    b.  [*Adversary: Systemic Key Compromise*](#section-4) — *a
-        > key-generation compromise*
+    b.  [*Adversary: Systemic Key Compromise*](#section-4) — *a key-generation compromise*
 
 3.  **Loss by Crime, Theft**
 
     a.  [*Adversary: Institutional
-        > Theft*](#adversary-institutional-theft) — *a theft by a
-        > trusted institution or its employee*
+        > Theft*](#adversary-institutional-theft) — *a theft by a trusted institution or its employee*
 
-    b.  [*Adversary: Internal Theft*](#adversary-internal-theft) — *a
-        > theft by a trusted person such as an heir or executor*
+    b.  [*Adversary: Internal Theft*](#adversary-internal-theft) — *a theft by a trusted person such as an heir or executor*
 
-    c.  [*Adversary: Network Attack, Personal*](#_2st8zurfuu0n) — *a
-        > personal online attack*
+    c.  [*Adversary: Network Attack, Personal*](#_2st8zurfuu0n) — *a personal online attack*
 
-    d.  [*Adversary: Network Attack, Systemic*](#_35bedcdpyqm3) — *a
-        > server online attack *
+    d.  [*Adversary: Network Attack, Systemic*](#_35bedcdpyqm3) — *a server online attack *
 
-    e.  [*Adversary: Physical Theft, Casual*](#section-6) — *an
-        > opportunistic physical theft*
+    e.  [*Adversary: Physical Theft, Casual*](#section-6) — *an opportunistic physical theft*
 
-    f.  [*Adversary: Physical Theft, Sophisticated*](#_a6tzkv3mpu4k) —
-        > *a purposeful physical theft*
+    f.  [*Adversary: Physical Theft, Sophisticated*](#_a6tzkv3mpu4k) — *a purposeful physical theft*
 
-    g.  [*Adversary: Social Engineering*](#adversary-social-engineering)
-        > — *a social theft*
+    g.  [*Adversary: Social Engineering*](#adversary-social-engineering) — *a social theft*
 
-    h.  [*Adversary: Supply-Chain
-        > Attack*](#adversary-supply-chain-attack) — *a logistical
-        > theft*
+    h.  [*Adversary: Supply-Chain Attack*](#adversary-supply-chain-attack) — *a logistical theft*
 
 4.  **Loss by Crime, Other Attacks**
 
-    a.  [*Adversary: Blackmail*](#adversary-blackmail) — *threat of
-        > exposure*
+    a.  [*Adversary: Blackmail*](#adversary-blackmail) — *threat of exposure*
 
-    b.  [*Adversary: Coercion*](#section-11) — *threat of death,
-        > disability, or detention*
+    b.  [*Adversary: Coercion*](#section-11) — *threat of death, disability, or detention*
 
-    c.  [*Adversary: Non-Financially Motivated Attackers*](#section-12)
-        > — an *attack not intended to steal funds*
+    c.  [*Adversary: Non-Financially Motivated Attackers*](#section-12) — an *attack not intended to steal funds*
 
-    d.  [*Adversary: Terrorist / Mob*](#_thf35x4lotcb) — a *potentially
-        > mortal threat related to coercion*
+    d.  [*Adversary: Terrorist / Mob*](#_thf35x4lotcb) — a *potentially mortal threat related to coercion*
 
 5.  **Loss by Government**
 
-    a.  [*Adversary: Legal Forfeiture*](#adversary-legal-forfeiture) —
-        > *a legal civic or state seizure of funds*
+    a.  [*Adversary: Legal Forfeiture*](#adversary-legal-forfeiture) — *a legal civic or state seizure of funds*
 
-    b.  [*Adversary: Nation-State Actor*](#_r30mkanx1jnw) —
-        > *wide-ranging threats related to surveillance and coercion*
+    b.  [*Adversary: Nation-State Actor*](#_r30mkanx1jnw) — *wide-ranging threats related to surveillance and coercion*
 
 6.  **Loss by Mistakes**
 
-    a.  [*Adversary: Convenience*](#adversary-convenience) — *decreased
-        > security due to ease of use*
+    a.  [*Adversary: Convenience*](#adversary-convenience) — *decreased security due to ease of use*
 
-    b.  [*Adversary: Key Fragility*](#section-16) — *an accidental key
-        > loss*
+    b.  [*Adversary: Key Fragility*](#section-16) — *an accidental key loss*
 
-    c.  [*Adversary: Process Fatigue*](#adversary-process-fatigue) —
-        > *errors caused by the complexity of the overall procedure*
+    c.  [*Adversary: Process Fatigue*](#adversary-process-fatigue) — *errors caused by the complexity of the overall procedure*
 
-    d.  [*Adversary: Transaction Error*](#adversary-transaction-error) —
-        > *incorrect transaction details leading to loss*
+    d.  [*Adversary: Transaction Error*](#adversary-transaction-error) — *incorrect transaction details leading to loss*
 
-    e.  [*Adversary: User Error*](#adversary-user-error) — *an operator
-        > mistake leading to loss*
+    e.  [*Adversary: User Error*](#adversary-user-error) — *an operator mistake leading to loss*
 
 7.  **Privacy-related Problems**
 
-    a.  [*Adversary: Censorship*](#_hcr2fbjga6nl) — *network denial that
-        > prevents the use of funds*
+    a.  [*Adversary: Censorship*](#_hcr2fbjga6nl) — *network denial that prevents the use of funds*
 
-    b.  [*Adversary: Correlation*](#adversary-correlation) — *a
-        > connection of funds based on their usage*
+    b.  [*Adversary: Correlation*](#adversary-correlation) — *a connection of funds based on their usage*
 
-    c.  [*Adversary: Loss of Fungibility*](#section-20) — *a
-        > blacklisting of funds based on their provenance*
+    c.  [*Adversary: Loss of Fungibility*](#section-20) — *a blacklisting of funds based on their provenance*
 
-### \
-
-Category: Loss by Acts of God
------------------------------
+## Category: Loss by Acts of God
 
 ***Origin.** Bad luck.*
 
 ***Definition.** A loss that wasn’t caused by any intelligent attacker.*
 An Act of God is something that just happens. You can’t prevent it, you
 can only make it less likely or insure that it damages you less if it
-occurs. ![](./images//media/image34.png){width="3.625in"
+occurs. ![](./resources/image34.png){width="3.625in"
 height="3.625in"}
 
 ***Iconic Image.** Lightning strikes your computer.* When lightning
@@ -202,13 +172,12 @@ God. No one is trying to steal your Bitcoins or prevent you from
 accessing them. Forces of nature are just working against you, as they
 do in a universe founded on the Second Law of Thermodynamics.
 
-### \
-Adversary: Death / Incapacitation
+### Adversary: Death / Incapacitation
 
 ***Motivation.** “I am your last firing neurons, and I seek to drag
 everything you ever knew down with you, into the darkness.”*
 
-![](./images//media/image10.png){width="3.638888888888889in"
+![](./resources/image10.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:** Passive.*
@@ -304,7 +273,7 @@ cryptocurrency. Instead, my motives likely relate to an instability in
 your city, state, or country. I might be a riot, a political insurgency,
 or a popular uprising.”*
 
-![](./images//media/image11.png){width="3.638888888888889in"
+![](./resources/image11.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Alternative Categories:** Crime, Misc.*
@@ -356,14 +325,12 @@ home.
 
 *See Related — [*Censorship*](#_hcr2fbjga6nl).*
 
-### \
-
 ### Adversary: Disaster
 
 ***Motivation.** “I want to destroy. I want to crumble and burn. I want
 to ruin with water, to blow things into the air. I am bombs, bullets,
 and explosions. I am sudden and unexpected but disastrous
-destruction.”*![](./images//media/image20.png){width="3.638888888888889in"
+destruction.”*![](./resources/image20.png){width="3.638888888888889in"
 height="3.2916666666666665in"}
 
 ***Key Words:** Cold Storage, Physical.*
@@ -420,10 +387,7 @@ it was already too late.
     > Optional Steps:**** Use Bags (Fire-Resistant); Use Metal
     > Enhancement (Redundant Metal Devices); Use a (Second) USB Drive.
 
-#### \
-
-Category: Loss by Computer Error
---------------------------------
+## Category: Loss by Computer Error
 
 ***Origin.** Computers & software.*
 
@@ -431,7 +395,7 @@ Category: Loss by Computer Error
 cryptocurrency depends upon computers, but they can let you down when
 their hardware or software fails, due to poor production, poor
 programming, or just poor luck (which would be a Loss by Computer Error
-caused by Act of God).![](./images//media/image29.png){width="3.625in"
+caused by Act of God).![](./resources/image29.png){width="3.625in"
 height="4.291666666666667in"}
 
 ***Iconic Image.** Smoke billowing up from a computer.* A dying computer
@@ -457,7 +421,7 @@ your data from reading; in the end, I always win.”*
 
 ***Key Words:** Cold Storage, Technological.*
 
-![](./images//media/image7.png){width="3.638888888888889in"
+![](./resources/image7.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 Electronic storage methods for private keys can become unusable over
@@ -542,8 +506,6 @@ Story**](https://www.cnbc.com/2017/12/20/man-lost-127-million-worth-of-bitcoins-
 
 *See Related — [*Key Fragility*](#section-16)*
 
-### \
-
 ### Adversary: Systemic Key Compromise
 
 ***Motivation.** “I lie in wait. I want you to think that your keys were
@@ -551,7 +513,7 @@ generated correctly, but after you’ve turned your attention to other
 things, I will spring my surprise. I am the best pal of hackers and
 crooks, who use my exploits to steal your money.”*
 
-![](./images//media/image21.png){width="3.638888888888889in"
+![](./resources/image21.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Alternative Category:** Mistakes.*
@@ -616,8 +578,7 @@ Story](https://btcmanager.com/vulnerability-in-javascript-function-may-mean-long
     > that there are no negative policies that might affect your usage
     > of its services.
 
-Category: Loss by Crime, Theft
-------------------------------
+## Category: Loss by Crime, Theft
 
 ***Origin.** Thieves.*
 
@@ -627,7 +588,7 @@ worried about, though it might not actually be the most common cause of
 loss. There can be a number of different sorts of Theft, differing based
 on who is doing the stealing (an anonymous thief or a trusted friend)
 and how they’re doing the theft (by network, physically, or by a
-confidence scheme).![](./images//media/image32.png){width="3.625in"
+confidence scheme).![](./resources/image32.png){width="3.625in"
 height="3.3055555555555554in"}
 
 ***Iconic Image.** A masked burglar taking keys from a safe.* Our iconic
@@ -644,7 +605,7 @@ cryptocurrency from you, so that he can have it himself.
 waiting for my chance for a great score. I want to sift through the
 goods entrusted to my company and to take the best for myself. However,
 I don’t want to be caught, so I need to be cautious in my
-larceny.”*![](./images//media/image4.png){width="3.638888888888889in"
+larceny.”*![](./resources/image4.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:** Active.*
@@ -731,14 +692,12 @@ Story](https://bitcoinmagazine.com/articles/ozcoin-hacked-stolen-funds-seized-an
     > that there are no negative policies that might affect your usage
     > of its services.
 
-### \
-
 ### Adversary: Internal Theft
 
 ***Motivation.** “You trusted me with your private keys. I intend to
 violate that trust because I want to steal your funds for my own use.
 And, I’ll do my best to cover it
-up.”*![](./images//media/image13.png){width="3.638888888888889in"
+up.”*![](./resources/image13.png){width="3.638888888888889in"
 height="3.1666666666666665in"}
 
 ***Key Words:** Active.*
@@ -806,7 +765,7 @@ attack you on the internet, and then your bitcoin will be mine.”*
 
 ***Key Words:** Active, Hot Wallet, Technological.*
 
-![](./images//media/image24.png){width="3.638888888888889in"
+![](./resources/image24.png){width="3.638888888888889in"
 height="2.3333333333333335in"}
 
 A networked attack against an specific person or company’s
@@ -921,7 +880,7 @@ when I bankrupt the company holding your wallet.”*
 
 ***Key Words:** Active, Hot Wallet, Technological.*
 
-![](./images//media/image23.png){width="3.638888888888889in"
+![](./resources/image23.png){width="3.638888888888889in"
 height="3.1805555555555554in"}
 
 Users are usually most concerned about Personal Network Attacks which
@@ -1009,8 +968,6 @@ most of them from Systemic Attacks, just in the first nine months of
     > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
     > Optional Steps:**** Use a (Second) USB Drive.
 
-### \
-
 ### Adversary: Physical Theft, Casual
 
 ***Motivation.** “I just want an easy score, and your house looks like
@@ -1021,7 +978,7 @@ numbers, I’ll probably just trash them.”*
 
 ***Key Words:** Active, Cold Storage, Physical.*
 
-![](./images//media/image22.png){width="3.638888888888889in"
+![](./resources/image22.png){width="3.638888888888889in"
 height="3.0833333333333335in"}
 
 An entirely opportunistic real-world theft could, by chance, scoop up
@@ -1083,7 +1040,7 @@ heist scene.”*
 
 ***Key Words:** Active, Cold Storage, Physical.*
 
-![](./images//media/image14.png){width="3.638888888888889in"
+![](./resources/image14.png){width="3.638888888888889in"
 height="3.1666666666666665in"}
 
 Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that
@@ -1149,8 +1106,6 @@ they’ll be sucked up by the keylogger and available to Mallory.
     > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
     > Optional Steps:**** Use Bags (Tamper-Evident).
 
-### \
-
 ### Adversary: Social Engineering
 
 ***Motivation.** “I’m the thief who doesn’t get my hands dirty. Instead,
@@ -1159,7 +1114,7 @@ Maybe I talk with you in person or on the phone, or maybe I steal in
 bulk by spamming out phishing messages. In either case, my goal is to
 get access to your credentials or your computer and go from there.”*
 
-***Key Words:** Active.*![](./images//media/image1.png){width="3.625in"
+***Key Words:** Active.*![](./resources/image1.png){width="3.625in"
 height="2.3055555555555554in"}
 
 The in-person confidence man is largely gone, but everyone in the modern
@@ -1224,8 +1179,6 @@ real site.
     > Theft*](#adversary-internal-theft), [*User
     > Error*](#adversary-user-error).*
 
-### \
-
 ### Adversary: Supply-Chain Attack
 
 ***Motivation.** “I’m the slyest of thieves because I worm my way into
@@ -1233,7 +1186,7 @@ your life without your even knowing. I corrupt your hardware before it
 gets to you. My goal is to mess with your devices so that I can mess
 with your digital assets, and you may never figure out how I did it!”*
 
-![](./images//media/image9.png){width="3.625in" height="3.75in"}
+![](./resources/image9.png){width="3.625in" height="3.75in"}
 
 ***Key Words:** Active, Physical, Technological.*
 
@@ -1298,10 +1251,7 @@ compromised.
     > Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8)
     > Optional Steps:**** Erase Your Ledger(s), Use a USB Drive.
 
-### \
-
-Category: Loss by Crime, Other Attacks
---------------------------------------
+## Category: Loss by Crime, Other Attacks
 
 ***Origin.** Criminals.*
 
@@ -1310,7 +1260,7 @@ theft.* Some crimes go larger scale, threatening you and yours, rather
 than just taking your money without your involvement. Alternatively,
 some crimes go in different directions, criminally depriving you of your
 cryptocurrency without the criminals taking it for
-themselves.![](./images//media/image30.png){width="3.625in"
+themselves.![](./resources/image30.png){width="3.625in"
 height="3.625in"}
 
 ***Iconic Image.** A man in a long overcoat with a gun.* Just as most
@@ -1321,8 +1271,6 @@ crime that is found in this listing of other criminal attacks.
 ***Ulterior Motive.** Mixed.* For escalated theft, the ulterior motive
 is greed, but other sorts of crime can have more complex causes, from
 mischievousness to hacktivism to malice.
-
-### \
 
 ### Adversary: Blackmail
 
@@ -1335,7 +1283,7 @@ course.”*
 
 ***Key Words:** Active.*
 
-![](./images//media/image8.png){width="3.625in"
+![](./resources/image8.png){width="3.625in"
 height="3.6944444444444446in"}
 
 Blackmail is ultimately a second-tier crime. The criminal has already
@@ -1396,8 +1344,6 @@ pictures is payment of Bitcoins.
 
 *See Related — [*Coercion*](#adversary-coercion)*
 
-### \
-
 ### Adversary: Coercion
 
 ***Motivation.** “I know you have cryptocurrency. Well, I’ve got power
@@ -1406,7 +1352,7 @@ home, or your business — and, I can follow through on those threats! I
 want to get what you have, and I’m going to force you to give it to me
 by any means necessary.”*
 
-![](./images//media/image12.png){width="3.638888888888889in"
+![](./resources/image12.png){width="3.638888888888889in"
 height="2.0833333333333335in"}
 
 ***Key Words:** Active, Physical.*
@@ -1489,8 +1435,6 @@ Story**](https://www.khaleejtimes.com/news/crime-and-courts/3-fake-dubai-cops-ki
 *See Related — [*Blackmail*](#adversary-blackmail), [*Nation-State
 Actor*](#_r30mkanx1jnw), [*Terrorist / Mob*](#_thf35x4lotcb)*
 
-### \
-
 ### Adversary: Non-Financially Motivated Attackers
 
 ***Motivation.** “I don’t care about your money, but I’ll still going to
@@ -1499,7 +1443,7 @@ some way. Maybe you just have something I want — be it an artifact, a
 job, or some knowledge. The key is: I know who you are, I know what you
 have, and I want to use that knowledge as a lever for my own purposes.”*
 
-![](./images//media/image6.png){width="3.638888888888889in"
+![](./resources/image6.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:** Active.*
@@ -1547,15 +1491,14 @@ Story**](https://medium.com/chain-cloud-company-blog/parity-multisig-hack-again-
 1.  **Practice Anonymity.** Do not let people know you have bitcoins;
     > ensure that you in no way ever link your key to your real persona.
 
-### \
-Adversary: Terrorist / Mob
+### Adversary: Terrorist / Mob
 
 ***Motivation.** “I want your money and I am willing to kill, maim, or
 destroy to get it. Plus, I’ve got a reputation to uphold. If you force
 me to, I will* have *to do bad stuff. I ain’t worried about the legal
 repercussions, because I’m already subverting the whole system.”*
 
-![](./images//media/image19.png){width="3.638888888888889in"
+![](./resources/image19.png){width="3.638888888888889in"
 height="3.0416666666666665in"}
 
 ***Key Words:** Active, Physical.*
@@ -1596,15 +1539,14 @@ refuses and they kill Uncle Bob.
 *See Related — [*Blackmail*](#adversary-blackmail),
 [*Coercion*](#section-11)*
 
-Category: Loss by Government
-----------------------------
+## Category: Loss by Government
 
 ***Origin.** Government.*
 
 ***Definition.** A loss caused by the government exerting its sovereign
 rights.* The government can just take your money if they want, perhaps
 by arbitrary edict, perhaps through espionage, perhaps as part of a
-legal process.![](./images//media/image31.png){width="3.625in"
+legal process.![](./resources/image31.png){width="3.625in"
 height="3.625in"}
 
 ***Iconic Image.** A man in black, wearing sunglasses.* Many people turn
@@ -1624,7 +1566,7 @@ and perhaps because they must, to maintain that authority.
 rightfully owed them. You violated a contract, neglected to pay a bill,
 or were held liable for a tort. So, pay up.”*
 
-![](./images//media/image5.png){width="3.638888888888889in"
+![](./resources/image5.png){width="3.638888888888889in"
 height="2.6805555555555554in"}
 
 ***Key Words:** Active.*
@@ -1660,8 +1602,6 @@ legal system to seize Carol’s bitcoins.
 
 2.  ### **Practice Anonymity.** Do not let people know you have bitcoins; ensure that you in no way ever link your key to your real persona.
 
-### \
-
 ### Adversary: Nation-State Actor
 
 ***Motivation.** “I am the all-powerful state. I can do whatever I want
@@ -1673,7 +1613,7 @@ criminals, and if I am truly a law-abiding nation, then they have
 nothing to worry about. I just want to keep my nation and its people
 safe.”*
 
-![](./images//media/image33.png){width="3.638888888888889in"
+![](./resources/image33.png){width="3.638888888888889in"
 height="3.75in"}
 
 ***Key Words:** Active.*
@@ -1772,11 +1712,7 @@ Story](https://arstechnica.com/tech-policy/2017/11/ex-agent-corrupted-by-silk-ro
 
 *See Related — [*Coercion*](#section-11)*
 
-\
--
-
-Category: Loss by Mistakes
---------------------------
+## Category: Loss by Mistakes
 
 ***Origin.** YOU.*
 
@@ -1784,7 +1720,7 @@ Category: Loss by Mistakes
 dangerous threat to your cryptocurrency is probably *you*. Most often
 this is the result of your making an easy but uncorrectable error, but
 it could also be due purposefully deciding not to follow the most secure
-procedures.![](./images//media/image28.png){width="3.625in"
+procedures.![](./resources/image28.png){width="3.625in"
 height="3.625in"}
 
 ***Iconic Image.** A man with head on keyboard, weeping.* The worst
@@ -1798,9 +1734,6 @@ fatigue, distraction, or something else that keeps you from giving 100%
 to your cryptocurrency management. (Which is a good reason to only
 engage in your cryptocurrency management when you’re in top form.)
 
-\
--
-
 ### Adversary: Convenience
 
 ***Motivation.** “I know that you want things to be simple. I encourage
@@ -1809,7 +1742,7 @@ your safety deposit box in another state, away from California’s fault
 lines. And if you’re going on a trip, definitely ease up on the security
 of your bitcoins, so that you can access them from the road. I’m sure
 nothing bad can happen from all of this ease of
-use!”*![](./images//media/image18.png){width="3.638888888888889in"
+use!”*![](./resources/image18.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:*** *Passive.*
@@ -1870,8 +1803,6 @@ gone, with her bitcoin wealth!
 
 *See Related: [*Process Fatigue*](#adversary-process-fatigue)*
 
-### \
-
 ### Adversary: Key Fragility
 
 ***Motivation.** “I am entropy writ small. All I need to do is mislay a
@@ -1883,7 +1814,7 @@ beget fragility in different ways..”*
 ***Alternative Categories:** Computer Error.*
 
 ***Key Words:** Cold Storage, Passive,
-Technological.*![](./images//media/image25.png){width="3.638888888888889in"
+Technological.*![](./resources/image25.png){width="3.638888888888889in"
 height="3.4722222222222223in"}
 
 A key may be lost because its complexity makes it innately prone to
@@ -1955,9 +1886,6 @@ Story](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar
 Error*](#adversary-transaction-error), [*User
 Error*](#adversary-user-error)*
 
-\
--
-
 ### Adversary: Process Fatigue
 
 ***Motivation.** “I am laziness and exhaustion. I want to encourage you
@@ -1966,7 +1894,7 @@ too much trouble. I want to introduce small errors as you go, because
 you’re tired of this repetitive yet mindful task. I want to turn your
 procedure against itself, so that the very process intended to protect
 your funds causes you to lose
-them.”*![](./images//media/image26.png){width="3.638888888888889in"
+them.”*![](./resources/image26.png){width="3.638888888888889in"
 height="3.486111111111111in"}
 
 ***Key Words:** Passive.*
@@ -2041,7 +1969,7 @@ ultimately detrimental to you.”*
 ***Alternative Categories:** Computer Error.*
 
 ***Key Words:** Passive,
-Technological.*![](./images//media/image15.png){width="3.638888888888889in"
+Technological.*![](./resources/image15.png){width="3.638888888888889in"
 height="3.25in"}
 
 Errors introduced into a transaction can lead to the loss of some or all
@@ -2145,7 +2073,7 @@ use the wrong address, so that you don’t get your money or send it to
 the wrong place. I want you to lose your keys, so that you can’t recover
 your funds. I am all the anxieties you have about Bitcoin made real.”*
 
-![](./images//media/image2.png){width="3.638888888888889in"
+![](./resources/image2.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:** Passive.*
@@ -2213,11 +2141,7 @@ Optional Steps:**** None.
 *See Related — [*Key Fragility*](#section-16), [*Transaction
 Error*](#adversary-transaction-error)*
 
-\
--
-
-Category: Privacy-related Problems
-----------------------------------
+## Category: Privacy-related Problems
 
 ***Origin.** Society.*
 
@@ -2227,7 +2151,7 @@ can lose privacy through various means (such as Correlation), and second
 that lack of privacy can cause you other problems (like Censorship or
 even the various Criminal acts discussed herein). The adversaries in
 this category encompass both of these
-possibilities.![](./images//media/image27.png){width="3.625in"
+possibilities.![](./resources/image27.png){width="3.625in"
 height="3.625in"}
 
 ***Iconic Image.** A man hiding his nakedness with his hands.* Loss of
@@ -2239,8 +2163,6 @@ number of reasons, including curiosity, nosiness, or maliciousness. Once
 they’ve destroyed privacy, they might use that lack of anonymity for
 purposes of greed (e.g., blackmail), revenge, or pure sadism.
 
-### \
-
 ### Adversary: Censorship
 
 ***Motivation.** “I don’t want your money, I just want to make sure you
@@ -2250,7 +2172,7 @@ revenge. Whatever the case, I personally know you, I know you have
 cryptocurrency, and I’m making sure that you can’t use it.”*
 
 ***Alternative Categories:** Loss by Crime,
-Misc.*![](./images//media/image17.png){width="3.638888888888889in"
+Misc.*![](./resources/image17.png){width="3.638888888888889in"
 height="3.3055555555555554in"}
 
 ***Key Words:** Active, Technological.*
@@ -2325,7 +2247,7 @@ keep making the same payments or receiving the same payments or using
 the same addresses, I’ll figure it out. I want to connect the dots to
 determine who is spending cryptocurrency for what, and I can figure that
 puzzle out if you give me enough
-pieces.”*![](./images//media/image3.png){width="3.638888888888889in"
+pieces.”*![](./resources/image3.png){width="3.638888888888889in"
 height="3.638888888888889in"}
 
 ***Key Words:** Active, Technological.*
@@ -2387,8 +2309,6 @@ her computer and steal her keys.
     > information to your counterparty, which could be used to identify
     > and either censor or correlate future transactions.
 
-### \
-
 ### Adversary: Loss of Fungibility
 
 ***Motivation.** “I want to figure out how your cryptocurrency has been
@@ -2399,7 +2319,7 @@ maybe they were owned by someone I don’t like, and I’m trying to punish
 people for transacting with them. Whatever the reason, it’s vital that I
 be able to backtrack the history of your coins.”*
 
-![](./images//media/image16.png){width="3.638888888888889in"
+![](./resources/image16.png){width="3.638888888888889in"
 height="3.138888888888889in"}
 
 ***Key Words:** Active, Technological.*
@@ -2453,5 +2373,3 @@ exchange to pacify the US Department of Justice.
     > procedure as a problem that must be investigated. Also, be sure
     > that there are no negative policies that might affect your usage
     > of its services.
-
-
