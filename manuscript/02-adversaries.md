@@ -47,9 +47,6 @@ Shostack [*@adamshostack*](https://twitter.com/adamshostack)
 > [*Ledger*](https://www.ledger.com/), and
 > [*Winstead*](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
 
-\
--
-
 About Adversaries
 -----------------
 
