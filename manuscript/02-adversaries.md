@@ -49,9 +49,12 @@ Following are extensive descriptions of each adversary, covering their motives, 
 
 {pagebreak}
 
+{id: category-loss-by-acts-of-god}
 ## Category: Loss by Acts of God
+
 {float: right, width: "50%"}
 ![](resources/image34.png)
+
 ***Origin.** Bad luck.*
 
 ***Definition.** A loss that wasn’t caused by any intelligent attacker.* An Act of God is something that just happens. You can’t prevent it, you can only make it less likely or insure that it damages you less if it occurs. 
@@ -62,6 +65,7 @@ Following are extensive descriptions of each adversary, covering their motives, 
 
 {pagebreak}
 
+{id: adversary-death--incapacitation}
 ### Adversary: Death / Incapacitation
 
 {float: right, width: "50%"}
@@ -97,6 +101,7 @@ The lack of centralization and the high levels of anonymization for cryptocurren
 
 {pagebreak}
 
+{id: adversary-denial-of-access}
 ### Adversary: Denial of Access
 
 {float: right, width: "50%"}
@@ -130,6 +135,7 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 
 {pagebreak}
 
+{id: adversary-disaster}
 ### Adversary: Disaster
 
 {float: right, width: "50%"}
@@ -157,6 +163,7 @@ A sudden, large-scale destructive event can destroy copies of private keys. It i
 
 {pagebreak}
 
+{id: category-loss-by-computer-error}
 ## Category: Loss by Computer Error
 
 {float: right, width: "50%"}
@@ -170,6 +177,9 @@ A sudden, large-scale destructive event can destroy copies of private keys. It i
 
 ***Ulterior Motive.** None.* As with an Act of God, no one is explicitly trying to take your funds through Computer Error. There’s just bad luck, focused on your computer hardware or software, which makes you unable to access your funds — perhaps, forever!
 
+{pagebreak}
+
+{id: adversary-bitrot}
 ### Adversary: Bitrot
 
 {float: right, width: "50%"}
@@ -208,6 +218,7 @@ Electronic storage methods for private keys can become unusable over time. This 
 
 {pagebreak}
 
+{id: adversary-systemic-key-compromise}
 ### Adversary: Systemic Key Compromise
 
 {float: right, width: "50%"}
@@ -242,6 +253,7 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 
 {pagebreak}
 
+{id: category-loss-by-crime-theft}
 ## Category: Loss by Crime, Theft
 
 {float: right, width: "50%"}
@@ -257,6 +269,7 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 
 {pagebreak}
 
+{id: adversary-institutional-theft}
 ### Adversary: Institutional Theft
 
 {float: right, width: "50%"}
@@ -296,6 +309,7 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 {pagebreak}
 
+{id: adversary-internal-theft}
 ### Adversary: Internal Theft
 
 {float: right, width: "50%"}
@@ -327,6 +341,7 @@ A person trusted with private keys could steal funds. This might be an asset hol
 
 {pagebreak}
 
+{id: adversary-network-attack-personal}
 ### Adversary: Network Attack, Personal
 
 {float: right, width: "50%"}
@@ -372,6 +387,7 @@ A networked attack against an specific person or company’s cryptocurrency hold
 
 {pagebreak}
 
+{id: adversary-network-attack-systemic}
 ### Adversary: Network Attack, Systemic
 
 {float: right, width: "50%"}
@@ -414,6 +430,7 @@ Users are usually most concerned about Personal Network Attacks which target the
 
 {pagebreak}
 
+{id: adversary-physical-theft-casual}
 ### Adversary: Physical Theft, Casual
 
 {float: right, width: "50%"}
@@ -445,6 +462,7 @@ An entirely opportunistic real-world theft could, by chance, scoop up private ke
 
 {pagebreak}
 
+{id: adversary-physical-theft-sophisticated}
 ### Adversary: Physical Theft, Sophisticated
 
 {float: right, width: "50%"}
@@ -479,6 +497,7 @@ Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specific
 
 {pagebreak}
 
+{id: adversary-social-engineering}
 ### Adversary: Social Engineering
 
 {float: right, width: "50%"}
@@ -510,6 +529,7 @@ The in-person confidence man is largely gone, but everyone in the modern world i
 
 {pagebreak}
 
+{id: adversary-supply-chain-attack}
 ### Adversary: Supply-Chain Attack
 
 {float: right, width: "50%"}
@@ -543,6 +563,7 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 
 {pagebreak}
 
+{id: category-loss-by-crime-other-attacks}
 ## Category: Loss by Crime, Other Attacks
 
 {float: right, width: "50%"}
@@ -558,6 +579,7 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 
 {pagebreak}
 
+{id: adversary-blackmail}
 ### Adversary: Blackmail
 
 {float: right, width: "50%"}
@@ -591,6 +613,7 @@ The difference between Blackmail and Coercion is that Blackmail tends to be less
 
 {pagebreak}
 
+{id: adversary-coercion}
 ### Adversary: Coercion
 
 {float: right, width: "50%"}
@@ -628,6 +651,7 @@ The difference between Blackmail and Coercion is that Coercion tends to be less 
 
 {pagebreak}
 
+{id: adversary-non-financially-motivated-attackers}
 ### Adversary: Non-Financially Motivated Attackers
 
 {float: right, width: "50%"}
@@ -657,6 +681,7 @@ Nature is the ultimate non-financially motivated attacker. It introduces pure ch
 
 {pagebreak}
 
+{id: adversary-terrorist--mob}
 ### Adversary: Terrorist / Mob
 
 {float: right, width: "50%"}
@@ -684,6 +709,7 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 
 {pagebreak}
 
+{id: category-loss-by-government}
 ## Category: Loss by Government
 
 ***Origin.** Government.*
@@ -699,6 +725,7 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 
 {pagebreak}
 
+{id: adversary-legal-forfeiture}
 ### Adversary: Legal Forfeiture
 
 {float: right, width: "50%"}
@@ -724,6 +751,7 @@ Just like any other asset, cryptocurrency can be subject to legal forfeiture. Th
 
 {pagebreak}
 
+{id: adversary-nation-state-actorr}
 ### Adversary: Nation-State Actor
 
 {float: right, width: "50%"}
@@ -765,6 +793,7 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 {pagebreak}
 
+{id: category-loss-by-mistakes}
 ## Category: Loss by Mistakes
 
 {float: right, width: "50%"}
@@ -778,6 +807,9 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 ***Ulterior Motive.** None.* Like an Act of God or Computer Error, there’s no purposeful intent behind this loss of funds, just apathy, fatigue, distraction, or something else that keeps you from giving 100% to your cryptocurrency management. (Which is a good reason to only engage in your cryptocurrency management when you’re in top form.)
 
+{pagebreak}
+
+{id: adversary-convenience}
 ### Adversary: Convenience
 
 {float: right, width: "50%"}
@@ -809,6 +841,7 @@ Convenience can be the bane of any security procedure. It could be due to sheer 
 
 {pagebreak}
 
+{id: adversary-key-fragility}
 ### Adversary: Key Fragility
 
 {float: right, width: "50%"}
@@ -847,6 +880,7 @@ A key may be lost because its complexity makes it innately prone to loss. This c
 
 {pagebreak}
 
+{id: adversary-process-fatigue}
 ### Adversary: Process Fatigue
 
 {float: right, width: "50%"}
@@ -881,6 +915,7 @@ A digital-asset process can be so complicated that it causes errors in the proce
 
 {pagebreak}
 
+{id: adversary-transaction-errorr}
 ### Adversary: Transaction Error
 
 {float: right, width: "50%"}
@@ -925,6 +960,7 @@ The fundamental issue is lack of transparency in the address itself and in the o
 
 {pagebreak}
 
+{id: adversary-user-errror}
 ### Adversary: User Error
 
 {float: right, width: "50%"}
@@ -958,6 +994,7 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 *See Related — [*Key Fragility*](#section-16), [*Transaction Error*](#adversary-transaction-error)*
 
+{id: category-privacy-related-problems}
 ## Category: Privacy-related Problems
 
 {float: right, width: "50%"}
@@ -1006,6 +1043,7 @@ An entity or a consortium of entities can potentially prevent an asset holder fr
 
 {pagebreak}
 
+{id: adversary-correlation}
 ### Adversary: Correlation
 
 {float: right, width: "50%"}
@@ -1038,6 +1076,7 @@ Cryptocurrency use is pseudo-anonymous and somewhat private. However, it’s not
 
 {pagebreak}
 
+{id: adversary-loss-of-fungibility}
 ### Adversary: Loss of Fungibility
 
 {float: right, width: "50%"}
