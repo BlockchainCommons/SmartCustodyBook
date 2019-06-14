@@ -1,8 +1,8 @@
 # Chapter One: Cold Storage Self-Custody Scenario
 
-**Best Practices for Protecting Your Personal Digital Assets Using Cold Storage**
+#### _Best Practices for Protecting Your Personal Digital Assets Using Cold Storage_
 
-## Introduction
+## Introduction to the Custody Scenarios
 
 Digital assets are only as safe as the procedures of their custodian. Many digital-asset holders don't practice minimal safety, and this could result in the loss of all of their Bitcoins, Ether, other digital currencies as well as non-fungible digital assets. The following procedures detail simple and practical setups that can be used as the foundation of safer digital-asset management. The base scenario requires just a few hours setup and then a semi-annual check to make sure everything remains secure.
 
