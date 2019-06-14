@@ -2,60 +2,6 @@
 
 **Best Practices for Protecting Your Personal Digital Assets Using Cold Storage**
 
-#### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
-
-**_Version: 2019-06-07 Release 1.0.2_**
-
-### Disclaimer
-
-_The information below is intended to inform a set of best practices. It may not address risks specific to your situation, and if it does not, you should modify appropriately. While this information may inform best practices, there is no guarantee that following this advice will sufficiently ensure the security of your digital assets. In addition, this information is only a window on best practices at a specific moment in time. Be aware that the Bitcoin & blockchain ecosystems may have evolved and the risk assessments of specific products may have changed since the publication of this draft. In other words: be cautious, be careful, and be aware of the current Bitcoin & blockchain landscape before you use this information._
-
-### Copyright & Contributing
-
-Unless otherwise noted, the contents of this white paper are Copyright ©2017-2019 by Blockchain Commons and are licensed CC-BY-SA. ![https://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-Please give attribution by linking to the [https://www.SmartCustody.com](https://www.SmartCustody.com) website.
-
-Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyWhitePapers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers).
-
-### Credits
-
-**Lead Authors:** Christopher Allen [@ChristopherA](https://twitter.com/ChristopherA), Shannon Appelcline [@Appelcline](https://twitter.com/Appelcline)
-
-**Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure)
-
-**Reviewers:** Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Glenn Willen [@gwillen](https://twitter.com/gwillen), Greg Maxwell, Jonathan Wilkins, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester)
-
-**Sponsors:** [Adamant Capital](https://www.adamantcapitalfund.com/), [Blockstream](https://blockstream.com/), [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan, [Digital Contract Design](https://contract.design),  [CryptoTag](https://cryptotag.io/), [Ledger](https://www.ledger.com/), and [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
-
-{pagebreak}
-
-## Preface
-
-### What is #SmartCustody?
-
-> _**"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."**_
->
-
-Our goals:
-
-* To raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary threats.
-* To prepare for new custody technologies that break old models for custodianship.
-
-To accomplish these goals, we are creating a series of best-practices white papers and also offering a series of different workshops on these topics. We are additionally collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
-
-This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
-
-### The #SmartCustody Team
-
-[#SmartCustody](https://www.SmartCustody.com) is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security, and cryptographic research.
-
-The leads for these [#SmartCustody](https://www.SmartCustody.com) efforts are Christopher Allen ([@ChristopherA](https://twitter.com/ChristopherA)), Shannon Appelcline ([@Appelcline](https://twitter.com/Appelcline)), and Bryan Bishop ([@Kanzure](https://twitter.com/kanzure)). For more information see [Author Bios](#author-bios) at end of this white paper.
-
-The procedures and contents of this white paper have been comprehensively peer-reviewed by a number of experts in the digital-asset ecosystem, including contributors to open-source project like Bitcoin Core and [The Glacier Project](https://glacierprotocol.org/), employees of blockchain technology companies like Blockstream, Ledger, and Tokensoft, and attorneys from a variety of disciplines. We expect to iterate these procedures and update this document regularly as new digital asset technologies and best practices become mature.
-
-{pagebreak}
-
 ## Introduction
 
 Digital assets are only as safe as the procedures of their custodian. Many digital-asset holders don't practice minimal safety, and this could result in the loss of all of their Bitcoins, Ether, other digital currencies as well as non-fungible digital assets. The following procedures detail simple and practical setups that can be used as the foundation of safer digital-asset management. The base scenario requires just a few hours setup and then a semi-annual check to make sure everything remains secure.
@@ -892,17 +838,6 @@ _Incorrect transaction details leading to loss._  “I am the slightest error in
 ##### User Error
 
 _An operator mistake leading to loss._ “I’m that niggling mistake that wouldn’t be a major problem in most financial situations. I want you to make a typo or to use the wrong address, so that you don’t get your money or send it to the wrong place. I want you to lose your keys, so that you can’t recover your funds. I am all the anxieties you have about Bitcoin made real.”
-
-{pagebreak}
-
-{id: author-bios}
-## Author Bios
-
-**_Christopher Allen_** is an entrepreneur and technologist who specializes in collaboration, security, and trust. He worked with Netscape to develop SSL and co-authored the IETF TLS internet draft that is now at the heart of secure commerce on the World Wide Web. More recently, he was Principal Architect at Blockstream, where he led blockchain standards efforts. Christopher is today co-chair of the W3C Credentials CG working on standards for decentralized identity and founder of Blockchain Commons. He also founded and facilitates the semi-annual Rebooting the Web of Trust design workshops, which have generated over 40 collaborative white papers about the next generation of internet privacy, security, and identity software.
-
-**_Shannon Appelcline_** is a technical writer with expertise in blockchain, cryptocurrency, and digital identity who specializes in making technical concepts accessible. He has regularly written for Bitmark, Blockchain Commons, Blockstream, and Certicom, and his work has made the front page of Hackernoon. He is also the editor-in-chief for Rebooting the Web of Trust. In the non-technical sector, Shannon wrote a four-book history of the roleplaying field, _Designers & Dragons_, and recently co-authored _Meeples Together_, a study of cooperative game design, with Christopher.
-
-**_Bryan Bishop_** is a Bitcoin Core contributor and independent technology consultant. Bryan previously spent 4 years at LedgerX, the first CFTC- regulated bitcoin options exchange and clearinghouse. At LedgerX, he implemented an industry leading solution for the secure storage of digital assets and cryptographic keys protecting many millions of dollars. Bryan's background began in software, especially in web application development at various startups. Separately in his biotech activities, he co-founded the "Culture Shock" open-source electroporator project. Additionally, he serves on the technology working group and intellectual property working group for Genome Project-Write, an organization tasked with reducing the costs of human genome synthesis by 1000x within 10 years.
 
 [^1]: These items should ideally be sent to your work address or to a UPS or FedEx store for pickup, not a home address, so as not to correlate your Bitcoin holdings and your real name.
 
