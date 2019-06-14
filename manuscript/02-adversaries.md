@@ -2,7 +2,7 @@
 
 #### _Anthropomorphized risks for digital assets_
 
-***Version: 2019-04-26***
+**_Version: 2019-06-14 Release 1.0.0_**
 
 ## Introduction to Adversaries
 
