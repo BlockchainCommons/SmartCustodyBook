@@ -21,7 +21,7 @@ The base scenario presumes the following audience:
 
 This scenario suggests that a comprehensive cold-storage procedure would be the best practice to maintain and protect this holder's digital assets. Though simple, this scenario is also a foundation for more complex custodial procedures. It introduces many of the basic approaches for managing digital assets, explains their importance, and presents the adversaries that could steal or ruin the holder's digital assets.
 
-This scenario advocates the basic procedure to address nine major types of adversaries, while the optional procedures can help protect against five further adversaries. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in this scenario. See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries).
+This scenario advocates the basic procedure to address nine major types of adversaries, while the optional procedures can help protect against five further adversaries. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in this scenario. See **Adversaries**.
 
 For simplicity, this document focuses on Bitcoin, but is easily adaptable to other digital assets supported by our suggested hardware wallet.
 
@@ -65,7 +65,7 @@ Some additional processes for this scenario are offered as options—but be care
 
 The most notable of these adversaries may be "Systemic Network Attack", an adversary that is very problematic in hot-wallet scenarios, but largely nullified by removing private keys into cold storage. In many ways, it's the prime adversary overcome by this scenario.
 
-See [Appendix III: A Brief Overview of Digital-Asset Adversaries](#appendix-iii-a-brief-overview-of-digital-asset-adversaries) for a brief overview of the adversaries covered in this document, and _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_ for a more extensive list and discussion.
+See **Adversaries** for a more extensive list and discussion.
 
 ### Requirements
 
@@ -697,7 +697,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 {pagebreak}
 
-## Appendices
+## Custody Scenario Appendices
 
 {id: appendix-i-why-cold-storage}
 ### Appendix I: Why Cold Storage?
@@ -740,106 +740,6 @@ There may be some other 24-word keys or passwords at [storage location]. These m
 *[Discussion of non-digital assets or important accounts, such as brokerage and email accounts, may also be appropriate for such a letter.]*
 
 Signed, [Digital Asset Holder]
-
-{id: appendix-iii-a-brief-overview-of-digital-asset-adversaries}
-### Appendix III: A Brief Overview of Digital-Asset Adversaries
-
-When creating a scenario for protecting digital assets, a custodian makes choices in his procedures to address vulnerabilities to a specific set of adversaries.
-
-Our term “adversary” is slightly different from the more common term “risk” used by other security analysis models. By anthropomorphizing these threats, we can consider their motivations. This helps a custodian to gain some distance from the scenario by making it less personal; this makes it easier for him to determine which adversaries actually are of greater risk to him personally.
-
-Following is a brief summary of the fifteen adversaries (from a list of twenty-seven) that this particular scenario addresses. Additional categories of "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" adversaries are not strongly considered in the procedures offered by this scenario.
-
-For a complete list of digital-asset adversaries, along with motivations, abstract & historical case studies, risks, and potential process solutions for each, see _Adversaries — Case Studies for Securing Digital Assets Against Loss_ _(available late Spring 2019)_.
-
-#### CATEGORY: Loss by Acts of God
-
-_A loss that wasn’t caused by any intelligent attacker._
-
-{id: death--incapacitation}
-##### Death / Incapacitation
-
-_A mortal loss or disability that could endanger funds._ “I am your last firing neurons, and I seek to drag everything you ever knew down with you, into the darkness.”
-
-{id: denial-of-access}
-##### Denial of Access
-
-_Physical denial that prevents use of funds._ “I want to control your movements, to keep you from getting to your bank or to your house. As is often the case, I have a deeper motivation, but it probably has nothing to do with your cryptocurrency. Instead, my motives likely relate to an instability in your city, state, or country. I might be a riot, a political insurgency, or a popular uprising.”
-
-{id: disaster}
-##### Disaster
-
-_A sudden, large-scale destructive event._ “I want to destroy. I want to crumble and burn. I want to ruin with water, to blow things into the air. I am bombs, bullets, and explosions. I am sudden and unexpected but disastrous destruction.”
-
-#### CATEGORY: Loss by Computer Error
-
-_A loss caused by computer hardware or software._
-
-{id: bitrot}
-##### Bitrot
-
-_A hardware, software, or media failure leading to loss._ “I am entropy writ large. I want to break down your storage, crash your hard drives and degrade your optical media. I want to prevent your computers from booting, your programs from running, and your data from reading; in the end, I always win.”
-
-#### CATEGORY: Loss by Crime, Theft
-
-A loss caused by a criminal taking your keys (and thus funds) from you.
-
-{id: institutional-theft}
-##### Institutional Theft
-
-_A theft by a trusted institution or its employee._ “I pretend to be a good employee, but I’m always waiting for my chance for a great score. I want to sift through the goods entrusted to my company and to take the best for myself. However, I don’t want to be caught, so I need to be cautious in my larceny.”
-
-{id: internal-theft}
-##### Internal Theft
-
-_A theft by a trusted person such as an heir or executor._ “You trusted me with your private keys. I intend to violate that trust because I want to steal your funds for my own use. And, I’ll do my best to cover it up.”
-
-{id: network-attack-personal}
-##### Network Attack, Personal
-
-A personal online attack._ “I want to control your movements, to keep you from getting to your bank or to your house. As is often the case, I have a deeper motivation, but it probably has nothing to do with your cryptocurrency. Instead, my motives likely relate to an instability in your city, state, or country. I might be a riot, a political insurgency, or a popular uprising.”
-
-{id: network-attack-systemic}
-##### Network Attack, Systemic
-
-_A server online attack._ “I’m a big kahuna among hackers. I don’t go after your little bitcoin wallets, I go after the exchanges or other bitcoin sites instead. Nonetheless, you might just find yourself at a literal loss when I bankrupt the company holding your wallet.”
-
-{id: physical-theft-casual}
-##### Physical Theft, Casual
-
-_An opportunistic physical theft_ “I just want an easy score, and your house looks like it. Obviously, I’m taking your jewelry and your electronics. But, if you got a safe, I’ll try to take that too. I have no idea what I’ll do with it, or with the contents if I can get it open. If I see some weird numbers, I’ll probably just trash them.”
-
-{id: physical-theft-sophisticated}
-##### Physical Theft, Sophisticated
-
-_A purposeful physical theft of private keys._ “I know you have cryptocurrency and I want to steal your keys. I’m not a fancy hacker or email spoofer. Instead, I’m someone who can successfully stage a real-world crime. I’ll break into your house or your safety deposit box. Cut the music for my heist scene.”
-
-{id: supply-chain-attack}
-#### Supply-Chain Attack
-
-_A logistical theft._ “I’m the slyest of thieves because I worm my way into your life without your even knowing. I corrupt your hardware before it gets to you. My goal is to mess with your devices so that I can mess with your digital assets, and you may never figure out how I did it!”
-
-#### CATEGORY: Loss by Mistakes
-
-{id: key-fragility}
-##### Key Fragility
-
-_An accidental key loss._ “I am entropy writ small. All I need to do is mislay a digit or two from a ridiculously large number, and my job is done. Perhaps you could make my job easier by encoding or obscuring your key or by maintaining just a single copy; complexity and singularity both beget fragility in different ways..”
-
-{id: process-fatigue}
-##### Process Fatigue
-
-_Errors caused by the complexity of the overall procedure._ “I am laziness and exhaustion. I want to encourage you to skip the most time-consuming steps of a procedure, because they’re too much trouble. I want to introduce small errors as you go, because you’re tired of this repetitive yet mindful task. I want to turn your procedure against itself, so that the very process intended to protect your funds causes you to lose them.”
-
-{id: transaction-error}
-##### Transaction Error
-
-_Incorrect transaction details leading to loss._  “I am the slightest error in a transaction. I’m the script that can’t complete, the address that goes to the wrong place, or even the fee that wasn’t big enough. I want your transaction to do something that you don’t expect. I am startling results that are ultimately detrimental to you.”
-
-{id: user-error}
-##### User Error
-
-_An operator mistake leading to loss._ “I’m that niggling mistake that wouldn’t be a major problem in most financial situations. I want you to make a typo or to use the wrong address, so that you don’t get your money or send it to the wrong place. I want you to lose your keys, so that you can’t recover your funds. I am all the anxieties you have about Bitcoin made real.”
 
 [^1]: These items should ideally be sent to your work address or to a UPS or FedEx store for pickup, not a home address, so as not to correlate your Bitcoin holdings and your real name.
 
