@@ -76,7 +76,7 @@ Following are extensive descriptions of each adversary, covering their motives, 
 ***Definition.** A loss that wasn’t caused by any intelligent attacker.* An Act of God is something that just happens. You can’t prevent it, you can only make it less likely or insure that it damages you less if it occurs. 
 
 {float: right, width: "50%"}
-![](resources/image34.png){:width="400px"}
+![](resources/image34.png){:height="400px" width="400px"}
 
 ***Iconic Image.** Lightning strikes your computer.* When lightning suddenly (and surprisingly) hits your computer, it might destroy your only copy of your private keys. You can make this less likely by storing your computer somewhere that lightning is unlikely to strike, and you can reduce the damage by maintaining additional copies of your private keys, but no matter what, that lightning is coming down!
 
