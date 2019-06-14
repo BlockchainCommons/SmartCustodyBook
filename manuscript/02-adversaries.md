@@ -115,7 +115,7 @@ The lack of centralization and the high levels of anonymization for cryptocurren
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#section-6), [*Institutional Theft*](#adversary-institutional-theft).*
-2.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Hire a Lawyer.
+2.  **Cold Storage Scenario Optional Steps:** Hire a Lawyer.
 
 {pagebreak}
 
@@ -146,7 +146,7 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#section-6), [*Institutional Theft*](#adversary-institutional-theft).*
 2.  **Widely Separate Your Keys.** Maintain multiple physical representations of your master keys in places that are widely separated. Consider locales under different legal jurisdictions and with different physical risks.
-3.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Hire a Lawyer, Use Metal Enhancement (Redundant Metal Devices).
+3.  **Cold Storage Scenario Optional Steps:** Hire a Lawyer, Use Metal Enhancement (Redundant Metal Devices).
 
 *See Related — [*Censorship*](#_hcr2fbjga6nl).*
 
@@ -175,7 +175,7 @@ A sudden, large-scale destructive event can destroy copies of private keys. It i
 1.  **Fortify Your Key Storage.** Ensure that the physical representations of keys are protected against disaster. Write on waterproof paper or etch on fire-resistant steel or titanium. Use sturdy, fortified hardware devices that are more likely to survive disasters. Use fire-proof bags as an additional level of protection.
 2.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#section-6), [*Institutional Theft*](#adversary-institutional-theft).*
 3.  **Widely Separate Your Keys.** Maintain multiple physical representations of your master keys in places that are widely separated. Consider locales under different legal jurisdictions and with different physical risks.
-4.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use Bags (Fire-Resistant); Use Metal Enhancement (Redundant Metal Devices); Use a (Second) USB Drive.
+4.  **Cold Storage Scenario Optional Steps:** Use Bags (Fire-Resistant); Use Metal Enhancement (Redundant Metal Devices); Use a (Second) USB Drive.
 
 {pagebreak}
 
@@ -224,7 +224,7 @@ Electronic storage methods for private keys can become unusable over time. This 
 4.  **Rotate Your Key Storage.** Move your keys on to newer hardware as it becomes available. *Dangers: [*Correlation*](#adversary-correlation).*
 5.  **Verify & Rotate your Backups:** Make multiple backups of working operating files that are kept in different locations. Use alternating backups or consider a “[*Tower of Hanoi*](https://en.wikipedia.org/wiki/Backup_rotation_scheme#Tower_of_Hanoi)” rotation strategy. Be sure to verify your backups as part of a regular schedule.
 6.  **Verify Your Key Storage.** Regularly test your key storage to make sure that it’s still working. If a key storage method becomes inoperative, quickly replace it.
-7.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use a USB Drive; Use a (Second) USB Drive.
+7.  **Cold Storage Scenario Optional Steps:** Use a USB Drive; Use a (Second) USB Drive.
 
 *See Related — [*Key Fragility*](#section-16)*
 
@@ -309,7 +309,7 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 1.  **Create Tamper Evidence.** Store keys or other secret materials in tamper-evident bags; place padlocks on your Cryptosteel. *Dangers: [*Process Fatigue*](#adversary-process-fatigue).*
 2.  **Obscure or Protect Your Keys.** Store keys in an obscured way that would be readily obvious to the asset holder, but not to a thief. Alternatively, protect keys with a PIN or other code. *Dangers: [*Key Fragility*](#section-16).*
-3.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use Bags (Tamper-Evident), Seal Metal Tiles, Use Metal Enhancement (Redundant Metal Devices).
+3.  **Cold Storage Scenario Optional Steps:** Use Bags (Tamper-Evident), Seal Metal Tiles, Use Metal Enhancement (Redundant Metal Devices).
 
 ***Hot Wallet Solutions:***
 
@@ -345,7 +345,7 @@ A person trusted with private keys could steal funds. This might be an asset hol
 
 ***Cold Storage Solutions:***
 
-1.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Seal Metal Tiles, Use Bags (Tamper-Evident), Use Metal Enhancement (Redundant Metal Devices).
+1.  **Cold Storage Scenario Optional Steps:** Seal Metal Tiles, Use Bags (Tamper-Evident), Use Metal Enhancement (Redundant Metal Devices).
 
 {pagebreak}
 
@@ -390,7 +390,7 @@ A networked attack against an specific person or company’s cryptocurrency hold
 
 ***Cold Storage Solutions:***
 
-1.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use a USB Drive.
+1.  **Cold Storage Scenario Optional Steps:** Use a USB Drive.
 
 {pagebreak}
 
@@ -432,7 +432,7 @@ Users are usually most concerned about Personal Network Attacks which target the
 
 ***Cold Storage Solutions:***
 
-1.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use a (Second) USB Drive.
+1.  **Cold Storage Scenario Optional Steps:** Use a (Second) USB Drive.
 
 {pagebreak}
 
@@ -497,7 +497,7 @@ Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specific
 
 1.  **Create Tamper Evidence.** Store keys or other secret materials in tamper-evident bags; place padlocks on your Cryptosteel. *Dangers: [*Process Fatigue*](#adversary-process-fatigue).*
 2.  **Obscure or Protect Your Keys.** Store keys in an obscured way that would be readily obvious to the asset holder, but not to a thief. Alternatively, protect keys with a PIN or other code. *Dangers: [*Key Fragility*](#section-16).*
-3.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Use Bags (Tamper-Evident).
+3.  **Cold Storage Scenario Optional Steps:** Use Bags (Tamper-Evident).
 
 {pagebreak}
 
@@ -561,7 +561,7 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 ***Cold Storage Solutions:***
 
 1.  **Use Well-Known Hardware.** Ensure that any hardware used for your cold storage is manufactured by a well-known, well-trusted, and top-tier manufacturer.
-2.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Erase Your Ledger(s), Use a USB Drive.
+2.  **Cold Storage Scenario Optional Steps:** Erase Your Ledger(s), Use a USB Drive.
 
 {pagebreak}
 
@@ -863,7 +863,7 @@ A key may be lost because its complexity makes it innately prone to loss. This c
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#section-6), [*Institutional Theft*](#adversary-institutional-theft).*
-2.  **[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:** Use Metal Enhancement (Redundant Metal Devices); Use a (USB) Laser Printer.
+2.  **Cold Storage Scenario Optional Steps:** Use Metal Enhancement (Redundant Metal Devices); Use a (USB) Laser Printer.
 
 *See Related — [*Bitrot*](#_l760ztwakmh4), [*Transaction Error*](#adversary-transaction-error), [*User Error*](#adversary-user-error)*
 
@@ -976,7 +976,7 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 4.  **Verify Your Keys.** Test that your key is correct by signing and verifying a test message using your key. If you’re really paranoid, create a test transaction using your private key or create and send a small transaction from your funds. *Dangers: [*Correlation*](#adversary-correlation).*
 5.  **Verify Your Transactions.** Double-check the recipient addresses for any transactions. Make sure the change address really belongs to you. Make sure that the fee looks rational. Validate the transaction on testnet to verify it.
 
-****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** None.
+**Cold Storage Scenario Optional Steps:** None.
 
 *See Related — [*Key Fragility*](#section-16), [*Transaction Error*](#adversary-transaction-error)*
 
