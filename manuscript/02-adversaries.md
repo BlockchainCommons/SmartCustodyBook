@@ -583,7 +583,7 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 ### Adversary: Blackmail
 
 {float: right, width: "50%"}
-![](resources/image8.png){width="3.625in" height="3.6944444444444446in"}
+![](resources/image8.png)
 
 ***Motivation.** “I’m holding something hostage. Perhaps I know something about you that you want to remain private. Perhaps I’ve encrypted your data or stolen your information. The point is, I’m going to do something very bad with what I’m holding unless you give me what I want. And what I want is money! Delivered to an anonymous account, of course.”*
 
@@ -751,11 +751,11 @@ Just like any other asset, cryptocurrency can be subject to legal forfeiture. Th
 
 {pagebreak}
 
-{id: adversary-nation-state-actorr}
+{id: adversary-nation-state-actor}
 ### Adversary: Nation-State Actor
 
 {float: right, width: "50%"}
-![](resources/image33.png){width="3.638888888888889in" height="3.75in"}
+![](resources/image33.png)
 
 ***Motivation.** “I am the all-powerful state. I can do whatever I want to my citizens. I can surveil, I can seize. I can imprison, I can threaten. I can make their lives so awful that cryptocurrency is the least of their concerns. However, I am hopefully bound by laws and morality: if my citizens obey the rules and don’t interact with criminals, and if I am truly a law-abiding nation, then they have nothing to worry about. I just want to keep my nation and its people safe.”*
 
@@ -915,7 +915,7 @@ A digital-asset process can be so complicated that it causes errors in the proce
 
 {pagebreak}
 
-{id: adversary-transaction-errorr}
+{id: adversary-transaction-error}
 ### Adversary: Transaction Error
 
 {float: right, width: "50%"}
@@ -960,7 +960,7 @@ The fundamental issue is lack of transparency in the address itself and in the o
 
 {pagebreak}
 
-{id: adversary-user-errror}
+{id: adversary-user-error}
 ### Adversary: User Error
 
 {float: right, width: "50%"}
@@ -1012,6 +1012,7 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 {pagebreak}
 
+{id: adversary-censorship}
 ### Adversary: Censorship
 
 {float: right, width: "50%"}
