@@ -56,7 +56,7 @@ Some additional processes for this scenario are offered as options—but be care
 2. [Transaction Error](#adversary-transaction-error) — _incorrect transaction details leading to loss_
 3. [User Error](#adversary-user-error) — _an operator mistake leading to loss_
 4. [System Network Attack](#adversary-network-attack-systemic) — _a server online attack_
-5. [Death / Incapacitation](#adversary-adversary-death--incapacitation) — _a mortal loss or disability that could endanger funds_
+5. [Death / Incapacitation](#adversary-death--incapacitation) — _a mortal loss or disability that could endanger funds_
 6. [Disaster](#adversary-disaster) — _a sudden, large-scale destructive event_
 7. [Personal Network Attack](#adversary-network-attack-personal) — _a personal online attack_
 8. [Denial of Access](#adversary-denial-of-access) — _physical denial that prevents use of funds_
@@ -116,7 +116,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
         3. Have the safety deposit box be in both person's names.[^7]
 
 #### **B. Setup Computer** [^8]
-1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#network-attack-personal).*
+1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
 2. _This optional action is omitted in this basic procedure._
 3. _This optional action is omitted in this basic procedure._
 4. ⎕ Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
@@ -311,7 +311,7 @@ _Each optional step addresses certain adversaries, but adding them ultimately ad
 * Use Metal Alternative (Cryptosteel) — alternative for [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 * Use Metal Alternative (Steel Tile & Engraver) — alternative for [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 * Use Metal Enhancement (Redundant Metal Devices) — for [Denial of Access](#adversary-denial-of-access), [Disaster](#adversary-disaster), [Institutional Theft](#adversary-institutional-theft), [Key Fragility](#adversary-key-fragility)
-* Use a USB Drive — for [Bitrot](#adversary-bitrot), [Personal Network Attack](#network-attack-personal)
+* Use a USB Drive — for [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal)
 * Use a (Second) USB Drive — for [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster)
 
 See _Securing Digital Assets: Adversaries_ (available late spring 2019) for a full discussion of adversaries. The following adversaries appear for the first time in this section:
@@ -584,11 +584,11 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 * TWO extra Steel or Titanium Tiles; or TWO extra Cryptosteels; or TWO extra CryptoTags.
 
 ### ⎕ Optional Step: Use a USB Drive[^25]
-**Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Personal Network Attack](#network-attack-personal), [Supply-Chain Attack](#adversary-supply-chain-attack)
+**Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
 **Created Adversary:** [Process Fatigue](#adversary-process-fatigue), [User Error](#adversary-user-error)
 
-_Your main computer is constantly being updated, and it's quite possible that are some point it'll be updated to a version that no longer works with your cryptocurrency software. This is particularly dangerous when you're using open-source software whose maintenance has degenerated or proprietary software whose company has disappeared. To offset the danger of [Bitrot](#adversary-bitrot), you can preserve the operating system that you use for cryptocurrency work on a USB Drive, and boot from it whenever you plan to send or receive money. This can also offset some [Personal Network Attack](#network-attack-personal) dangers, because your cryptocurrency OS will be used infrequently, shielding you from malware. Similarly, it can somewhat reduce the likelihood of a supply-chain attack, if you're using an OS you installed on a USB, as opposed to the one that came with the computer._
+_Your main computer is constantly being updated, and it's quite possible that are some point it'll be updated to a version that no longer works with your cryptocurrency software. This is particularly dangerous when you're using open-source software whose maintenance has degenerated or proprietary software whose company has disappeared. To offset the danger of [Bitrot](#adversary-bitrot), you can preserve the operating system that you use for cryptocurrency work on a USB Drive, and boot from it whenever you plan to send or receive money. This can also offset some [Personal Network Attack](#adversary-network-attack-personal) dangers, because your cryptocurrency OS will be used infrequently, shielding you from malware. Similarly, it can somewhat reduce the likelihood of a supply-chain attack, if you're using an OS you installed on a USB, as opposed to the one that came with the computer._
 
 _The downside of using a USB Drive is that it requires both a fair amount of work to setup and more technical sophistication on the part of the holder than the base scenario: expect at least an hour of additional time, with a somewhat advanced procedure. And, it's a bit of a pain to have to boot it up everytime you want to do anything with your digital assets. These elements can add [Process Fatigue](#adversary-process-fatigue) and [User Error](#adversary-user-error)._
 
@@ -615,9 +615,9 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 ### ⎕ Optional Step: Use a (Second) USB Drive
 
-**Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster), [Systemic Network Attack](#network-attack-systemic)
+**Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster), [Systemic Network Attack](#adversary-network-attack-systemic)
 
-_If you already "Use a USB Drive", you may want to double-up with a second copy. Any usage of a secondary electronic device can protect against [Bitrot](#adversary-bitrot): since you'll be updating your first USB drive in spring and this second USB drive in fall, if a problem arises with an upgrade, you'll still have a clean copy of the OS on your other drive. Similarly, if a operating system is compromised by [Systemic Network Attack](#network-attack-systemic), you have a backup._
+_If you already "Use a USB Drive", you may want to double-up with a second copy. Any usage of a secondary electronic device can protect against [Bitrot](#adversary-bitrot): since you'll be updating your first USB drive in spring and this second USB drive in fall, if a problem arises with an upgrade, you'll still have a clean copy of the OS on your other drive. Similarly, if a operating system is compromised by [Systemic Network Attack](#adversary-network-attack-systemic), you have a backup._
 
 **_Add the following step "K" to your procedure:_**
 
