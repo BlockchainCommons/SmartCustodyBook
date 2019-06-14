@@ -73,7 +73,10 @@ Following are extensive descriptions of each adversary, covering their motives, 
 
 ***Origin.** Bad luck.*
 
-***Definition.** A loss that wasn’t caused by any intelligent attacker.* An Act of God is something that just happens. You can’t prevent it, you can only make it less likely or insure that it damages you less if it occurs. ![](resources/image34.png)
+***Definition.** A loss that wasn’t caused by any intelligent attacker.* An Act of God is something that just happens. You can’t prevent it, you can only make it less likely or insure that it damages you less if it occurs. 
+
+{float: right, width: "50%"}
+![](resources/image34.png)
 
 ***Iconic Image.** Lightning strikes your computer.* When lightning suddenly (and surprisingly) hits your computer, it might destroy your only copy of your private keys. You can make this less likely by storing your computer somewhere that lightning is unlikely to strike, and you can reduce the damage by maintaining additional copies of your private keys, but no matter what, that lightning is coming down!
 
@@ -107,20 +110,19 @@ The lack of centralization and the high levels of anonymization for cryptocurren
 
 1.  **Register Your Funds.** Register and document your funds fully with your nation-state to maximize legal protections. *Dangers: [*Legal Forfeiture*](#adversary-legal-forfeiture), [*Nation-State Actor*](#_r30mkanx1jnw).*
 2.  **Redundantly Relay Your Secrets.** Tell someone else the secrets required to unobscure or unprotect your private keys or to access your funds. *Dangers: [*Internal Theft*](#adversary-internal-theft).*
-
 3.  **Reveal Your Funds.** Write a letter to your heirs or guardians and be explicit about the existence of your funds. Include instructions on how to access them. Provide information about the necessary passwords or PINs to unlock the private keys. Safely store this letter with a very trusted person, such as your estate lawyer, or in a very trusted place, such as a safety-deposit box. *Dangers: [*Internal Theft*](#adversary-internal-theft), [*Institutional Theft*](#adversary-institutional-theft).*
 
 ***Cold Storage Solutions:***
 
 1.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#section-6), [*Institutional Theft*](#adversary-institutional-theft).*
-
 2.  ****[Cold Storage Scenario](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) Optional Steps:**** Hire a Lawyer.
 
 ### Adversary: Denial of Access
 
 ***Motivation.** “I want to control your movements, to keep you from getting to your bank or to your house. As is often the case, I have a deeper motivation, but it probably has nothing to do with your cryptocurrency. Instead, my motives likely relate to an instability in your city, state, or country. I might be a riot, a political insurgency, or a popular uprising.”*
 
-![](resources/image11.png){width="3.638888888888889in" height="3.638888888888889in"}
+{float: right, width: "50%"}
+![](resources/image11.png)
 
 ***Alternative Categories:** Crime, Misc.*
 
@@ -150,7 +152,10 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 
 ### Adversary: Disaster
 
-***Motivation.** “I want to destroy. I want to crumble and burn. I want to ruin with water, to blow things into the air. I am bombs, bullets, and explosions. I am sudden and unexpected but disastrous destruction.”*![](resources/image20.png){width="3.638888888888889in" height="3.2916666666666665in"}
+***Motivation.** “I want to destroy. I want to crumble and burn. I want to ruin with water, to blow things into the air. I am bombs, bullets, and explosions. I am sudden and unexpected but disastrous destruction.”*
+
+{float: right, width: "50%"}
+![](resources/image20.png)
 
 ***Key Words:** Cold Storage, Physical.*
 
@@ -176,7 +181,10 @@ A sudden, large-scale destructive event can destroy copies of private keys. It i
 
 ***Origin.** Computers & software.*
 
-***Definition.** A loss caused by computer hardware or software.* All cryptocurrency depends upon computers, but they can let you down when their hardware or software fails, due to poor production, poor programming, or just poor luck (which would be a Loss by Computer Error caused by Act of God).![](resources/image29.png){width="3.625in" height="4.291666666666667in"}
+***Definition.** A loss caused by computer hardware or software.* All cryptocurrency depends upon computers, but they can let you down when their hardware or software fails, due to poor production, poor programming, or just poor luck (which would be a Loss by Computer Error caused by Act of God).
+
+{float: right, width: "50%"}
+![](resources/image29.png)
 
 ***Iconic Image.** Smoke billowing up from a computer.* A dying computer is the most evocative example of computer error, but Loss by Computer Error could be caused by the quieter destruction of aging parts or the simple incompatibility of obsolescence. Similarly, you could have smoke (metaphorically) billowing up from a computer program, which failed to do what it should do due to programmer error.
 
@@ -190,7 +198,8 @@ A sudden, large-scale destructive event can destroy copies of private keys. It i
 
 ***Key Words:** Cold Storage, Technological.*
 
-![](resources/image7.png){width="3.638888888888889in" height="3.638888888888889in"}
+{float: right, width: "50%"}
+![](resources/image7.png)
 
 Electronic storage methods for private keys can become unusable over time. This could be a physical hardware problem: hard drives can crash or old computers can fail. It could be an issue with electronic storage media: USB flash drives are often cheaply made, while optical media can fail in a relatively short amount of time depending on its specific manufacture. It could be a problem with aging software: a new version of software might have a bug or might not work like old software, a hardware device might have its software fail over time, or a new computer might no longer be able to run an old, required piece of software. It could be a time-related hardware incompatibility: old media may no longer be readable on new devices, or old plugs may not fit into new ports.
 
@@ -203,7 +212,6 @@ Electronic storage methods for private keys can become unusable over time. This 
 ***Risks:***
 
 1.  **Key Destruction.** Some of the more disastrous forms of bitrot result in the total annihilation of the key.
-
 2.  **Key Loss.** In other cases, the key might still be on the hardware, but if the hardware doesn’t boot or if the software doesn’t run, it’s nonetheless lost.
 
 ***Cold Storage Solutions:***
@@ -224,7 +232,8 @@ Electronic storage methods for private keys can become unusable over time. This 
 
 ***Motivation.** “I lie in wait. I want you to think that your keys were generated correctly, but after you’ve turned your attention to other things, I will spring my surprise. I am the best pal of hackers and crooks, who use my exploits to steal your money.”*
 
-![](resources/image21.png){width="3.638888888888889in" height="3.638888888888889in"}
+{float: right, width: "50%"}
+![](resources/image21.png)
 
 ***Alternative Category:** Mistakes.*
 
@@ -257,7 +266,10 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 
 ***Origin.** Thieves.*
 
-***Definition.** A loss caused by a criminal taking your keys (and thus funds) from you.* Explicit theft is what most cryptocurrency holders are worried about, though it might not actually be the most common cause of loss. There can be a number of different sorts of Theft, differing based on who is doing the stealing (an anonymous thief or a trusted friend) and how they’re doing the theft (by network, physically, or by a confidence scheme).![](resources/image32.png){width="3.625in" height="3.3055555555555554in"}
+***Definition.** A loss caused by a criminal taking your keys (and thus funds) from you.* Explicit theft is what most cryptocurrency holders are worried about, though it might not actually be the most common cause of loss. There can be a number of different sorts of Theft, differing based on who is doing the stealing (an anonymous thief or a trusted friend) and how they’re doing the theft (by network, physically, or by a confidence scheme).
+
+{float: right, width: "50%"}
+![](resources/image32.png)
 
 ***Iconic Image.** A masked burglar taking keys from a safe.* Our iconic image of theft is drawn from heist movies, but more often Theft occurs as a result of a sophisticated network attack where the thief is never anywhere near your physical key storage.
 
@@ -267,7 +279,10 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 
 ### Adversary: Institutional Theft
 
-***Motivation.** “I pretend to be a good employee, but I’m always waiting for my chance for a great score. I want to sift through the goods entrusted to my company and to take the best for myself. However, I don’t want to be caught, so I need to be cautious in my larceny.”*![](resources/image4.png){width="3.638888888888889in" height="3.638888888888889in"}
+***Motivation.** “I pretend to be a good employee, but I’m always waiting for my chance for a great score. I want to sift through the goods entrusted to my company and to take the best for myself. However, I don’t want to be caught, so I need to be cautious in my larceny.”*
+
+{float: right, width: "50%"}
+![](resources/image4.png)
 
 ***Key Words:** Active.*
 
@@ -303,7 +318,10 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 ### Adversary: Internal Theft
 
-***Motivation.** “You trusted me with your private keys. I intend to violate that trust because I want to steal your funds for my own use. And, I’ll do my best to cover it up.”*![](resources/image13.png){width="3.638888888888889in" height="3.1666666666666665in"}
+***Motivation.** “You trusted me with your private keys. I intend to violate that trust because I want to steal your funds for my own use. And, I’ll do my best to cover it up.”*
+
+{float: right, width: "50%"}
+![](resources/image13.png)
 
 ***Key Words:** Active.*
 
@@ -337,7 +355,8 @@ A person trusted with private keys could steal funds. This might be an asset hol
 
 ***Key Words:** Active, Hot Wallet, Technological.*
 
-![](resources/image24.png){width="3.638888888888889in" height="2.3333333333333335in"}
+{float: right, width: "50%"}
+![](resources/image24.png)
 
 A networked attack against an specific person or company’s cryptocurrency holdings. A hacker may eavesdrop or change data on a site or *en route* to a site. For Bitcoin transactions, they might try to change the recipient of a transaction or they might try to access the credentials of the asset holder, so that they can generate a transaction as they see fit. They could also try to hack into the site where the private keys are held.
 
@@ -381,7 +400,8 @@ A networked attack against an specific person or company’s cryptocurrency hold
 
 ***Key Words:** Active, Hot Wallet, Technological.*
 
-![](resources/image23.png){width="3.638888888888889in" height="3.1805555555555554in"}
+{float: right, width: "50%"}
+![](resources/image23.png)
 
 Users are usually most concerned about Personal Network Attacks which target them directly; due to the decentralized nature of Bitcoin, each user is their own last line of defense. However, hackers might instead decide to go after the companies that users are working with. This is both a big danger, because it’s been a prime source for Bitcoin intrusions, and a big problem, because the user doesn’t have any control over this level of infrastructure.
 
@@ -420,7 +440,8 @@ Users are usually most concerned about Personal Network Attacks which target the
 
 ***Key Words:** Active, Cold Storage, Physical.*
 
-![](resources/image22.png){width="3.638888888888889in" height="3.0833333333333335in"}
+{float: right, width: "50%"}
+![](resources/image22.png)
 
 An entirely opportunistic real-world theft could, by chance, scoop up private keys. This is typically a burglary or a robbery that results in the acquisition of a computer device or safe that happens to contain private keys, but which weren’t the motivation for the theft. Casual Theft often results in denial rather than loss.
 
@@ -450,7 +471,8 @@ An entirely opportunistic real-world theft could, by chance, scoop up private ke
 
 ***Key Words:** Active, Cold Storage, Physical.*
 
-![](resources/image14.png){width="3.638888888888889in" height="3.1666666666666665in"}
+{float: right, width: "50%"}
+![](resources/image14.png)
 
 Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specifically targets cryptocurrency keys. They could be going after computers, hardware wallets, CryptoTags, or some other storage that contains a key.
 
@@ -481,7 +503,10 @@ Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specific
 
 ***Motivation.** “I’m the thief who doesn’t get my hands dirty. Instead, I’m a confidence man who tricks you into doing my dirty work for me. Maybe I talk with you in person or on the phone, or maybe I steal in bulk by spamming out phishing messages. In either case, my goal is to get access to your credentials or your computer and go from there.”*
 
-***Key Words:** Active.*![](resources/image1.png){width="3.625in" height="2.3055555555555554in"}
+{float: right, width: "50%"}
+![](resources/image1.png)
+
+***Key Words:** Active.*
 
 The in-person confidence man is largely gone, but everyone in the modern world is constantly barraged by fake tech-support calls and phishing emails that attempt to trick us into either revealing our logins and passwords or else installing malware on our machines. From there, the social engineers can roll out keyloggers, jump into accounts, and drain cryptocurrency funds.
 
@@ -509,6 +534,7 @@ The in-person confidence man is largely gone, but everyone in the modern world i
 
 ***Motivation.** “I’m the slyest of thieves because I worm my way into your life without your even knowing. I corrupt your hardware before it gets to you. My goal is to mess with your devices so that I can mess with your digital assets, and you may never figure out how I did it!”*
 
+{float: right, width: "50%"}
 ![](resources/image9.png){width="3.625in" height="3.75in"}
 
 ***Key Words:** Active, Physical, Technological.*
@@ -541,7 +567,10 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 
 ***Origin.** Criminals.*
 
-***Definition.** A loss caused by some criminal act other than explicit theft.* Some crimes go larger scale, threatening you and yours, rather than just taking your money without your involvement. Alternatively, some crimes go in different directions, criminally depriving you of your cryptocurrency without the criminals taking it for themselves.![](resources/image30.png)
+***Definition.** A loss caused by some criminal act other than explicit theft.* Some crimes go larger scale, threatening you and yours, rather than just taking your money without your involvement. Alternatively, some crimes go in different directions, criminally depriving you of your cryptocurrency without the criminals taking it for themselves.
+
+{float: right, width: "50%"}
+![](resources/image30.png)
 
 ***Iconic Image.** A man in a long overcoat with a gun.* Just as most people fear theft over other types of cryptocurrency loss, they really fear violence leading to theft, which is the main sort of escalated crime that is found in this listing of other criminal attacks.
 
@@ -553,9 +582,10 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 
 ***Motivation.** “I’m holding something hostage. Perhaps I know something about you that you want to remain private. Perhaps I’ve encrypted your data or stolen your information. The point is, I’m going to do something very bad with what I’m holding unless you give me what I want. And what I want is money! Delivered to an anonymous account, of course.”*
 
-***Key Words:** Active.*
-
+{float: right, width: "50%"}
 ![](resources/image8.png){width="3.625in" height="3.6944444444444446in"}
+
+***Key Words:** Active.*
 
 Blackmail is ultimately a second-tier crime. The criminal has already gotten something you want, whether it be something he stole or just his silence. Now, he wants to convert that item into money. He’s chosen cryptocurrency as his payment method because it’s harder to trace it to a real person. Maybe he knows you have cryptocurrency, and that makes you a particularly juicy target. Or maybe he doesn’t care. To date, the most well-known internet Blackmail schemes have tended to be assembly-line productions, involving phishing emails or worms sent to lots of users: like spam, they’ve succeeded based solely on volume.
 
@@ -585,7 +615,8 @@ The difference between Blackmail and Coercion is that Blackmail tends to be less
 
 ***Motivation.** “I know you have cryptocurrency. Well, I’ve got power in the real world. I can threaten you, your family, your friends, your home, or your business — and, I can follow through on those threats! I want to get what you have, and I’m going to force you to give it to me by any means necessary.”*
 
-![](resources/image12.png){width="3.638888888888889in" height="2.0833333333333335in"}
+{float: right, width: "50%"}
+![](resources/image12.png)
 
 ***Key Words:** Active, Physical.*
 
@@ -621,7 +652,8 @@ The difference between Blackmail and Coercion is that Coercion tends to be less 
 
 ***Motivation.** “I don’t care about your money, but I’ll still going to mess with you. Maybe I’m your enemy, who wants revenge or to out you in some way. Maybe you just have something I want — be it an artifact, a job, or some knowledge. The key is: I know who you are, I know what you have, and I want to use that knowledge as a lever for my own purposes.”*
 
-![](resources/image6.png){width="3.638888888888889in" height="3.638888888888889in"}
+{float: right, width: "50%"}
+![](resources/image6.png)
 
 ***Key Words:** Active.*
 
@@ -649,7 +681,8 @@ Nature is the ultimate non-financially motivated attacker. It introduces pure ch
 
 ***Motivation.** “I want your money and I am willing to kill, maim, or destroy to get it. Plus, I’ve got a reputation to uphold. If you force me to, I will* have *to do bad stuff. I ain’t worried about the legal repercussions, because I’m already subverting the whole system.”*
 
-![](resources/image19.png){width="3.638888888888889in" height="3.0416666666666665in"}
+{float: right, width: "50%"}
+![](resources/image19.png)
 
 ***Key Words:** Active, Physical.*
 
@@ -669,11 +702,16 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 
 *See Related — [*Blackmail*](#adversary-blackmail), [*Coercion*](#section-11)*
 
+{pagebreak}
+
 ## Category: Loss by Government
 
 ***Origin.** Government.*
 
-***Definition.** A loss caused by the government exerting its sovereign rights.* The government can just take your money if they want, perhaps by arbitrary edict, perhaps through espionage, perhaps as part of a legal process.![](resources/image31.png)
+***Definition.** A loss caused by the government exerting its sovereign rights.* The government can just take your money if they want, perhaps by arbitrary edict, perhaps through espionage, perhaps as part of a legal process.
+
+{float: right, width: "50%"}
+![](resources/image31.png)
 
 ***Iconic Image.** A man in black, wearing sunglasses.* Many people turn to cryptocurrency due to a loss of faith in the government, symbolized by the iconic men in black, who spies on the government’s citizens. However, it’s much more likely that you could lose your money in a court case, when the judge hands down a verdict.
 
@@ -685,7 +723,8 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 
 ***Motivation.** “I desire your funds, please, but only because I am rightfully owed them. You violated a contract, neglected to pay a bill, or were held liable for a tort. So, pay up.”*
 
-![](resources/image5.png){width="3.638888888888889in" height="2.6805555555555554in"}
+{float: right, width: "50%"}
+![](resources/image5.png)
 
 ***Key Words:** Active.*
 
@@ -709,6 +748,7 @@ Just like any other asset, cryptocurrency can be subject to legal forfeiture. Th
 
 ***Motivation.** “I am the all-powerful state. I can do whatever I want to my citizens. I can surveil, I can seize. I can imprison, I can threaten. I can make their lives so awful that cryptocurrency is the least of their concerns. However, I am hopefully bound by laws and morality: if my citizens obey the rules and don’t interact with criminals, and if I am truly a law-abiding nation, then they have nothing to worry about. I just want to keep my nation and its people safe.”*
 
+{float: right, width: "50%"}
 ![](resources/image33.png){width="3.638888888888889in" height="3.75in"}
 
 ***Key Words:** Active.*
@@ -749,7 +789,10 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 ***Origin.** YOU.*
 
-***Definition.** A loss caused by the user making an error.* The most dangerous threat to your cryptocurrency is probably *you*. Most often this is the result of your making an easy but uncorrectable error, but it could also be due purposefully deciding not to follow the most secure procedures.![](resources/image28.png)
+***Definition.** A loss caused by the user making an error.* The most dangerous threat to your cryptocurrency is probably *you*. Most often this is the result of your making an easy but uncorrectable error, but it could also be due purposefully deciding not to follow the most secure procedures.
+
+{float: right, width: "50%"}
+![](resources/image28.png)
 
 ***Iconic Image.** A man with head on keyboard, weeping.* The worst thing about a Loss by Mistake is that it’s your fault: there’s no one else to blame. And, there’s often nothing that you can do about it afterward.
 
@@ -757,7 +800,10 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 ### Adversary: Convenience
 
-***Motivation.** “I know that you want things to be simple. I encourage that. Life should be easy. Don’t use that tamper-evident bag. Don’t keep your safety deposit box in another state, away from California’s fault lines. And if you’re going on a trip, definitely ease up on the security of your bitcoins, so that you can access them from the road. I’m sure nothing bad can happen from all of this ease of use!”*![](resources/image18.png){width="3.638888888888889in" height="3.638888888888889in"}
+***Motivation.** “I know that you want things to be simple. I encourage that. Life should be easy. Don’t use that tamper-evident bag. Don’t keep your safety deposit box in another state, away from California’s fault lines. And if you’re going on a trip, definitely ease up on the security of your bitcoins, so that you can access them from the road. I’m sure nothing bad can happen from all of this ease of use!”*
+
+{float: right, width: "50%"}
+![](resources/image18.png)
 
 ***Key Words:*** *Passive.*
 
@@ -787,9 +833,12 @@ Convenience can be the bane of any security procedure. It could be due to sheer 
 
 ***Motivation.** “I am entropy writ small. All I need to do is mislay a digit or two from a ridiculously large number, and my job is done. Perhaps you could make my job easier by encoding or obscuring your key or by maintaining just a single copy; complexity and singularity both beget fragility in different ways..”*
 
+{float: right, width: "50%"}
+![](resources/image25.png)
+
 ***Alternative Categories:** Computer Error.*
 
-***Key Words:** Cold Storage, Passive, Technological.*![](resources/image25.png){width="3.638888888888889in" height="3.4722222222222223in"}
+***Key Words:** Cold Storage, Passive, Technological.*
 
 A key may be lost because its complexity makes it innately prone to loss. This could be a physical loss, where the physical representation of the key is accidentally lost, misplaced, or destroyed. It could be a computer error, where a disk lost a file or a backup became unreliable. It could be a corruption at key generation; a scribing error, where the wrong key was written down; or a recovery corruption where the wrong key is recreated from an external source. When key storage is obscured or protected, it might not be the key itself that is lost, but instead the method to unobscure the key or the code to decode it.
 
@@ -820,7 +869,10 @@ A key may be lost because its complexity makes it innately prone to loss. This c
 
 ### Adversary: Process Fatigue
 
-***Motivation.** “I am laziness and exhaustion. I want to encourage you to skip the most time-consuming steps of a procedure, because they’re too much trouble. I want to introduce small errors as you go, because you’re tired of this repetitive yet mindful task. I want to turn your procedure against itself, so that the very process intended to protect your funds causes you to lose them.”*![](resources/image26.png){width="3.638888888888889in" height="3.486111111111111in"}
+***Motivation.** “I am laziness and exhaustion. I want to encourage you to skip the most time-consuming steps of a procedure, because they’re too much trouble. I want to introduce small errors as you go, because you’re tired of this repetitive yet mindful task. I want to turn your procedure against itself, so that the very process intended to protect your funds causes you to lose them.”*
+
+{float: right, width: "50%"}
+![](resources/image26.png)
 
 ***Key Words:** Passive.*
 
@@ -855,7 +907,10 @@ A digital-asset process can be so complicated that it causes errors in the proce
 
 ***Alternative Categories:** Computer Error.*
 
-***Key Words:** Passive, Technological.*![](resources/image15.png){width="3.638888888888889in" height="3.25in"}
+***Key Words:** Passive, Technological.*
+
+{float: right, width: "50%"}
+![](resources/image15.png)
 
 Errors introduced into a transaction can lead to the loss of some or all funds. Though it is hard to simply mistype an address in Bitcoin, due to error-checking, there are other potential threats. A Transaction Error could be due to an Personal Network Attack (where an attacker substituted an address), or it could be due to system error (where a system produced an incorrect address).
 
@@ -894,7 +949,8 @@ The fundamental issue is lack of transparency in the address itself and in the o
 
 ***Motivation.** “I’m that niggling mistake that wouldn’t be a major problem in most financial situations. I want you to make a typo or to use the wrong address, so that you don’t get your money or send it to the wrong place. I want you to lose your keys, so that you can’t recover your funds. I am all the anxieties you have about Bitcoin made real.”*
 
-![](resources/image2.png){width="3.638888888888889in" height="3.638888888888889in"}
+{float: right, width: "50%"}
+![](resources/image2.png)
 
 ***Key Words:** Passive.*
 
@@ -926,7 +982,10 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 ***Origin.** Society.*
 
-***Definition.** A problem that costs you privacy, or a problem created by a lack of privacy.* Privacy problems come in two parts. First, you can lose privacy through various means (such as Correlation), and second that lack of privacy can cause you other problems (like Censorship or even the various Criminal acts discussed herein). The adversaries in this category encompass both of these possibilities.![](resources/image27.png)
+***Definition.** A problem that costs you privacy, or a problem created by a lack of privacy.* Privacy problems come in two parts. First, you can lose privacy through various means (such as Correlation), and second that lack of privacy can cause you other problems (like Censorship or even the various Criminal acts discussed herein). The adversaries in this category encompass both of these possibilities.
+
+{float: right, width: "50%"}
+![](resources/image27.png)
 
 ***Iconic Image.** A man hiding his nakedness with his hands.* Loss of privacy is innately embarrassing, but its problems can go far beyond that.
 
@@ -936,7 +995,10 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 ***Motivation.** “I don’t want your money, I just want to make sure you can’t have it. But, I have a deeper motivation than that. Maybe I’m threatening you, maybe I’m blackmailing you, and maybe I’m getting my revenge. Whatever the case, I personally know you, I know you have cryptocurrency, and I’m making sure that you can’t use it.”*
 
-***Alternative Categories:** Loss by Crime, Misc.*![](resources/image17.png){width="3.638888888888889in" height="3.3055555555555554in"}
+{float: right, width: "50%"}
+![](resources/image17.png)
+
+***Alternative Categories:** Loss by Crime, Misc.*
 
 ***Key Words:** Active, Technological.*
 
@@ -966,7 +1028,10 @@ An entity or a consortium of entities can potentially prevent an asset holder fr
 
 ### Adversary: Correlation
 
-***Motivation.** “I want information. I watch cryptocurrency transactions with an eagle eye, ready to swoop in on any mistake. If you keep making the same payments or receiving the same payments or using the same addresses, I’ll figure it out. I want to connect the dots to determine who is spending cryptocurrency for what, and I can figure that puzzle out if you give me enough pieces.”*![](resources/image3.png){width="3.638888888888889in" height="3.638888888888889in"}
+***Motivation.** “I want information. I watch cryptocurrency transactions with an eagle eye, ready to swoop in on any mistake. If you keep making the same payments or receiving the same payments or using the same addresses, I’ll figure it out. I want to connect the dots to determine who is spending cryptocurrency for what, and I can figure that puzzle out if you give me enough pieces.”*
+
+{float: right, width: "50%"}
+![](resources/image17.png)![](resources/image3.png)
 
 ***Key Words:** Active, Technological.*
 
@@ -997,7 +1062,8 @@ Cryptocurrency use is pseudo-anonymous and somewhat private. However, it’s not
 
 ***Motivation.** “I want to figure out how your cryptocurrency has been used in the past. That way, I can decide whether to accept your funds based on their history. Maybe they were used for criminal activities or maybe they were stolen; I don’t want to accept those tainted funds. Or maybe they were owned by someone I don’t like, and I’m trying to punish people for transacting with them. Whatever the reason, it’s vital that I be able to backtrack the history of your coins.”*
 
-![](resources/image16.png){width="3.638888888888889in" height="3.138888888888889in"}
+{float: right, width: "50%"}
+![](resources/image16.png)
 
 ***Key Words:** Active, Technological.*
 
