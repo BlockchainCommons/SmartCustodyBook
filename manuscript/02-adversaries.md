@@ -304,7 +304,7 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 ***Hot Wallet Solutions:***
 
-1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
+1.  **Create Cold Storage Procedure.** Adapt a **Cold Storage Procedure** that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
 2.  **Question Policies & Procedures.** Know the security policies and procedures of any company that you’re working with; be sure that they have rigorous, well-documented security procedures that they follow religiously, and that they treat any variance from their procedure as a problem that must be investigated. Also, be sure that there are no negative policies that might affect your usage of its services.
 
 {pagebreak}
@@ -377,7 +377,7 @@ A networked attack against an specific person or company’s cryptocurrency hold
 
 ***Hot Wallet Solutions:***
 
-1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
+1.  **Create Cold Storage Procedure.** Adapt a **Cold Storage Procedure** that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
 2.  **Maintain Account Security.** Be sure that all online accounts have very robust passwords and that the companies have high security ratings.
 3.  **Practice Session Security.** Ensure that all online communications are encrypted.
 
@@ -420,7 +420,7 @@ Users are usually most concerned about Personal Network Attacks which target the
 
 ***Hot Wallet Solutions:***
 
-1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
+1.  **Create Cold Storage Procedure.** Adapt a **Cold Storage Procedure** that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
 2.  **Maintain Account Security.** Be sure that all online accounts have very robust passwords and that the companies have high security ratings.
 3.  **Question Policies & Procedures.** Know the security policies and procedures of any company that you’re working with; be sure that they have rigorous, well-documented security procedures that they follow religiously, and that they treat any variance from their procedure as a problem that must be investigated. Also, be sure that there are no negative policies that might affect your usage of its services.
 
@@ -1106,5 +1106,5 @@ Fungibility presumes that all bitcoins (or other cryptocurrency units) are indis
 
 ***Hot Wallet Solutions:***
 
-1.  **Create Cold Storage Procedure.** Adapt a [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
+1.  **Create Cold Storage Procedure.** Adapt a **Cold Storage Procedure** that moves some or all of your funds off of your hot wallet. Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction. *Dangers: [*Disaster*](#adversary-disaster), [*Casual Physical Theft*](#adversary-physical-theft-casual).*
 2.  **Question Policies & Procedures.** Know the security policies and procedures of any company that you’re working with; be sure that they have rigorous, well-documented security procedures that they follow religiously, and that they treat any variance from their procedure as a problem that must be investigated. Also, be sure that there are no negative policies that might affect your usage of its services. 
