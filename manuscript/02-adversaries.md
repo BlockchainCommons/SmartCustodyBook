@@ -50,10 +50,8 @@ Following are extensive descriptions of each adversary, covering their motives, 
 {pagebreak}
 
 ## Category: Loss by Acts of God
-
 {float: right, width: "50%"}
 ![](resources/image34.png)
-
 ***Origin.** Bad luck.*
 
 ***Definition.** A loss that wasn’t caused by any intelligent attacker.* An Act of God is something that just happens. You can’t prevent it, you can only make it less likely or insure that it damages you less if it occurs. 
