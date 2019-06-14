@@ -994,6 +994,8 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 *See Related — [*Key Fragility*](#section-16), [*Transaction Error*](#adversary-transaction-error)*
 
+{pagebreak}
+
 {id: category-privacy-related-problems}
 ## Category: Privacy-related Problems
 
@@ -1007,6 +1009,8 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 ***Iconic Image.** A man hiding his nakedness with his hands.* Loss of privacy is innately embarrassing, but its problems can go far beyond that.
 
 ***Ulterior Motive.** Mixed.* Someone might destroy privacy for any number of reasons, including curiosity, nosiness, or maliciousness. Once they’ve destroyed privacy, they might use that lack of anonymity for purposes of greed (e.g., blackmail), revenge, or pure sadism.
+
+{pagebreak}
 
 ### Adversary: Censorship
 
@@ -1047,7 +1051,7 @@ An entity or a consortium of entities can potentially prevent an asset holder fr
 ### Adversary: Correlation
 
 {float: right, width: "50%"}
-![](resources/image17.png)![](resources/image3.png)
+![](resources/image3.png)
 
 ***Motivation.** “I want information. I watch cryptocurrency transactions with an eagle eye, ready to swoop in on any mistake. If you keep making the same payments or receiving the same payments or using the same addresses, I’ll figure it out. I want to connect the dots to determine who is spending cryptocurrency for what, and I can figure that puzzle out if you give me enough pieces.”*
 
