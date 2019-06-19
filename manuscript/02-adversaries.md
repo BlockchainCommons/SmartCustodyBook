@@ -121,6 +121,8 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 
 ***Abstract Case Study: Blocking by Mistake.*** Frank is cheap, so he stores his Cryptosteel in his company’s safety deposit box, which he has access to. The company goes into bankruptcy, and Judy has its assets frozen. Frank tries to recover his Cryptosteel from the safety deposit box but finds he’s denied access … which wouldn’t be a problem except for the fact that the dog ate the paper copy of his recovery seed at home.
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Key Denial.** Much as with Censorship, the user still has theoretical access to his keys, but can’t actually get to them.
@@ -152,6 +154,8 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 A sudden, large-scale destructive event can destroy copies of private keys. It is usually a natural event such as an earthquake, fire, hurricane, or tsunami. It could also be an accident such as a building collapse; or it could be a man-made catastrophe, such as a bomb blast, an EMP blast, or full-scale warfare.
 
 ***Historic Case Study: Flooding Keys.*** A bitcoin user had a strong procedure for protecting his keys. Every quarter he reprinted his paper wallet to ensure that the ink didn’t fade and immediately shredded the old one. Unfortunately, he placed his paper wallet in the basement, which flooded; the ink was washed off the wallet. The user came to IRC for help, and though they suggested dumping his printer’s memory buffer, it was already too late.
+
+{pagebreak}
 
 ***Risks:***
 
@@ -203,6 +207,8 @@ Electronic storage methods for private keys can become unusable over time. This 
 
 ***Historic Case Study: Throwing Out Bitcoins.*** James Howells of the UK is widely reported to have accidentally thrown out the hard drive with keys for 7,500 bitcoins after he broke down his laptop for parts. [**News Story**](https://www.cnbc.com/2017/12/20/man-lost-127-million-worth-of-bitcoins-and-city-wont-let-him-look.html).
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Key Destruction.** Some of the more disastrous forms of bitrot result in the total annihilation of the key.
@@ -239,6 +245,8 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 ***Historic Case Study: Whitehatting BlockchainInfo.*** A mistake in an update caused 0.0002% of Blockchain.info’s private keys to be generated insecurely. 250 Bitcoins quickly went missing, but it was soon revealed that a whitehat was sweeping up the funds, with the intention of returning them. **[News Story](https://cointelegraph.com/news/white-hat-hacker-returns-missing-bitcoins-to-blockchaininfo).**
 
 ***Historic Case Study: Trusting Libraries.*** Systemic compromises can arise from deep libraries used in cryptocurrency apps. JavaScript’s secureRandom() function at one time generated low-entropy numbers that weren’t truly random due to a type error. Unfortunately, it was used in numerous cryptocurrency products for many years before this was discovered. **[Security Alert](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-April/015873.html), [News Story](https://btcmanager.com/vulnerability-in-javascript-function-may-mean-long-term-bitcoin-hodlers-are-at-risk/).**
+
+{pagebreak}
 
 ***Risks:***
 
@@ -291,6 +299,8 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 ***Historic Case Study: Blocking Hackers.*** Sometimes an Internal Theft might actually be a purposeful choice on the part of a company to retrieve stolen goods! When coins were stolen from the OzCoin mining consortium they were moved to a StrongCoin Wallet. This was obvious due to a correlation danger at StrongCoin: every time funds are spent at StrongCoin, a small fee is paid to a specific address. OzCoin alerted StrongCoin who recovered the funds by creating a new version of their JavaScript wallet especially for the hackers; as soon as they tried to access the funds, the coins were sent to another address, so that StrongCoin could then return them to OzCoin. **[News Story](https://bitcoinmagazine.com/articles/ozcoin-hacked-stolen-funds-seized-and-returned-by-strongcoin-1366822516/).**
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Loss.** Though it’s certainly possible that an institutional thief at a bank doesn’t know what he’s getting, most likely he is a sophisticated thief who is looking for private keys in order to steal the funds.
@@ -327,6 +337,8 @@ A person trusted with private keys could steal funds. This might be an asset hol
 
 ***Historic Case Study: Stealing from Shapeshift.*** Shapeshift.io’s IT lead stole 315 bitcoins from them, then fled. However, that wasn’t the end of the story. Afterward, he sold information about the company’s security to a hacker, initiating a second breach, then sold the hacker access to a backdoor he’d installed, creating a third. **[News Story](https://news.bitcoin.com/looting-fox-sabotage-shapeshift/).**
 
+{pagebreak}
+
 ***Risks***
 
 1.  **Funds Loss.** Since the untrustworthy person knows exactly what they’re getting and how to use it, the end result is obviously the theft of your funds.
@@ -361,9 +373,11 @@ A networked attack against an specific person or company’s cryptocurrency hold
 
 ***Abstract Case Study: Eavesdropping on Wifi.*** Alice connects to the free wi-fi network at the airport. When she goes to her Javascript web wallet, she gets a certificate warning and ignores it, because those things pop up all the time. She doesn’t realize that Eve is intercepting all connections to this wallet at the airport and has just compromised her wallet’s credentials. Bob uses the same free wi-fi at the airport and connects to the same web wallet. Except, Bob never types in the “https://” at the front of his URL; he expects his browser to fill it in for him. As a result he *doesn’t* get any warning when Eve intercepts his connection on the unchanged “http://” URL.
 
-***Historic Case Study: Spoofing Bitcointalk.*** An attacker forged a fax to a domain registrar to take control of the Bitcointalk domain. After doing so they pointed it to CloudFlare and were able to get a new SSL cert issued for the domain. Connections to Bitcointalk now went to the CloudFlare proxy, which stole any credentials, before going back to Bitcointalk. The attacker didn’t care about the Bitcointalk credentials themselves, but assumed the same logins and passwords would also be used at other sites, such as Bitcoin exchanges. They were foiled by the fact that the proxy immediately collapsed under the Bitcointalk load and the Bitcointalk admins then noticed and figured out the problem.
+***Historic Case Study: Spoofing Bitcointalk.*** An attacker forged a fax to a domain registrar to take control of the Bitcointalk domain. After doing so they pointed it to CloudFlare and were able to get a new SSL cert issued for the domain. Connections to Bitcointalk now went to the CloudFlare proxy, which stole any credentials before going back to Bitcointalk. The attacker didn’t care about the Bitcointalk credentials, but assumed the same logins and passwords would be used at other sites such as Bitcoin exchanges. They were foiled by the fact that the proxy immediately collapsed under the Bitcointalk load and the Bitcointalk admins then noticed and figured out the problem.
 
 ***Historic Case Study: Hacking Coinbase Accounts.*** A CEO of an internet startup decided to move some of his investments to cryptocurrency. For his digital currency exchange, he chose Coinbase, a site that had never been hacked. His Coinbase account was linked to his Gmail account, itself protected with 2FA linked to his cell phone. Despite all of those protections, hackers attacked the CEO by going after the weakest link in the chain: his T-Mobile cellphone account. They moved his cell phone number to a different device, used that to retrieve Google’s two-factor authentication messages, and used that to break into Coinbase. He isn’t the only user who’s been actively targeted in this way. [**News Story**](http://fortune.com/2017/08/22/bitcoin-coinbase-hack/).
+
+{pagebreak}
 
 ***Risks:***
 
@@ -411,6 +425,8 @@ Users are usually most concerned about Personal Network Attacks which target the
 
 ***Historic Case Study: Filling the Graveyard.*** Many other blockchains has suffered systemic network attacks over the years. **[Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/).** One recent report states that there were more than \$900 million dollars in losses, most of them from Systemic Attacks, just in the first nine months of 2018. [**CoinDesk**](https://www.coindesk.com/nearly-1-billion-stolen-in-crypto-hacks-so-far-this-year-research).
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Loss.** Though it’s a company being attacked, if they lose their cash, and can’t recover it through insurance claims, this directly impacts the users.
@@ -450,6 +466,8 @@ An entirely opportunistic real-world theft could, by chance, scoop up private ke
 
 ***Abstract Case Study: Losing a Phone.*** Bob accidently leaves his phone in his car, and a thief breaks the window and steals it. The phone contains Bob’s old Bitcoin wallet; it used to only have “play” money, but due to the increase in the value of Bitcoin it is now worth \$50 thousand dollars. Bob can’t remember where he kept his recovery phrase.
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Key Loss.** Because the physical representation of the key has been taken, it will no longer be available to the asset holder.
@@ -481,6 +499,8 @@ Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specific
 ***Abstract Case Study: Listening In.*** Mallory rents a suite next to a Bitcoin bank. He then sets up listening devices to engage in an EMI side channel attack, extracting crucial information from electromagnetic leaks.
 
 ***Abstract Case Study: An Evil Maid Attacking.*** Bob leaves his computer in his hotel room, and Mallory, now masquerading as a maid, sneaks in and installs a keylogger, possibly after booting from a corrupted USB stick. When Bob .ater types in his encryption keys, they’ll be sucked up by the keylogger and available to Mallory.
+
+{pagebreak}
 
 ***Risks:***
 
@@ -519,6 +539,8 @@ The in-person confidence man is largely gone, but everyone in the modern world i
 
 ***Historic Case Study: Poisoning Ads.*** The COINHOARDER group focused its phishing on poisoned advertisements, which linked to fake exchange sites using lookalike names such as blockchien.info and block-clain.info. This allowed them to steal credentials for use on the real site. [**Analysis**](https://blog.talosintelligence.com/2018/02/coinhoarder.html).
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Loss.** The end-game of any social engineering attack focused on cryptocurrency is going to be the theft of your funds, and it’s most likely to happen very quickly.
@@ -548,6 +570,8 @@ A supply-chain attack depends on corrupting a hardware wallet, computer, or othe
 ***Historic Case Study: wallet.failing?*** Multiple security experts have pointed out the dangers of an attacker accessing a hardware wallet before it reaches the hands of a user. One expert inserted an RF chip to remotely trigger transactions while another noted that non-random seeds could be generated by a compromised hardware wallet. [**News**](https://threatpost.com/cryptocurrency-wallet-hacks-spark-dustup/140445/), [**Analysis**](https://saleemrashid.com/2018/03/20/breaking-ledger-security-model/).
 
 ***Historic Case Study: Distrusting Computers*.** When a certain individual was attempting to prove that he was Satoshi Nakamoto, Gavin Andresen was well aware of possible supply-chain attacks, so he required that tests be done on a “completely new, clean” computer. As required, the computer was delivered to Andresen in a “factory-sealed” box, but it was delivered by an administrative assistant employed by the other individual, which means that the supply chain could still have been compromised. **[News](https://www.forbes.com/sites/ktorpey/2018/02/27/man-who-claimed-to-be-bitcoins-creator-may-be-asked-to-prove-it-in-10-billion-lawsuit/#1c4abef733d6).**
+
+{pagebreak}
 
 ***Risks:***
 
@@ -601,6 +625,8 @@ The difference between Blackmail and Coercion is that Blackmail tends to be less
 
 ***Historical Case Study: Rooting Your Camera.*** Some blackmail is based on pure bluffing, such as the “sextortion” scam that has been circling the internet for a few years. Spam emails claim to have rooted the victim’s camera, and threaten to release embarrassing pictures of a sexual nature taken with the camera. They have no basis in fact, but newer versions try and lend credence to the claim by including one of the victim’s passwords in the email, a password that was collected via some other means. Allegedly, the only way to avoid the release of the pictures is payment of Bitcoins. **[Analysis](https://www.eff.org/deeplinks/2018/07/sextortion-scam-what-do-if-you-get-latest-phishing-spam-demanding-bitcoin).**
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Continued Blackmail.** The biggest risk of blackmail is more blackmail. If an attacker feels that you’re vulnerable, they’ll do their best to exploit that vulnerability, again and again. Giving in to blackmail is rarely the right answer.
@@ -634,6 +660,8 @@ The difference between Blackmail and Coercion is that Coercion tends to be less 
 ***Abstract Case Study: SWATing.*** Over the course of a month, Dan’s power and his DSL line are turned off. He contacts the utilities and is told that these occurred at his request. He then receives an email that says, “we know where you live, send us half your bitcoins or next time we swat you and maybe you end up dead.” A picture of his house from Google Street View is included.
 
 ***Historical Case Study: Kidnapping.*** Ukranian cryptocurrency exchange executive Pavel Lerner was grabbed off the street outside his office, and held in an undisclosed location. He was told that he would not be released unless he paid \$1 million dollars in bitcoins. [**News Story**](https://cointelegraph.com/news/kidnapping-of-bitcoin-exchange-executive-showed-importance-of-financial-privacy)**.** A similar kidnapping occurred in Dubai and resulted in the transfer of 25 BTC. [**News Story**](https://www.khaleejtimes.com/news/crime-and-courts/3-fake-dubai-cops-kidnap-traders-/to-rob-bitcoins).
+
+{pagebreak}
 
 ***Risks:***
 
@@ -673,6 +701,8 @@ Nature is the ultimate non-financially motivated attacker. It introduces pure ch
 
 ***Historic Case Study: Destroying Parity.*** Parity multisigs wallets for Ethereum all depended upon a single code library; because of flaws in the code, a regular user was able to take ownership of the library, then destroy it. This caused \$280 million dollars in Ethereum funds to be locked up. The actual motive of the attacker isn’t known. He claims it was a beginner mistake, but it also could have been a malicious attack or a poorly considered attempt to steal funds. [**News Story**](https://medium.com/chain-cloud-company-blog/parity-multisig-hack-again-b46771eaa838), [**Twitter Feed**](https://twitter.com/devops199?lang=en).
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Cascade: Correlation.** Some non-financially motivated attackers may be trying to determine who you are and what you’re doing with your cryptocurrency.
@@ -699,7 +729,9 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 
 ***Abstract Case Study: Killing Uncle Bob.*** Alice is too open about her bitcoin holdings, and the local mob finds out. Mallory, a representative of the mob, tells her that they’ll kill her Uncle Bob if she doesn’t make a payment of 10 bitcoins to a specific address. She refuses and they kill Uncle Bob.
 
-***Risks: ***
+{pagebreak}
+
+***Risks:***
 
 1.  **Cascade: Blackmail.** The threats of a criminal adversary could be blackmail.
 2.  **Cascade: Coercion.** Or they could be coercive in a more damaging way.
@@ -742,6 +774,8 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 Just like any other asset, cryptocurrency can be subject to legal forfeiture. This is usually not considered an issue, under the assumption that forfeiture as part of a civic lawsuit or state action is legal. However, it becomes very problematic if a nation-state is corrupt and has been bribed by a party to a lawsuit or is attacking the asset holder illegally, for its own self-interest. Even a legitimate nation-state might allow its citizens to fall prey to fraudulent lawsuits.
 
 ***Abstract Case Study: Extorting Legally.*** Mallory discovers that Carol has bitcoins. She walks up to her door on an cold day where there’s ice on the ground and *whoops* falls down. She soon has a doctor proclaiming that she’s been crippled for life. Mallory then uses the legal system to seize Carol’s bitcoins.
+
+{pagebreak}
 
 ***Risks:***
 
@@ -827,6 +861,8 @@ Convenience can be the bane of any security procedure. It could be due to sheer 
 
 ***Abstract Case Study: Trusting the Wrong Person.*** Alice is going to be out of town all month. She expects to make some very large bitcoin purchases during that time period, so she needs her coins more conveniently accessible than her normal cold storage procedure allows. She opts not to go with the convenience of carrying them on one of her electronic devices because she’s afraid they could be seized. Instead, she gives her husband, Bob, access to her keys. When she calls up Bob to have him make a transaction, she finds his phone line disconnected. He’s gone, with her bitcoin wealth!
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Loss.** The worst danger of increased Convenience is the loss of the coins that are no longer have strong protections.
@@ -865,6 +901,8 @@ A key may be lost because its complexity makes it innately prone to loss. This c
 
 ***Historic Case Study: Forgetting the PIN.*** A Wired author stored 7.4 BTC on a Trezor and protected it with a PIN. A cleaning service threw away the paper with the PIN, which also contained the recovery words. The author soon realized that he didn’t remember the PIN and every time he entered it incorrectly, the Trezor doubled a timeout period before he could try again. **[News Story](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/).**
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Key Loss.** Whatever the exact means by which the key is lost or corrupted, it becomes unavailable.
@@ -901,6 +939,8 @@ A digital-asset process can be so complicated that it causes errors in the proce
 ***Abstract Case Study: Refusing the Imperfect.*** Whenever she has some spare time, Carol works on her bitcoin storage procedure. She’s trying to get it just right. Of course, while she’s working on the procedure, her master seeds are being stored on a piece of paper jammed in a desk drawer.
 
 ***Abstract Case Study: Waiting for the Right Time.*** A cryptocurrency company pays its employees a cryptocurrency bonus. Everyone gets cryptocurrency. However, some employees weren’t ready to hold their bitcoins when they received their first bonus, so they asked the company to hold onto them. The company goes bankrupt.
+
+{pagebreak}
 
 ***Risks:***
 
@@ -980,6 +1020,8 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 ***Abstract Case Study: Forgetting to Pay for a Safety Deposit Box:*** Dan has put his recovery phrase on a piece of paper that is located in his safe deposit box. He forgets to notify his bank of an address change, and they seize the contents of the box, shredding its paper contents as there are no valuables. [*Unclaimed Property Article*](http://www.uppo.org/blogpost/925381/281568/Unclaimed-Safe-Deposit-Box-Basics).
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Loss.** There’s no arbiter on the Bitcoin network, so if an asset holder makes a mistake, funds can be irretrievably lost.
@@ -1034,6 +1076,8 @@ An entity or a consortium of entities can potentially prevent an asset holder fr
 
 ***Historic Case Study: Blocking WikiLeaks.*** WikiLeaks was blockaded by several traditional financial institutions such as Mastercard, VISA, and PayPal in December 2010. Afterward, Satoshi Nakamoto is reputed to have asked WikiLeaks not to use bitcoins for donations, and some miners were reluctant to process WikiLeaks transactions. However, there wasn’t sufficient consensus to extend the financial blockade to bitcoin. **[News Story](https://www.forbes.com/sites/jonmatonis/2012/08/20/wikileaks-bypasses-financial-blockade-with-bitcoin/#6a7803b47202), [Another New Story](https://www.coindesk.com/assange-bitcoin-wikileaks-helped-keep-alive/).**
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Denial.** Though the asset holder still has complete access to his key and thus exclusive access to his funds, he can’t actually use them, so they might as well be lost (until something is done to clear up the censorship).
@@ -1068,6 +1112,8 @@ Cryptocurrency use is pseudo-anonymous and somewhat private. However, it’s not
 
 ***Abstract Case Study: Correlating Identities.*** Carol uses the same online identity on bitcointalk and on twitter. Eastern European hackers monitor twitter, see her talking about bitcoins, track that back to bitcointalk, and find wallet addresses mentioned there that reveal her bitcoin wealth. They then set their scripts lose, hoping to break into her computer and steal her keys.
 
+{pagebreak}
+
 ***Risks:***
 
 1.  **Funds Revelation.** An asset holder’s ownership of various funds can be revealed. This can make it possible to track what they spent funds on and who they’re associated with. It also puts them in greater danger from any number of other adversaries.
@@ -1098,6 +1144,8 @@ Cryptocurrency use is pseudo-anonymous and somewhat private. However, it’s not
 Fungibility presumes that all bitcoins (or other cryptocurrency units) are indistinguishable and interchangeable. This ensures that all currency has the same value: a bitcoin doesn’t become more valuable because (for example) it was held by Satoshi or less valuable because (for example) it was used to pay for illegal activities. Unfortunately, the fungibility of Bitcoin is in danger because some exchanges and wallet services have begun using tracing services; worse, they have begun freezing accounts where they don’t like their activities.
 
 ***Abstract Case Study: Gambling with Funds.*** Dan stores his funds at an exchange. He uses some of them to try out a Bitcoin gambling site, and the next time he returns to the exchange he finds his account locked because he’s violated a no-gambling policy that was created by the exchange to pacify the US Department of Justice.
+
+{pagebreak}
 
 ***Risks:***
 
