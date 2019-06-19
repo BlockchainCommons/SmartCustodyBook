@@ -132,18 +132,18 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     4. **LL:** Click "Use an Initialized Device"; choose your Ledger type and hit "Continue".
     5. **LL:** Just click "Yes" on the Security Checklist questions; they're not actually relevant currently.
     6. **LL:** Click "Check Now" on the Ledger Genuine Check.
-        1. If it stalls out, it's probably because you didn't hit both buttons to get your Ledger to the App screen, which should say "Settings".
-        2. On your Ledger, right-click to "Allow Ledger Manager" when requested.
-        3. When it's done, hit "Continue".
+       - If it stalls out, it's probably because you didn't hit both buttons to get your Ledger to the App screen, which should say "Settings".
+       - On your Ledger, right-click to "Allow Ledger Manager" when requested.
+       - When it's done, hit "Continue".
     7. **LL:** Choose a password for your Ledger Live software on your computer.
     8. **LL:** Turn off Analytics and Bug Reports on the Bugs and analytics page, to minimize any potential attack surface.
     9. **LL:** Click "Open Ledger Live", then "Got It", then "Open Manager"
     10. At last, you're ready to check the firmware version on your Ledger!
     11. **LL:** If your Ledger does not have the most up-to-date firmware (currently 1.5.5), hit the "Update" button to the right.
-        1. Follow the instructions you see on screen.
-        2. Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
-        3. You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
-        4. You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
+       - Follow the instructions you see on screen.
+       - Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
+       - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
+       - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
     12. Disconnect your Ledger from your computer; exit Ledger Live.
 3. ⎕ Initialize Your Ledger
     1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
@@ -223,13 +223,13 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 #### **F. Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
     1. ⎕ Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
-        1. Place the Bit Holder over each row before you begin stamping that word.
-        2. Carefully check each letter before you stamp it, to be sure you haven't grabbed a look-alike letter. Watch for "O" and "Q" in particular, because they look the same and are near to each other.
-        3. Be sure the word "CryptoTag" is facing you, so that the letter will be face-up.
-        4. Stamp forcefully to ensure that the stamped letter is distinct and easy to read. You may find that two blows are necessary to get it sharp and distinct; if so, be sure not to move the stamp in between.
-        5. Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
-        6. The first four letters of each word are sufficient to distinctly identify each word.
-        7. If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
+       - Place the Bit Holder over each row before you begin stamping that word.
+       - Carefully check each letter before you stamp it, to be sure you haven't grabbed a look-alike letter. Watch for "O" and "Q" in particular, because they look the same and are near to each other.
+       - Be sure the word "CryptoTag" is facing you, so that the letter will be face-up.
+       - Stamp forcefully to ensure that the stamped letter is distinct and easy to read. You may find that two blows are necessary to get it sharp and distinct; if so, be sure not to move the stamp in between.
+       - Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
+       - The first four letters of each word are sufficient to distinctly identify each word.
+       - If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
     2. ⎕ After completing all 24 words, reclip the CryptoTag.
     3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
@@ -348,16 +348,16 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 1. ⎕ Connect your Ledger and rebuild it.
     1. Hit both buttons to move through the first two screens.
-        1. Hit the **_LEFT_** button to refuse to "Configure as New Device".
-        2. Hit the right button to  "Restore Configuration".
-        3. Reenter the same PIN and verify, per step "C-3".
+       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
+       - Hit the right button to  "Restore Configuration".
+       - Reenter the same PIN and verify, per step "C-3".
     2. ⎕ Hit both buttons to "Enter your recovery phrase".
-        1. Choose to restore "24" words.
-        2. Enter your Recovery Phrase from the waterproof sheet.
-        3. Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
-        4. The Ledger will only list possible letters.
-        5. The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
-        6. When offered word options, hit the right arrow until you get to the correct word.
+       - Choose to restore "24" words.
+       - Enter your Recovery Phrase from the waterproof sheet.
+       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
+       - The Ledger will only list possible letters.
+       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
+       - When offered word options, hit the right arrow until you get to the correct word.
     3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
     4. ⎕ **LL:** Open Ledger Live and confirm balances.
     5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
@@ -366,16 +366,16 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 1. ⎕ OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates. Connect your Ledger and rebuild it.
     1. Hit both buttons to move through the first two screens.
-        1. Hit the **_LEFT_** button to refuse to "Configure as New Device".
-        2. Hit the right button to  "Restore Configuration".
-        3. Reenter the same PIN and verify, per step "C-3".
+       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
+       - Hit the right button to  "Restore Configuration".
+       - Reenter the same PIN and verify, per step "C-3".
     2. ⎕ Hit both buttons to "Enter your recovery phrase".
-        1. Choose to restore "24" words.
-        2. Enter your Recovery Phrase from the waterproof sheet.
-        3. Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
-        4. The Ledger will only list possible letters.
-        5. The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
-        6. When offered word options, hit the right arrow until you get to the correct word.
+       - Choose to restore "24" words.
+       - Enter your Recovery Phrase from the waterproof sheet.
+       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
+       - The Ledger will only list possible letters.
+       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
+       - When offered word options, hit the right arrow until you get to the correct word.
     3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
     4. ⎕ **LL:** Open Ledger Live and confirm balances.
     5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
@@ -488,10 +488,10 @@ _This is one of three possible options for maintaining a copy of your Recovery P
     1. ⎕ To open your Cryptosteel, rotate the two sides counter-clockwise.
     2. ⎕ To unlock one side of your Cryptosteel, rotate the screw 90 degrees counterclockwise, then push down the pawl in the inset toward the bottom right. Afterward, swing open the locking arm. Be sure you're starting with the "1"-"12" side.
     3. ⎕ Set the letter tiles for the first four letters of each word in your Recovery Phrase into the CryptoSteel.
-        1. Carefully check each letter as you place it, to be sure you have the right side, and you haven't grabbed a look-alike letter.
-        2. The first four letters of each word are sufficient to distinctly identify each word.
-        3. Some letters will slide easily, some will need to be pushed with the small screwdriver you used to open your Cryptosteel. Occasionally, you may get one that doesn't fit at all.
-        4. Lock the arm when you're done, and repeat on the "13"-"24" on the other side.
+       - Carefully check each letter as you place it, to be sure you have the right side, and you haven't grabbed a look-alike letter.
+       - The first four letters of each word are sufficient to distinctly identify each word.
+       - Some letters will slide easily, some will need to be pushed with the small screwdriver you used to open your Cryptosteel. Occasionally, you may get one that doesn't fit at all.
+       - Lock the arm when you're done, and repeat on the "13"-"24" on the other side.
     4. ⎕ After completing all 24 words, on both sides, close the Cryptosteel.
 
 **_In step "M", store the Cryptosteel in your safety deposit box._**
@@ -517,11 +517,11 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 1. Use Steel or Titanium Tile & Engraving Pen:
     1. ⎕ Engrave the 24 word Recovery Phrase on metal plate (recommend 4 rows of 6 tiles )
-        1. Write in ALL CAPS for clarity.
-        2. Separate words with "/"s or some other mark.
-        3. Push hard enough to make a solid, readable mark, but not quite hard enough to stop the engraving pen's motor.
-        4. It can be very challenging to write clearly with an engraving pen. You'll get better with practice. If something isn't clear, cross-out and repeat.
-        5. You are only required to write the first four letters of each word to recover, but you may wish to write the entire words for improved clarity.
+       - Write in ALL CAPS for clarity.
+       - Separate words with "/"s or some other mark.
+       - Push hard enough to make a solid, readable mark, but not quite hard enough to stop the engraving pen's motor.
+       - It can be very challenging to write clearly with an engraving pen. You'll get better with practice. If something isn't clear, cross-out and repeat.
+       - You are only required to write the first four letters of each word to recover, but you may wish to write the entire words for improved clarity.
 
 **_In step "M", store the metal tile in your safety deposit box._**
 
