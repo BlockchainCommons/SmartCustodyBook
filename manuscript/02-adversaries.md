@@ -10,6 +10,8 @@ When creating a digital-asset management procedure, a user adds steps to the pro
 
 The term “adversary” is slightly different from the more common “risk” used in the security business. By anthropomorphizing these threats, we can consider their motivations. This helps a custodian to gain some distance from the scenario by making it less personal and so makes it easier for them to determine which adversaries are actual risks *to them*. For example, a user may fear his government stealing his money. This might be tightly tied up with his self-definition as a libertarian or a white hat. But when he flips the script and instead considers the motives of an anthropomorphized government, he removes himself from the equation and can see that the motive of the government is to stop criminal activity and to collect unpaid taxes; he can then make a more informed decision about whether that adversary’s motivations are actually relevant to his situation.
 
+### Adversary Listing
+
 Following are extensive descriptions of each adversary, covering their motives, their risks, and their solutions.They are divided into categories which help to organize the *most common* origin of each adversary. Short case studies are included for all adversaries, some of them abstracting potential problems, others referring to historical exploits.
 
 1.  **Loss by Acts of God**
