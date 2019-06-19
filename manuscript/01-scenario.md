@@ -321,6 +321,8 @@ See _Securing Digital Assets: Adversaries_ (available late spring 2019) for a fu
 14. [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated) — _a purposeful physical theft of private keys_
 15. [Supply Chain Attack](#adversary-supply-chain-attack) - _a logistical theft_
 
+{pagebreak}
+
 ### ⎕ Optional Step: Erase Your Ledger(s)
 
 **Obstructed Adversary:** [Physical Theft, Casual](#adversary-physical-theft-casual), [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated), [Supply-Chain Attack](#adversary-supply-chain-attack)
@@ -381,6 +383,8 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
    4. ⎕ **LL:** Open Ledger Live and confirm balances.
    5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 
+{pagebreak}
+
 ### ⎕ Optional Step: Hire a Lawyer
 
 **Obstructed Adversary:** [Death / Incapacitation](#adversary-death--incapacitation), [Institutional Theft](#adversary-institutional-theft)
@@ -390,6 +394,8 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 _A lawyer can store sealed files for you and will have a fiduciary responsibility to maintain them safely and privately[^21]. This can reduce the problem of [Institutional Theft](#adversary-institutional-theft) for those concerned about various privacy or legal issues regarding safety deposit boxes, but you obviously must ensure the lawyer is trusted. This option can also increase the odds of your heirs or family accessing your digital assets, because the lawyer will know what to do if [Death / Incapacitation](#adversary-death--incapacitation) occurs. But there is new danger of [Process Fatigue](#adversary-process-fatigue), if nothing else because a lawyer is an ongoing cost._
 
 **_Replace the safety deposit box in action #4 of step "M" and in step "O" with a lawyer; or, alternatively supplement your safety deposit box to also include the same information with a lawyer in a sealed envelope._**
+
+{pagebreak}
 
 ### ⎕ Optional Step: Seal Metal Tiles
 
@@ -417,6 +423,8 @@ _This process is not likely to work equally well for all sorts of metal devices.
 * Plastic Sealant – [https://www.amazon.com/dp/B00I9SK8XY](https://www.amazon.com/dp/B00I9SK8XY)
 * Glitter Polish — [https://www.amazon.com/essie-luxeffects-nail-polish-stones/dp/B007RS4R9I](https://www.amazon.com/essie-luxeffects-nail-polish-stones/dp/B007RS4R9I)
 
+{pagebreak}
+
 ### ⎕ Optional Step: Use Bags (Fire-Resistant)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster)
@@ -434,6 +442,8 @@ _Fire-resistant bags can increase the fire resistance of printed materials, and 
 * 2 Fireproof Bags — 11 x 15" [https://www.amazon.com/gp/product/B01NCVKZXG](https://www.amazon.com/gp/product/B01NCVKZXG) or 11 x 7" [https://www.amazon.com/gp/product/B01KWTE9ZU](https://www.amazon.com/gp/product/B01KWTE9ZU)
 
 _One bag is used for your home safe, one for your safety deposit box._
+
+{pagebreak}
 
 ### ⎕ Optional Step: Use Bags (Tamper-Evident)
 
@@ -455,6 +465,8 @@ _They can also increase [Process Fatigue](#adversary-process-fatigue) because of
 
 _One bag is used for your home safe, one for your safety deposit box._
 
+{pagebreak}
+
 ### ⎕ Optional Step: Use a (USB) Laser Printer
 
 **Obstructed Adversary:** [Key Fragility](#adversary-key-fragility), [Transaction Error](#adversary-transaction-error), [User Error](#adversary-user-error)
@@ -470,6 +482,8 @@ _Printing information from your computer rather than hand copying it can improve
 **_Add the following to your requirements list:_**
 
 * USB Laser Printer (do not enable ethernet or wifi)
+
+{pagebreak}
 
 ### ⎕ Optional Step: Use Metal Alternative (Cryptosteel)
 
@@ -501,6 +515,8 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 * Cryptosteel Master Mnemonic [https://cryptosteel.com/](https://cryptosteel.com/) or [https://www.amazon.com/gp/product/B0756P57M8](https://www.amazon.com/gp/product/B0756P57M8)
 * Small flathead screwdriver
+
+{pagebreak}
 
 ### ⎕ Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
 
@@ -538,6 +554,8 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 * Manual scribe [https://www.amazon.com/gp/product/B06XYZVJJ6](https://www.amazon.com/gp/product/B06XYZVJJ6) or
 * Battery-powered engraver [https://www.amazon.com/gp/product/B075Z2QR1](https://www.amazon.com/gp/product/B075Z2QR1) or
 * Dremel Industrial Engraver [https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/](https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/) with Dremel Diamond Tip [https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU](https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU)
+
+{pagebreak}
 
 ### ⎕ Optional Step: Use Metal Enhancement (Redundant Metal Devices)
 
@@ -577,7 +595,10 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 
 * TWO extra Steel or Titanium Tiles; or TWO extra Cryptosteels; or TWO extra CryptoTags.
 
+{pagebreak}
+
 ### ⎕ Optional Step: Use a USB Drive[^25]
+
 **Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
 **Created Adversary:** [Process Fatigue](#adversary-process-fatigue), [User Error](#adversary-user-error)
@@ -605,6 +626,8 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 **_Add the following to your requirements list:_**
 
 * 1 USB Drive (a new, unopened Memory Stick, rated for fastest speed you can find, that will work with your laptop). I like this dual A & C USB Memory Stick [https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2](https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2) or just a small USB Hard Drive.
+
+{pagebreak}
 
 ### ⎕ Optional Step: Use a (Second) USB Drive
 
@@ -708,6 +731,8 @@ A few questions can help you determine if you can move some of your funds from h
 After you answer these questions, you may discover that you don't actually need all of your funds to be always available. The remainder should then be moved off of exchanges into a cold-storage scenario, and the following can provide a model for that.
 
 Even if you determine that all of your funds must remain hot, this cold-storage scenario still suggests a variety of best practices for managing digital-asset keys, and does so in the context of risks and adversaries that will be used to model other scenarios later in this course.
+
+{pagebreak}
 
 {id: appendix-ii-sample-digital-assets-letter}
 ### Appendix II: Sample Digital-Assets Letter
