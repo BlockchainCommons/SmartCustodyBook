@@ -2,4 +2,5 @@
 0-indicia.md
 0-preface.md
 01-scenario.md
+02-adversaries.md
 XX-bios.md
