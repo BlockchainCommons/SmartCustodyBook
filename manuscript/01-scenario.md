@@ -108,7 +108,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 1. ⎕ Install Home Safe[^5]
    1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
 2. ⎕ Order Safe Deposit Box[^6]
-   2. Recommendations:
+   1. Recommendations:
      - Associate it with a joint bank account with at least one of your heirs.
      - Have sufficient funds in the joint bank account for several years of bank fees and box fees.
      - Have the safety deposit box be in both person's names.[^7]
