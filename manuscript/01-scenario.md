@@ -13,8 +13,8 @@ Digital assets are only as safe as the procedures of their custodian. Many digit
 The base scenario presumes the following audience:
 
 * A holder with a significant amount of digital assets (>5% of net worth);
-    * with full and legal custody of the assets and no fiduciary responsibility to others;
-    * and 100% of those assets shared with a spouse, if present, in estate planning.
+   * with full and legal custody of the assets and no fiduciary responsibility to others;
+   * and 100% of those assets shared with a spouse, if present, in estate planning.
 * A holder who largely holds investments long term, and is not actively trading them.
 * A holder who lives in the first world, and thus is less concerned about issues like government attack, kidnapping, or privacy violations.
 * A holder who has sufficient computer skills to comfortably install and run apps.
