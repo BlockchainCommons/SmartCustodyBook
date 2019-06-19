@@ -15,7 +15,7 @@ Any questions or issues concerning this white paper or contributions of updates 
 
 **Lead Authors:** Christopher Allen [@ChristopherA](https://twitter.com/ChristopherA), Shannon Appelcline [@Appelcline](https://twitter.com/Appelcline)
 
-**Sponsors:** [Adamant Capital](https://www.adamantcapitalfund.com/), [Blockstream](https://blockstream.com/), [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan, [Digital Contract Design](https://contract.design),  [CryptoTag](https://cryptotag.io/), [Ledger](https://www.ledger.com/), and [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
+**Sponsors:** [Adamant Capital](https://www.adamantcapitalfund.com/), [Blockstream](https://blockstream.com/), [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan, [Digital Contract Design](https://contract.design),  [CryptoTag](https://cryptotag.io/), [Ledger](https://www.ledger.com/), [Unchained Capital](https://www.unchained-capital.com/) and [Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)
 
 ### Additional Chapter One Credits
 
