@@ -118,13 +118,13 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 2. _This optional action is omitted in this basic procedure._
 3. _This optional action is omitted in this basic procedure._
 4. ⎕ Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
-    1. Download It
-    2. Install It
+   1. Download It
+   2. Install It
 
 #### **C. Create Master HD Seed on Ledger** [^9] 
 1. ⎕ Start Up Ledger Live
-    1. If necessary, verify for your operating system that you want to run this downloaded app
-    2. **On Ledger Live (LL:)** Click "Get started"
+   1. If necessary, verify for your operating system that you want to run this downloaded app
+   2. **On Ledger Live (LL:)** Click "Get started"
 2. ⎕ Upgrade Ledger (if Needed)
    1. Plug Ledger into computer holding down the right button (furthest from the plug).
    2. Watch for the screen to say "Recovery"; hit both buttons, then hit them again, so that "Settings" pops up on the Ledger.
@@ -140,47 +140,47 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    9. **LL:** Click "Open Ledger Live", then "Got It", then "Open Manager"
    10. At last, you're ready to check the firmware version on your Ledger!
    11. **LL:** If your Ledger does not have the most up-to-date firmware (currently 1.5.5), hit the "Update" button to the right.
-      - Follow the instructions you see on screen.
-      - Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
-      - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
-      - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
+       - Follow the instructions you see on screen.
+       - Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
+       - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
+       - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
     12. Disconnect your Ledger from your computer; exit Ledger Live.
 3. ⎕ Initialize Your Ledger
-    1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
-    2. Click both buttons on your Ledger when it says "Welcome"; this is generally how you clear a screen.
-    3. Click both buttons again.
-    4. You should now see "Configure as new device" with an "X" to the left and a "√" on the right. This means that you hit the left button to choose "No" ("X") and the right button to choose "Yes" ("√"). Click the right button.
+   1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
+   2. Click both buttons on your Ledger when it says "Welcome"; this is generally how you clear a screen.
+   3. Click both buttons again.
+   4. You should now see "Configure as new device" with an "X" to the left and a "√" on the right. This means that you hit the left button to choose "No" ("X") and the right button to choose "Yes" ("√"). Click the right button.
 4. ⎕ Create Your PIN[^10]
-    1. Hit both buttons on your Ledger to create a PIN
-    2. Create at least a 6-to-8 digit PIN
-    3. If you desire PIN compatibility with Trezor, don't use the number "0".
-    4. Hit both buttons to verify your PIN
-    5. ⎕ Write the PIN and the Date that the key was generated using permanent marker on waterproof paper page
+   1. Hit both buttons on your Ledger to create a PIN
+   2. Create at least a 6-to-8 digit PIN
+   3. If you desire PIN compatibility with Trezor, don't use the number "0".
+   4. Hit both buttons to verify your PIN
+   5. ⎕ Write the PIN and the Date that the key was generated using permanent marker on waterproof paper page
 5. ⎕ View Recovery Phrase
-    1. Hit both buttons on your Ledger to view your 24-word Recovery Phrase
-    2. Afterward, you can hit the right button to go to the next word
+   1. Hit both buttons on your Ledger to view your 24-word Recovery Phrase
+   2. Afterward, you can hit the right button to go to the next word
 6. ⎕ Write down Recovery Phrase, adding it to the waterproof paper page
-    1. Write it in 6 rows, with 4 words in each row
-    2. Beware of homonyms or similar words
-    3. Leave some room at the bottom of the page for notes
-    4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
-    5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
-    6. You'll need to verify all 24 words; expect this to take some time.
-    7. You should see "Your device is now ready".
+   1. Write it in 6 rows, with 4 words in each row
+   2. Beware of homonyms or similar words
+   3. Leave some room at the bottom of the page for notes
+   4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
+   5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
+   6. You'll need to verify all 24 words; expect this to take some time.
+   7. You should see "Your device is now ready".
 7. ⎕ Install Bitcoin on your Ledger[^11]
-    1. **LL:** Choose the "Manager" in Ledger Live
-    2. Hit the right button on your Ledger to Give Permissions
-    3. **LL:** Install Bitcoin
-    4. **LL:** Hit "Close"
-    5. **LL:** Repeat for any other cryptocurrency you want to use
+   1. **LL:** Choose the "Manager" in Ledger Live
+   2. Hit the right button on your Ledger to Give Permissions
+   3. **LL:** Install Bitcoin
+   4. **LL:** Hit "Close"
+   5. **LL:** Repeat for any other cryptocurrency you want to use
 8. ⎕ Create Your Bitcoin Account
-    1. **LL:** Click the "+" next to Accounts to Add Accounts
-    2. **LL:** Choose Bitcoin and hit "Continue"
-    3. On your Ledger, hit the right button to navigate to the Bitcoin app, then both buttons to run it
-    4. Click the right button to allow your Ledger Live wallet to access your Ledger
-    5. **LL:** Hit "Continue" in Ledger Live
-    6. **LL:** Name the account (e.g. "Investment Cold Storage"), select the checkmark, and hit "Add Account"
-    7. Hit the "X" button; you're done: you now have an account to send and receive bitcoins; discount the Ledger
+   1. **LL:** Click the "+" next to Accounts to Add Accounts
+   2. **LL:** Choose Bitcoin and hit "Continue"
+   3. On your Ledger, hit the right button to navigate to the Bitcoin app, then both buttons to run
+   4. Click the right button to allow your Ledger Live wallet to access your Ledger
+   5. **LL:** Hit "Continue" in Ledger Live
+   6. **LL:** Name the account (e.g. "Investment Cold Storage"), select the checkmark, and hit "Add Account"
+   7. Hit the "X" button; you're done: you now have an account to send and receive bitcoins; discount the Ledger
 9. ⎕ Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
 
 #### **D. Verify Recovery Phrase**
@@ -191,33 +191,33 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 4. ⎕ Select both buttons on your Ledger to begin the check. Hit both buttons twice more.
 5. ⎕ Select 24 words with both buttons, then hit both buttons again.
 6. ⎕ Enter your 24 words, selecting letters one at a time.
-    1. The Ledger will only list possible letters.
-    2. The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
-    3. When offered word options, hit the right arrow until you get to the correct word.
-    4. Select the right word with both buttons, then hit both buttons again to go on to the next word.
+   1. The Ledger will only list possible letters.
+   2. The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
+   3. When offered word options, hit the right arrow until you get to the correct word.
+   4. Select the right word with both buttons, then hit both buttons again to go on to the next word.
 7. ⎕ If you see "Recovery Phrase Matches", you have verified your phrase!
-    1. If you didn't, check for simple mistakes. If you see them, repeat step D.
-    2. Otherwise, restart from step C-3.
+   1. If you didn't, check for simple mistakes. If you see them, repeat step D.
+   2. Otherwise, restart from step C-3.
 
 #### **E. Create Test Transaction** [^13]
 1. ⎕ Generate a test receive address
-    1. **LL:** Select the "Receive" Menu item on Ledger Live
-    2. If necessary navigate to the Bitcoin app on your Ledger and open it
-    3. **LL:** Click "Confirm" and you'll see a receipt address on your computer screen with a QR code.
-    4. You will also see the address on your Ledger; carefully compare all the digits and if it is the same, hit the right button to confirm
-    5. Write down, copy, or scan the Bitcoin address
-    6. If you write it by hand, double check the address: read it aloud as you look at both the original and your copy.
+   1. **LL:** Select the "Receive" Menu item on Ledger Live
+   2. If necessary navigate to the Bitcoin app on your Ledger and open it
+   3. **LL:** Click "Confirm" and you'll see a receipt address on your computer screen with a QR code.
+   4. You will also see the address on your Ledger; carefully compare all the digits and if it is the same, hit the right button to confirm.
+   5. Write down, copy, or scan the Bitcoin address.
+   6. If you write it by hand, double check the address: read it aloud as you look at both the original and your copy.
 2. ⎕ Send yourself a small Bitcoin transaction to that address. Wait for confirmation.
-    1. If you instead request a transaction from someone, best practice is to send them the address via two secure communications methods that are out of band with each other (or else: show them a QR code in person).
-    2. After sufficient time has elapsed, you should see the transaction in your Bitcoin account on Ledger Live
+   1. If you instead request a transaction from someone, best practice is to send them the address via two secure communications methods that are out of band with each other (or else: show them a QR code in person).
+   2. After sufficient time has elapsed, you should see the transaction in your Bitcoin account on Ledger Live
 3. ⎕ OPTIONAL: Use the "Send" menu item in Ledger Live to send some (but not all) of your test funds back to a different Bitcoin wallet. This confirms that your wallet can not only receive bitcoins, but spend them too[^14]. Again, wait for confirmation.
 4. ⎕ Export account info from Ledger Wallet Bitcoin
-    1. Select your account (e.g. "Investment Cold Storage")
-    2. Click "Edit Account" (the wrench) on the right
-    3. Click "Advanced Logs"
-    4. Write, copy, or print the xpub and the address path, along with the account name
-    5. ⎕ OPTIONAL: Write the name of the account, the xpub, and the root path on your waterproof sheet
-    6. Repeat for additional accounts.
+   1. Select your account (e.g. "Investment Cold Storage")
+   2. Click "Edit Account" (the wrench) on the right
+   3. Click "Advanced Logs"
+   4. Write, copy, or print the xpub and the address path, along with the account name
+   5. ⎕ OPTIONAL: Write the name of the account, the xpub, and the root path on your waterproof sheet
+   6. Repeat for additional accounts.
 5. ⎕ Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
 
 #### **F. Setup Fireproof Key Recovery Phrase** [^15]
@@ -230,32 +230,32 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
       - Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
       - The first four letters of each word are sufficient to distinctly identify each word.
       - If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
-    2. ⎕ After completing all 24 words, reclip the CryptoTag.
-    3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
+   2. ⎕ After completing all 24 words, reclip the CryptoTag.
+   3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
 #### **G. Verify Recovery Phrase & Software Standards Conformance**
 
 1. ⎕ Use same PIN and restore Recovery Phrase on second Ledger.
-    1. Use the Recovery Phrase from your Cryptosteel, to verify its accuracy.
+   1. Use the Recovery Phrase from your Cryptosteel, to verify its accuracy.
 2. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
 
 #### **H. Transfer Existing Cold Funds**
 
 1. ⎕ Generate new receive addresses and transfer existing cold funds to the new master seed protected by the Ledger. Wait for confirmation.
-    1. Have an appropriate amount of paranoia for the amount of funds you're transferring and your own peace of mind.
-    2. Never put enough into a single transaction that it would be catastrophic to lose.
-    3. Perhaps start transferring small amounts, increasing over the course of several transactions.
-    4. Be sure to see actual confirmations from each transfer before transfering again.
+   1. Have an appropriate amount of paranoia for the amount of funds you're transferring and your own peace of mind.
+   2. Never put enough into a single transaction that it would be catastrophic to lose.
+   3. Perhaps start transferring small amounts, increasing over the course of several transactions.
+   4. Be sure to see actual confirmations from each transfer before transfering again.
 
 #### **I. Print Next Cold Storage Address**
 
 1. ⎕ **LL:** Open Ledger Live and enter password, click "Receive", and hit "Continue" once the right account has been selected.
-2. ⎕ Plug in your Ledger, enter the PIN, navigate to the Bitcoin app, and hit both buttons to sellect it.
+2. ⎕ Plug in your Ledger, enter the PIN, navigate to the Bitcoin app, and hit both buttons to select.
 3. ⎕ **LL:** Hit "Verify" and double-check the address on your screen against the one on your Leder.
 4. ⎕ Write on a separate waterproof sheet the new Receive Address.
-    1. After you write it, carefully double- and triple-check it.
-    2. Look not just for mistakes, but also where your printing might be ambiguous.
-    3. If you prefer, scan the QR code.
+   1. After you write it, carefully double- and triple-check it.
+   2. Look not just for mistakes, but also where your printing might be ambiguous.
+   3. If you prefer, scan the QR code.
 
 #### **K. Duplicate USB drive**
 
