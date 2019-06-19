@@ -13,8 +13,8 @@ Digital assets are only as safe as the procedures of their custodian. Many digit
 The base scenario presumes the following audience:
 
 * A holder with a significant amount of digital assets (>5% of net worth);
-   * with full and legal custody of the assets and no fiduciary responsibility to others;
-   * and 100% of those assets shared with a spouse, if present, in estate planning.
+    - with full and legal custody of the assets and no fiduciary responsibility to others;
+    - and 100% of those assets shared with a spouse, if present, in estate planning.
 * A holder who largely holds investments long term, and is not actively trading them.
 * A holder who lives in the first world, and thus is less concerned about issues like government attack, kidnapping, or privacy violations.
 * A holder who has sufficient computer skills to comfortably install and run apps.
@@ -106,12 +106,12 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 #### **A. Setup Safes**
 
 1. ⎕ Install Home Safe[^5]
-   1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
+    1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
 2. ⎕ Order Safe Deposit Box[^6]
-   2. Recommendations:
-      a) Associate it with a joint bank account with at least one of your heirs.
-      b) Have sufficient funds in the joint bank account for several years of bank fees and box fees.
-      c) Have the safety deposit box be in both person's names.[^7]
+    2. Recommendations:
+        a) Associate it with a joint bank account with at least one of your heirs.
+        b) Have sufficient funds in the joint bank account for several years of bank fees and box fees.
+        c) Have the safety deposit box be in both person's names.[^7]
 
 #### **B. Setup Computer** [^8]
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
