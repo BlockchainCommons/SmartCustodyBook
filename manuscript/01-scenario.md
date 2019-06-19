@@ -106,14 +106,12 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 #### **A. Setup Safes**
 
 1. ⎕ Install Home Safe[^5]
-
-    1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
+   1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
 2. ⎕ Order Safe Deposit Box[^6]
-
-      2. Recommendations:
-        1. Associate it with a joint bank account with at least one of your heirs.
-        2. Have sufficient funds in the joint bank account for several years of bank fees and box fees.
-        3. Have the safety deposit box be in both person's names.[^7]
+   2. Recommendations:
+      1. Associate it with a joint bank account with at least one of your heirs.
+      2. Have sufficient funds in the joint bank account for several years of bank fees and box fees.
+      3. Have the safety deposit box be in both person's names.[^7]
 
 #### **B. Setup Computer** [^8]
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
