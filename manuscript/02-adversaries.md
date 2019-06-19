@@ -137,7 +137,7 @@ Access to cryptocurrency is usually blocked by censorship, when someone on the i
 2.  **Widely Separate Your Keys.** Maintain multiple physical representations of your master keys in places that are widely separated. Consider locales under different legal jurisdictions and with different physical risks.
 3.  **Cold Storage Scenario Optional Steps:** Hire a Lawyer, Use Metal Enhancement (Redundant Metal Devices).
 
-*See Related — [*Censorship*](#adversary-censorship).*
+*See Related Adversaries — [*Censorship*](#adversary-censorship).*
 
 {pagebreak}
 
@@ -224,7 +224,7 @@ Electronic storage methods for private keys can become unusable over time. This 
 6.  **Verify Your Key Storage.** Regularly test your key storage to make sure that it’s still working. If a key storage method becomes inoperative, quickly replace it.
 7.  **Cold Storage Scenario Optional Steps:** Use a USB Drive; Use a (Second) USB Drive.
 
-*See Related — [*Key Fragility*](#adversary-key-fragility)*
+*See Related Adversaries — [*Key Fragility*](#adversary-key-fragility)*
 
 {pagebreak}
 
@@ -639,7 +639,7 @@ The difference between Blackmail and Coercion is that Blackmail tends to be less
 1.  **Practice Anonymity.** Do not let people know you have bitcoins; ensure that you in no way ever link your key to your real persona.
 2.  **Protect Your Information.** Ensure that your critical information has strong protection, particularly backups; and if there is some embarrassing information out there, do what you can to either quash it or embrace it.
 
-*See Related — [*Coercion*](#adversary-coercion)*
+*See Related Adversaries — [*Coercion*](#adversary-coercion)*
 
 {pagebreak}
 
@@ -679,7 +679,7 @@ The difference between Blackmail and Coercion is that Coercion tends to be less 
 5.  **Use Funds Timelocks.** Lock funds with a timelock, which doesn’t allow a specific person to access the funds until a specific time. Create a regular procedure to update the timelock as it nears expiration. *Dangers: [*User Error*](#adversary-user-error).*
 6.  **Require Public Interaction.** Cross thresholds that put an adversary at risk. Store one of the necessary keys at a physical location where interactions with other people can be judged for signs of coercion. Include the presence or status of your loved ones in the judgements. Establish code words that actually mean, "Help"! Make the procedure slow enough that help could arrive. *Dangers: [*Process Fatigue*](#adversary-process-fatigue)*.
 
-*See Related — [*Blackmail*](#adversary-blackmail), [*Nation-State Actor*](#adversary-nation-state-actor), [*Terrorist / Mob*](#adversary-terrorist--mob)*
+*See Related Adversaries — [*Blackmail*](#adversary-blackmail), [*Nation-State Actor*](#adversary-nation-state-actor), [*Terrorist / Mob*](#adversary-terrorist--mob)*
 
 {pagebreak}
 
@@ -741,7 +741,7 @@ In large part, a terrorist or mob adversary is a special case of the “coercion
 1.  **Practice Anonymity.** Do not let people know you have bitcoins; ensure that you in no way ever link your key to your real persona.
 2.  **Register Your Funds.** Register and document your funds fully with your nation-state to maximize legal protections. *Dangers: [*Legal Forfeiture*](#adversary-legal-forfeiture), [*Nation-State Actor*](#adversary-nation-state-actor).*
 
-*See Related — [*Blackmail*](#adversary-blackmail), [*Coercion*](#adversary-coercion)*
+*See Related Adversaries — [*Blackmail*](#adversary-blackmail), [*Coercion*](#adversary-coercion)*
 
 {pagebreak}
 
@@ -827,7 +827,7 @@ More problematically, individuals might take on the mantle of the nation-state a
 1.  **Obscure or Protect Your Keys.** Store keys in an obscured way that would be readily obvious to the asset holder, but not to a thief. Alternatively, protect keys with a PIN or other code. *Dangers: [*Key Fragility*](#adversary-key-fragility).*
 2.  **Widely Separate Your Keys.** Maintain multiple physical representations of your master keys in places that are widely separated. Consider locales under different legal jurisdictions and with different physical risks.
 
-*See Related — [*Coercion*](#adversary-coercion)*
+*See Related Adversaries — [*Coercion*](#adversary-coercion)*
 
 {pagebreak}
 
@@ -918,7 +918,7 @@ A key may be lost because its complexity makes it innately prone to loss. This c
 1.  **Redundantly Store Your Keys.** Maintain multiple representations of your master keys. Store encrypted keys in local storage and unencrypted keys in more protected storage, such as a safety deposit box. *Dangers: [*Casual Physical Theft*](#adversary-physical-theft-casual), [*Institutional Theft*](#adversary-institutional-theft).*
 2.  **Cold Storage Scenario Optional Steps:** Use Metal Enhancement (Redundant Metal Devices); Use a (USB) Laser Printer.
 
-*See Related — [*Bitrot*](#adversary-bitrot), [*Transaction Error*](#adversary-transaction-error), [*User Error*](#adversary-user-error)*
+*See Related Adversaries — [*Bitrot*](#adversary-bitrot), [*Transaction Error*](#adversary-transaction-error), [*User Error*](#adversary-user-error)*
 
 {pagebreak}
 
@@ -1000,7 +1000,7 @@ The fundamental issue is lack of transparency in the address itself and in the o
 4.  **Verify Your Scripts.** Double-check that your script has valid responses. For large-scale funds held by a script, you may want to first test them with smaller amounts of funds. *Dangers: [*Correlation*](#adversary-correlation).*
 5.  **Verify Your Transactions.** Double-check the recipient addresses for any transactions. Make sure the change address really belongs to you. Make sure that the fee looks rational. Validate the transaction on testnet to verify it.
 
-*See Related — [*Key Fragility*](#adversary-key-fragility), [*User Error*](#adversary-user-error) .*
+*See Related Adversaries — [*Key Fragility*](#adversary-key-fragility), [*User Error*](#adversary-user-error) .*
 
 {pagebreak}
 
@@ -1038,7 +1038,7 @@ Funds could be lost due to a user mistake. This can overlap with Key Fragility i
 
 **Cold Storage Scenario Optional Steps:** None.
 
-*See Related — [*Key Fragility*](#adversary-key-fragility), [*Transaction Error*](#adversary-transaction-error)*
+*See Related Adversaries — [*Key Fragility*](#adversary-key-fragility), [*Transaction Error*](#adversary-transaction-error)*
 
 {pagebreak}
 
