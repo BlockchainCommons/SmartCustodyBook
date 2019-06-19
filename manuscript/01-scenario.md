@@ -46,6 +46,8 @@ Here are some of the more tedious steps, and why they're important:
 
 Don't skimp on any of these phases just because they take a while; don't figure that you'll get back to them later. The goal is to ensure that you protect your digital investments from problems _before_ you make any real investments.
 
+{pagebreak}
+
 ### Adversaries
 
 This process in this basic scenario has been optimized to avoid risks from ten adversaries listed below — simplified by not addressing the risks of all possible adversaries (over 25+). In particular, these adversaries were the ones selected as most likely to impact a self-custodian in the first world. Adversaries related to "Non-Theft Crimes", "Loss by Government" and "Privacy-Related" are not strongly considered in this scenario.
@@ -66,6 +68,8 @@ Some additional processes for this scenario are offered as options—but be care
 The most notable of these adversaries may be "Systemic Network Attack", an adversary that is very problematic in hot-wallet scenarios, but largely nullified by removing private keys into cold storage. In many ways, it's the prime adversary overcome by this scenario.
 
 See **Adversaries** for a more extensive list and discussion.
+
+{pagebreak}
 
 ### Requirements
 
@@ -94,7 +98,9 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 |  | CryptoTag 24-word seed |
 | Instructions for heirs and xpub and cold storage addresses | Duplicates of instructions for heirs and xpub and cold storage addresses |
 
-### The Basic Procedure
+{pagebreak}
+
+## The Basic Procedure
 
 #### **A. Setup Safes**
 
