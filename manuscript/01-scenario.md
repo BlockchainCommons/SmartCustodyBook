@@ -313,7 +313,7 @@ _Each optional step addresses certain adversaries, but adding them ultimately ad
 * Use a USB Drive — for [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal)
 * Use a (Second) USB Drive — for [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster)
 
-See _Securing Digital Assets: Adversaries_ (available late spring 2019) for a full discussion of adversaries. The following adversaries appear for the first time in this section:
+See Chapter Two for a full discussion of adversaries. The following adversaries appear for the first time in this section:
 
 11. [Bitrot](#adversary-bitrot) — _a hardware, software, or media failure leading to loss_
 12. [Institutional Theft](#adversary-institutional-theft) — _a theft by a trusted institution or its employee_
