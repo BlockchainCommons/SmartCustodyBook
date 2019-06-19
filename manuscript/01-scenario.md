@@ -126,24 +126,24 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
     1. If necessary, verify for your operating system that you want to run this downloaded app
     2. **On Ledger Live (LL:)** Click "Get started"
 2. ⎕ Upgrade Ledger (if Needed)
-    1. Plug Ledger into computer holding down the right button (furthest from the plug).
-    2. Watch for the screen to say "Recovery"; hit both buttons, then hit them again, so that "Settings" pops up on the Ledger.
-    3. **LL:** Click "Manager"
-    4. **LL:** Click "Use an Initialized Device"; choose your Ledger type and hit "Continue".
-    5. **LL:** Just click "Yes" on the Security Checklist questions; they're not actually relevant currently.
-    6. **LL:** Click "Check Now" on the Ledger Genuine Check.
-       - If it stalls out, it's probably because you didn't hit both buttons to get your Ledger to the App screen, which should say "Settings".
-       - On your Ledger, right-click to "Allow Ledger Manager" when requested.
-       - When it's done, hit "Continue".
-    7. **LL:** Choose a password for your Ledger Live software on your computer.
-    8. **LL:** Turn off Analytics and Bug Reports on the Bugs and analytics page, to minimize any potential attack surface.
-    9. **LL:** Click "Open Ledger Live", then "Got It", then "Open Manager"
-    10. At last, you're ready to check the firmware version on your Ledger!
-    11. **LL:** If your Ledger does not have the most up-to-date firmware (currently 1.5.5), hit the "Update" button to the right.
-       - Follow the instructions you see on screen.
-       - Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
-       - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
-       - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
+   1. Plug Ledger into computer holding down the right button (furthest from the plug).
+   2. Watch for the screen to say "Recovery"; hit both buttons, then hit them again, so that "Settings" pops up on the Ledger.
+   3. **LL:** Click "Manager"
+   4. **LL:** Click "Use an Initialized Device"; choose your Ledger type and hit "Continue".
+   5. **LL:** Just click "Yes" on the Security Checklist questions; they're not actually relevant currently.
+   6. **LL:** Click "Check Now" on the Ledger Genuine Check.
+      - If it stalls out, it's probably because you didn't hit both buttons to get your Ledger to the App screen, which should say "Settings".
+      - On your Ledger, right-click to "Allow Ledger Manager" when requested.
+      - When it's done, hit "Continue".
+   7. **LL:** Choose a password for your Ledger Live software on your computer.
+   8. **LL:** Turn off Analytics and Bug Reports on the Bugs and analytics page, to minimize any potential attack surface.
+   9. **LL:** Click "Open Ledger Live", then "Got It", then "Open Manager"
+   10. At last, you're ready to check the firmware version on your Ledger!
+   11. **LL:** If your Ledger does not have the most up-to-date firmware (currently 1.5.5), hit the "Update" button to the right.
+      - Follow the instructions you see on screen.
+      - Make sure to verify that the identifier matches between your screen and your Ledger, to ensure the security of this update.
+      - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
+      - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
     12. Disconnect your Ledger from your computer; exit Ledger Live.
 3. ⎕ Initialize Your Ledger
     1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
@@ -222,14 +222,14 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 
 #### **F. Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
-    1. ⎕ Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
-       - Place the Bit Holder over each row before you begin stamping that word.
-       - Carefully check each letter before you stamp it, to be sure you haven't grabbed a look-alike letter. Watch for "O" and "Q" in particular, because they look the same and are near to each other.
-       - Be sure the word "CryptoTag" is facing you, so that the letter will be face-up.
-       - Stamp forcefully to ensure that the stamped letter is distinct and easy to read. You may find that two blows are necessary to get it sharp and distinct; if so, be sure not to move the stamp in between.
-       - Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
-       - The first four letters of each word are sufficient to distinctly identify each word.
-       - If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
+   1. ⎕ Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
+      - Place the Bit Holder over each row before you begin stamping that word.
+      - Carefully check each letter before you stamp it, to be sure you haven't grabbed a look-alike letter. Watch for "O" and "Q" in particular, because they look the same and are near to each other.
+      - Be sure the word "CryptoTag" is facing you, so that the letter will be face-up.
+      - Stamp forcefully to ensure that the stamped letter is distinct and easy to read. You may find that two blows are necessary to get it sharp and distinct; if so, be sure not to move the stamp in between.
+      - Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
+      - The first four letters of each word are sufficient to distinctly identify each word.
+      - If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
     2. ⎕ After completing all 24 words, reclip the CryptoTag.
     3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
