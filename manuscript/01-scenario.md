@@ -72,19 +72,12 @@ See **Adversaries** for a more extensive list and discussion.
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
 * ⎕ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
-
 * ⎕ Safety Deposit Box at Bank or other institution
-
 * ⎕ Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
-
 * ⎕ 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
-
 * ⎕ 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET [https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4](https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4) or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood [https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/](https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/) or equivalent)
-
 * ⎕ 2 Ledger Nano S[^3], Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
-
 * ⎕ One CryptoTag[^4] [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
-
 * ⎕ 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at [https://www.ledgerwallet.com/products/ledger-otg-kit](https://www.ledgerwallet.com/products/ledger-otg-kit)
 
   _**Optional Steps** (described later) may require  purchases of additional items._
@@ -339,7 +332,7 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 #### **M. Store in Safes**
 
 1. ⎕ Erase each of your Ledgers by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
-    1. Place your Ledgers wherever you want; they no longer need to be secured.
+   1. Place your Ledgers wherever you want; they no longer need to be secured.
 2. ⎕ OPTIONAL: Store materials tamper-resistant bag and sign it; ⎕ OPTIONAL: Store in fire resistant bag.
 3. ⎕ Place non-key devices in your Home Safe, including your instructions for heirs, and one copy of the cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases.
 4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second copy of instructions and one copy of the cold storage addresses.
@@ -347,38 +340,38 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 **_Replace action #5 of Step "N" of your procedure as follows, to restore your Ledger as part of maintenance:_**
 
 1. ⎕ Connect your Ledger and rebuild it.
-    1. Hit both buttons to move through the first two screens.
-       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
-       - Hit the right button to  "Restore Configuration".
-       - Reenter the same PIN and verify, per step "C-3".
-    2. ⎕ Hit both buttons to "Enter your recovery phrase".
-       - Choose to restore "24" words.
-       - Enter your Recovery Phrase from the waterproof sheet.
-       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
-       - The Ledger will only list possible letters.
-       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
-       - When offered word options, hit the right arrow until you get to the correct word.
-    3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
-    4. ⎕ **LL:** Open Ledger Live and confirm balances.
-    5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   1. Hit both buttons to move through the first two screens.
+      - Hit the **_LEFT_** button to refuse to "Configure as New Device".
+      - Hit the right button to  "Restore Configuration".
+      - Reenter the same PIN and verify, per step "C-3".
+   2. ⎕ Hit both buttons to "Enter your recovery phrase".
+      - Choose to restore "24" words.
+      - Enter your Recovery Phrase from the waterproof sheet.
+      - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
+      - The Ledger will only list possible letters.
+      - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
+      - When offered word options, hit the right arrow until you get to the correct word.
+   3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
+   4. ⎕ **LL:** Open Ledger Live and confirm balances.
+   5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 
 **_Similarly, replace action #4 of Step "O" of your procedure as follows:_**
 
 1. ⎕ OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates. Connect your Ledger and rebuild it.
-    1. Hit both buttons to move through the first two screens.
-       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
-       - Hit the right button to  "Restore Configuration".
-       - Reenter the same PIN and verify, per step "C-3".
-    2. ⎕ Hit both buttons to "Enter your recovery phrase".
-       - Choose to restore "24" words.
-       - Enter your Recovery Phrase from the waterproof sheet.
-       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
-       - The Ledger will only list possible letters.
-       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
-       - When offered word options, hit the right arrow until you get to the correct word.
-    3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
-    4. ⎕ **LL:** Open Ledger Live and confirm balances.
-    5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   1. Hit both buttons to move through the first two screens.
+      - Hit the **_LEFT_** button to refuse to "Configure as New Device".
+      - Hit the right button to  "Restore Configuration".
+      - Reenter the same PIN and verify, per step "C-3".
+   2. ⎕ Hit both buttons to "Enter your recovery phrase".
+      - Choose to restore "24" words.
+      - Enter your Recovery Phrase from the waterproof sheet.
+      - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
+      - The Ledger will only list possible letters.
+      - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
+      - When offered word options, hit the right arrow until you get to the correct word.
+   3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
+   4. ⎕ **LL:** Open Ledger Live and confirm balances.
+   5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 
 ### ⎕ Optional Step: Hire a Lawyer
 
@@ -485,14 +478,14 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a Cryptosteel in addition to CrypoTag._**
 
 1. Set up Cryptosteel
-    1. ⎕ To open your Cryptosteel, rotate the two sides counter-clockwise.
-    2. ⎕ To unlock one side of your Cryptosteel, rotate the screw 90 degrees counterclockwise, then push down the pawl in the inset toward the bottom right. Afterward, swing open the locking arm. Be sure you're starting with the "1"-"12" side.
-    3. ⎕ Set the letter tiles for the first four letters of each word in your Recovery Phrase into the CryptoSteel.
-       - Carefully check each letter as you place it, to be sure you have the right side, and you haven't grabbed a look-alike letter.
-       - The first four letters of each word are sufficient to distinctly identify each word.
-       - Some letters will slide easily, some will need to be pushed with the small screwdriver you used to open your Cryptosteel. Occasionally, you may get one that doesn't fit at all.
-       - Lock the arm when you're done, and repeat on the "13"-"24" on the other side.
-    4. ⎕ After completing all 24 words, on both sides, close the Cryptosteel.
+   1. ⎕ To open your Cryptosteel, rotate the two sides counter-clockwise.
+   2. ⎕ To unlock one side of your Cryptosteel, rotate the screw 90 degrees counterclockwise, then push down the pawl in the inset toward the bottom right. Afterward, swing open the locking arm. Be sure you're starting with the "1"-"12" side.
+   3. ⎕ Set the letter tiles for the first four letters of each word in your Recovery Phrase into the CryptoSteel.
+      - Carefully check each letter as you place it, to be sure you have the right side, and you haven't grabbed a look-alike letter.
+      - The first four letters of each word are sufficient to distinctly identify each word.
+      - Some letters will slide easily, some will need to be pushed with the small screwdriver you used to open your Cryptosteel. Occasionally, you may get one that doesn't fit at all.
+      - Lock the arm when you're done, and repeat on the "13"-"24" on the other side.
+   4. ⎕ After completing all 24 words, on both sides, close the Cryptosteel.
 
 **_In step "M", store the Cryptosteel in your safety deposit box._**
 
@@ -516,31 +509,26 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a metal tile & engraver in addition to CrypoTag._**
 
 1. Use Steel or Titanium Tile & Engraving Pen:
-    1. ⎕ Engrave the 24 word Recovery Phrase on metal plate (recommend 4 rows of 6 tiles )
-       - Write in ALL CAPS for clarity.
-       - Separate words with "/"s or some other mark.
-       - Push hard enough to make a solid, readable mark, but not quite hard enough to stop the engraving pen's motor.
-       - It can be very challenging to write clearly with an engraving pen. You'll get better with practice. If something isn't clear, cross-out and repeat.
-       - You are only required to write the first four letters of each word to recover, but you may wish to write the entire words for improved clarity.
+   1. ⎕ Engrave the 24 word Recovery Phrase on metal plate (recommend 4 rows of 6 tiles )
+      - Write in ALL CAPS for clarity.
+      - Separate words with "/"s or some other mark.
+      - Push hard enough to make a solid, readable mark, but not quite hard enough to stop the engraving pen's motor.
+      - It can be very challenging to write clearly with an engraving pen. You'll get better with practice. If something isn't clear, cross-out and repeat.
+      - You are only required to write the first four letters of each word to recover, but you may wish to write the entire words for improved clarity.
 
 **_In step "M", store the metal tile in your safety deposit box._**
 
 **_Add one of the following metal tiles to your requirements list:_**
 
 * Design Ideas Identity Plate [https://shop.designideas.net/product/identitycase-holder-give-taketake](https://shop.designideas.net/product/identitycase-holder-give-taketake) or
-
 * Steel Tile [https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I](https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I) or [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
-
 * Steel Tile [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
-
 * ColdTi Titanium Tile [https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6](https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6)
 
 **_AND add one of the following engravers to your requirements list:_**
 
 * Manual scribe [https://www.amazon.com/gp/product/B06XYZVJJ6](https://www.amazon.com/gp/product/B06XYZVJJ6) or
-
 * Battery-powered engraver [https://www.amazon.com/gp/product/B075Z2QR1](https://www.amazon.com/gp/product/B075Z2QR1) or
-
 * Dremel Industrial Engraver [https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/](https://www.amazon.com/Dremel-290-05-120-Volt-Industrial-Engraver/dp/B000VZIGA0/) with Dremel Diamond Tip [https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU](https://www.amazon.com/Dremel-9929-Engraver-Diamond-Point/dp/B00004UDJU)
 
 ### ⎕ Optional Step: Use Metal Enhancement (Redundant Metal Devices)
@@ -564,14 +552,14 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 **_Replace the entirety of step "G" of your procedure:_**
 
 1. ⎕ **Test Metal Devices A & B.** Use the same PIN to initiate your second Ledger. Rebuild the recovery phrase from devices A & B, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-    1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
-    2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+   2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 2. ⎕ **Test Metal Devices B & C.** Use the same PIN _again_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices B & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-    1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
-    2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+   2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 3. ⎕ **Test Metal Devices A & C.** Use the same PIN _one more time_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices A & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-    1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
-    2. Don't reset it again! Now that you've tested all the combinations of your metal tiles, this is your backup Ledger.
+   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+   2. Don't reset it again! Now that you've tested all the combinations of your metal tiles, this is your backup Ledger.
 
 **_In step "M", store one of the metal devices in your home safe and one in your safety deposit box. The third tile should be placed somewhere else reasonably secure. If you _Hire a Lawyer_, that's a great location. Alternatively, consider something like a work safe or a safe at your parents' house_**
 
@@ -593,12 +581,11 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 **_Add the following to Step "B":_**
 
 1. ⎕ Create a new bootable operating system on a USB Memory Stick (or USB hard drive)
-    1. Format the external USB device
-    2. Download the installer for your OS
-    3. Install the OS to the external USB drive
+   1. Format the external USB device
+   2. Download the installer for your OS
+   3. Install the OS to the external USB drive
 2. ⎕ Boot drive from USB (This will be very slow! It is ok.)[^26]
-
-    1. Many newer operating systems, including MacOS and Windows, disable booting from an external device by default for security reasons. You'll need to flip a security switch to allow it. If you have this issue, your computer should give you a clear message about what to do when you try to boot.
+   1. Many newer operating systems, including MacOS and Windows, disable booting from an external device by default for security reasons. You'll need to flip a security switch to allow it. If you have this issue, your computer should give you a clear message about what to do when you try to boot.
 3. ⎕ Update with all security updates, but no optional updates and no apps
 
 **_In step "M", store the USB Drive in your home safe._**
