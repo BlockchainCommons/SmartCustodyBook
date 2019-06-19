@@ -86,6 +86,8 @@ The following items are necessary for this procedure, and should be purchased in
 
   _**Optional Steps** (described later) may require  purchases of additional items._
 
+{pagebreak}
+
 ### Final State
 
 This procedure will secure your Bitcoin private keys by keeping the more sensitive information in a safety deposit box and the less sensitive information in a home safe, as follows:
