@@ -679,6 +679,8 @@ If you're afraid that the base scenario doesn't protect you against accidental l
 | Instructions for heirs and xpub and cold storage addresses | Duplicates of instructions for heirs and xpub and cold storage addresses | Duplicates of instructions for heirs and xpub and cold storage addresses |
 | All in a fire-resistant bag | All in a fire-resistant bag | All in a tamper-evident bag, itself in a fire-resistant bag |
 
+{pagebreak}
+
 #### Alternative: Avoiding Private Key Theft, Level 1
 
 **Optional Steps:** Hire a Lawyer, Use Bags (Tamper-Evident)
