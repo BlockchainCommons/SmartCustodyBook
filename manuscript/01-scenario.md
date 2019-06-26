@@ -165,6 +165,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    2. Beware of homonyms or similar words
    3. Leave some room at the bottom of the page for notes
    4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
+      - Never, _never_ put your Recovery Phrase on a connected device. If a device is connected to a network, it can be hacked and even a local copy of your Recovery Phrase will be stolen.
    5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
    6. You'll need to verify all 24 words; expect this to take some time.
    7. You should see "Your device is now ready".
