@@ -1,4 +1,4 @@
-# Chapter Two: Adversaries
+# Chapter Three: Adversaries
 
 #### _Anthropomorphized risks for digital assets_
 
