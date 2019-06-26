@@ -29,6 +29,7 @@ We are very open to your feedback and look forward to learning from you what we 
 —	Christopher Allen
 
 {pagebreak}
+
 ## What is #SmartCustody?
 
 > _**"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."**_
