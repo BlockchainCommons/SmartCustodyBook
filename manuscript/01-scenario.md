@@ -75,14 +75,14 @@ See **Adversaries** for a more extensive list and discussion.
 
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
-* ⎕ Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
-* ⎕ Safety Deposit Box at Bank or other institution
-* ⎕ Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
-* ⎕ 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
-* ⎕ 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET [https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4](https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4) or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood [https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/](https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/) or equivalent)
-* ⎕ 2 Ledger Nano S[^3], Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
-* ⎕ One CryptoTag[^4] [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
-* ⎕ 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at [https://www.ledgerwallet.com/products/ledger-otg-kit](https://www.ledgerwallet.com/products/ledger-otg-kit)
+* [  ] Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
+* [  ] Safety Deposit Box at Bank or other institution
+* [  ] Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
+* [  ] 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
+* [  ] 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET [https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4](https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4) or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood [https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/](https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/) or equivalent)
+* [  ] 2 Ledger Nano S[^3], Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
+* [  ] One CryptoTag[^4] [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
+* [  ] 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at [https://www.ledgerwallet.com/products/ledger-otg-kit](https://www.ledgerwallet.com/products/ledger-otg-kit)
 
   _**Optional Steps** (described later) may require  purchases of additional items._
 
@@ -106,9 +106,9 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 
 #### **A. Setup Safes**
 
-1. ⎕ Install Home Safe[^5]
+1. [  ] Install Home Safe[^5]
    1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
-2. ⎕ Order Safe Deposit Box[^6]
+2. [  ] Order Safe Deposit Box[^6]
    1. Recommendations:
       - Associate it with a joint bank account with at least one of your heirs.
       - Have sufficient funds in the joint bank account for several years of bank fees and box fees.
@@ -118,15 +118,15 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
 2. _This optional action is omitted in this basic procedure._
 3. _This optional action is omitted in this basic procedure._
-4. ⎕ Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
+4. [  ] Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
    1. Download It
    2. Install It
 
 #### **C. Create Master HD Seed on Ledger** [^9] 
-1. ⎕ Start Up Ledger Live
+1. [  ] Start Up Ledger Live
    1. If necessary, verify for your operating system that you want to run this downloaded app
    2. **On Ledger Live (LL:)** Click "Get started"
-2. ⎕ Upgrade Ledger (if Needed)
+2. [  ] Upgrade Ledger (if Needed)
    1. Plug Ledger into computer holding down the right button (furthest from the plug).
    2. Watch for the screen to say "Recovery"; hit both buttons, then hit them again, so that "Settings" pops up on the Ledger.
    3. **LL:** Click "Manager"
@@ -146,21 +146,21 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
        - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
        - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
     12. Disconnect your Ledger from your computer; exit Ledger Live.
-3. ⎕ Initialize Your Ledger
+3. [  ] Initialize Your Ledger
    1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
    2. Click both buttons on your Ledger when it says "Welcome"; this is generally how you clear a screen.
    3. Click both buttons again.
    4. You should now see "Configure as new device" with an "X" to the left and a "√" on the right. This means that you hit the left button to choose "No" ("X") and the right button to choose "Yes" ("√"). Click the right button.
-4. ⎕ Create Your PIN[^10]
+4. [  ] Create Your PIN[^10]
    1. Hit both buttons on your Ledger to create a PIN
    2. Create at least a 6-to-8 digit PIN
    3. If you desire PIN compatibility with Trezor, don't use the number "0".
    4. Hit both buttons to verify your PIN
-   5. ⎕ Write the PIN and the Date that the key was generated using permanent marker on waterproof paper page
-5. ⎕ View Recovery Phrase
+   5. [  ] Write the PIN and the Date that the key was generated using permanent marker on waterproof paper page
+5. [  ] View Recovery Phrase
    1. Hit both buttons on your Ledger to view your 24-word Recovery Phrase
    2. Afterward, you can hit the right button to go to the next word
-6. ⎕ Write down Recovery Phrase, adding it to the waterproof paper page
+6. [  ] Write down Recovery Phrase, adding it to the waterproof paper page
    1. Write it in 6 rows, with 4 words in each row
    2. Beware of homonyms or similar words
    3. Leave some room at the bottom of the page for notes
@@ -169,13 +169,13 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
    6. You'll need to verify all 24 words; expect this to take some time.
    7. You should see "Your device is now ready".
-7. ⎕ Install Bitcoin on your Ledger[^11]
+7. [  ] Install Bitcoin on your Ledger[^11]
    1. **LL:** Choose the "Manager" in Ledger Live
    2. Hit the right button on your Ledger to Give Permissions
    3. **LL:** Install Bitcoin
    4. **LL:** Hit "Close"
    5. **LL:** Repeat for any other cryptocurrency you want to use
-8. ⎕ Create Your Bitcoin Account
+8. [  ] Create Your Bitcoin Account
    1. **LL:** Click the "+" next to Accounts to Add Accounts
    2. **LL:** Choose Bitcoin and hit "Continue"
    3. On your Ledger, hit the right button to navigate to the Bitcoin app, then both buttons to run
@@ -183,48 +183,48 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    5. **LL:** Hit "Continue" in Ledger Live
    6. **LL:** Name the account (e.g. "Investment Cold Storage"), select the checkmark, and hit "Add Account"
    7. Hit the "X" button; you're done: you now have an account to send and receive bitcoins; discount the Ledger
-9. ⎕ Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
+9. [  ] Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
 
 #### **D. Verify Recovery Phrase**
 
-1. ⎕ Restart Ledger Live, plug in your Ledger Nano, and login to both.
-2. ⎕ **LL:** Click "Manager", and find "Recovery Check" in the List of Apps. "Install".
-3. ⎕ Navigate to "Recovery Check" on your Ledger. Hit both buttons to enter it.
-4. ⎕ Select both buttons on your Ledger to begin the check. Hit both buttons twice more.
-5. ⎕ Select 24 words with both buttons, then hit both buttons again.
-6. ⎕ Enter your 24 words, selecting letters one at a time.
+1. [  ] Restart Ledger Live, plug in your Ledger Nano, and login to both.
+2. [  ] **LL:** Click "Manager", and find "Recovery Check" in the List of Apps. "Install".
+3. [  ] Navigate to "Recovery Check" on your Ledger. Hit both buttons to enter it.
+4. [  ] Select both buttons on your Ledger to begin the check. Hit both buttons twice more.
+5. [  ] Select 24 words with both buttons, then hit both buttons again.
+6. [  ] Enter your 24 words, selecting letters one at a time.
    1. The Ledger will only list possible letters.
    2. The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
    3. When offered word options, hit the right arrow until you get to the correct word.
    4. Select the right word with both buttons, then hit both buttons again to go on to the next word.
-7. ⎕ If you see "Recovery Phrase Matches", you have verified your phrase!
+7. [  ] If you see "Recovery Phrase Matches", you have verified your phrase!
    1. If you didn't, check for simple mistakes. If you see them, repeat step D.
    2. Otherwise, restart from step C-3.
 
 #### **E. Create Test Transaction** [^13]
-1. ⎕ Generate a test receive address
+1. [  ] Generate a test receive address
    1. **LL:** Select the "Receive" Menu item on Ledger Live
    2. If necessary navigate to the Bitcoin app on your Ledger and open it
    3. **LL:** Click "Confirm" and you'll see a receipt address on your computer screen with a QR code.
    4. You will also see the address on your Ledger; carefully compare all the digits and if it is the same, hit the right button to confirm.
    5. Write down, copy, or scan the Bitcoin address.
    6. If you write it by hand, double check the address: read it aloud as you look at both the original and your copy.
-2. ⎕ Send yourself a small Bitcoin transaction to that address. Wait for confirmation.
+2. [  ] Send yourself a small Bitcoin transaction to that address. Wait for confirmation.
    1. If you instead request a transaction from someone, best practice is to send them the address via two secure communications methods that are out of band with each other (or else: show them a QR code in person).
    2. After sufficient time has elapsed, you should see the transaction in your Bitcoin account on Ledger Live
-3. ⎕ OPTIONAL: Use the "Send" menu item in Ledger Live to send some (but not all) of your test funds back to a different Bitcoin wallet. This confirms that your wallet can not only receive bitcoins, but spend them too[^14]. Again, wait for confirmation.
-4. ⎕ Export account info from Ledger Wallet Bitcoin
+3. [  ] OPTIONAL: Use the "Send" menu item in Ledger Live to send some (but not all) of your test funds back to a different Bitcoin wallet. This confirms that your wallet can not only receive bitcoins, but spend them too[^14]. Again, wait for confirmation.
+4. [  ] Export account info from Ledger Wallet Bitcoin
    1. Select your account (e.g. "Investment Cold Storage")
    2. Click "Edit Account" (the wrench) on the right
    3. Click "Advanced Logs"
    4. Write, copy, or print the xpub and the address path, along with the account name
-   5. ⎕ OPTIONAL: Write the name of the account, the xpub, and the root path on your waterproof sheet
+   5. [  ] OPTIONAL: Write the name of the account, the xpub, and the root path on your waterproof sheet
    6. Repeat for additional accounts.
-5. ⎕ Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
+5. [  ] Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
 
 #### **F. Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
-   1. ⎕ Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
+   1. [  ] Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
       - Place the Bit Holder over each row before you begin stamping that word.
       - Carefully check each letter before you stamp it, to be sure you haven't grabbed a look-alike letter. Watch for "O" and "Q" in particular, because they look the same and are near to each other.
       - Be sure the word "CryptoTag" is facing you, so that the letter will be face-up.
@@ -232,18 +232,18 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
       - Consider taking a break after stamping the first 12 words, to keep your stamps strong and deep.
       - The first four letters of each word are sufficient to distinctly identify each word.
       - If you make a mistake during this process which renders the tag unusable (missing or wrong words, wrong order, etc) consider starting over with a new seed; it is difficult to adequately destroy a partially created CryptoTag.
-   2. ⎕ After completing all 24 words, reclip the CryptoTag.
+   2. [  ] After completing all 24 words, reclip the CryptoTag.
    3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
 #### **G. Verify Recovery Phrase & Software Standards Conformance**
 
-1. ⎕ Use same PIN and restore Recovery Phrase on second Ledger.
+1. [  ] Use same PIN and restore Recovery Phrase on second Ledger.
    1. Use the Recovery Phrase from your Cryptosteel, to verify its accuracy.
-2. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+2. [  ] Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
 
 #### **H. Transfer Existing Cold Funds**
 
-1. ⎕ Generate new receive addresses and transfer existing cold funds to the new master seed protected by the Ledger. Wait for confirmation.
+1. [  ] Generate new receive addresses and transfer existing cold funds to the new master seed protected by the Ledger. Wait for confirmation.
    1. Have an appropriate amount of paranoia for the amount of funds you're transferring and your own peace of mind.
    2. Never put enough into a single transaction that it would be catastrophic to lose.
    3. Perhaps start transferring small amounts, increasing over the course of several transactions.
@@ -251,10 +251,10 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 
 #### **I. Print Next Cold Storage Address**
 
-1. ⎕ **LL:** Open Ledger Live and enter password, click "Receive", and hit "Continue" once the right account has been selected.
-2. ⎕ Plug in your Ledger, enter the PIN, navigate to the Bitcoin app, and hit both buttons to select.
-3. ⎕ **LL:** Hit "Verify" and double-check the address on your screen against the one on your Leder.
-4. ⎕ Write on a separate waterproof sheet the new Receive Address.
+1. [  ] **LL:** Open Ledger Live and enter password, click "Receive", and hit "Continue" once the right account has been selected.
+2. [  ] Plug in your Ledger, enter the PIN, navigate to the Bitcoin app, and hit both buttons to select.
+3. [  ] **LL:** Hit "Verify" and double-check the address on your screen against the one on your Leder.
+4. [  ] Write on a separate waterproof sheet the new Receive Address.
    1. After you write it, carefully double- and triple-check it.
    2. Look not just for mistakes, but also where your printing might be ambiguous.
    3. If you prefer, scan the QR code.
@@ -265,30 +265,30 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 #### **L. Prepare Instructions for Heirs and/or Executor**
 
-1. ⎕ Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter below.
+1. [  ] Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter below.
 
 #### **M. Store in Safes** [^16]
-1. ⎕ Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
-2. ⎕ OPTIONAL: Store materials in tamper-resistant bag and sign it; ⎕ OPTIONAL: Store materials in fire resistant bag.
-3. ⎕ Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
-4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
+1. [  ] Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
+2. [  ] OPTIONAL: Store materials in tamper-resistant bag and sign it; [  ] OPTIONAL: Store materials in fire resistant bag.
+3. [  ] Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
+4. [  ] Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
 #### **N. Check Storage A — Spring** [^18]
-1. ⎕ Confirm contents of Home Safe.
-2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
-3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
+1. [  ] Confirm contents of Home Safe.
+2. [  ] OPTIONAL: If using any tamper-evident bags, check for tampering.
+3. [  ] Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
 4. _This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#network-attack-systemi)**_.
-5. ⎕ Connect your Ledger, open Ledger Live, and confirm balances.
-6. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and cstore in Home Safe.
-7. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
+5. [  ] Connect your Ledger, open Ledger Live, and confirm balances.
+6. [  ] OPTIONAL: Save any transaction logs on waterproof paper and cstore in Home Safe.
+7. [  ] OPTIONAL: If you have used your cold storage address, print new set.
 
 #### **O. Check Storage B — Fall** [^19]
-1. ⎕ Sign in to check contents of safety deposit box[^20]. Check safety deposit box signature logs to see if anyone else has signed in.
-2. ⎕ OPTIONAL: If using any tamper-evident bags, check for tampering.
-3. ⎕ Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
-4. ⎕ OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates; open Ledger Wallet and confirm balances.
-5. ⎕ OPTIONAL: Save any transaction logs on waterproof paper and store in safety deposit box.
-6. ⎕ OPTIONAL: If you have used your cold storage address, print new set.
+1. [  ] Sign in to check contents of safety deposit box[^20]. Check safety deposit box signature logs to see if anyone else has signed in.
+2. [  ] OPTIONAL: If using any tamper-evident bags, check for tampering.
+3. [  ] Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
+4. [  ] OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates; open Ledger Wallet and confirm balances.
+5. [  ] OPTIONAL: Save any transaction logs on waterproof paper and store in safety deposit box.
+6. [  ] OPTIONAL: If you have used your cold storage address, print new set.
 
 {pagebreak}
 
@@ -324,7 +324,7 @@ See Chapter Two for a full discussion of adversaries. The following adversaries 
 
 {pagebreak}
 
-### ⎕ Optional Step: Erase Your Ledger(s)
+### [  ] Optional Step: Erase Your Ledger(s)
 
 **Obstructed Adversary:** [Physical Theft, Casual](#adversary-physical-theft-casual), [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
@@ -342,51 +342,51 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 #### **M. Store in Safes**
 
-1. ⎕ Erase each of your Ledgers by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+1. [  ] Erase each of your Ledgers by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
    1. Place your Ledgers wherever you want; they no longer need to be secured.
-2. ⎕ OPTIONAL: Store materials tamper-resistant bag and sign it; ⎕ OPTIONAL: Store in fire resistant bag.
-3. ⎕ Place non-key devices in your Home Safe, including your instructions for heirs, and one copy of the cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases.
-4. ⎕ Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second copy of instructions and one copy of the cold storage addresses.
+2. [  ] OPTIONAL: Store materials tamper-resistant bag and sign it; [  ] OPTIONAL: Store in fire resistant bag.
+3. [  ] Place non-key devices in your Home Safe, including your instructions for heirs, and one copy of the cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases.
+4. [  ] Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second copy of instructions and one copy of the cold storage addresses.
 
 **_Replace action #5 of Step "N" of your procedure as follows, to restore your Ledger as part of maintenance:_**
 
-1. ⎕ Connect your Ledger and rebuild it.
+1. [  ] Connect your Ledger and rebuild it.
    1. Hit both buttons to move through the first two screens.
       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
       - Hit the right button to  "Restore Configuration".
       - Reenter the same PIN and verify, per step "C-3".
-   2. ⎕ Hit both buttons to "Enter your recovery phrase".
+   2. [  ] Hit both buttons to "Enter your recovery phrase".
       - Choose to restore "24" words.
       - Enter your Recovery Phrase from the waterproof sheet.
       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
       - The Ledger will only list possible letters.
       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
       - When offered word options, hit the right arrow until you get to the correct word.
-   3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
-   4. ⎕ **LL:** Open Ledger Live and confirm balances.
-   5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   3. [  ] Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
+   4. [  ] **LL:** Open Ledger Live and confirm balances.
+   5. [  ] Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 
 **_Similarly, replace action #4 of Step "O" of your procedure as follows:_**
 
-1. ⎕ OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates. Connect your Ledger and rebuild it.
+1. [  ] OPTIONAL: If you have an extra USB drive in the safety deposit box, take it home and boot from USB drive. Do only essential security updates. Connect your Ledger and rebuild it.
    1. Hit both buttons to move through the first two screens.
       - Hit the **_LEFT_** button to refuse to "Configure as New Device".
       - Hit the right button to  "Restore Configuration".
       - Reenter the same PIN and verify, per step "C-3".
-   2. ⎕ Hit both buttons to "Enter your recovery phrase".
+   2. [  ] Hit both buttons to "Enter your recovery phrase".
       - Choose to restore "24" words.
       - Enter your Recovery Phrase from the waterproof sheet.
       - Enter letters one at a time, selecting with the left and right arrows, then choosing by hitting both buttons.
       - The Ledger will only list possible letters.
       - The Ledger will provide you with complete word possibilities after you enter two to four letters from each word.
       - When offered word options, hit the right arrow until you get to the correct word.
-   3. ⎕ Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
-   4. ⎕ **LL:** Open Ledger Live and confirm balances.
-   5. ⎕ Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+   3. [  ] Hit both buttons when words are finished processing, then hit both buttons to open the Bitcoin app.
+   4. [  ] **LL:** Open Ledger Live and confirm balances.
+   5. [  ] Erase Ledger by entering an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
 
 {pagebreak}
 
-### ⎕ Optional Step: Hire a Lawyer
+### [  ] Optional Step: Hire a Lawyer
 
 **Obstructed Adversary:** [Death / Incapacitation](#adversary-death--incapacitation), [Institutional Theft](#adversary-institutional-theft)
 
@@ -398,7 +398,7 @@ _A lawyer can store sealed files for you and will have a fiduciary responsibilit
 
 {pagebreak}
 
-### ⎕ Optional Step: Seal Metal Tiles
+### [  ] Optional Step: Seal Metal Tiles
 
 **Obstructed Adversary:** [Institutional Theft](#adversary-institutional-theft), [Internal Theft](#adversary-internal-theft)
 
@@ -426,7 +426,7 @@ _This process is not likely to work equally well for all sorts of metal devices.
 
 {pagebreak}
 
-### ⎕ Optional Step: Use Bags (Fire-Resistant)
+### [  ] Optional Step: Use Bags (Fire-Resistant)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster)
 
@@ -436,7 +436,7 @@ _Fire-resistant bags can increase the fire resistance of printed materials, and 
 
 **_Add the following action to step "M" of your procedure:_**
 
-1. ⎕ Store all materials in fire-resistant bags.
+1. [  ] Store all materials in fire-resistant bags.
 
 **_Add the following to your requirements list:_**
 
@@ -446,7 +446,7 @@ _One bag is used for your home safe, one for your safety deposit box._
 
 {pagebreak}
 
-### ⎕ Optional Step: Use Bags (Tamper-Evident)
+### [  ] Optional Step: Use Bags (Tamper-Evident)
 
 **Obstructed Adversary:** [Internal Theft](#adversary-internal-theft), [Institutional Theft](#adversary-institutional-theft), [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated)
 
@@ -458,7 +458,7 @@ _They can also increase [Process Fatigue](#adversary-process-fatigue) because of
 
 **_Add the following action to step "M" of your procedure:_**
 
-1. ⎕ Store materials in tamper-evident bag and sign it.
+1. [  ] Store materials in tamper-evident bag and sign it.
 
 **_Add the following to your requirements list:_**
 
@@ -468,7 +468,7 @@ _One bag is used for your home safe, one for your safety deposit box._
 
 {pagebreak}
 
-### ⎕ Optional Step: Use a (USB) Laser Printer
+### [  ] Optional Step: Use a (USB) Laser Printer
 
 **Obstructed Adversary:** [Key Fragility](#adversary-key-fragility), [Transaction Error](#adversary-transaction-error), [User Error](#adversary-user-error)
 
@@ -476,7 +476,7 @@ _Printing information from your computer rather than hand copying it can improve
 
 **_Add the following action to step "B" of your procedure:_**
 
-5. ⎕ Install printer drivers for USB Printer
+5. [  ] Install printer drivers for USB Printer
 
 **_Instead of writing, print out your receive bitcoin addresses (I.4), the extended public key (E.7), and anything else from Ledger Live, all on waterproof laser paper._**
 
@@ -486,7 +486,7 @@ _Printing information from your computer rather than hand copying it can improve
 
 {pagebreak}
 
-### ⎕ Optional Step: Use Metal Alternative (Cryptosteel)
+### [  ] Optional Step: Use Metal Alternative (Cryptosteel)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 
@@ -501,14 +501,14 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a Cryptosteel in addition to CrypoTag._**
 
 1. Set up Cryptosteel
-   1. ⎕ To open your Cryptosteel, rotate the two sides counter-clockwise.
-   2. ⎕ To unlock one side of your Cryptosteel, rotate the screw 90 degrees counterclockwise, then push down the pawl in the inset toward the bottom right. Afterward, swing open the locking arm. Be sure you're starting with the "1"-"12" side.
-   3. ⎕ Set the letter tiles for the first four letters of each word in your Recovery Phrase into the CryptoSteel.
+   1. [  ] To open your Cryptosteel, rotate the two sides counter-clockwise.
+   2. [  ] To unlock one side of your Cryptosteel, rotate the screw 90 degrees counterclockwise, then push down the pawl in the inset toward the bottom right. Afterward, swing open the locking arm. Be sure you're starting with the "1"-"12" side.
+   3. [  ] Set the letter tiles for the first four letters of each word in your Recovery Phrase into the CryptoSteel.
       - Carefully check each letter as you place it, to be sure you have the right side, and you haven't grabbed a look-alike letter.
       - The first four letters of each word are sufficient to distinctly identify each word.
       - Some letters will slide easily, some will need to be pushed with the small screwdriver you used to open your Cryptosteel. Occasionally, you may get one that doesn't fit at all.
       - Lock the arm when you're done, and repeat on the "13"-"24" on the other side.
-   4. ⎕ After completing all 24 words, on both sides, close the Cryptosteel.
+   4. [  ] After completing all 24 words, on both sides, close the Cryptosteel.
 
 **_In step "M", store the Cryptosteel in your safety deposit box._**
 
@@ -519,7 +519,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 {pagebreak}
 
-### ⎕ Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
+### [  ] Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 
@@ -534,7 +534,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 **_Replace the first action in step "F" of your procedure; alternatively, add this action to step "F" if you want to use a metal tile & engraver in addition to CrypoTag._**
 
 1. Use Steel or Titanium Tile & Engraving Pen:
-   1. ⎕ Engrave the 24 word Recovery Phrase on metal plate (recommend 4 rows of 6 tiles )
+   1. [  ] Engrave the 24 word Recovery Phrase on metal plate (recommend 4 rows of 6 tiles )
       - Write in ALL CAPS for clarity.
       - Separate words with "/"s or some other mark.
       - Push hard enough to make a solid, readable mark, but not quite hard enough to stop the engraving pen's motor.
@@ -558,7 +558,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 {pagebreak}
 
-### ⎕ Optional Step: Use Metal Enhancement (Redundant Metal Devices)
+### [  ] Optional Step: Use Metal Enhancement (Redundant Metal Devices)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Institutional Theft](#adversary-institutional-theft), [Key Fragility](#adversary-key-fragility)
 
@@ -571,21 +571,21 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 **_Enhance step "F" of your procedure as follows_**
 
 * Divide the 24 recovery words among the three metal tiles or Cryptosteel devices, placing sixteen words on each, such that any two tiles gives you all of the words.
-    1. ⎕ Engrave, stamp, or set recovery words 1-16 on the first metal device.
-    2. ⎕ Engrave, stamp, or set recovery words 1-8 and 17-24 on the second metal device.
-    3. ⎕ Engrave, stamp, or set recovery words 9-24 on the third metal device.
+    1. [  ] Engrave, stamp, or set recovery words 1-16 on the first metal device.
+    2. [  ] Engrave, stamp, or set recovery words 1-8 and 17-24 on the second metal device.
+    3. [  ] Engrave, stamp, or set recovery words 9-24 on the third metal device.
 * If you're etching or stamping a tile, be sure to number your words or place them in the appropriately numbered spaces, so that you know their proper order
 
 **_Replace the entirety of step "G" of your procedure:_**
 
-1. ⎕ **Test Metal Devices A & B.** Use the same PIN to initiate your second Ledger. Rebuild the recovery phrase from devices A & B, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
-   2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
-2. ⎕ **Test Metal Devices B & C.** Use the same PIN _again_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices B & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
-   2. ⎕ Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
-3. ⎕ **Test Metal Devices A & C.** Use the same PIN _one more time_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices A & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
-   1. ⎕ Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+1. [  ] **Test Metal Devices A & B.** Use the same PIN to initiate your second Ledger. Rebuild the recovery phrase from devices A & B, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
+   1. [  ] Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+   2. [  ] Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+2. [  ] **Test Metal Devices B & C.** Use the same PIN _again_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices B & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
+   1. [  ] Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
+   2. [  ] Disconnect and reconnect the second Ledger and enter an incorrect PIN three times to clear the master key from device. You will see "Your device has been reset."
+3. [  ] **Test Metal Devices A & C.** Use the same PIN _one more time_ to initiate your second Ledger. This time, rebuild the recovery phrase from devices A & C, to verify their accuracy and your ability to rebuild the complete Recovery Phrase from them.
+   1. [  ] Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
    2. Don't reset it again! Now that you've tested all the combinations of your metal tiles, this is your backup Ledger.
 
 **_In step "M", store one of the metal devices in your home safe and one in your safety deposit box. The third tile should be placed somewhere else reasonably secure. If you _Hire a Lawyer_, that's a great location. Alternatively, consider something like a work safe or a safe at your parents' house_**
@@ -598,7 +598,7 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 
 {pagebreak}
 
-### ⎕ Optional Step: Use a USB Drive[^25]
+### [  ] Optional Step: Use a USB Drive[^25]
 
 **Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
@@ -610,19 +610,19 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 **_Add the following to Step "B":_**
 
-1. ⎕ Create a new bootable operating system on a USB Memory Stick (or USB hard drive)
+1. [  ] Create a new bootable operating system on a USB Memory Stick (or USB hard drive)
    1. Format the external USB device
    2. Download the installer for your OS
    3. Install the OS to the external USB drive
-2. ⎕ Boot drive from USB (This will be very slow! It is ok.)[^26]
+2. [  ] Boot drive from USB (This will be very slow! It is ok.)[^26]
    1. Many newer operating systems, including MacOS and Windows, disable booting from an external device by default for security reasons. You'll need to flip a security switch to allow it. If you have this issue, your computer should give you a clear message about what to do when you try to boot.
-3. ⎕ Update with all security updates, but no optional updates and no apps
+3. [  ] Update with all security updates, but no optional updates and no apps
 
 **_In step "M", store the USB Drive in your home safe._**
 
 **_Add the following to Step "N":_**
 
-1. ⎕ Boot from USB drive from your Home Safe; do only essential security updates
+1. [  ] Boot from USB drive from your Home Safe; do only essential security updates
 
 **_Add the following to your requirements list:_**
 
@@ -630,7 +630,7 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 {pagebreak}
 
-### ⎕ Optional Step: Use a (Second) USB Drive
+### [  ] Optional Step: Use a (Second) USB Drive
 
 **Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster), [Systemic Network Attack](#adversary-network-attack-systemic)
 
@@ -640,8 +640,8 @@ _If you already "Use a USB Drive", you may want to double-up with a second copy.
 
 #### **K. Duplicate USB drive**
 
-1. ⎕ Reboot computer, and image copy first USB drive to to second USB drive (e.g., with Carbon Copy Cloner)
-2. ⎕ Confirm that both boot.
+1. [  ] Reboot computer, and image copy first USB drive to to second USB drive (e.g., with Carbon Copy Cloner)
+2. [  ] Confirm that both boot.
 
 **_In step "M", store the second USB Drive in your safety deposit box._**
 
