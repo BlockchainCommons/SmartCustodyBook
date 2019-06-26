@@ -1,6 +1,7 @@
 # Preface
 
 ## Foreword: The Key Management of Digital Assets
+
 #### by Christopher Allen
 
 I first became fascinated by the possibilities offered by public key cryptography when reading about the RSA algorithm in the early '90s. However, I didn't really start to deal with the problems of key management of my own large large cryptographic keys until the launch of PGP in 1992. 
@@ -27,7 +28,7 @@ We are very open to your feedback and look forward to learning from you what we 
 
 —	Christopher Allen
 
-{page break}
+{pagebreak}
 ## What is #SmartCustody?
 
 > _**"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."**_
