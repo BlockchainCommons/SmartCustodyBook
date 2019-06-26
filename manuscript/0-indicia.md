@@ -25,6 +25,8 @@ Any questions or issues concerning this white paper or contributions of updates 
 
 **Reviewers:** Bryan Bishop, Miron C., Glenn Willen
 
+_Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](https://www.youtube.com/watch?v=S9JGmA5_unY) on how to think about large numbers. We borrowed his process, but adapted it in our own way. Any understanding comes from his approach, while any mistakes in calculation are ours._
+
 ### Additional Chapter Two Credits
 
 **Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure)
