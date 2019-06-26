@@ -23,11 +23,15 @@ Any questions or issues concerning this white paper or contributions of updates 
 
 ### Additional Chapter One Credits
 
+**Reviewers:** Bryan Bishop, Miron C., Glenn Willen
+
+### Additional Chapter Two Credits
+
 **Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure)
 
 **Reviewers:** Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Glenn Willen [@gwillen](https://twitter.com/gwillen), Greg Maxwell, Jonathan Wilkins, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester)
 
-### Additional Chapter Two Credits
+### Additional Chapter Three Credits
 
 **Contributors:** Greg Maxwell, Bryan Bishop [*@kanzure*](https://twitter.com/kanzure)
 
