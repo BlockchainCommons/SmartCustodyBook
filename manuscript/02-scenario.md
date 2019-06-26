@@ -1,4 +1,4 @@
-# Chapter One: Cold Storage Self-Custody Scenario
+# Chapter Two: Cold Storage Self-Custody Scenario
 
 #### _Best Practices for Protecting Your Personal Digital Assets Using Cold Storage_
 
