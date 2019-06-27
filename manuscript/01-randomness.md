@@ -2,7 +2,7 @@
 
 #### _Why we do what we do_
 
-**_Version: 2019-06-26 Release 1.0.0_**
+**_Version: 2019-06-27 Release 1.0.0_**
 
 ## Introduction to Randomness
 
