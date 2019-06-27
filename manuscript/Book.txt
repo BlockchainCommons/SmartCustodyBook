@@ -3,5 +3,5 @@
 0-preface.md
 01-randomness.md
 02-scenario.md
-X03-adversaries.md
+03-adversaries.md
 XX-bios.md
