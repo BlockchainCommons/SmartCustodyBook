@@ -71,7 +71,8 @@ Clearly we have to look beyond the global money supply out into the whole univer
 
 Let’s take an alternate route and instead consider the entire mining power of the Bitcoin network. That’s been running about 40E in 2019, which is 40 billion billion hashes per second, or 6 billion times as much power as that single 3.16xlarge computer. This deals with two of the 2^32s required to crack a Bitcoin private key, but only by using up what may be the most powerful computer network on modern-day Earth.
 
-> (4B \* 4B \* 3 = Bitcoin mining power) \*<br>
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
+
 > ⅓ \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B
 
 There are 7.7 billion people on Earth, so let’s give every one of them a magic computer that has the entire power of the current Bitcoin mining network:
@@ -84,51 +85,51 @@ There are 7.7 billion people on Earth, so let’s give every one of them a magic
 
 There are 250 billion stars in the Milky Way (plus or minus 150 billion), so let’s give every star an Earth-like planet where everyone is running magic computers:
 
-(4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
 
-(4B \* 2 = population of Earth) \*
+> (4B \* 2 = population of Earth) \*
 
-(4B \* 62 = stars in the Milky Way) \*
+> (4B \* 62 = stars in the Milky Way) \*
 
-1/3 \* 1/2 \* 1/62 \* 4B \* 4B \* 4B \* 4B
+> 1/3 \* 1/2 \* 1/62 \* 4B \* 4B \* 4B \* 4B
 
 There are at least 200 billion galaxies in the universe:
 
-(4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
 
-(4B \* 2 = population of Earth) \*
+> (4B \* 2 = population of Earth) \*
 
-(4B \* 62 = stars in the Milky Way) \*
+> (4B \* 62 = stars in the Milky Way) \*
 
-(4B \* 50 = galaxies in the universe) \*
+> (4B \* 50 = galaxies in the universe) \*
 
-1/3 \* 1/2 \* 1/62 \* 1/50 \* 4B \* 4B \* 4B
+> 1/3 \* 1/2 \* 1/62 \* 1/50 \* 4B \* 4B \* 4B
 
 And finally, it’s been 13.7 billion years since the Big Bang, which is 432 million billion seconds.
 
-(4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
 
-(4B \* 2 = population of Earth) \*
+> (4B \* 2 = population of Earth) \*
 
-(4B \* 62 = stars in the Milky Way) \*
+> (4B \* 62 = stars in the Milky Way) \*
 
-(4B \* 50 = galaxies in the universe) \*
+> (4B \* 50 = galaxies in the universe) \*
 
-(4B \* 108M = lifetime of the universe) \*
+> (4B \* 108M = lifetime of the universe) \*
 
-1/3 \* 1/2 \* 1/62 \* 1/50 \* 1/108M \* 4B \* 4B
+> 1/3 \* 1/2 \* 1/62 \* 1/50 \* 1/108M \* 4B \* 4B
 
 If you rearrange the fractions, what’s left is:
 
-1/500 \* 1/4B \* 4B \* 4B
+> 1/500 \* 1/4B \* 4B \* 4B
 
 Or:
 
-1/500 \* 4B
+> 1/500 \* 4B
 
 Or:
 
-8M
+> 8M
 
 In other words, in order to guess all of the possible combinations in a Bitcoin private key, you’d have to have every star in the whole universe have an Earth-like planet where every person had their own complete Bitcoin mining network, and they’d all have to calculate for the entire lifetime of the universe, and then they’d have to do that 8 million more times!
 
@@ -138,33 +139,33 @@ Which is why cryptographers like randomness.
 
 (And why the 256-bit private key is a lot better than your 12- or 16-character password.)
 
-### The Power of 2^160^
+### The Power of 2^160
 
 Actually, the power of that 256-bit private key is so huge that Bitcoin itself doesn’t use all of it. It instead hashes the public key of its keypair down to a 160-bit Bitcoin address. This *does* decrease the security, because now there are many collisions when converting from that 256-bit keyspace to this smaller 160-bit hashspace. But the number is still so hugely large that it doesn’t matter.
 
-2^160^ is only:
+2^160 is only:
 
-> 2^32^ \* 2^32^ \* 2^32^ \* 2^32^ \* 2^32^
+> 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32
 
 But that still means:
 
-(4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
 
-(4B \* 2 = population of Earth) \*
+> (4B \* 2 = population of Earth) \*
 
-(4B \* 108M = lifetime of the universe) \*
+> (4B \* 108M = lifetime of the universe) \*
 
-1/3 \* 1/2 \* 1/108M \* 4B
+> 1/3 \* 1/2 \* 1/108M \* 4B
 
 Or:
 
-(4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*
 
-(4B \* 2 = population of Earth) \*
+> (4B \* 2 = population of Earth) \*
 
-(4B \* 108M = lifetime of the universe) \*
+> (4B \* 108M = lifetime of the universe) \*
 
-6172
+> 6172
 
 To break a 160-bit hash would require everyone on the Earth to have a computer with the power of the Bitcoin mining network and to run for six thousand times the lifetime of the universe.
 
