@@ -45,7 +45,7 @@ Which is why it’s fortunate that Bitcoin’s virtual combination lock isn’t 
 
 A 256-bit private key is a string of 256 ones or zeros, which, requiring 2^256 guesses to step through all of the possibilities, but that doesn’t illustrate the whole scope of the number. We can bring it down to Earth by breaking it down as:
 
-> 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32
+> 2^32 * 2^32 * 2^32 * 2^32 * 2^32 * 2^32 * 2^32 * 2^32
 
 And since 2^32 is a bit more than four billion, this is about the same as:
 
