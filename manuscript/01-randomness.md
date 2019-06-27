@@ -58,6 +58,7 @@ So, how hard is that to crack?
 Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to operate, can compute about 6 billion hashes a second. That only resolves one of those 2^32^ multipliers, leaving seven to deal with:
 
 > (4B \* 1.5 = 3.16xlarge computing power) \*
+
 > ⅔ \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B
 
 Perhaps we can do better by spending more money: with 21 trillion hashes in an hour costing \$25, the overall cost of using the 3.16xlarge is about \$1 for each thousand billion hashes. Multiply that by the eighty thousand billion dollars circulating in fiat currency, and you can run eighty million billion billion hashes before you bankrupt the whole world.
@@ -70,13 +71,15 @@ Clearly we have to look beyond the global money supply out into the whole univer
 
 Let’s take an alternate route and instead consider the entire mining power of the Bitcoin network. That’s been running about 40E in 2019, which is 40 billion billion hashes per second, or 6 billion times as much power as that single 3.16xlarge computer. This deals with two of the 2^32s required to crack a Bitcoin private key, but only by using up what may be the most powerful computer network on modern-day Earth.
 
-> (4B \* 4B \* 3 = Bitcoin mining power) \*
+> (4B \* 4B \* 3 = Bitcoin mining power) \*<br>
 > ⅓ \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B
 
 There are 7.7 billion people on Earth, so let’s give every one of them a magic computer that has the entire power of the current Bitcoin mining network:
 
 > (4B \* 4B \* 3 = Bitcoin mining power) \*
+
 > (4B \* 2 = population of Earth) \*
+
 > ⅓ \* ½ \* 4B \* 4B \* 4B \* 4B \* 4B
 
 There are 250 billion stars in the Milky Way (plus or minus 150 billion), so let’s give every star an Earth-like planet where everyone is running magic computers:
