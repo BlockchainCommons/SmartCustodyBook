@@ -37,17 +37,17 @@ The [*zxcvbn*](https://github.com/dropbox/zxcvbn/blob/master/README.md) [*intera
 
 And that’s why you’re not going to be brain-walleting a password for your digital assets: there’s not enough randomness in a password for it to be well-protected unless it’s very long and fundamentally impossible to memorize. Oh, you could use an alternative like the [*EFF’s randomphrase list*](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases), which allows you to get the equivalent of 77 bits of protection with six seven-character words. But even in these situations, you’re unlikely to manage more than 80 bits of entropy, which is the absolute minimum you’d want in the current day and age.
 
-At the moment, 80 bits of protection are theoretically safe under any likely cracking scenario … but the Bitcoin mining network as a group actually passed the ability to make 2^80 guesses in a year at the end of 2013 and has [*peaked at closer to 2^92*](https://crypto.stackexchange.com/questions/13299/is-80-bits-of-key-size-considered-safe-against-brute-force-attacks/13305#13305). Though it’s unlikely that someone could put together that much computing power to break a single key, that amount of computer power does already exist on Earth, and we wouldn’t want our assets’ safety lying so near the ever-advancing line of what can be broken.
+At the moment, 80 bits of protection are theoretically safe under any likely cracking scenario … but the Bitcoin mining network as a group actually passed the ability to make 2\^80 guesses in a year at the end of 2013 and has [*peaked at closer to 2\^92*](https://crypto.stackexchange.com/questions/13299/is-80-bits-of-key-size-considered-safe-against-brute-force-attacks/13305#13305). Though it’s unlikely that someone could put together that much computing power to break a single key, that amount of computer power does already exist on Earth, and we wouldn’t want our assets’ safety lying so near the ever-advancing line of what can be broken.
 
 Which is why it’s fortunate that Bitcoin’s virtual combination lock isn’t 80 bits long, but rather 256.
 
-### The Power of 2^256
+### The Power of 2\^256
 
-A 256-bit private key is a string of 256 ones or zeros, which, requiring 2^256 guesses to step through all of the possibilities, but that doesn’t illustrate the whole scope of the number. We can bring it down to Earth by breaking it down as:
+A 256-bit private key is a string of 256 ones or zeros, which, requiring 2\^256 guesses to step through all of the possibilities, but that doesn’t illustrate the whole scope of the number. We can bring it down to Earth by breaking it down as:
 
 > 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32
 
-And since 2^32 is a bit more than four billion, this is about the same as:
+And since 2\^32 is a bit more than four billion, this is about the same as:
 
 > 4B \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B \* 4B
 
@@ -55,7 +55,7 @@ So, how hard is that to crack?
 
 #### The Amazon Example
 
-Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to operate, can compute about 6 billion hashes a second. That only resolves one of those 2^32 multipliers, leaving seven to deal with:
+Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to operate, can compute about 6 billion hashes a second. That only resolves one of those 2\^32 multipliers, leaving seven to deal with:
 
 > (4B \* 1.5 = 3.16xlarge computing power) \*
 
@@ -63,13 +63,13 @@ Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to oper
 
 Perhaps we can do better by spending more money: with 21 trillion hashes in an hour costing \$25, the overall cost of using the 3.16xlarge is about \$1 for each thousand billion hashes. Multiply that by the eighty thousand billion dollars circulating in fiat currency, and you can run eighty million billion billion hashes before you bankrupt the whole world.
 
-At this point, you’ve come up with a way to crack an 80-bit secret without using the entire Bitcoin mining network for a year. But, it’s still nowhere near what you need to figure out that 256-bit Bitcoin secret, where you’re still working on that third 2^32 multiplier, with five more to go!
+At this point, you’ve come up with a way to crack an 80-bit secret without using the entire Bitcoin mining network for a year. But, it’s still nowhere near what you need to figure out that 256-bit Bitcoin secret, where you’re still working on that third 2\^32 multiplier, with five more to go!
 
 Clearly we have to look beyond the global money supply out into the whole universe to do better.
 
 #### The Universal Example
 
-Let’s take an alternate route and instead consider the entire mining power of the Bitcoin network. That’s been running about 40E in 2019, which is 40 billion billion hashes per second, or 6 billion times as much power as that single 3.16xlarge computer. This deals with two of the 2^32s required to crack a Bitcoin private key, but only by using up what may be the most powerful computer network on modern-day Earth.
+Let’s take an alternate route and instead consider the entire mining power of the Bitcoin network. That’s been running about 40E in 2019, which is 40 billion billion hashes per second, or 6 billion times as much power as that single 3.16xlarge computer. This deals with two of the 2\^32s required to crack a Bitcoin private key, but only by using up what may be the most powerful computer network on modern-day Earth.
 
 > (4B \* 4B \* 3 = Bitcoin mining power) \*
 
@@ -139,11 +139,11 @@ Which is why cryptographers like randomness.
 
 (And why the 256-bit private key is a lot better than your 12- or 16-character password.)
 
-### The Power of 2^160
+### The Power of 2\^160
 
 Actually, the power of that 256-bit private key is so huge that Bitcoin itself doesn’t use all of it. It instead hashes the public key of its keypair down to a 160-bit Bitcoin address. This *does* decrease the security, because now there are many collisions when converting from that 256-bit keyspace to this smaller 160-bit hashspace. But the number is still so hugely large that it doesn’t matter.
 
-2^160 is only:
+2\^160 is only:
 
 > 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32
 
