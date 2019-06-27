@@ -4,4 +4,5 @@
 01-randomness.md
 02-scenario.md
 03-adversaries.md
-XX-bios.md
+99-appendices.md
+99-bios.md
