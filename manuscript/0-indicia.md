@@ -23,18 +23,18 @@ Any questions or issues concerning this white paper or contributions of updates 
 
 ### Additional Chapter One Credits
 
-**Reviewers:** Bryan Bishop, Miron C., Glenn Willen
+**Reviewers:** Bryan Bishop [@kanzure](https://twitter.com/kanzure), Miron C., Glenn Willen [@gwillen](https://twitter.com/gwillen)
 
 _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](https://www.youtube.com/watch?v=S9JGmA5_unY) on how to think about large numbers. We borrowed his process, but adapted it in our own way. Any understanding comes from his approach, while any mistakes in calculation are ours._
 
 ### Additional Chapter Two Credits
 
-**Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure)
+**Contributors:** Bryan Bishop @kanzure
 
-**Reviewers:** Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Glenn Willen [@gwillen](https://twitter.com/gwillen), Greg Maxwell, Jonathan Wilkins, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester)
+**Reviewers:** Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Glenn Willen @gwillen, Greg Maxwell, Jonathan Wilkins, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester)
 
 ### Additional Chapter Three Credits
 
-**Contributors:** Greg Maxwell, Bryan Bishop [*@kanzure*](https://twitter.com/kanzure)
+**Contributors:** Greg Maxwell, Bryan Bishop @kanzure
 
-**Reviewers:** Ryan Grant, Tuur Deemester [*@TuurDemeester*](https://twitter.com/TuurDemeester), Angus Champion de Crespigny [*@anguschampion*](https://twitter.com/AngusChampion), Adam Shostack [*@adamshostack*](https://twitter.com/adamshostack)
+**Reviewers:** Ryan Grant, Tuur Deemester @TuurDemeester, Angus Champion de Crespigny @anguschampion, Adam Shostack @adamshostack
