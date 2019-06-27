@@ -145,7 +145,7 @@ Actually, the power of that 256-bit private key is so huge that Bitcoin itself d
 
 2^160 is only:
 
-> 2^32 \* 2^32 \* 2^32 \* 2^32 \* 2^32
+> 2\^32 \* 2\^32 \* 2\^32 \* 2\^32 \* 2\^32
 
 But that still means:
 
