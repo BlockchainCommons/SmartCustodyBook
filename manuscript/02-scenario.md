@@ -324,7 +324,7 @@ See Chapter Two for a full discussion of adversaries. The following adversaries 
 
 {pagebreak}
 
-### [  ] Optional Step: Erase Your Ledger(s)
+### Optional Step: Erase Your Ledger(s)
 
 **Obstructed Adversary:** [Physical Theft, Casual](#adversary-physical-theft-casual), [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
@@ -386,7 +386,7 @@ _The **Redundant Metal Tiles** enhancement step is a particularly good complemen
 
 {pagebreak}
 
-### [  ] Optional Step: Hire a Lawyer
+### Optional Step: Hire a Lawyer
 
 **Obstructed Adversary:** [Death / Incapacitation](#adversary-death--incapacitation), [Institutional Theft](#adversary-institutional-theft)
 
@@ -398,7 +398,7 @@ _A lawyer can store sealed files for you and will have a fiduciary responsibilit
 
 {pagebreak}
 
-### [  ] Optional Step: Seal Metal Tiles
+### Optional Step: Seal Metal Tiles
 
 **Obstructed Adversary:** [Institutional Theft](#adversary-institutional-theft), [Internal Theft](#adversary-internal-theft)
 
@@ -426,7 +426,7 @@ _This process is not likely to work equally well for all sorts of metal devices.
 
 {pagebreak}
 
-### [  ] Optional Step: Use Bags (Fire-Resistant)
+### Optional Step: Use Bags (Fire-Resistant)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster)
 
@@ -446,7 +446,7 @@ _One bag is used for your home safe, one for your safety deposit box._
 
 {pagebreak}
 
-### [  ] Optional Step: Use Bags (Tamper-Evident)
+### Optional Step: Use Bags (Tamper-Evident)
 
 **Obstructed Adversary:** [Internal Theft](#adversary-internal-theft), [Institutional Theft](#adversary-institutional-theft), [Physical Theft, Sophisticated](#adversary-physical-theft-sophisticated)
 
@@ -468,7 +468,7 @@ _One bag is used for your home safe, one for your safety deposit box._
 
 {pagebreak}
 
-### [  ] Optional Step: Use a (USB) Laser Printer
+### Optional Step: Use a (USB) Laser Printer
 
 **Obstructed Adversary:** [Key Fragility](#adversary-key-fragility), [Transaction Error](#adversary-transaction-error), [User Error](#adversary-user-error)
 
@@ -486,7 +486,7 @@ _Printing information from your computer rather than hand copying it can improve
 
 {pagebreak}
 
-### [  ] Optional Step: Use Metal Alternative (Cryptosteel)
+### Optional Step: Use Metal Alternative (Cryptosteel)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 
@@ -519,7 +519,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 {pagebreak}
 
-### [  ] Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
+### Optional Step: Use Metal Alternative (Single Metal Tile & Engraver)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Key Fragility](#adversary-key-fragility)
 
@@ -558,7 +558,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 {pagebreak}
 
-### [  ] Optional Step: Use Metal Enhancement (Redundant Metal Devices)
+### Optional Step: Use Metal Enhancement (Redundant Metal Devices)
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Institutional Theft](#adversary-institutional-theft), [Key Fragility](#adversary-key-fragility)
 
@@ -598,7 +598,7 @@ _The downside of using a two-of-three metal tile strategy is that it introduces 
 
 {pagebreak}
 
-### [  ] Optional Step: Use a USB Drive[^25]
+### Optional Step: Use a USB Drive[^25]
 
 **Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal), [Supply-Chain Attack](#adversary-supply-chain-attack)
 
@@ -630,7 +630,7 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 {pagebreak}
 
-### [  ] Optional Step: Use a (Second) USB Drive
+### Optional Step: Use a (Second) USB Drive
 
 **Obstructed Adversary:** [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster), [Systemic Network Attack](#adversary-network-attack-systemic)
 
