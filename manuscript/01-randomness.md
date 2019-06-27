@@ -16,7 +16,7 @@ Here’s why.
 
 Imagine your Bitcoin (or other digital assets) as being held in a near-infinite set of lockers. Anyone can see what’s in a locker, and anyone can put money in a locker, but each locker is secured with a combination lock, and only the person with the combination can retrieve the money.
 
-One standard type of combination lock has four digits that each run from 0 to 9. That creates 10^4^ combinations or 10,000. Here’s where the randomness comes in: if the combination is actually unpredictable, then it can only be broken by someone running through all the possible combinations: 0000, 0001, 0002, etc. If they could test a number a second, they’d break the combination in at most three hours (and on average, in an hour and a half).
+One standard type of combination lock has four digits that each run from 0 to 9. That creates 10^4 combinations or 10,000. Here’s where the randomness comes in: if the combination is actually unpredictable, then it can only be broken by someone running through all the possible combinations: 0000, 0001, 0002, etc. If they could test a number a second, they’d break the combination in at most three hours (and on average, in an hour and a half).
 
 Clearly, that’s not sufficient to protect actual money (like cryptocurrencies), especially when attackers can test numbers secretly (over the internet). For that, you need a much larger secret number.
 
@@ -55,7 +55,7 @@ So, how hard is that to crack?
 
 #### The Amazon Example
 
-Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to operate, can compute about 6 billion hashes a second. That only resolves one of those 2^32^ multipliers, leaving seven to deal with:
+Amazon’s exciting new 3.16xlarge cloud computer, which costs \$25/hour to operate, can compute about 6 billion hashes a second. That only resolves one of those 2^32 multipliers, leaving seven to deal with:
 
 > (4B \* 1.5 = 3.16xlarge computing power) \*
 
