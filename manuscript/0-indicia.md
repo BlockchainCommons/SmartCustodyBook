@@ -38,3 +38,7 @@ _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](http
 **Contributors:** Greg Maxwell, Bryan Bishop @kanzure
 
 **Reviewers:** Ryan Grant, Tuur Deemester @TuurDemeester, Angus Champion de Crespigny @anguschampion, Adam Shostack @adamshostack
+
+#### Additional Chapter Four Credits
+
+**Reviewers:** Bryan Bishop, Angus Champion de Crespigny, Adam Shostack
