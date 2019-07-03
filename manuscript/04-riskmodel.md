@@ -119,6 +119,7 @@ If you drew nodes that weren’t on your asset list, consider if they should be 
 
 *Whew! Alice thought she had a simple, drama-free setup, but her final diagram of two cryptocurrency nodes, one subnode, two alternate nodes, six interfaces, and one reminder is somewhat complex:*
 
+{class: center}
 ![](resources/rm-diagram-original.png)
 
 *Alice didn’t add any nodes, so she doesn’t need to update her asset list.*
@@ -344,6 +345,7 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 
 ***Alice’s Story.** Alice charts out all of her vulnerabilities, based on their consequence and likelihood, then draws the risk-tolerance line at 70% from axis to axis.*
 
+{class: center}
 ![](./resources/rm-graph-original.png)
 
 *Looking at the chart, Alice is relatively happy with it as a reflection of her-risk tolerance level. It suggests that there’s little to worry about when she’s freezing small amounts of cash (1), and that when she’s making payments, the only thing she should be concerned with is making sure that no one gave her a fake address (3B) — and even that is pretty marginal. *
@@ -404,6 +406,7 @@ It could be that you make no changes here, and if you do it’s going to be some
 
 *Here’s what Alice’s new chart looks like, with the changes to her hot wallet valuation:*
 
+{class: center}
 ![](./resources/rm-graph-revised.png)
 
 ### Step 10: List Final Risks
@@ -620,7 +623,7 @@ The process solutions are full of good advice, but there’s more than Alice can
 1.  Fortify Your Key Storage.
 2.  Redundantly Store Your Keys. **(x3)**
 3.  Widely Separate Your Keys.
-4.  [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps: *
+4.  [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps:*
     a)  Hire a Lawyer
     b)  Use Bags (Fire-Resistant)
     c)  Use Metal Enhancement (Redundant Metal Devices) **(x2)**
@@ -648,6 +651,7 @@ But, you’ve done your job for the moment. Take a rest and be confident that yo
 
 ***Alice’s Story:*** Thanks to the adjustments to her cold storage and to the introduction of an Electrum wallet, Alice’s digital asset procedure has changed a fair amount:
 
+{class: center}
 ![](./resources/rm-diagram-revised.png)
 
 She added a node (the Electrum wallet) and she split up the interfaces coming out of her cold storage, as she could now move funds to her Coinbase account or to her Electrum wallet. (That also cleaned up the problem with Alice’s Coinbase account being a single point of failure.) Finally, she added three new subnodes to her cold storage.
