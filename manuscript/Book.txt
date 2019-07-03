@@ -1,8 +1,8 @@
 0-disclaimer.md
 0-indicia.md
 0-preface.md
-X01-randomness.md
-X02-scenario.md
+01-randomness.md
+02-scenario.md
 X03-adversaries.md
 04-riskmodel.md
 99-appendices.md
