@@ -14,6 +14,8 @@ But how do you decide which adversaries are most likely to impact you? More impo
 
 This Risk Modeling exercise also includes “Alice’s Story”, a simple custody situation meant to depict how the exercise can be used in the real world. It’s intended as a foundation that will allow you to model your own custody scenario, even if it’s more complex.
 
+{pagebreak}
+
 ## Section I: Asset Characterization
 
 ### Step 1: Identify Your Assets
@@ -24,9 +26,9 @@ For your ***cryptocurrency*** itself, you should identify where precisely the mo
 
 ***Asset Examples:***
 
--   Bitcoin held at Coinbase
--   Bitcoin held in cold storage
--   Ethereum held in a paper wallet
+* Bitcoin held at Coinbase
+* Bitcoin held in cold storage
+* Ethereum held in a paper wallet
 
 The ***keys*** protecting the cryptocurrency are also a crucial asset, but often they’re entirely intertwined with the cryptocurrency itself: if your Bitcoin is at Coinbase, that means the keys are at Coinbase; and if your Ethereum is only accessible through a paper wallet, that’s because you printed your keys in the wallet.
 
@@ -34,8 +36,8 @@ However, if you use a more robust [*cold storage procedure*](https://docs.google
 
 ***Examples of Assets:***
 
--   Key on Ledger in fireproof home safe
--   Key on Cryptosteel in safety deposit box
+* Key on Ledger in fireproof home safe
+* Key on Cryptosteel in safety deposit box
 
 Finally, you should consider whether there are other, more non-physical assets that you want to protect. Do you care about ***privacy*** regarding your identity? Are you concerned about ***compartmentalizing*** your activities? Do you want to ensure ***confidentiality*** of your total funds? Is ***ease of access*** something that you want to protect?
 
@@ -51,6 +53,8 @@ Finally, you should consider whether there are other, more non-physical assets t
 2.  *Bitcoins in cold storage*
     a)  *Paper wallets stored in a file cabinet*
 3.  *Privacy of cryptocurrency ownership*
+
+{pagebreak}
 
 ### Step 2: Value Your Assets
 
@@ -75,6 +79,8 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 
 *Alice uses simple math to lay out her valuations. The paper wallets represent the most value, so she puts that at a 10. The Coinbase monies represent half of that, so she marks that a 5. Losing her privacy could lead to attacks on her funds, causing her to lose some or all of them, so Alice marked that as an 8, saying that it’s almost as valuable as her main stash of cryptocurrency.*
 
+{pagebreak}
+
 ### Step 3: Diagram Your Process
 
 Your digital assets face two different categories of risks: one when it’s being stored and another when it’s on the move. Thus, the next step is to sketch out your cryptocurrency process by translating your assets list into graphical nodes, then showing how money transfers among them.
@@ -90,18 +96,18 @@ To do so, draw a simple diagram.
 
 ***Examples of Nodes:***
 
--   Bank of America bank account (fiat currency)
--   Cold storage (cryptocurrency)
--   Coinsquare (cryptocurrency)
+* Bank of America bank account (fiat currency)
+* Cold storage (cryptocurrency)
+* Coinsquare (cryptocurrency)
 
 ***Examples of Interfaces:***
 
--   Exchanging fiat currency for cryptocurrency
--   Moving cryptocurrency to an exchange
--   Making a cryptocurrency payment
--   Sending change back from a cryptocurrency payment
--   Moving cryptocurrency to cold storage
--   Exchanging cryptocurrency for fiat currency
+* Exchanging fiat currency for cryptocurrency
+* Moving cryptocurrency to an exchange
+* Making a cryptocurrency payment
+* Sending change back from a cryptocurrency payment
+* Moving cryptocurrency to cold storage
+* Exchanging cryptocurrency for fiat currency
 
 **Draw a diagram that translates your assets into nodes and that shows the interfaces where cryptocurrency moves between nodes. Label the nodes and interfaces.**
 
@@ -126,6 +132,8 @@ If you drew nodes that weren’t on your asset list, consider if they should be 
 
 *In the meantime, she’s happy that she diagrammed out her whole procedure, because it shows how important that Coinbase account is, which makes her a little leary. But that’s a problem for the future. For now, she’s just seeing what her cryptocurrency setup looks like, and what risks it has. Coinbase as a single-point-of-failure (SPOF) in her diagram is clearly one of them.*
 
+{pagebreak}
+
 ## Section II: Risk Characterization
 
 ### Step 4: Brainstorm Interface Vulnerabilities
@@ -140,11 +148,11 @@ Be sure that you are truly thinking about *interface* vulnerabilities that occur
 
 ***Examples of Interface Vulnerabilities:***
 
--   Money sent to wrong address
--   Incorrect amount of money sent to recipient
--   Money lost by recipient
--   Money stolen by man-in-the-middle (threat)
--   Transaction scripted or timelocked wrong
+* Money sent to wrong address
+* Incorrect amount of money sent to recipient
+* Money lost by recipient
+* Money stolen by man-in-the-middle (threat)
+* Transaction scripted or timelocked wrong
 
 Creating as thorough of a list as you can on your own, so that you can identify things specific to your setup, will give you a solid start, but afterward please feel free to look at Step 11 for more ideas.
 
@@ -173,6 +181,8 @@ Try to be thorough, but don’t go crazy. If something is laughably unlikely, th
 6.  *Cash out*
     a)  *Citibank did not record my transfer*
 
+{pagebreak}
+
 ### Step 5: Brainstorm Custody Vulnerabilities
 
 You’re now ready to move on to your list of nodes, where your funds are held in custody by someone. You can follow a similar process here, where you list your nodes on a piece of paper and brainstorm the dangers of each: how could you lose your funds to vulnerabilities, threats, and hazards while they are sitting on that node? If one of your nodes has subassets, you probably want to brainstorm about the subassets, not the category (e.g., brainstorm about your Ledger wallet, not your cold storage generally).
@@ -181,12 +191,12 @@ Don’t worry about alternative nodes, like fiat currency accounts.
 
 ***Examples of Nodal Vulnerabilities:***
 
--   Funds stolen by computer attacker (threat)
--   Keys stolen by computer attacker (threat)
--   Keys stolen in physical theft (threat)
--   Keys destroyed in fire or earthquake (hazard)
--   PIN for hardware wallet forgotten
--   Exchange goes out of business
+* Funds stolen by computer attacker (threat)
+* Keys stolen by computer attacker (threat)
+* Keys stolen in physical theft (threat)
+* Keys destroyed in fire or earthquake (hazard)
+* PIN for hardware wallet forgotten
+* Exchange goes out of business
 
 You might find that multiple nodes have identical vulnerabilities. If so, copy your list of vulnerabilities from one asset to another, but you should still keep them separate: though they have similar vulnerabilities, the likelihood of those vulnerabilities and the consequences might be different, resulting in different risk assessments (see Step 7).
 
@@ -206,17 +216,19 @@ Again, refer to Step 11 for more ideas of risks, after you’ve created an initi
     a)  *Company is targeted by hackers*
     b)  *Bitcoins are stolen by employee*
 
+{pagebreak}
+
 ### Step 6: Brainstorm Non-Physical Vulnerabilities
 
 Finally, you should look at any non-physical assets that you recorded, such as privacy, compartmentalization, and ease of use, and for each of them, brainstorm vulnerabilities for those assets.
 
 ***Examples of Non-Physical Asset Vulnerabilities:***
 
--   Privacy lost due to address reuse
--   Privacy lost by announcing Bitcoin ownership
--   Ease of use lost by complicated cold storage setup
--   Ease of use lost by 2FA
--   Compartmentalization lost by constantly sending funds from one account to another
+* Privacy lost due to address reuse
+* Privacy lost by announcing Bitcoin ownership
+* Ease of use lost by complicated cold storage setup
+* Ease of use lost by 2FA
+* Compartmentalization lost by constantly sending funds from one account to another
 
 Once more, when you’re done with an initial list you might wish to consult Step 11 for additional ideas.
 
@@ -231,6 +243,8 @@ Once more, when you’re done with an initial list you might wish to consult Ste
 9.  *Privacy*
     a)  *Poor address hygiene could correlate cold and hot wallets*
     b)  *Purchases from hot wallet could correlate name and Bitcoin     assets*
+
+{pagebreak}
 
 ### Step 7: Assess Consequences & Likelihoods of Vulnerabilities
 
@@ -252,13 +266,13 @@ Generally, if you can separate likelihoods into ***five*** levels, that should p
 
 ***Examples of Likelihood Measures:***
 
--   A, B, C, D, F
--   1, 2, 3, 4, 5
--   25%, 20%, 15%, 10%, 5%
--   Constant Problem, Frequent Problem, Occasional Problem, Rare Problem, Extremely Rare Problem
--   Very Likely, Somewhat Likely, Possible, Unlikely, Very Unlikely
--   Super Scary, Cold Chill, Frightening, Concerned, Not Worried
--   Great, Very Good, Good, OK, Poor
+* A, B, C, D, F
+* 1, 2, 3, 4, 5
+* 25%, 20%, 15%, 10%, 5%
+* Constant Problem, Frequent Problem, Occasional Problem, Rare Problem, Extremely Rare Problem
+* Very Likely, Somewhat Likely, Possible, Unlikely, Very Unlikely
+* Super Scary, Cold Chill, Frightening, Concerned, Not Worried
+* Great, Very Good, Good, OK, Poor
 
 Use whatever method works best for you; the object is to clearly differentiate different vulnerabilities. Don’t worry if you use a different scale than your consequences: you can still lay them out neatly as two axes of a chart (see Step 8).
 
@@ -268,12 +282,12 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 ***Examples of Nodal Vulnerability Likelihood Assessment:***
 
--   Funds stolen by computer attacker \[occasional problem\]
--   Keys stolen by computer attacker \[occasional problem\]
--   Keys stolen in physical theft \[rare problem\]
--   Keys destroyed in fire or earthquake \[extremely rare problem\]
--   PIN for hardware wallet forgotten \[constant problem\]
--   Custodian goes out of business \[rare problem\]
+* Funds stolen by computer attacker \[occasional problem\]
+* Keys stolen by computer attacker \[occasional problem\]
+* Keys stolen in physical theft \[rare problem\]
+* Keys destroyed in fire or earthquake \[extremely rare problem\]
+* PIN for hardware wallet forgotten \[constant problem\]
+* Custodian goes out of business \[rare problem\]
 
 **List a consequence and likelihood value for each of your vulnerabilities.**
 
@@ -322,6 +336,8 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 *Alice knows that some of these likelihoods might not be entirely right. Listing them all out and considering them comparatively helps her to think about them more dispassionately, but she figures that she still may be overestimating some likelihoods and underestimating others. If she wanted to be really thorough, she’d talk odds over with someone else, and perhaps she’ll do that at some time in the future. But for now, this is a good first cut.*
 
+{pagebreak}
+
 ### Step 8: Chart Consequences & Likelihoods to Reveal Risks
 
 By now, you might already have a rough idea of which vulnerabilities are actually risks that you need to watch out for. However, you can make a more robust analysis by graphing everything in a chart.
@@ -333,13 +349,13 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 4.  *Draw a risk-tolerance line.* Finally, you’re going to lay out the risk-tolerance line that identifies those vulnerabilities that you should be paying attention to. It will run from part way along the vertical axis to part way along the horizontal axis, creating a triangle of non-risks below it and an open space of actual risks above it.
     a)  Figuring out this risk-tolerance line is very individual and     will relate to your own level of risk tolerance, so there’s no     set rule for how to lay it out, but rather a general     methodology that you can use to adjust it until you’re     comfortable with it.
     b)  *Evaluate an initial line.* Use a straightedge to lay a     potential risk-tolerance line across your graph. Run it from     about 70% of the way up your vertical axis to about 70% of the     way along your horizontal axis. Take a look at what’s on the     line or above it and what’s below the line and think about how     that fits your feeling about risks.
-        -   **Ranked Likelihoods**. For five ranked likelihood words,         70% will be halfway between the second and third most         likely words.
+        * **Ranked Likelihoods**. For five ranked likelihood words,         70% will be halfway between the second and third most         likely words.
     c)  *Generally adjust your line.* If you feel that your risk     tolerance is higher, push the straight edge up to 80% or 90%     on each side; if you feel that your risk tolerance is lower,     push the straight edge down to 60% or 50% on each side.
-        -   **Ranked Likelihoods**. For five ranked likelihood words,         80% is your second most likely option and 60% is your         third most likely option.
+        * **Ranked Likelihoods**. For five ranked likelihood words,         80% is your second most likely option and 60% is your         third most likely option.
     d)  *Independently adjust your line.* Alternatively, consider just     adjusting one of the axis. If you are more afraid of unlikely     events, push the straightedge down along the vertical axis,     and if you are less afraid of unlikely events, push it up. If     you are more afraid of losing some of your money, pushing the     straight edge back on your horizontal axis, and if you less     afraid of losing some of your money, push it forward.
     e)  *Draw a final line.* When you’re happy that the line matches     your risk tolerance, draw it in.
     f)  *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
-        -   **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
+        * **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
 
 **Draw a chart of your vulnerabilities based on their consequences and likelihood. Draw a risk-tolerance line across the chart to identify the risks. Optionally, eyeball an asymptotic curve to help triangulate high and low risks.**
 
@@ -353,6 +369,8 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 *It also highlights where she should have the most concern: the set of interfaces relating to eventually selling off her bitcoins (2: unfreeze cash, 5: sell bitcoin, and 6: cash out); both of her asset stores (8: hot and 7: cold wallets); and her privacy (9).*
 
 *Alice also draws an asymptotic curve at 20%. Well, it’s more of an arc, but it’s the best she can easily do. It puts the lower-likelihood risks for her cash out (2A, 2B, 6A, 7D) right on the edge, so she’s going to consider them lower risks. It also verifies for her that the spoofed-address payment issue (3B) isn’t a big concern because of the small value of her Bitcoin payments.*
+
+{pagebreak}
 
 ### Step 9: Consider Asset Valuation Changes
 
@@ -372,9 +390,9 @@ This is the first time when you are really examining your procedure for flaws an
 
 ***Examples of Valuation Changes:***
 
--   Decide that fewer funds are needed in hot wallet
--   Backup keys for cold storage
--   Decide that privacy valuation can be reduced by giving some funds to spouse
+* Decide that fewer funds are needed in hot wallet
+* Backup keys for cold storage
+* Decide that privacy valuation can be reduced by giving some funds to spouse
 
 It could be that you make no changes here, and if you do it’s going to be somewhat seat-of-the-pants.
 
@@ -409,6 +427,8 @@ It could be that you make no changes here, and if you do it’s going to be some
 {class: center}
 ![](./resources/rm-graph-revised.png)
 
+{pagebreak}
+
 ### Step 10: List Final Risks
 
 You should now have an updated chart that shows which vulnerabilities are actually risks, because the combination of their consequences and the likelihood exceeds your risk-tolerance threshold. Write out all of the risks that lie clearly above your risk-tolerance line. List them in your best estimation of decreasing order: the further a risk is above your risk-tolerance line, the higher it should go on your list, with the object being to produce a list that has your most notable risks first and your most marginal risks last.
@@ -429,6 +449,8 @@ Marginal risks that were on a line or between an asymptotic curve and a straight
 
 *This provides a much more constrained list, which was the point of the exercise. It allows Alice to attack the biggest problems first (and possibly return to others at a later date).*
 
+{pagebreak}
+
 ## Section III: Risk Resolution
 
 ### Step 11: Correlate Final Risks to Digital Adversaries
@@ -444,119 +466,119 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
 ***Examples of Digital Asset Adversaries***
 
 1.  [*Adversary: Bitrot*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
-    -   Entropy causes software to stop running, as computer     is upgraded.
-    -   Entropy kills computer.
-    -   Entropy kills hardware.
-    -   Entropy kills hardware wallet.
-    -   Entropy makes Bitcoin keys (or seeds) obsolete.
+    * Entropy causes software to stop running, as computer     is upgraded.
+    * Entropy kills computer.
+    * Entropy kills hardware.
+    * Entropy kills hardware wallet.
+    * Entropy makes Bitcoin keys (or seeds) obsolete.
 2.  [*Adversary: Blackmail*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.j93znvpdeewc) — *threat of exposure*
-    -   Attacker sends ransom note to demand bitcoins.
-    -   Attacker uses Ransomware to demand bitcoins.
+    * Attacker sends ransom note to demand bitcoins.
+    * Attacker uses Ransomware to demand bitcoins.
 3.  [*Adversary: Censorship*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.hcr2fbjga6nl) — *network denial that prevents the use of funds*
-    -   Attacker blocks site from from creating transactions.
-    -   Attacker blocks you from creating transactions.
+    * Attacker blocks site from from creating transactions.
+    * Attacker blocks you from creating transactions.
 4.  [*Adversary: Coercion*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.roanys7anac) — *threat of death, disability, or detention*
-    -   Attacker kidnaps you.
-    -   Attacker threatens you.
-    -   Attacker kidnaps your family, friends, or pets.
-    -   Attacker threatens your family, friends, or pets.
+    * Attacker kidnaps you.
+    * Attacker threatens you.
+    * Attacker kidnaps your family, friends, or pets.
+    * Attacker threatens your family, friends, or pets.
 5.  [*Adversary: Convenience*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2n3kxosg6qqv) — *decreased security due to ease of use*
-    -   You reduce security, enabling attacks.
-    -   You grant privileges to someone untrustworthy.
+    * You reduce security, enabling attacks.
+    * You grant privileges to someone untrustworthy.
 6.  [*Adversary: Correlation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8ax6frezqbli) — *a connection of funds based on their usage*
-    -   Analyst connects your Bitcoin addresses.
-    -   Analyst connects your real address to Bitcoin funds.
+    * Analyst connects your Bitcoin addresses.
+    * Analyst connects your real address to Bitcoin funds.
 7.  [*Adversary: Death / Incapacitation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
-    -   Heirs can’t access cryptocurrency.
-    -   Heirs don’t know about cryptocurrency.
+    * Heirs can’t access cryptocurrency.
+    * Heirs don’t know about cryptocurrency.
 8.  [*Adversary: Denial of Access*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.qvrlsobtgck3) — *physical denial that prevents use of funds*
-    -   You can’t access physical location of funds.
-    -   You can’t move freely.
+    * You can’t access physical location of funds.
+    * You can’t move freely.
 9.  [*Adversary: Disaster*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.4fd9mfuh38zv) — *a sudden, large-scale destructive event*
-    -   Bomb destroys keys or makes them inaccessible.
-    -   Earthquake destroys keys or makes them inaccessible.
-    -   Fire destroys keys or makes them inaccessible.
-    -   Flood destroys keys or makes them inaccessible.
-    -   Other natural disaster destroys keys or makes them inaccessible.
-    -   Warfare destroys keys or makes them inaccessible.
+    * Bomb destroys keys or makes them inaccessible.
+    * Earthquake destroys keys or makes them inaccessible.
+    * Fire destroys keys or makes them inaccessible.
+    * Flood destroys keys or makes them inaccessible.
+    * Other natural disaster destroys keys or makes them inaccessible.
+    * Warfare destroys keys or makes them inaccessible.
 10. [*Adversary: Institutional Theft*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.3p4vpcl04c7g) — *a theft by a trusted institution or its employee*
-    -   Employee backdoors system.
-    -   Employee secretly copies keys.
-    -   Employee steals keys.
-    -   Institution falsely claims they never received payment.
-    -   Institution steals everything & disappears.
+    * Employee backdoors system.
+    * Employee secretly copies keys.
+    * Employee steals keys.
+    * Institution falsely claims they never received payment.
+    * Institution steals everything & disappears.
 11. [*Adversary: Internal Theft*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l408su3zzjcu) — *a theft by a trusted person such as an heir or executor*
-    -   Hacker tricks trustee.
-    -   Trustee loses key.
-    -   Trustee refuses to multi-sign.
-    -   Trustee steals keys.
+    * Hacker tricks trustee.
+    * Trustee loses key.
+    * Trustee refuses to multi-sign.
+    * Trustee steals keys.
 12. [*Adversary: Key Fragility*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2q60laj07m3x) — *an accidental key loss*
-    -   Someone throws out your keys.
-    -   System incorrectly generates keys.
-    -   You lose your encryption method for keys.
-    -   You lose your PIN.
-    -   You miscopy your keys.
-    -   You misplace your keys.
+    * Someone throws out your keys.
+    * System incorrectly generates keys.
+    * You lose your encryption method for keys.
+    * You lose your PIN.
+    * You miscopy your keys.
+    * You misplace your keys.
 13. [*Adversary: Legal Forfeiture*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.7g8lty4izh8x) — *a legal civic or state seizure of funds*
-    -   Court seizes funds.
-    -   Federal agent seizes funds.
-    -   IRS seizes funds.
+    * Court seizes funds.
+    * Federal agent seizes funds.
+    * IRS seizes funds.
 14. [*Adversary: Loss of Fungibility*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.llhncsre773l) — *a blacklisting of funds based on their provenance*
-    -   Analyst discovers Bitcoin previously used by undesirable entity.
-    -   Analyst discovers Bitcoin previously used for illegal activity.
+    * Analyst discovers Bitcoin previously used by undesirable entity.
+    * Analyst discovers Bitcoin previously used for illegal activity.
 15. [*Adversary: Nation-State Actor*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.r30mkanx1jnw) — *wide-ranging threats related to surveillance and coercion*
-    -   Federal agents steal funds.
-    -   Federal laws threaten funds.
-    -   State surveils usages of funds.
+    * Federal agents steal funds.
+    * Federal laws threaten funds.
+    * State surveils usages of funds.
 16. [*Adversary: Network Attack, Personal*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2st8zurfuu0n) — *a personal online attack*
-    -   Attacker breaks into account holding private keys.
-    -   Attacker steals private key for Bitcoin.
-    -   Attacker steals password or other credential to Bitcoin account.
+    * Attacker breaks into account holding private keys.
+    * Attacker steals private key for Bitcoin.
+    * Attacker steals password or other credential to Bitcoin account.
 17. [*Adversary: Network Attack, Systemic*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.35bedcdpyqm3) — *a server online attack *
-    -   Attacker steals from exchange.
-    -   Bankruptcy occurs at online company.
-    -   Keys become unavailable due to exchange disappearance.
+    * Attacker steals from exchange.
+    * Bankruptcy occurs at online company.
+    * Keys become unavailable due to exchange disappearance.
 18. [*Adversary: Non-Financially Motivated Attackers*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.z5oz1r6cv1i) — an *attack not intended to steal funds*
-    -   Attacker breaks things for fun.
-    -   Attacker steals funds to give away.
-    -   Malware destroys keys.
-    -   Spyware correlates fund usage.
+    * Attacker breaks things for fun.
+    * Attacker steals funds to give away.
+    * Malware destroys keys.
+    * Spyware correlates fund usage.
 19. [*Adversary: Physical Theft, Casual*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.vk4f6ntyv353) — *an opportunistic physical theft*
-    -   Thief steals computer, smartphone, or other key-holding device.
-    -   Thief accidentally steals keys.
+    * Thief steals computer, smartphone, or other key-holding device.
+    * Thief accidentally steals keys.
 20. [*Adversary: Physical Theft, Sophisticated*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.a6tzkv3mpu4k) — *a purposeful physical theft of private keys*
-    -   Thief purposefully steals keys.
-    -   Thief tricks you into handing over keys.
+    * Thief purposefully steals keys.
+    * Thief tricks you into handing over keys.
 21. [*Adversary: Process Fatigue*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.dnochaey7sr7) — *errors caused by the complexity of the overall procedure*
-    -   You lose funds while perfecting your procedure.
-    -   You lose keys while checking keys.
-    -   You overly obfuscate your keys.
+    * You lose funds while perfecting your procedure.
+    * You lose keys while checking keys.
+    * You overly obfuscate your keys.
 22. [*Adversary: Social Engineering*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.7ns487pb2dl9) — *a social theft*
-    -   Attacker creates fake recipient address.
-    -   Attacker phishes Bitcoin user.
-    -   Attacker tricks Bitcoin user into installing malware
+    * Attacker creates fake recipient address.
+    * Attacker phishes Bitcoin user.
+    * Attacker tricks Bitcoin user into installing malware
 23. [*Adversary: Supply-Chain Attack*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8c21ur3d1g2w) — *a logistical theft*
-    -   Attacker modifies computer before purchase.
-    -   Attacker modifies hardware wallet before purchase.
-    -   Attacker modifies USB stick before purchase.
+    * Attacker modifies computer before purchase.
+    * Attacker modifies hardware wallet before purchase.
+    * Attacker modifies USB stick before purchase.
 24. [*Adversary: Systemic Key Compromise*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.pwjz361bhwni) — *a key-generation compromise*
-    -   System generates addresses incorrectly.
-    -   System generates keys insecurely.
+    * System generates addresses incorrectly.
+    * System generates keys insecurely.
 25. [*Adversary: Terrorist / Mob*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.thf35x4lotcb) — a *potentially mortal threat related to coercion*
-    -   Attacker kidnaps you — and death is likely.
-    -   Attacker threatens you — and threats are real.
-    -   Attacker kidnaps your family, friends, or pets — and death     is likely.
-    -   Attacker threatens your family, friends, or pets — and threats     are real.
+    * Attacker kidnaps you — and death is likely.
+    * Attacker threatens you — and threats are real.
+    * Attacker kidnaps your family, friends, or pets — and death     is likely.
+    * Attacker threatens your family, friends, or pets — and threats     are real.
 26. [*Adversary: Transaction Error*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.cv1okznuqg8m) — *incorrect transaction details leading to loss*
-    -   You create an invalid smart contract.
-    -   You copy the wrong address.
-    -   You miscalculate the change amount and send too much to miners.
-    -   You send the wrong amount of funds.
-    -   You send to the wrong address.
-    -   You timelock your funds incorrectly.
+    * You create an invalid smart contract.
+    * You copy the wrong address.
+    * You miscalculate the change amount and send too much to miners.
+    * You send the wrong amount of funds.
+    * You send to the wrong address.
+    * You timelock your funds incorrectly.
 27. [*Adversary: User Error*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.rb3f1k6w7wt6) — *an operator mistake leading to loss*
-    -   You don’t maintain your key location.
-    -   You forget your key location.
+    * You don’t maintain your key location.
+    * You forget your key location.
 
 After you’ve selected your adversaries, your should write them out in a list of decreasing problems. This might match precisely with your risk list, but some adversaries might get bumped up because they correlated to several risks that you identified. Keep the references to your asset and interface numbers, so that you can reference them later.
 
@@ -583,6 +605,8 @@ After you’ve selected your adversaries, your should write them out in a list o
 5.  *Correlation \[9A, 9B\]*
 
 *She’s now ready to figure out what to do about these problems!*
+
+{pagebreak}
 
 ### Step 12: Take Steps to Foil Adversaries
 
@@ -636,6 +660,8 @@ After working through the Cold Storage Scenario she applies most of the optional
 Alice doesn’t see any new hot wallet solutions and she’s still pretty unhappy about the exposure of her hot-wallet funds and the problems she’s discovered about Coinbase being a single point of failure in her model and about it being used for both spending money and (in the future) selling off her Bitcoin.
 
 Alice thinks carefully about the advice, “Only keep keys on an exchange or brokerage for the minimum amount of time required to make a transaction.” She finally decides that she’s technically competent enough that she can handle her own hot wallet, which will limit the threat of Personal Network Attacks. So, she moves her funds to a new Electrum wallet. In the future, she’ll only use her Coinbase account when she wants to sell off her funds, which should dramatically minimize that exposure.
+
+{pagebreak}
 
 ## Section IV: Process Repetition
 
