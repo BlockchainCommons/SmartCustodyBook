@@ -53,7 +53,7 @@ Finally, you should consider whether there are other, more non-physical assets t
 
 1.  *Bitcoins at Coinbase*
 2.  *Bitcoins in cold storage*
-   1.  *Paper wallets stored in a file cabinet*
+   a)  *Paper wallets stored in a file cabinet*
 3.  *Privacy of cryptocurrency ownership*
 
 {pagebreak}
@@ -70,13 +70,15 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 
 **Enumerate the value of each of your assets.**
 
+* * *
+
 ***Alice’s Story.** Alice has moved about 100 BTC to paper wallets over the years and has about 50 BTC sitting at Coinbase. That seemed like a reasonable amount of liquidity when bitcoins were valued at \$300, but is a lot to keep in a hot wallet now that bitcoins are valued at \$8,000.*
 
 *Alice writes down a value for each of her assets, on a 10-point scale:*
 
 1.  *Bitcoins at Coinbase \[5\]*
 2.  *Bitcoins in cold storage*
-    a)  *Paper wallets stored in a file cabinet \[10\]*
+   a)  *Paper wallets stored in a file cabinet \[10\]*
 3.  *Privacy of cryptocurrency ownership \[8\]*
 
 *Alice uses simple math to lay out her valuations. The paper wallets represent the most value, so she puts that at a 10. The Coinbase monies represent half of that, so she marks that a 5. Losing her privacy could lead to attacks on her funds, causing her to lose some or all of them, so Alice marked that as an 8, saying that it’s almost as valuable as her main stash of cryptocurrency.*
@@ -117,6 +119,8 @@ If you drew nodes that weren’t on your asset list, consider if they should be 
 
 **Update your asset lists and valuations with any forgotten nodes, per Steps 1 + 2.**
 
+* * *
+
 ***Alice’s Story.** Based on her asset list, Alice initially draws two nodes: her cold storage and her Coinbase account. She adds in the paper wallet as a subasset of her cold storage. There’s just one interface, an arrow from the hot wallet to the cold storage, for when she freezes funds.*
 
 *However, Alice quickly realizes that she’s neglected some interfaces. if Bitcoin ever gets back to its previous high, Alice may want to sell it all, to retire to the Bahamas. This requires two new interfaces: an arrow back from the paper wallets to Coinbase, then a loopback at Coinbase to allow her to sell her cryptocurrency.*
@@ -127,7 +131,7 @@ If you drew nodes that weren’t on your asset list, consider if they should be 
 
 *Whew! Alice thought she had a simple, drama-free setup, but her final diagram of two cryptocurrency nodes, one subnode, two alternate nodes, six interfaces, and one reminder is somewhat complex:*
 
-{class: center}
+{class: center, width: "70%"}
 ![](resources/rm-diagram-original.png)
 
 *Alice didn’t add any nodes, so she doesn’t need to update her asset list.*
@@ -162,26 +166,28 @@ Try to be thorough, but don’t go crazy. If something is laughably unlikely, th
 
 **Make a numbered list of your interfaces, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
 
+* * *
+
 ***Alice’s Story.** Alice numbers her six interfaces, then lists possible ways funds could get lost in each of them:*
 
 ***Interface Vulnerabilities:***
 
 1.  *Freeze cash*
-    a)  *Paper wallet software did not generate a legitimate address*
-    b)  *I did not print paper wallet right*
-    c)  *I did not send to my paper wallet address*
+   a)  *Paper wallet software did not generate a legitimate address*
+   b)  *I did not print paper wallet right*
+   c)  *I did not send to my paper wallet address*
 2.  *Unfreeze cash*
-    a)  *I did not send to my Coinbase account*
-    b)  *Coinbase did not record my transaction*
+   a)  *I did not send to my Coinbase account*
+   b)  *Coinbase did not record my transaction*
 3.  *Make payments*
-    a)  *I paid to wrong address*
-    b)  *I paid to spoofed address*
+   a)  *I paid to wrong address*
+   b)  *I paid to spoofed address*
 4.  *Get change*
-    a)  *I set change amount wrong*
+   a)  *I set change amount wrong*
 5.  *Sell Bitcoin*
-    a)  *Purchaser reverses charge*
+   a)  *Purchaser reverses charge*
 6.  *Cash out*
-    a)  *Citibank did not record my transfer*
+   a)  *Citibank did not record my transfer*
 
 {pagebreak}
 
@@ -206,17 +212,19 @@ Again, refer to Step 11 for more ideas of risks, after you’ve created an initi
 
 **Continue your numbered list by adding physical nodes, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
 
+* * *
+
 ***Alice’s Story:** Alice continues her list by detailing the vulnerabilities that she sees for her Coinbase account and her paper wallets. Though she was somewhat concerned with Coinbase as a single point of failure, when Alice writes out her vulnerabilities, she realizes that the paper wallets are extremely vulnerable too!*
 
 7.  *Cold Storage: Paper Wallet*
-    a)  *Paper wallet is water damaged*
-    b)  *Paper wallet is burnt up in fire*
-    c)  *Paper wallet is thrown out as junk*
-    d)  *Paper wallet is stolen by robber*
-    e)  *Paper wallet is not understood by heirs*
+   a)  *Paper wallet is water damaged*
+   b)  *Paper wallet is burnt up in fire*
+   c)  *Paper wallet is thrown out as junk*
+   d)  *Paper wallet is stolen by robber*
+   e)  *Paper wallet is not understood by heirs*
 8.  *Coinbase Account*
-    a)  *Company is targeted by hackers*
-    b)  *Bitcoins are stolen by employee*
+   a)  *Company is targeted by hackers*
+   b)  *Bitcoins are stolen by employee*
 
 {pagebreak}
 
@@ -236,6 +244,8 @@ Once more, when you’re done with an initial list you might wish to consult Ste
 
 **Continue your numbered list by adding non-physical assets, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
 
+* * *
+
 ***Alice’s Story:** Alice is a little itchy about the interface between her hot wallet and her cold storage. Though she has a couple of different paper wallets, she has reused some of her paper wallets multiple times, when she continued to add bitcoins to them. She also moved funds back to Coinbase a few times in the past, when she thought she was going to sell. This has created potential correlation between her different cold wallets and her Coinbase account. It might be possible to figure out what her total funds are. *
 
 *Worse, she’s used the hot wallet to make purchases a few times — purchases that were shipped to her house under her name. This might allow people to correlate her real name and all of her Bitcoin funds!*
@@ -243,8 +253,8 @@ Once more, when you’re done with an initial list you might wish to consult Ste
 *This all relates to Alice’s non-physical privacy asset, so she writes these problems down as vulneraibilities in her setup:*
 
 9.  *Privacy*
-    a)  *Poor address hygiene could correlate cold and hot wallets*
-    b)  *Purchases from hot wallet could correlate name and Bitcoin     assets*
+   a)  *Poor address hygiene could correlate cold and hot wallets*
+   b)  *Purchases from hot wallet could correlate name and Bitcoin     assets*
 
 {pagebreak}
 
@@ -293,9 +303,11 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 **List a consequence and likelihood value for each of your vulnerabilities.**
 
-***Alice’s Story.** Alice is now ready to sit down and figure out the consequences and likelihoods of all the vulnerabilities that she’s brainstormed. She’s going to use five ranked likelihood words: very likely (VL), likely (L), possible (P), unlikely (U), very unlikely (VU). *
+*** 
 
-*She starts with her “freeze cash” interface, where she’s moving funds into cold storage. She never moves much money at once, so she figures the consequences are low, and she actually thinks that programmatic problems are very unlikely (VU), but ups the odds to just unlikely (U) when she could be the one making the mistake. *
+***Alice’s Story.** Alice is now ready to sit down and figure out the consequences and likelihoods of all the vulnerabilities that she’s brainstormed. She’s going to use five ranked likelihood words: very likely (VL), likely (L), possible (P), unlikely (U), very unlikely (VU).*
+
+*She starts with her “freeze cash” interface, where she’s moving funds into cold storage. She never moves much money at once, so she figures the consequences are low, and she actually thinks that programmatic problems are very unlikely (VU), but ups the odds to just unlikely (U) when she could be the one making the mistake.*
 
 *Things look a little more scary on the “unfreeze cash” interface, because that’s likely to occur when she wants to retire to the Bahamas, so the consequence would be the loss of all her money. Even though she still thinks the likelihood of programmatic errors are very unlikely, the consequences are very high. These assessments recur in the “sell bitcoin” and “cash out” interfaces.*
 
@@ -308,33 +320,33 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 *Alice finishes up with the privacy issues, which could genuinely cause problems due to her casual address hygiene to date.*
 
 1.  *Freeze cash*
-    a)  *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
-    b)  *I did not print paper wallet right \[C: 2, L: U\]*
-    c)  *I did not send to my paper wallet address \[C: 1, L: VU\]*
+   a)  *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
+   b)  *I did not print paper wallet right \[C: 2, L: U\]*
+   c)  *I did not send to my paper wallet address \[C: 1, L: VU\]*
 2.  *Unfreeze cash*
-    a)  *I did not send to my Coinbase account \[C: 10, L: VU\]*
-    b)  *Coinbase did not record my transaction \[C: 10, L: VU\]*
+   a)  *I did not send to my Coinbase account \[C: 10, L: VU\]*
+   b)  *Coinbase did not record my transaction \[C: 10, L: VU\]*
 3.  *Make payments*
-    a)  *I paid to wrong address \[C: 1, L: VU\]*
-    b)  *I paid to spoofed address \[C: 1, L: P\]*
+   a)  *I paid to wrong address \[C: 1, L: VU\]*
+   b)  *I paid to spoofed address \[C: 1, L: P\]*
 4.  *Get change*
-    a)  *I set change amount wrong \[C: 1, L: U\]*
+   a)  *I set change amount wrong \[C: 1, L: U\]*
 5.  *Sell Bitcoin*
-    a)  *Purchaser reverses charge \[C: 10, L: SL\]*
+   a)  *Purchaser reverses charge \[C: 10, L: SL\]*
 6.  *Cash out*
-    a)  *Citibank did not record my transfer \[C: 10, L: VU\]*
+   a)  *Citibank did not record my transfer \[C: 10, L: VU\]*
 7.  *Cold Storage: Paper Wallet*
-    a)  *Paper wallet is water damaged \[C: 10, L: U\]*
-    b)  *Paper wallet is burnt up in fire \[C: 10, L: U\]*
-    c)  *Paper wallet is thrown out as junk \[C: 10, L: P\]*
-    d)  *Paper wallet is stolen by robber \[C: 10, L: VU\]*
-    e)  *Paper wallet is not understood by heirs \[C: 10, L: SL\]*
+   a)  *Paper wallet is water damaged \[C: 10, L: U\]*
+   b)  *Paper wallet is burnt up in fire \[C: 10, L: U\]*
+   c)  *Paper wallet is thrown out as junk \[C: 10, L: P\]*
+   d)  *Paper wallet is stolen by robber \[C: 10, L: VU\]*
+   e)  *Paper wallet is not understood by heirs \[C: 10, L: SL\]*
 8.  *Coinbase Account*
-    a)  *Company is targeted by hackers \[C: 5, L: VL\]*
-    b)  *Bitcoins are stolen by employee \[C: 5, L: U\]*
+   a)  *Company is targeted by hackers \[C: 5, L: VL\]*
+   b)  *Bitcoins are stolen by employee \[C: 5, L: U\]*
 9.  *Privacy*
-    a)  *Poor address hygiene could correlate cold and hot wallets \[C:     8, L: P\]*
-    b)  *Purchases from hot wallet could correlate name and Bitcoin     assets \[C: 8, L: P\]*
+   a)  *Poor address hygiene could correlate cold and hot wallets \[C:     8, L: P\]*
+   b)  *Purchases from hot wallet could correlate name and Bitcoin     assets \[C: 8, L: P\]*
 
 *Alice knows that some of these likelihoods might not be entirely right. Listing them all out and considering them comparatively helps her to think about them more dispassionately, but she figures that she still may be overestimating some likelihoods and underestimating others. If she wanted to be really thorough, she’d talk odds over with someone else, and perhaps she’ll do that at some time in the future. But for now, this is a good first cut.*
 
@@ -346,20 +358,22 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 
 1.  *Label the horizontal axis.* Use your consequences as the horizontal axis, running from 0 to the top consequence that *you considered*.
 2.  *Label the vertical axis.* Use your likelihood as the vertical axis, running from 0 to the top likelihood that *you considered*.
-    a)  **Ranked Likelihoods.** If you used ranked words for your     likeilhoods, just lay them out in order, with the biggest     likelihood being at the top of the axis and the smallest being     the closest to the origin (for example: F, D, C, B, A, along     the vertical axis).
+   a)  **Ranked Likelihoods.** If you used ranked words for your     likeilhoods, just lay them out in order, with the biggest     likelihood being at the top of the axis and the smallest being     the closest to the origin (for example: F, D, C, B, A, along     the vertical axis).
 3.  *Place all vulnerabilities on the chart.* Make a point for each vulnerability at the intersection of its consequence and likelihood. Label the point with the letter and number for the vulnerability (e.g., 9A).
 4.  *Draw a risk-tolerance line.* Finally, you’re going to lay out the risk-tolerance line that identifies those vulnerabilities that you should be paying attention to. It will run from part way along the vertical axis to part way along the horizontal axis, creating a triangle of non-risks below it and an open space of actual risks above it.
-    a)  Figuring out this risk-tolerance line is very individual and     will relate to your own level of risk tolerance, so there’s no     set rule for how to lay it out, but rather a general     methodology that you can use to adjust it until you’re     comfortable with it.
-    b)  *Evaluate an initial line.* Use a straightedge to lay a     potential risk-tolerance line across your graph. Run it from     about 70% of the way up your vertical axis to about 70% of the     way along your horizontal axis. Take a look at what’s on the     line or above it and what’s below the line and think about how     that fits your feeling about risks.
-        * **Ranked Likelihoods**. For five ranked likelihood words,         70% will be halfway between the second and third most         likely words.
-    c)  *Generally adjust your line.* If you feel that your risk     tolerance is higher, push the straight edge up to 80% or 90%     on each side; if you feel that your risk tolerance is lower,     push the straight edge down to 60% or 50% on each side.
-        * **Ranked Likelihoods**. For five ranked likelihood words,         80% is your second most likely option and 60% is your         third most likely option.
-    d)  *Independently adjust your line.* Alternatively, consider just     adjusting one of the axis. If you are more afraid of unlikely     events, push the straightedge down along the vertical axis,     and if you are less afraid of unlikely events, push it up. If     you are more afraid of losing some of your money, pushing the     straight edge back on your horizontal axis, and if you less     afraid of losing some of your money, push it forward.
-    e)  *Draw a final line.* When you’re happy that the line matches     your risk tolerance, draw it in.
-    f)  *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
-        * **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
+   a)  Figuring out this risk-tolerance line is very individual and     will relate to your own level of risk tolerance, so there’s no     set rule for how to lay it out, but rather a general     methodology that you can use to adjust it until you’re     comfortable with it.
+   b)  *Evaluate an initial line.* Use a straightedge to lay a     potential risk-tolerance line across your graph. Run it from     about 70% of the way up your vertical axis to about 70% of the     way along your horizontal axis. Take a look at what’s on the     line or above it and what’s below the line and think about how     that fits your feeling about risks.
+      * **Ranked Likelihoods**. For five ranked likelihood words,         70% will be halfway between the second and third most         likely words.
+   c)  *Generally adjust your line.* If you feel that your risk     tolerance is higher, push the straight edge up to 80% or 90%     on each side; if you feel that your risk tolerance is lower,     push the straight edge down to 60% or 50% on each side.
+      * **Ranked Likelihoods**. For five ranked likelihood words,         80% is your second most likely option and 60% is your         third most likely option.
+   d)  *Independently adjust your line.* Alternatively, consider just     adjusting one of the axis. If you are more afraid of unlikely     events, push the straightedge down along the vertical axis,     and if you are less afraid of unlikely events, push it up. If     you are more afraid of losing some of your money, pushing the     straight edge back on your horizontal axis, and if you less     afraid of losing some of your money, push it forward.
+   e)  *Draw a final line.* When you’re happy that the line matches     your risk tolerance, draw it in.
+   f)  *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
+      * **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
 
 **Draw a chart of your vulnerabilities based on their consequences and likelihood. Draw a risk-tolerance line across the chart to identify the risks. Optionally, eyeball an asymptotic curve to help triangulate high and low risks.**
+
+* * *
 
 ***Alice’s Story.** Alice charts out all of her vulnerabilities, based on their consequence and likelihood, then draws the risk-tolerance line at 70% from axis to axis.*
 
