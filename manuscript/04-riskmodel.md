@@ -43,6 +43,8 @@ Finally, you should consider whether there are other, more non-physical assets t
 
 **Write out each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
 
+* * *
+
 ***Alice’s Story.** Alice is a Bitcoin investor. Subsequent to its rise to \$1,000 in late 2013, she used a Coinbase account to buy at various dips. She invested about \$50,000 at prices between \$250 and \$400 between 2014 and 2016, netting a total of 150 BTC. She stopped investing after the price permanently climbed above \$400.*
 
 *Though Alice has kept a lot of her funds at Coinbase, she’s occasionally moved some of it to paper wallets, based on suggestions that she’s read at Bitcoin websites. She felt that level of security was* good enough*. But then on December 16, 2017, Alice checked her Bitcoin value for the first time in a few months and discovered that her 150 BTC were now worth \$2.8 million dollars. Bitcoin has dropped from that height, but Alice’s coins are still worth more than a million dollars, and so Alice has realized that she needs to protect them better.*
@@ -51,7 +53,7 @@ Finally, you should consider whether there are other, more non-physical assets t
 
 1.  *Bitcoins at Coinbase*
 2.  *Bitcoins in cold storage*
-    a)  *Paper wallets stored in a file cabinet*
+   1.  *Paper wallets stored in a file cabinet*
 3.  *Privacy of cryptocurrency ownership*
 
 {pagebreak}
