@@ -121,15 +121,15 @@ To do so, draw a simple diagram.
 * Moving cryptocurrency to cold storage
 * Exchanging cryptocurrency for fiat currency
 
-{aside}
+{blurb}
 **Draw a diagram that translates your assets into nodes and that shows the interfaces where cryptocurrency moves between nodes. Label the nodes and interfaces.**
-{/aside}
+{/blurb}
 
 If you drew nodes that weren’t on your asset list, consider if they should be added to it. You don’t need to worry about the alternate nodes like fiat currency accounts and payment addresses (which are both beyond the scope of your cryptocurrency risk modeling), but if you found cryptocurrency accounts that you’d neglected earlier, you should definitely add those (and value them).
 
-{aside}
+{blurb}
 **Update your asset lists and valuations with any forgotten nodes, per Steps 1 + 2.**
-{/aside}
+{/blurb}
 
 
 
