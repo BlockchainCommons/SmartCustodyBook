@@ -41,7 +41,9 @@ However, if you use a more robust [*cold storage procedure*](https://docs.google
 
 Finally, you should consider whether there are other, more non-physical assets that you want to protect. Do you care about ***privacy*** regarding your identity? Are you concerned about ***compartmentalizing*** your activities? Do you want to ensure ***confidentiality*** of your total funds? Is ***ease of access*** something that you want to protect?
 
+{blurb}
 **Write out each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
+{/blurb}
 
 * * *
 
