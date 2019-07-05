@@ -45,7 +45,6 @@ To accomplish these goals, we are creating a series of best-practices white pape
 This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
 
 {id: why-cold-storage}
-
 ## Why Cold Storage?
 
 Among the best practices outlined in this document is a cold-storage scenario for self-custody.
