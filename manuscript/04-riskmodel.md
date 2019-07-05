@@ -2,7 +2,7 @@
 
 #### _Managing storage & transaction vulnerabilities_
 
-***Version: 2019-04-03***
+***Version: 2019-07-05 1.0.0***
 
 ## Introduction to Risk Modeling
 
@@ -732,6 +732,7 @@ She added a node (the Electrum wallet) and she split up the interfaces coming ou
 Alice’s setup has been changed enough that it may now have vulnerabilities that she didn’t previously think about. So, she puts a TODO item on her calendar to repeat this exercise in two months.
 
 {pagebreak}
+
 ## Summary
 
 The object of this risk modeling exercise was twofold.
