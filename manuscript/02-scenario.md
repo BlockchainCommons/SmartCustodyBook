@@ -25,7 +25,7 @@ This scenario advocates the basic procedure to address nine major types of adver
 
 For simplicity, this document focuses on Bitcoin, but is easily adaptable to other digital assets supported by our suggested hardware wallet.
 
-If you don't meet the description of the holder for this scenario, it will still be useful, but you will have to adapt it for you specific needs. If you are unsure as to whether you should use a cold-storage scenario, please see [Appendix I: Why Cold Storage?](#appendix-i-why-cold-storage).
+If you don't meet the description of the holder for this scenario, it will still be useful, but you will have to adapt it for you specific needs. If you are unsure as to whether you should use a cold-storage scenario, please see [Why Cold Storage?](#why-cold-storage).
 
 {pagebreak}
 
@@ -265,7 +265,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 #### **L. Prepare Instructions for Heirs and/or Executor**
 
-1. [  ] Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter below.
+1. [  ] Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter in [Appendix I](#appendix-i-sample-digital-assets-letter).
 
 #### **M. Store in Safes** [^16]
 1. [  ] Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
