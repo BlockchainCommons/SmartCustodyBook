@@ -3,7 +3,7 @@
 0-preface.md
 01-randomness.md
 02-scenario.md
-X03-adversaries.md
+03-adversaries.md
 04-riskmodel.md
 99-appendices.md
 99-bios.md
