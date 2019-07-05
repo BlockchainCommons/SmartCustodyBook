@@ -399,7 +399,7 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 
 ***Alice’s Story.** Alice charts out all of her vulnerabilities, based on their consequence and likelihood, then draws the risk-tolerance line at 70% from axis to axis.*
 
-{class: center}
+{class: center, width: "70%"}
 ![](resources/rm-graph-original.png)
 
 *Looking at the chart, Alice is relatively happy with it as a reflection of her-risk tolerance level. It suggests that there’s little to worry about when she’s freezing small amounts of cash (1), and that when she’s making payments, the only thing she should be concerned with is making sure that no one gave her a fake address (3B) — and even that is pretty marginal.*
@@ -464,8 +464,8 @@ It could be that you make no changes here, and if you do it’s going to be some
 
 *Here’s what Alice’s new chart looks like, with the changes to her hot wallet valuation:*
 
-{class: center}
-![](./resources/rm-graph-revised.png)
+{class: center, width: "70%"}
+![](resources/rm-graph-revised.png)
 
 {pagebreak}
 
@@ -476,7 +476,7 @@ You should now have an updated chart that shows which vulnerabilities are actual
 Marginal risks that were on a line or between an asymptotic curve and a straight line may be listed or not, as you see fit.
 
 {blurb}
-**Use your chart to list risks that lie on or above your risk-tolerance line in decreasing order of risk. **
+**Use your chart to list risks that lie on or above your risk-tolerance line in decreasing order of risk.**
 {/blurb}
 
 ***Alice’s Story.** Alice decides to leave the marginal risks out for the moment, and just lists out the risks that clearly lie above both of her risk-tolerance lines.*
@@ -508,41 +508,41 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
 ***Examples of Digital Asset Adversaries***
 
 1. [*Adversary: Bitrot*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
-    * Entropy causes software to stop running, as computer     is upgraded.
-    * Entropy kills computer.
-    * Entropy kills hardware.
-    * Entropy kills hardware wallet.
-    * Entropy makes Bitcoin keys (or seeds) obsolete.
+   * Entropy causes software to stop running, as computer     is upgraded.
+   * Entropy kills computer.
+   * Entropy kills hardware.
+   * Entropy kills hardware wallet.
+   * Entropy makes Bitcoin keys (or seeds) obsolete.
 2. [*Adversary: Blackmail*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.j93znvpdeewc) — *threat of exposure*
-    * Attacker sends ransom note to demand bitcoins.
-    * Attacker uses Ransomware to demand bitcoins.
+   * Attacker sends ransom note to demand bitcoins.
+   * Attacker uses Ransomware to demand bitcoins.
 3. [*Adversary: Censorship*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.hcr2fbjga6nl) — *network denial that prevents the use of funds*
-    * Attacker blocks site from from creating transactions.
-    * Attacker blocks you from creating transactions.
+   * Attacker blocks site from from creating transactions.
+   * Attacker blocks you from creating transactions.
 4. [*Adversary: Coercion*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.roanys7anac) — *threat of death, disability, or detention*
-    * Attacker kidnaps you.
-    * Attacker threatens you.
-    * Attacker kidnaps your family, friends, or pets.
-    * Attacker threatens your family, friends, or pets.
+   * Attacker kidnaps you.
+   * Attacker threatens you.
+   * Attacker kidnaps your family, friends, or pets.
+   * Attacker threatens your family, friends, or pets.
 5. [*Adversary: Convenience*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2n3kxosg6qqv) — *decreased security due to ease of use*
-    * You reduce security, enabling attacks.
-    * You grant privileges to someone untrustworthy.
+   * You reduce security, enabling attacks.
+   * You grant privileges to someone untrustworthy.
 6. [*Adversary: Correlation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8ax6frezqbli) — *a connection of funds based on their usage*
-    * Analyst connects your Bitcoin addresses.
-    * Analyst connects your real address to Bitcoin funds.
+   * Analyst connects your Bitcoin addresses.
+   * Analyst connects your real address to Bitcoin funds.
 7. [*Adversary: Death / Incapacitation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
-    * Heirs can’t access cryptocurrency.
-    * Heirs don’t know about cryptocurrency.
+   * Heirs can’t access cryptocurrency.
+   * Heirs don’t know about cryptocurrency.
 8. [*Adversary: Denial of Access*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.qvrlsobtgck3) — *physical denial that prevents use of funds*
-    * You can’t access physical location of funds.
-    * You can’t move freely.
+   * You can’t access physical location of funds.
+   * You can’t move freely.
 9. [*Adversary: Disaster*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.4fd9mfuh38zv) — *a sudden, large-scale destructive event*
-    * Bomb destroys keys or makes them inaccessible.
-    * Earthquake destroys keys or makes them inaccessible.
-    * Fire destroys keys or makes them inaccessible.
-    * Flood destroys keys or makes them inaccessible.
-    * Other natural disaster destroys keys or makes them inaccessible.
-    * Warfare destroys keys or makes them inaccessible.
+   * Bomb destroys keys or makes them inaccessible.
+   * Earthquake destroys keys or makes them inaccessible.
+   * Fire destroys keys or makes them inaccessible.
+   * Flood destroys keys or makes them inaccessible.
+   * Other natural disaster destroys keys or makes them inaccessible.
+   * Warfare destroys keys or makes them inaccessible.
 10. [*Adversary: Institutional Theft*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.3p4vpcl04c7g) — *a theft by a trusted institution or its employee*
     * Employee backdoors system.
     * Employee secretly copies keys.
@@ -694,10 +694,10 @@ The process solutions are full of good advice, but there’s more than Alice can
 2. Redundantly Store Your Keys. **(x3)**
 3. Widely Separate Your Keys.
 4. [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps:*
-    a) Hire a Lawyer
-    b) Use Bags (Fire-Resistant)
-    c) Use Metal Enhancement (Redundant Metal Devices) **(x2)**
-    d) Use a (USB) Laser Printer
+   a) Hire a Lawyer
+   b) Use Bags (Fire-Resistant)
+   c) Use Metal Enhancement (Redundant Metal Devices) **(x2)**
+   d) Use a (USB) Laser Printer
 
 Alice clearly needs to improve her cold storage procedure, especially since she moved more funds there. The key takeaway seems to be that she needs to redundantly store her keys, probably in a safety deposit box, and that she should use something more durable than her paper wallets.
 
@@ -725,8 +725,8 @@ But, you’ve done your job for the moment. Take a rest and be confident that yo
 
 ***Alice’s Story:*** Thanks to the adjustments to her cold storage and to the introduction of an Electrum wallet, Alice’s digital asset procedure has changed a fair amount:
 
-{class: center}
-![](./resources/rm-diagram-revised.png)
+{class: center, width: "70%"}
+![](resources/rm-diagram-revised.png)
 
 She added a node (the Electrum wallet) and she split up the interfaces coming out of her cold storage, as she could now move funds to her Coinbase account or to her Electrum wallet. (That also cleaned up the problem with Alice’s Coinbase account being a single point of failure.) Finally, she added three new subnodes to her cold storage.
 
