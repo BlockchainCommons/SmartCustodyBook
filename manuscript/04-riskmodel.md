@@ -232,7 +232,7 @@ Again, refer to Step 11 for more ideas of risks, after you’ve created an initi
 
 ***Alice’s Story:** Alice continues her list by detailing the vulnerabilities that she sees for her Coinbase account and her paper wallets. Though she was somewhat concerned with Coinbase as a single point of failure, when Alice writes out her vulnerabilities, she realizes that the paper wallets are extremely vulnerable too!*
 
-7. *Cold Storage: Paper Wallet*
+7. *Cold Storage Paper Wallet*
    a) *Paper wallet is water damaged*
    b) *Paper wallet is burnt up in fire*
    c) *Paper wallet is thrown out as junk*
@@ -264,7 +264,7 @@ Once more, when you’re done with an initial list you might wish to consult Ste
 
 * * *
 
-***Alice’s Story:** Alice is a little itchy about the interface between her hot wallet and her cold storage. Though she has a couple of different paper wallets, she has reused some of her paper wallets multiple times, when she continued to add bitcoins to them. She also moved funds back to Coinbase a few times in the past, when she thought she was going to sell. This has created potential correlation between her different cold wallets and her Coinbase account. It might be possible to figure out what her total funds are. *
+***Alice’s Story:** Alice is a little itchy about the interface between her hot wallet and her cold storage. Though she has a couple of different paper wallets, she has reused some of her paper wallets multiple times, when she continued to add bitcoins to them. She also moved funds back to Coinbase a few times in the past, when she thought she was going to sell. This has created potential correlation between her different cold wallets and her Coinbase account. It might be possible to figure out what her total funds are.*
 
 *Worse, she’s used the hot wallet to make purchases a few times — purchases that were shipped to her house under her name. This might allow people to correlate her real name and all of her Bitcoin funds!*
 
@@ -355,7 +355,7 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
    a) *Purchaser reverses charge \[C: 10, L: SL\]*
 6. *Cash out*
    a) *Citibank did not record my transfer \[C: 10, L: VU\]*
-7. *Cold Storage: Paper Wallet*
+7. *Cold Storage Paper Wallet*
    a) *Paper wallet is water damaged \[C: 10, L: U\]*
    b) *Paper wallet is burnt up in fire \[C: 10, L: U\]*
    c) *Paper wallet is thrown out as junk \[C: 10, L: P\]*
