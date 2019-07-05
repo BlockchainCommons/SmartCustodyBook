@@ -70,7 +70,7 @@ The ***keys*** are a little harder to value. If you only have one key for a spec
 
 For ***non-physical*** ***assets***, consider their value in relation to the digital assets themselves. Is your privacy or the possibility of correlation more or less valuable than your funds? Perhaps it’s half as valuable if the asset ultimately protects your funds, but perhaps it’s twice as valuable if the asset has a larger meaning in your life, such as privacy that protects your reputation.
 
-{blurb, class: information}
+{blurb, class: discussion}
 **Enumerate the value of each of your assets.**
 {/blurb}
 
@@ -121,9 +121,9 @@ To do so, draw a simple diagram.
 * Moving cryptocurrency to cold storage
 * Exchanging cryptocurrency for fiat currency
 
-{blurb}
+{aside}
 **Draw a diagram that translates your assets into nodes and that shows the interfaces where cryptocurrency moves between nodes. Label the nodes and interfaces.**
-{/blurb}
+{/aside}
 
 If you drew nodes that weren’t on your asset list, consider if they should be added to it. You don’t need to worry about the alternate nodes like fiat currency accounts and payment addresses (which are both beyond the scope of your cryptocurrency risk modeling), but if you found cryptocurrency accounts that you’d neglected earlier, you should definitely add those (and value them).
 
