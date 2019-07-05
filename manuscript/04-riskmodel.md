@@ -400,9 +400,9 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
 ***Alice’s Story.** Alice charts out all of her vulnerabilities, based on their consequence and likelihood, then draws the risk-tolerance line at 70% from axis to axis.*
 
 {class: center}
-![](./resources/rm-graph-original.png)
+![](resources/rm-graph-original.png)
 
-*Looking at the chart, Alice is relatively happy with it as a reflection of her-risk tolerance level. It suggests that there’s little to worry about when she’s freezing small amounts of cash (1), and that when she’s making payments, the only thing she should be concerned with is making sure that no one gave her a fake address (3B) — and even that is pretty marginal. *
+*Looking at the chart, Alice is relatively happy with it as a reflection of her-risk tolerance level. It suggests that there’s little to worry about when she’s freezing small amounts of cash (1), and that when she’s making payments, the only thing she should be concerned with is making sure that no one gave her a fake address (3B) — and even that is pretty marginal.*
 
 *It also highlights where she should have the most concern: the set of interfaces relating to eventually selling off her bitcoins (2: unfreeze cash, 5: sell bitcoin, and 6: cash out); both of her asset stores (8: hot and 7: cold wallets); and her privacy (9).*
 
@@ -417,10 +417,10 @@ So what do you do with risks? Generally, there are four options to resolve them.
 One method of *mitigation* is to modify the valuation of assets to drop them below your risk-tolerance line:
 
 1. *Consider the value of assets.* Look at each of the assets that has a risk, and consider whether their valuation could be decreased sufficiently to push the related nodal risks below the risk-tolerance line.
-    a) Generally, it’s beneficial to move funds from hot wallets to     cold storage. So, for each of your hot wallets, consider if     the funds there are actually being used for active trading. If     not, you should move some or all of the funds.
-    b) Even if you can’t push an asset below your risk-tolerance line,     it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
-    c) Reducing some risks will inevitably result in increasing others.     This is OK. If you’re generally happier with the gestalt of     the new asset valuations, and in particular if you’ve shifted     risk from hot wallets to cold storage, then you’ve benefited     your overall setup.
-    d) Don’t bother trying to reduce the valuation of cold storage or     those hot wallets where the funds are actually being actively     used; you’ll instead want to resolve their risks via     interdiction, prevention, or different mitigation methods.
+   a) Generally, it’s beneficial to move funds from hot wallets to     cold storage. So, for each of your hot wallets, consider if     the funds there are actually being used for active trading. If     not, you should move some or all of the funds.
+   b) Even if you can’t push an asset below your risk-tolerance line,     it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
+   c) Reducing some risks will inevitably result in increasing others.     This is OK. If you’re generally happier with the gestalt of the new asset valuations, and in particular if you’ve shifted     risk from hot wallets to cold storage, then you’ve benefited     your overall setup.
+   d) Don’t bother trying to reduce the valuation of cold storage or     those hot wallets where the funds are actually being actively     used; you’ll instead want to resolve their risks via     interdiction, prevention, or different mitigation methods.
 2. *Modify consequences.* Based on your asset valuation changes, modify the consequences for those assets, and also consider any linked interfaces and see if their consequences changed as well. (Generally, an interface *originating* with an asset is the one likely to be changed when the asset changes.)
 3. *Rechart if needed*. If any valuation changes were made, rechart as per step 8.
 
@@ -442,21 +442,21 @@ It could be that you make no changes here, and if you do it’s going to be some
 
 1. *Bitcoins at Coinbase \[~~5~~ 1\]*
 2. *Bitcoins in cold storage*
-    a) *Paper wallets stored in a file cabinet \[10\]*
+   a) *Paper wallets stored in a file cabinet \[10\]*
 3. *Privacy of cryptocurrency ownership \[8\]*
 
 *This might change the risk analysis for the interfaces originating at the Coinbase node. Most of the Coinbase-originating interfaces already presume very small amounts of money moving, but there was one part of the freeze cash interface that considered a bigger loss; that’s now reduced. *
 
 1. *Freeze cash*
-    a) *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
-    b) *I did not print paper wallet right \[C: ~~2~~ 1, L: U\]*
-    c) *I did not send to my paper wallet address \[C: 1, L: VU\]*
+   a) *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
+   b) *I did not print paper wallet right \[C: ~~2~~ 1, L: U\]*
+   c) *I did not send to my paper wallet address \[C: 1, L: VU\]*
 
 *More notably, the Coinbase node itself has dramatically reduced consequences:*
 
 8. *Coinbase Account*
-    a) *Company is targeted by hackers \[C: ~~5~~ 1, L: VL\]*
-    b) *Bitcoins are stolen by employee \[C: ~~5~~ 1, L: U\]*
+   a) *Company is targeted by hackers \[C: ~~5~~ 1, L: VL\]*
+   b) *Bitcoins are stolen by employee \[C: ~~5~~ 1, L: U\]*
 
 *Alice has no idea what do to reduce the ***privacy risks***.*
 
