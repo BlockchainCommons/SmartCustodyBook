@@ -121,13 +121,13 @@ To do so, draw a simple diagram.
 * Moving cryptocurrency to cold storage
 * Exchanging cryptocurrency for fiat currency
 
-{blurb}
+{blurb, class: tip}
 **Draw a diagram that translates your assets into nodes and that shows the interfaces where cryptocurrency moves between nodes. Label the nodes and interfaces.**
 {/blurb}
 
 If you drew nodes that weren’t on your asset list, consider if they should be added to it. You don’t need to worry about the alternate nodes like fiat currency accounts and payment addresses (which are both beyond the scope of your cryptocurrency risk modeling), but if you found cryptocurrency accounts that you’d neglected earlier, you should definitely add those (and value them).
 
-{blurb}
+{blurb, class: tip}
 **Update your asset lists and valuations with any forgotten nodes, per Steps 1 + 2.**
 {/blurb}
 
@@ -332,7 +332,7 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 *The last interfaces are for “make payments” and “get change”. Alice thinks there are real opportunities for loss here, but she never makes big purchases, so the consequences are once more low.*
 
-*Now, Alice moves on to her nodes. Here, she just matches her consequences to the value of the asset. For her two large stores of cryptocurrency, this means that the consequences could be quite bad; when that’s matched with high likelihoods, that’s a problem. *
+*Now, Alice moves on to her nodes. Here, she just matches her consequences to the value of the asset. For her two large stores of cryptocurrency, this means that the consequences could be quite bad; when that’s matched with high likelihoods, that’s a problem.*
 
 *One thing that Alice notes is that it’s a little hard to think about her Coinbase account, because she’s currently using it for hot-wallet storage, but someday will use it for selling off all her funds. It might be best not to use the same node for these very different functions, which would also reduce Coinbase as a single point of failure, but again that’s an issue for the future. For now she rates her consequences based on what’s currently in the nodes.*
 
@@ -731,6 +731,7 @@ She added a node (the Electrum wallet) and she split up the interfaces coming ou
 
 Alice’s setup has been changed enough that it may now have vulnerabilities that she didn’t previously think about. So, she puts a TODO item on her calendar to repeat this exercise in two months.
 
+{pagebreak}
 ## Summary
 
 The object of this risk modeling exercise was twofold.
