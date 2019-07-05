@@ -93,12 +93,16 @@ Your digital assets face two different categories of risks: one when it’s bein
 
 To do so, draw a simple diagram.
 
-1.  *Draw physical assets as *nodes* (circles).* This should be assets that represent physical cryptocurrency or keys. They show where your cryptocurrency is stored.
-    a)  If a physical asset has subassets (such as cold storage with     multiple copies of keys), draw those subassets as *subnodes*     (*smaller circles*) linked to the main node.
-2.  *Add any forgotten *nodes* to your diagram that are part of your cryptocurrency process but were not on your physical assets list.* This is where you see if you left anything off your asset listing. These other nodes could be accounts that don’t currently contain funds but that you plan to use as part of your process in the future, or they might just be stashes of less valuable cryptocurrency that you neglected.
-3.  *Add *alternate nodes* (dotted circles) for physical assets that aren’t cryptocurrency or where the cryptocurrency doesn’t belong to you.* These indicate your transferring cryptocurrency to another owner or exchanging it to or from a fiat currency account. They represent going outside of the cryptocurrency arena that you control (and thus outside of the risks you are modeling).
-4.  *Draw *interfaces* (arrows) between the nodes.* They show how cryptocurrency transfers from one node to another. Each interface should go in just one direction, so you might have up to two interfaces for each pair of nodes.
-5.  *Draw non-physical assets as *reminders* (squares).* They won’t link to anything, but are here to keep all of your assets in one (graphical) place.
+1. *Draw physical assets as *nodes* (circles).* This should be assets that represent physical cryptocurrency or keys. They show where your cryptocurrency is stored.
+   a)  If a physical asset has subassets (such as cold storage with     multiple copies of keys), draw those subassets as *subnodes*     (*smaller circles*) linked to the main node.
+
+2. *Add any forgotten *nodes* to your diagram that are part of your cryptocurrency process but were not on your physical assets list.* This is where you see if you left anything off your asset listing. These other nodes could be accounts that don’t currently contain funds but that you plan to use as part of your process in the future, or they might just be stashes of less valuable cryptocurrency that you neglected.
+
+3. *Add *alternate nodes* (dotted circles) for physical assets that aren’t cryptocurrency or where the cryptocurrency doesn’t belong to you.* These indicate your transferring cryptocurrency to another owner or exchanging it to or from a fiat currency account. They represent going outside of the cryptocurrency arena that you control (and thus outside of the risks you are modeling).
+
+4. *Draw *interfaces* (arrows) between the nodes.* They show how cryptocurrency transfers from one node to another. Each interface should go in just one direction, so you might have up to two interfaces for each pair of nodes.
+
+5. *Draw non-physical assets as *reminders* (squares).* They won’t link to anything, but are here to keep all of your assets in one (graphical) place.
 
 ***Examples of Nodes:***
 
