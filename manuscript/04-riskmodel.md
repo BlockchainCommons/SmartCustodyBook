@@ -8,7 +8,7 @@
 
 There are many risks in the world of digital assets. If you store your private keys insecurely, you could be burgled or hacked. If criminals know that you hold cryptocurrency funds, you could be kidnapped or threatened. If you are careless or unlucky, you could lose your private keys to misadventure, disaster, or even just the miscopying of a string of numbers.
 
-We categorize these various risks as [*adversaries*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#). These are anthropomorphized dangers that each have their own motives for endangering your digital assets. Only by fully understanding them can you determine how to protect yourself against these dangers.
+We categorize these various risks as *adversaries*. These are anthropomorphized dangers that each have their own motives for endangering your digital assets. Only by fully understanding them can you determine how to protect yourself against these dangers.
 
 But how do you decide which adversaries are most likely to impact you? More importantly, how do you get past the very human tendency to misjudge risks — either by overestimating them or underestimating them? Risk modeling offers one way to do so: it’s a methodical, somewhat regularized way to look at your actual levels of exposure. Our model does so in a few steps: you will characterize your assets; list your vulnerabilities; assess your vulnerabilities; identify the actual risks; and finally correlate those risks to adversarial write-ups.
 
@@ -32,7 +32,7 @@ For your ***cryptocurrency*** itself, you should identify where precisely the mo
 
 The ***keys*** protecting the cryptocurrency are also a crucial asset, but often they’re entirely intertwined with the cryptocurrency itself: if your Bitcoin is at Coinbase, that means the keys are at Coinbase; and if your Ethereum is only accessible through a paper wallet, that’s because you printed your keys in the wallet.
 
-However, if you use a more robust [*cold storage procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit#heading=h.r5lbvg5yqy7w), you might have redundant copies of your keys in several places. In that case, “Bitcoin held in cold storage” is too general of an asset; you instead need to consider each of your copies of a key as an asset, to correctly assess their risks.
+However, if you use a more robust *cold storage procedure*, you might have redundant copies of your keys in several places. In that case, “Bitcoin held in cold storage” is too general of an asset; you instead need to consider each of your copies of a key as an asset, to correctly assess their risks.
 
 ***Examples of Assets:***
 
@@ -498,7 +498,7 @@ Marginal risks that were on a line or between an asymptotic curve and a straight
 
 At this point, you might want to immediately start brainstorming ways to interdict, prevent, and further mitigate your risks. If you’re knowledgeable about smart custody, and feel like you already know how to reduce your risks, then jump forward to Step 12. However, we have another methodology that may (once more) allow you to approach your risk modeling in a *methodical* way.
 
-What follows is a list of adversaries drawn from the [*Adversaries*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.9uorpyk1b4bp) document. These are sort of like risks, but each of them is an anthropomorphized adversarial entity that contains many related risks, and which details many related solutions. We believe that considering an anthropomorphized adversary of this sort makes it easier to consider the “motives” that might affect you, and also makes it easier to find solutions that address your risks. It’s our prime deviation from standard risk modeling methodologies.
+What follows is a list of adversaries drawn from the *Chapter Three*. These are sort of like risks, but each of them is an anthropomorphized adversarial entity that contains many related risks, and which details many related solutions. We believe that considering an anthropomorphized adversary of this sort makes it easier to consider the “motives” that might affect you, and also makes it easier to find solutions that address your risks. It’s our prime deviation from standard risk modeling methodologies.
 
 Go through the adversary list and checkmark all adversaries that correlate with the risks you identified. Your exact risk might not be here, so try and pick the adversaries that have risks that seem the closest to what you wrote.
 
@@ -506,118 +506,118 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
 
 ***Examples of Digital Asset Adversaries***
 
-1. [*Adversary: Bitrot*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
+1. [*Adversary: Bitrot*](#adversary-bitrot) — *a hardware, software, or media failure leading to loss*
    * Entropy causes software to stop running, as computer     is upgraded.
    * Entropy kills computer.
    * Entropy kills hardware.
    * Entropy kills hardware wallet.
    * Entropy makes Bitcoin keys (or seeds) obsolete.
-2. [*Adversary: Blackmail*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.j93znvpdeewc) — *threat of exposure*
+2. [*Adversary: Blackmail*](#adversary-blackmail) — *threat of exposure*
    * Attacker sends ransom note to demand bitcoins.
    * Attacker uses Ransomware to demand bitcoins.
-3. [*Adversary: Censorship*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.hcr2fbjga6nl) — *network denial that prevents the use of funds*
+3. [*Adversary: Censorship*](#adversary-censorship) — *network denial that prevents the use of funds*
    * Attacker blocks site from from creating transactions.
    * Attacker blocks you from creating transactions.
-4. [*Adversary: Coercion*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.roanys7anac) — *threat of death, disability, or detention*
+4. [*Adversary: Coercion*](#adversary-coercion) — *threat of death, disability, or detention*
    * Attacker kidnaps you.
    * Attacker threatens you.
    * Attacker kidnaps your family, friends, or pets.
    * Attacker threatens your family, friends, or pets.
-5. [*Adversary: Convenience*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2n3kxosg6qqv) — *decreased security due to ease of use*
+5. [*Adversary: Convenience*](#adversary-convenience) — *decreased security due to ease of use*
    * You reduce security, enabling attacks.
    * You grant privileges to someone untrustworthy.
-6. [*Adversary: Correlation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8ax6frezqbli) — *a connection of funds based on their usage*
+6. [*Adversary: Correlation*](#adversary-correlation) — *a connection of funds based on their usage*
    * Analyst connects your Bitcoin addresses.
    * Analyst connects your real address to Bitcoin funds.
-7. [*Adversary: Death / Incapacitation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
+7. [*Adversary: Death / Incapacitation*](#adversary-death--incapacitation) — *a mortal loss or disability that could endanger funds*
    * Heirs can’t access cryptocurrency.
    * Heirs don’t know about cryptocurrency.
-8. [*Adversary: Denial of Access*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.qvrlsobtgck3) — *physical denial that prevents use of funds*
+8. [*Adversary: Denial of Access*](#adversary-denial-of-access) — *physical denial that prevents use of funds*
    * You can’t access physical location of funds.
    * You can’t move freely.
-9. [*Adversary: Disaster*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.4fd9mfuh38zv) — *a sudden, large-scale destructive event*
+9. [*Adversary: Disaster*](#adversary-disaster) — *a sudden, large-scale destructive event*
    * Bomb destroys keys or makes them inaccessible.
    * Earthquake destroys keys or makes them inaccessible.
    * Fire destroys keys or makes them inaccessible.
    * Flood destroys keys or makes them inaccessible.
    * Other natural disaster destroys keys or makes them inaccessible.
    * Warfare destroys keys or makes them inaccessible.
-10. [*Adversary: Institutional Theft*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.3p4vpcl04c7g) — *a theft by a trusted institution or its employee*
+10. [*Adversary: Institutional Theft*](#adversary-institutional-theft) — *a theft by a trusted institution or its employee*
     * Employee backdoors system.
     * Employee secretly copies keys.
     * Employee steals keys.
     * Institution falsely claims they never received payment.
     * Institution steals everything & disappears.
-11. [*Adversary: Internal Theft*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l408su3zzjcu) — *a theft by a trusted person such as an heir or executor*
+11. [*Adversary: Internal Theft*](#adversary-internal-theft) — *a theft by a trusted person such as an heir or executor*
     * Hacker tricks trustee.
     * Trustee loses key.
     * Trustee refuses to multi-sign.
     * Trustee steals keys.
-12. [*Adversary: Key Fragility*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2q60laj07m3x) — *an accidental key loss*
+12. [*Adversary: Key Fragility*](#adversary-key-fragility) — *an accidental key loss*
     * Someone throws out your keys.
     * System incorrectly generates keys.
     * You lose your encryption method for keys.
     * You lose your PIN.
     * You miscopy your keys.
     * You misplace your keys.
-13. [*Adversary: Legal Forfeiture*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.7g8lty4izh8x) — *a legal civic or state seizure of funds*
+13. [*Adversary: Legal Forfeiture*](#adversary-legal-forfeiture) — *a legal civic or state seizure of funds*
     * Court seizes funds.
     * Federal agent seizes funds.
     * IRS seizes funds.
-14. [*Adversary: Loss of Fungibility*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.llhncsre773l) — *a blacklisting of funds based on their provenance*
+14. [*Adversary: Loss of Fungibility*](#adversary-loss-of-fungibility) — *a blacklisting of funds based on their provenance*
     * Analyst discovers Bitcoin previously used by undesirable entity.
     * Analyst discovers Bitcoin previously used for illegal activity.
-15. [*Adversary: Nation-State Actor*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.r30mkanx1jnw) — *wide-ranging threats related to surveillance and coercion*
+15. [*Adversary: Nation-State Actor*](#adversary-nation-state-actor) — *wide-ranging threats related to surveillance and coercion*
     * Federal agents steal funds.
     * Federal laws threaten funds.
     * State surveils usages of funds.
-16. [*Adversary: Network Attack, Personal*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2st8zurfuu0n) — *a personal online attack*
+16. [*Adversary: Network Attack, Personal*](#adversary-network-attack-personal) — *a personal online attack*
     * Attacker breaks into account holding private keys.
     * Attacker steals private key for Bitcoin.
     * Attacker steals password or other credential to Bitcoin account.
-17. [*Adversary: Network Attack, Systemic*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.35bedcdpyqm3) — *a server online attack *
+17. [*Adversary: Network Attack, Systemic*](#adversary-network-attack-systemic) — *a server online attack *
     * Attacker steals from exchange.
     * Bankruptcy occurs at online company.
     * Keys become unavailable due to exchange disappearance.
-18. [*Adversary: Non-Financially Motivated Attackers*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.z5oz1r6cv1i) — an *attack not intended to steal funds*
+18. [*Adversary: Non-Financially Motivated Attackers*](#adversary-non-financially-motivated-attackers) — an *attack not intended to steal funds*
     * Attacker breaks things for fun.
     * Attacker steals funds to give away.
     * Malware destroys keys.
     * Spyware correlates fund usage.
-19. [*Adversary: Physical Theft, Casual*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.vk4f6ntyv353) — *an opportunistic physical theft*
+19. [*Adversary: Physical Theft, Casual*](#adversary-physical-theft-casual) — *an opportunistic physical theft*
     * Thief steals computer, smartphone, or other key-holding device.
     * Thief accidentally steals keys.
-20. [*Adversary: Physical Theft, Sophisticated*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.a6tzkv3mpu4k) — *a purposeful physical theft of private keys*
+20. [*Adversary: Physical Theft, Sophisticated*](#adversary-physical-theft-sophisticated) — *a purposeful physical theft of private keys*
     * Thief purposefully steals keys.
     * Thief tricks you into handing over keys.
-21. [*Adversary: Process Fatigue*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.dnochaey7sr7) — *errors caused by the complexity of the overall procedure*
+21. [*Adversary: Process Fatigue*](#adversary-process-fatigue) — *errors caused by the complexity of the overall procedure*
     * You lose funds while perfecting your procedure.
     * You lose keys while checking keys.
     * You overly obfuscate your keys.
-22. [*Adversary: Social Engineering*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.7ns487pb2dl9) — *a social theft*
+22. [*Adversary: Social Engineering*](#adversary-social-engineering) — *a social theft*
     * Attacker creates fake recipient address.
     * Attacker phishes Bitcoin user.
     * Attacker tricks Bitcoin user into installing malware
-23. [*Adversary: Supply-Chain Attack*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8c21ur3d1g2w) — *a logistical theft*
+23. [*Adversary: Supply-Chain Attack*](#adversary-supply-chain-attack) — *a logistical theft*
     * Attacker modifies computer before purchase.
     * Attacker modifies hardware wallet before purchase.
     * Attacker modifies USB stick before purchase.
-24. [*Adversary: Systemic Key Compromise*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.pwjz361bhwni) — *a key-generation compromise*
+24. [*Adversary: Systemic Key Compromise*](#adversary-systemic-key-compromise) — *a key-generation compromise*
     * System generates addresses incorrectly.
     * System generates keys insecurely.
-25. [*Adversary: Terrorist / Mob*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.thf35x4lotcb) — a *potentially mortal threat related to coercion*
+25. [*Adversary: Terrorist / Mob*](#adversary-terrorist--mob) — a *potentially mortal threat related to coercion*
     * Attacker kidnaps you — and death is likely.
     * Attacker threatens you — and threats are real.
     * Attacker kidnaps your family, friends, or pets — and death     is likely.
     * Attacker threatens your family, friends, or pets — and threats     are real.
-26. [*Adversary: Transaction Error*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.cv1okznuqg8m) — *incorrect transaction details leading to loss*
+26. [*Adversary: Transaction Error*](#adversary-transaction-error) — *incorrect transaction details leading to loss*
     * You create an invalid smart contract.
     * You copy the wrong address.
     * You miscalculate the change amount and send too much to miners.
     * You send the wrong amount of funds.
     * You send to the wrong address.
     * You timelock your funds incorrectly.
-27. [*Adversary: User Error*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.rb3f1k6w7wt6) — *an operator mistake leading to loss*
+27. [*Adversary: User Error*](#adversary-user-error) — *an operator mistake leading to loss*
     * You don’t maintain your key location.
     * You forget your key location.
 
@@ -653,13 +653,13 @@ After you’ve selected your adversaries, your should write them out in a list o
 
 ### Step 12: Take Steps to Foil Adversaries
 
-Once you’ve identified the adversaries most relevant to you, you need to determine how to foil them. To begin, read the [*Adversaries*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.9uorpyk1b4bp) document more closely for the problems that you’ve recorded through this process. Browse through the entire write-up for each of those adversaries, to better understand the adversary and its relationship to your particular procedure. Pay special attention to the sections at the end: the list of Process, Hot Wallet, and Cold Storage Solutions.
+Once you’ve identified the adversaries most relevant to you, you need to determine how to foil them. To begin, read the *Chapter Two* more closely for the problems that you’ve recorded through this process. Browse through the entire write-up for each of those adversaries, to better understand the adversary and its relationship to your particular procedure. Pay special attention to the sections at the end: the list of Process, Hot Wallet, and Cold Storage Solutions.
 
 Once you’ve read through the adversaries and understood them, you should adopt solutions as appropriate:
 
-1. *Introduce a Cold Storage Procedure.* If you already have a cold-storage procedure, you should update it with our [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit). If you don’t have a cold-storage procedure, you should consider introducing one, especially if some of your adversaries suggest doing so.
+1. *Introduce a Cold Storage Procedure.* If you already have a cold-storage procedure, you should update it with our *Cold Storage Procedure*. If you don’t have a cold-storage procedure, you should consider introducing one, especially if some of your adversaries suggest doing so.
 2. *Incorporate Cold Storage Solutions.* Many potential solutions deal generally with the general procedures for cold storage, suggesting how to make it less prone to failure. Consider these and adopt them as required.
-3. *Add Cold Storage Optional Steps.* There may also be specific and precise optional steps that can be added to your cold-storage procedure. These steps can be simply integrated into our standard [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit).
+3. *Add Cold Storage Optional Steps.* There may also be specific and precise optional steps that can be added to your cold-storage procedure. These steps can be simply integrated into our standard *Cold Storage Procedure*.
 4. *Incorporate Hot Wallet Solutions.* Hot Wallet Solutions suggest procedural updates that will keep online funds safer (though online funds are always in greater danger). Consider incorporating them for any hot wallet sites that you have identified as being in danger. Also consider one more time if you can move assets from hot wallets to cold storage (or if you can move them from a more vulnerable hot wallet to a less vulnerable one).
 5. *Incorporate Process Solutions.* Finally, some adversaries will require more general process solutions, where you’ll need to make changes to your overall way of doing things. This is especially true for interface risks and non-physical asset risks, but it can also apply to general cryptocurrency storage processes. These are the most extensive solutions listed in the Adversaries document.
 
@@ -692,7 +692,7 @@ The process solutions are full of good advice, but there’s more than Alice can
 1. Fortify Your Key Storage.
 2. Redundantly Store Your Keys. **(x3)**
 3. Widely Separate Your Keys.
-4. [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps:*
+4. **Cold Storage Scenario** *Optional Steps:*
    a) Hire a Lawyer
    b) Use Bags (Fire-Resistant)
    c) Use Metal Enhancement (Redundant Metal Devices) **(x2)**
