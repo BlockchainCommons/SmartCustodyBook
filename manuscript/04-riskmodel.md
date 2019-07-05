@@ -41,7 +41,7 @@ However, if you use a more robust [*cold storage procedure*](https://docs.google
 
 Finally, you should consider whether there are other, more non-physical assets that you want to protect. Do you care about ***privacy*** regarding your identity? Are you concerned about ***compartmentalizing*** your activities? Do you want to ensure ***confidentiality*** of your total funds? Is ***ease of access*** something that you want to protect?
 
-{blurb}
+{blurb, class: tip}
 **Write out each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
 {/blurb}
 
@@ -70,7 +70,7 @@ The ***keys*** are a little harder to value. If you only have one key for a spec
 
 For ***non-physical*** ***assets***, consider their value in relation to the digital assets themselves. Is your privacy or the possibility of correlation more or less valuable than your funds? Perhaps it’s half as valuable if the asset ultimately protects your funds, but perhaps it’s twice as valuable if the asset has a larger meaning in your life, such as privacy that protects your reputation.
 
-{blurb}
+{blurb, class: information}
 **Enumerate the value of each of your assets.**
 {/blurb}
 
