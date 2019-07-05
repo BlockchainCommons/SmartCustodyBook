@@ -53,10 +53,10 @@ Finally, you should consider whether there are other, more non-physical assets t
 
 *To begin her risk modeling procedure, Alice lists her assets. Besides her Coinbase account, and the cold storage of her paper wallet, Alice is also concerned about her privacy, because she fears that she would be targeted if people knew that she had one or two million dollars in cryptocurrency.*
 
-1.  *Bitcoins at Coinbase*
-2.  *Bitcoins in cold storage*
-   a)  *Paper wallets stored in a file cabinet*
-3.  *Privacy of cryptocurrency ownership*
+1. *Bitcoins at Coinbase*
+2. *Bitcoins in cold storage*
+   a) *Paper wallets stored in a file cabinet*
+3. *Privacy of cryptocurrency ownership*
 
 {pagebreak}
 
@@ -70,7 +70,9 @@ The ***keys*** are a little harder to value. If you only have one key for a spec
 
 For ***non-physical*** ***assets***, consider their value in relation to the digital assets themselves. Is your privacy or the possibility of correlation more or less valuable than your funds? Perhaps it’s half as valuable if the asset ultimately protects your funds, but perhaps it’s twice as valuable if the asset has a larger meaning in your life, such as privacy that protects your reputation.
 
+{blurb}
 **Enumerate the value of each of your assets.**
+{/blurb}
 
 * * *
 
@@ -78,10 +80,10 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 
 *Alice writes down a value for each of her assets, on a 10-point scale:*
 
-1.  *Bitcoins at Coinbase \[5\]*
-2.  *Bitcoins in cold storage*
-   a)  *Paper wallets stored in a file cabinet \[10\]*
-3.  *Privacy of cryptocurrency ownership \[8\]*
+1. *Bitcoins at Coinbase \[5\]*
+2. *Bitcoins in cold storage*
+   a) *Paper wallets stored in a file cabinet \[10\]*
+3. *Privacy of cryptocurrency ownership \[8\]*
 
 *Alice uses simple math to lay out her valuations. The paper wallets represent the most value, so she puts that at a 10. The Coinbase monies represent half of that, so she marks that a 5. Losing her privacy could lead to attacks on her funds, causing her to lose some or all of them, so Alice marked that as an 8, saying that it’s almost as valuable as her main stash of cryptocurrency.*
 
@@ -119,11 +121,15 @@ To do so, draw a simple diagram.
 * Moving cryptocurrency to cold storage
 * Exchanging cryptocurrency for fiat currency
 
+{blurb}
 **Draw a diagram that translates your assets into nodes and that shows the interfaces where cryptocurrency moves between nodes. Label the nodes and interfaces.**
+{/blurb}
 
 If you drew nodes that weren’t on your asset list, consider if they should be added to it. You don’t need to worry about the alternate nodes like fiat currency accounts and payment addresses (which are both beyond the scope of your cryptocurrency risk modeling), but if you found cryptocurrency accounts that you’d neglected earlier, you should definitely add those (and value them).
 
+{blurb}
 **Update your asset lists and valuations with any forgotten nodes, per Steps 1 + 2.**
+{/blurb}
 
 * * *
 
@@ -170,7 +176,9 @@ Creating as thorough of a list as you can on your own, so that you can identify 
 
 Try to be thorough, but don’t go crazy. If something is laughably unlikely, then don’t worry about it, but try to walk right up to that line.
 
+{blurb}
 **Make a numbered list of your interfaces, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
+{/blurb}
 
 * * *
 
@@ -216,7 +224,9 @@ You might find that multiple nodes have identical vulnerabilities. If so, copy y
 
 Again, refer to Step 11 for more ideas of risks, after you’ve created an initial list.
 
+{blurb}
 **Continue your numbered list by adding physical nodes, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
+{/blurb}
 
 * * *
 
@@ -248,7 +258,9 @@ Finally, you should look at any non-physical assets that you recorded, such as p
 
 Once more, when you’re done with an initial list you might wish to consult Step 11 for additional ideas.
 
+{blurb}
 **Continue your numbered list by adding non-physical assets, and for each brainstorm a lettered list of reasonable vulnerabilities. Consult Step 11 for additional possibilities when your brainstorm is finished.**
+{/blurb}
 
 * * *
 
@@ -307,7 +319,9 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 * PIN for hardware wallet forgotten \[constant problem\]
 * Custodian goes out of business \[rare problem\]
 
+{blurb}
 **List a consequence and likelihood value for each of your vulnerabilities.**
+{/blurb}
 
 *** 
 
@@ -377,7 +391,9 @@ By now, you might already have a rough idea of which vulnerabilities are actuall
    f)  *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
       * **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
 
+{blurb}
 **Draw a chart of your vulnerabilities based on their consequences and likelihood. Draw a risk-tolerance line across the chart to identify the risks. Optionally, eyeball an asymptotic curve to help triangulate high and low risks.**
+{/blurb}
 
 * * *
 
@@ -418,7 +434,9 @@ This is the first time when you are really examining your procedure for flaws an
 
 It could be that you make no changes here, and if you do it’s going to be somewhat seat-of-the-pants.
 
+{blurb}
 **Make a plan to move funds that might push risks below the risk-tolerance line or that might replace hot wallets with cold storage.**
+{/blurb}
 
 ***Alice’s Story.** Alice’s ***hot-wallet related risks*** are the easiest to resolve. There’s just no reason to have 50 BTC in her hot wallet, given the current value of bitcoin. So she freezes 40 more BTC. This changes her asset valuation:*
 
@@ -457,7 +475,9 @@ You should now have an updated chart that shows which vulnerabilities are actual
 
 Marginal risks that were on a line or between an asymptotic curve and a straight line may be listed or not, as you see fit.
 
+{blurb}
 **Use your chart to list risks that lie on or above your risk-tolerance line in decreasing order of risk. **
+{/blurb}
 
 ***Alice’s Story.** Alice decides to leave the marginal risks out for the moment, and just lists out the risks that clearly lie above both of her risk-tolerance lines.*
 
@@ -604,7 +624,9 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
 
 After you’ve selected your adversaries, your should write them out in a list of decreasing problems. This might match precisely with your risk list, but some adversaries might get bumped up because they correlated to several risks that you identified. Keep the references to your asset and interface numbers, so that you can reference them later.
 
+{blurb}
 **Convert your risks to a list of adversaries.**
+{/blurb}
 
 ***Alice’s Story.** Reading through the list of adversaries, Alice links each of her risks to something from the adversary list:*
 
@@ -644,7 +666,9 @@ Once you’ve read through the adversaries and understood them, you should adopt
 
 You will probably *not* choose to use all of the Solutions for your Adversaries, but at least consider each in turn. Then, choose a reasonable subset to work on for your first cut. Don’t overdo it, or you could end up losing the ability to do *anything*. Instead, use the best or most important. Pay attention to solutions related to your highly ranked adversaries or that show up more than once. Maybe you’ll return to the rest at some time in the future.
 
+{blurb}
 **For each of your adversaries, adapt solutions for cold storage, for hot wallets, and for your processes.**
+{/blurb}
 
 ***Alice’s Story.*** Alice reads through her five adversaries, and creates an extensive list of possible solutions.
 
@@ -695,7 +719,9 @@ Risk modeling is a continuous process, as your assets, valuations, and procedure
 
 But, you’ve done your job for the moment. Take a rest and be confident that your digital assets are more secure than they used to be. Then, in a few weeks or a few months return, and run through this risk modeling again. After two or three times through this process, your digital asset procedure should become relatively stable. At that point, you can just return to this process every year or two, to see if any changes to your assets need to be reflected in an updated procedure.
 
+{blurb}
 **If you made notable changes to your digital asset procedures, repeat this process in three months or less. If things seem stable, then instead come back in a year or two.**
+{/blurb}
 
 ***Alice’s Story:*** Thanks to the adjustments to her cold storage and to the introduction of an Electrum wallet, Alice’s digital asset procedure has changed a fair amount:
 
