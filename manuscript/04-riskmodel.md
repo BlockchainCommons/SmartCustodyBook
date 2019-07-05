@@ -96,7 +96,7 @@ Your digital assets face two different categories of risks: one when it’s bein
 To do so, draw a simple diagram.
 
 1. *Draw physical assets as *nodes* (circles).* This should be assets that represent physical cryptocurrency or keys. They show where your cryptocurrency is stored.
-   a)  If a physical asset has subassets (such as cold storage with     multiple copies of keys), draw those subassets as *subnodes*     (*smaller circles*) linked to the main node.
+   a) If a physical asset has subassets (such as cold storage with     multiple copies of keys), draw those subassets as *subnodes*     (*smaller circles*) linked to the main node.
 
 2. *Add any forgotten *nodes* to your diagram that are part of your cryptocurrency process but were not on your physical assets list.* This is where you see if you left anything off your asset listing. These other nodes could be accounts that don’t currently contain funds but that you plan to use as part of your process in the future, or they might just be stashes of less valuable cryptocurrency that you neglected.
 
@@ -186,22 +186,22 @@ Try to be thorough, but don’t go crazy. If something is laughably unlikely, th
 
 ***Interface Vulnerabilities:***
 
-1.  *Freeze cash*
-   a)  *Paper wallet software did not generate a legitimate address*
-   b)  *I did not print paper wallet right*
-   c)  *I did not send to my paper wallet address*
-2.  *Unfreeze cash*
-   a)  *I did not send to my Coinbase account*
-   b)  *Coinbase did not record my transaction*
-3.  *Make payments*
-   a)  *I paid to wrong address*
-   b)  *I paid to spoofed address*
-4.  *Get change*
-   a)  *I set change amount wrong*
-5.  *Sell Bitcoin*
-   a)  *Purchaser reverses charge*
-6.  *Cash out*
-   a)  *Citibank did not record my transfer*
+1. *Freeze cash*
+   a) *Paper wallet software did not generate a legitimate address*
+   b) *I did not print paper wallet right*
+   c) *I did not send to my paper wallet address*
+2. *Unfreeze cash*
+   a) *I did not send to my Coinbase account*
+   b) *Coinbase did not record my transaction*
+3. *Make payments*
+   a) *I paid to wrong address*
+   b) *I paid to spoofed address*
+4. *Get change*
+   a) *I set change amount wrong*
+5. *Sell Bitcoin*
+   a) *Purchaser reverses charge*
+6. *Cash out*
+   a) *Citibank did not record my transfer*
 
 {pagebreak}
 
@@ -232,15 +232,15 @@ Again, refer to Step 11 for more ideas of risks, after you’ve created an initi
 
 ***Alice’s Story:** Alice continues her list by detailing the vulnerabilities that she sees for her Coinbase account and her paper wallets. Though she was somewhat concerned with Coinbase as a single point of failure, when Alice writes out her vulnerabilities, she realizes that the paper wallets are extremely vulnerable too!*
 
-7.  *Cold Storage: Paper Wallet*
-   a)  *Paper wallet is water damaged*
-   b)  *Paper wallet is burnt up in fire*
-   c)  *Paper wallet is thrown out as junk*
-   d)  *Paper wallet is stolen by robber*
-   e)  *Paper wallet is not understood by heirs*
-8.  *Coinbase Account*
-   a)  *Company is targeted by hackers*
-   b)  *Bitcoins are stolen by employee*
+7. *Cold Storage: Paper Wallet*
+   a) *Paper wallet is water damaged*
+   b) *Paper wallet is burnt up in fire*
+   c) *Paper wallet is thrown out as junk*
+   d) *Paper wallet is stolen by robber*
+   e) *Paper wallet is not understood by heirs*
+8. *Coinbase Account*
+   a) *Company is targeted by hackers*
+   b) *Bitcoins are stolen by employee*
 
 {pagebreak}
 
@@ -270,9 +270,9 @@ Once more, when you’re done with an initial list you might wish to consult Ste
 
 *This all relates to Alice’s non-physical privacy asset, so she writes these problems down as vulneraibilities in her setup:*
 
-9.  *Privacy*
-   a)  *Poor address hygiene could correlate cold and hot wallets*
-   b)  *Purchases from hot wallet could correlate name and Bitcoin     assets*
+9. *Privacy*
+   a) *Poor address hygiene could correlate cold and hot wallets*
+   b) *Purchases from hot wallet could correlate name and Bitcoin     assets*
 
 {pagebreak}
 
@@ -339,34 +339,34 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 *Alice finishes up with the privacy issues, which could genuinely cause problems due to her casual address hygiene to date.*
 
-1.  *Freeze cash*
-   a)  *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
-   b)  *I did not print paper wallet right \[C: 2, L: U\]*
-   c)  *I did not send to my paper wallet address \[C: 1, L: VU\]*
-2.  *Unfreeze cash*
-   a)  *I did not send to my Coinbase account \[C: 10, L: VU\]*
-   b)  *Coinbase did not record my transaction \[C: 10, L: VU\]*
-3.  *Make payments*
-   a)  *I paid to wrong address \[C: 1, L: VU\]*
-   b)  *I paid to spoofed address \[C: 1, L: P\]*
-4.  *Get change*
-   a)  *I set change amount wrong \[C: 1, L: U\]*
-5.  *Sell Bitcoin*
-   a)  *Purchaser reverses charge \[C: 10, L: SL\]*
-6.  *Cash out*
-   a)  *Citibank did not record my transfer \[C: 10, L: VU\]*
-7.  *Cold Storage: Paper Wallet*
-   a)  *Paper wallet is water damaged \[C: 10, L: U\]*
-   b)  *Paper wallet is burnt up in fire \[C: 10, L: U\]*
-   c)  *Paper wallet is thrown out as junk \[C: 10, L: P\]*
-   d)  *Paper wallet is stolen by robber \[C: 10, L: VU\]*
-   e)  *Paper wallet is not understood by heirs \[C: 10, L: SL\]*
-8.  *Coinbase Account*
-   a)  *Company is targeted by hackers \[C: 5, L: VL\]*
-   b)  *Bitcoins are stolen by employee \[C: 5, L: U\]*
-9.  *Privacy*
-   a)  *Poor address hygiene could correlate cold and hot wallets \[C:     8, L: P\]*
-   b)  *Purchases from hot wallet could correlate name and Bitcoin     assets \[C: 8, L: P\]*
+1. *Freeze cash*
+   a) *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
+   b) *I did not print paper wallet right \[C: 2, L: U\]*
+   c) *I did not send to my paper wallet address \[C: 1, L: VU\]*
+2. *Unfreeze cash*
+   a) *I did not send to my Coinbase account \[C: 10, L: VU\]*
+   b) *Coinbase did not record my transaction \[C: 10, L: VU\]*
+3. *Make payments*
+   a) *I paid to wrong address \[C: 1, L: VU\]*
+   b) *I paid to spoofed address \[C: 1, L: P\]*
+4. *Get change*
+   a) *I set change amount wrong \[C: 1, L: U\]*
+5. *Sell Bitcoin*
+   a) *Purchaser reverses charge \[C: 10, L: SL\]*
+6. *Cash out*
+   a) *Citibank did not record my transfer \[C: 10, L: VU\]*
+7. *Cold Storage: Paper Wallet*
+   a) *Paper wallet is water damaged \[C: 10, L: U\]*
+   b) *Paper wallet is burnt up in fire \[C: 10, L: U\]*
+   c) *Paper wallet is thrown out as junk \[C: 10, L: P\]*
+   d) *Paper wallet is stolen by robber \[C: 10, L: VU\]*
+   e) *Paper wallet is not understood by heirs \[C: 10, L: SL\]*
+8. *Coinbase Account*
+   a) *Company is targeted by hackers \[C: 5, L: VL\]*
+   b) *Bitcoins are stolen by employee \[C: 5, L: U\]*
+9. *Privacy*
+   a) *Poor address hygiene could correlate cold and hot wallets \[C:     8, L: P\]*
+   b) *Purchases from hot wallet could correlate name and Bitcoin     assets \[C: 8, L: P\]*
 
 *Alice knows that some of these likelihoods might not be entirely right. Listing them all out and considering them comparatively helps her to think about them more dispassionately, but she figures that she still may be overestimating some likelihoods and underestimating others. If she wanted to be really thorough, she’d talk odds over with someone else, and perhaps she’ll do that at some time in the future. But for now, this is a good first cut.*
 
@@ -376,19 +376,19 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 By now, you might already have a rough idea of which vulnerabilities are actually risks that you need to watch out for. However, you can make a more robust analysis by graphing everything in a chart.
 
-1.  *Label the horizontal axis.* Use your consequences as the horizontal axis, running from 0 to the top consequence that *you considered*.
-2.  *Label the vertical axis.* Use your likelihood as the vertical axis, running from 0 to the top likelihood that *you considered*.
-   a)  **Ranked Likelihoods.** If you used ranked words for your     likeilhoods, just lay them out in order, with the biggest     likelihood being at the top of the axis and the smallest being     the closest to the origin (for example: F, D, C, B, A, along     the vertical axis).
-3.  *Place all vulnerabilities on the chart.* Make a point for each vulnerability at the intersection of its consequence and likelihood. Label the point with the letter and number for the vulnerability (e.g., 9A).
-4.  *Draw a risk-tolerance line.* Finally, you’re going to lay out the risk-tolerance line that identifies those vulnerabilities that you should be paying attention to. It will run from part way along the vertical axis to part way along the horizontal axis, creating a triangle of non-risks below it and an open space of actual risks above it.
-   a)  Figuring out this risk-tolerance line is very individual and     will relate to your own level of risk tolerance, so there’s no     set rule for how to lay it out, but rather a general     methodology that you can use to adjust it until you’re     comfortable with it.
-   b)  *Evaluate an initial line.* Use a straightedge to lay a     potential risk-tolerance line across your graph. Run it from     about 70% of the way up your vertical axis to about 70% of the     way along your horizontal axis. Take a look at what’s on the     line or above it and what’s below the line and think about how     that fits your feeling about risks.
+1. *Label the horizontal axis.* Use your consequences as the horizontal axis, running from 0 to the top consequence that *you considered*.
+2. *Label the vertical axis.* Use your likelihood as the vertical axis, running from 0 to the top likelihood that *you considered*.
+   a) **Ranked Likelihoods.** If you used ranked words for your     likeilhoods, just lay them out in order, with the biggest     likelihood being at the top of the axis and the smallest being     the closest to the origin (for example: F, D, C, B, A, along     the vertical axis).
+3. *Place all vulnerabilities on the chart.* Make a point for each vulnerability at the intersection of its consequence and likelihood. Label the point with the letter and number for the vulnerability (e.g., 9A).
+4. *Draw a risk-tolerance line.* Finally, you’re going to lay out the risk-tolerance line that identifies those vulnerabilities that you should be paying attention to. It will run from part way along the vertical axis to part way along the horizontal axis, creating a triangle of non-risks below it and an open space of actual risks above it.
+   a) Figuring out this risk-tolerance line is very individual and     will relate to your own level of risk tolerance, so there’s no     set rule for how to lay it out, but rather a general     methodology that you can use to adjust it until you’re     comfortable with it.
+   b) *Evaluate an initial line.* Use a straightedge to lay a     potential risk-tolerance line across your graph. Run it from     about 70% of the way up your vertical axis to about 70% of the     way along your horizontal axis. Take a look at what’s on the     line or above it and what’s below the line and think about how     that fits your feeling about risks.
       * **Ranked Likelihoods**. For five ranked likelihood words,         70% will be halfway between the second and third most         likely words.
-   c)  *Generally adjust your line.* If you feel that your risk     tolerance is higher, push the straight edge up to 80% or 90%     on each side; if you feel that your risk tolerance is lower,     push the straight edge down to 60% or 50% on each side.
+   c) *Generally adjust your line.* If you feel that your risk     tolerance is higher, push the straight edge up to 80% or 90%     on each side; if you feel that your risk tolerance is lower,     push the straight edge down to 60% or 50% on each side.
       * **Ranked Likelihoods**. For five ranked likelihood words,         80% is your second most likely option and 60% is your         third most likely option.
-   d)  *Independently adjust your line.* Alternatively, consider just     adjusting one of the axis. If you are more afraid of unlikely     events, push the straightedge down along the vertical axis,     and if you are less afraid of unlikely events, push it up. If     you are more afraid of losing some of your money, pushing the     straight edge back on your horizontal axis, and if you less     afraid of losing some of your money, push it forward.
-   e)  *Draw a final line.* When you’re happy that the line matches     your risk tolerance, draw it in.
-   f)  *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
+   d) *Independently adjust your line.* Alternatively, consider just     adjusting one of the axis. If you are more afraid of unlikely     events, push the straightedge down along the vertical axis,     and if you are less afraid of unlikely events, push it up. If     you are more afraid of losing some of your money, pushing the     straight edge back on your horizontal axis, and if you less     afraid of losing some of your money, push it forward.
+   e) *Draw a final line.* When you’re happy that the line matches     your risk tolerance, draw it in.
+   f) *Consider an alternative risk-tolerance curve.* A alternate     method draws an asymptotic curve approaching the 20% point for     both axes (or the 15% point for less risk tolerance or the 25%     point for more risk tolerance). This does a better job of     cutting out low-probability and low-value risks but is harder     to draw accurately by hand. If you feel up to it, draw it in,     then reassess your risks based on what’s above both lines     (risks), what’s below both (non-risks), and what’s in-between     (possible risks).
       * **Ranked Likelihoods**. For five ranked likelihood words,         20% will be at your fifth and least likely word.
 
 {blurb}
@@ -416,13 +416,13 @@ So what do you do with risks? Generally, there are four options to resolve them.
 
 One method of *mitigation* is to modify the valuation of assets to drop them below your risk-tolerance line:
 
-1.  *Consider the value of assets.* Look at each of the assets that has a risk, and consider whether their valuation could be decreased sufficiently to push the related nodal risks below the risk-tolerance line.
-    a)  Generally, it’s beneficial to move funds from hot wallets to     cold storage. So, for each of your hot wallets, consider if     the funds there are actually being used for active trading. If     not, you should move some or all of the funds.
-    b)  Even if you can’t push an asset below your risk-tolerance line,     it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
-    c)  Reducing some risks will inevitably result in increasing others.     This is OK. If you’re generally happier with the gestalt of     the new asset valuations, and in particular if you’ve shifted     risk from hot wallets to cold storage, then you’ve benefited     your overall setup.
-    d)  Don’t bother trying to reduce the valuation of cold storage or     those hot wallets where the funds are actually being actively     used; you’ll instead want to resolve their risks via     interdiction, prevention, or different mitigation methods.
-2.  *Modify consequences.* Based on your asset valuation changes, modify the consequences for those assets, and also consider any linked interfaces and see if their consequences changed as well. (Generally, an interface *originating* with an asset is the one likely to be changed when the asset changes.)
-3.  *Rechart if needed*. If any valuation changes were made, rechart as per step 8.
+1. *Consider the value of assets.* Look at each of the assets that has a risk, and consider whether their valuation could be decreased sufficiently to push the related nodal risks below the risk-tolerance line.
+    a) Generally, it’s beneficial to move funds from hot wallets to     cold storage. So, for each of your hot wallets, consider if     the funds there are actually being used for active trading. If     not, you should move some or all of the funds.
+    b) Even if you can’t push an asset below your risk-tolerance line,     it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
+    c) Reducing some risks will inevitably result in increasing others.     This is OK. If you’re generally happier with the gestalt of     the new asset valuations, and in particular if you’ve shifted     risk from hot wallets to cold storage, then you’ve benefited     your overall setup.
+    d) Don’t bother trying to reduce the valuation of cold storage or     those hot wallets where the funds are actually being actively     used; you’ll instead want to resolve their risks via     interdiction, prevention, or different mitigation methods.
+2. *Modify consequences.* Based on your asset valuation changes, modify the consequences for those assets, and also consider any linked interfaces and see if their consequences changed as well. (Generally, an interface *originating* with an asset is the one likely to be changed when the asset changes.)
+3. *Rechart if needed*. If any valuation changes were made, rechart as per step 8.
 
 This is the first time when you are really examining your procedure for flaws and trying to correct them. You characterized your assets in Steps 1-2 and then you characterized their risks in Steps 3-8. Now you’re stepping back and asking if your asset valuations actually make sense.
 
@@ -440,23 +440,23 @@ It could be that you make no changes here, and if you do it’s going to be some
 
 ***Alice’s Story.** Alice’s ***hot-wallet related risks*** are the easiest to resolve. There’s just no reason to have 50 BTC in her hot wallet, given the current value of bitcoin. So she freezes 40 more BTC. This changes her asset valuation:*
 
-1.  *Bitcoins at Coinbase \[~~5~~ 1\]*
-2.  *Bitcoins in cold storage*
-    a)  *Paper wallets stored in a file cabinet \[10\]*
-3.  *Privacy of cryptocurrency ownership \[8\]*
+1. *Bitcoins at Coinbase \[~~5~~ 1\]*
+2. *Bitcoins in cold storage*
+    a) *Paper wallets stored in a file cabinet \[10\]*
+3. *Privacy of cryptocurrency ownership \[8\]*
 
 *This might change the risk analysis for the interfaces originating at the Coinbase node. Most of the Coinbase-originating interfaces already presume very small amounts of money moving, but there was one part of the freeze cash interface that considered a bigger loss; that’s now reduced. *
 
-1.  *Freeze cash*
-    a)  *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
-    b)  *I did not print paper wallet right \[C: ~~2~~ 1, L: U\]*
-    c)  *I did not send to my paper wallet address \[C: 1, L: VU\]*
+1. *Freeze cash*
+    a) *Paper wallet software did not generate a legitimate address     \[C: 1, L: VU\]*
+    b) *I did not print paper wallet right \[C: ~~2~~ 1, L: U\]*
+    c) *I did not send to my paper wallet address \[C: 1, L: VU\]*
 
 *More notably, the Coinbase node itself has dramatically reduced consequences:*
 
-8.  *Coinbase Account*
-    a)  *Company is targeted by hackers \[C: ~~5~~ 1, L: VL\]*
-    b)  *Bitcoins are stolen by employee \[C: ~~5~~ 1, L: U\]*
+8. *Coinbase Account*
+    a) *Company is targeted by hackers \[C: ~~5~~ 1, L: VL\]*
+    b) *Bitcoins are stolen by employee \[C: ~~5~~ 1, L: U\]*
 
 *Alice has no idea what do to reduce the ***privacy risks***.*
 
@@ -481,13 +481,13 @@ Marginal risks that were on a line or between an asymptotic curve and a straight
 
 ***Alice’s Story.** Alice decides to leave the marginal risks out for the moment, and just lists out the risks that clearly lie above both of her risk-tolerance lines.*
 
-1.  *5A: Sell Bitcoin: Purchaser reverses charge*
-2.  *7E: Paper Wallet: Not understood by heirs*
-3.  *7C: Paper Wallet: Thrown out as junk*
-4.  *7A: Paper Wallet: Water damaged*
-5.  *7B: Paper Wallet: Burnt up in fire*
-6.  *9A: Poor address hygiene could correlate cold and hot wallets*
-7.  *9B: Purchases from hot wallet could correlate name and Bitcoin assets*
+1. *5A: Sell Bitcoin: Purchaser reverses charge*
+2. *7E: Paper Wallet: Not understood by heirs*
+3. *7C: Paper Wallet: Thrown out as junk*
+4. *7A: Paper Wallet: Water damaged*
+5. *7B: Paper Wallet: Burnt up in fire*
+6. *9A: Poor address hygiene could correlate cold and hot wallets*
+7. *9B: Purchases from hot wallet could correlate name and Bitcoin assets*
 
 *This provides a much more constrained list, which was the point of the exercise. It allows Alice to attack the biggest problems first (and possibly return to others at a later date).*
 
@@ -507,36 +507,36 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
 
 ***Examples of Digital Asset Adversaries***
 
-1.  [*Adversary: Bitrot*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
+1. [*Adversary: Bitrot*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.l760ztwakmh4) — *a hardware, software, or media failure leading to loss*
     * Entropy causes software to stop running, as computer     is upgraded.
     * Entropy kills computer.
     * Entropy kills hardware.
     * Entropy kills hardware wallet.
     * Entropy makes Bitcoin keys (or seeds) obsolete.
-2.  [*Adversary: Blackmail*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.j93znvpdeewc) — *threat of exposure*
+2. [*Adversary: Blackmail*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.j93znvpdeewc) — *threat of exposure*
     * Attacker sends ransom note to demand bitcoins.
     * Attacker uses Ransomware to demand bitcoins.
-3.  [*Adversary: Censorship*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.hcr2fbjga6nl) — *network denial that prevents the use of funds*
+3. [*Adversary: Censorship*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.hcr2fbjga6nl) — *network denial that prevents the use of funds*
     * Attacker blocks site from from creating transactions.
     * Attacker blocks you from creating transactions.
-4.  [*Adversary: Coercion*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.roanys7anac) — *threat of death, disability, or detention*
+4. [*Adversary: Coercion*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.roanys7anac) — *threat of death, disability, or detention*
     * Attacker kidnaps you.
     * Attacker threatens you.
     * Attacker kidnaps your family, friends, or pets.
     * Attacker threatens your family, friends, or pets.
-5.  [*Adversary: Convenience*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2n3kxosg6qqv) — *decreased security due to ease of use*
+5. [*Adversary: Convenience*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.2n3kxosg6qqv) — *decreased security due to ease of use*
     * You reduce security, enabling attacks.
     * You grant privileges to someone untrustworthy.
-6.  [*Adversary: Correlation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8ax6frezqbli) — *a connection of funds based on their usage*
+6. [*Adversary: Correlation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.8ax6frezqbli) — *a connection of funds based on their usage*
     * Analyst connects your Bitcoin addresses.
     * Analyst connects your real address to Bitcoin funds.
-7.  [*Adversary: Death / Incapacitation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
+7. [*Adversary: Death / Incapacitation*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.md0oubcgwdzo) — *a mortal loss or disability that could endanger funds*
     * Heirs can’t access cryptocurrency.
     * Heirs don’t know about cryptocurrency.
-8.  [*Adversary: Denial of Access*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.qvrlsobtgck3) — *physical denial that prevents use of funds*
+8. [*Adversary: Denial of Access*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.qvrlsobtgck3) — *physical denial that prevents use of funds*
     * You can’t access physical location of funds.
     * You can’t move freely.
-9.  [*Adversary: Disaster*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.4fd9mfuh38zv) — *a sudden, large-scale destructive event*
+9. [*Adversary: Disaster*](https://docs.google.com/document/d/1t4cnXV9U97CImT3GPnIIta_BPGHbU2EDuJ0zcZSGdSI/edit#heading=h.4fd9mfuh38zv) — *a sudden, large-scale destructive event*
     * Bomb destroys keys or makes them inaccessible.
     * Earthquake destroys keys or makes them inaccessible.
     * Fire destroys keys or makes them inaccessible.
@@ -630,23 +630,23 @@ After you’ve selected your adversaries, your should write them out in a list o
 
 ***Alice’s Story.** Reading through the list of adversaries, Alice links each of her risks to something from the adversary list:*
 
-1.  *5A: Sell Bitcoin: Purchaser reverses charge — **Social Engineering***
-2.  *7E: Paper Wallet: Not understood by heirs — **Death / Incapacitation***
-3.  *7C: Paper Wallet: Thrown out as junk — **Key Fragility***
-4.  *7A: Paper Wallet: Water damaged — **Disaster***
-5.  *7B: Paper Wallet: Burnt up in fire — **Disaster***
-6.  *9A: Poor address hygiene could correlate cold and hot wallets — **Correlation***
-7.  *9B: Purchases from hot wallet could correlate name and Bitcoin assets — **Correlation***
+1. *5A: Sell Bitcoin: Purchaser reverses charge — **Social Engineering***
+2. *7E: Paper Wallet: Not understood by heirs — **Death / Incapacitation***
+3. *7C: Paper Wallet: Thrown out as junk — **Key Fragility***
+4. *7A: Paper Wallet: Water damaged — **Disaster***
+5. *7B: Paper Wallet: Burnt up in fire — **Disaster***
+6. *9A: Poor address hygiene could correlate cold and hot wallets — **Correlation***
+7. *9B: Purchases from hot wallet could correlate name and Bitcoin assets — **Correlation***
 
 *Most of these were pretty obvious, but Alice has a bit of trouble figuring out how to classify that purchaser who reversed their charges after getting her Bitcoin. She finally decided it was an “social engineering”, since it feels like another sort of confidence-man attack.*
 
 *She then organizes her adversaries into an ordered list, so she knows how to prioritize them. She uses her order from the true risks, but moves disaster up above key fragility since it’s linked to two different problems:*
 
-1.  *Social Engineering \[5A\]*
-2.  *Death / Incapacitation \[7E\]*
-3.  *Disaster \[7A, 7B\]*
-4.  *Key Fragility \[7C\]*
-5.  *Correlation \[9A, 9B\]*
+1. *Social Engineering \[5A\]*
+2. *Death / Incapacitation \[7E\]*
+3. *Disaster \[7A, 7B\]*
+4. *Key Fragility \[7C\]*
+5. *Correlation \[9A, 9B\]*
 
 *She’s now ready to figure out what to do about these problems!*
 
@@ -658,11 +658,11 @@ Once you’ve identified the adversaries most relevant to you, you need to deter
 
 Once you’ve read through the adversaries and understood them, you should adopt solutions as appropriate:
 
-1.  *Introduce a Cold Storage Procedure.* If you already have a cold-storage procedure, you should update it with our [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit). If you don’t have a cold-storage procedure, you should consider introducing one, especially if some of your adversaries suggest doing so.
-2.  *Incorporate Cold Storage Solutions.* Many potential solutions deal generally with the general procedures for cold storage, suggesting how to make it less prone to failure. Consider these and adopt them as required.
-3.  *Add Cold Storage Optional Steps.* There may also be specific and precise optional steps that can be added to your cold-storage procedure. These steps can be simply integrated into our standard [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit).
-4.  *Incorporate Hot Wallet Solutions.* Hot Wallet Solutions suggest procedural updates that will keep online funds safer (though online funds are always in greater danger). Consider incorporating them for any hot wallet sites that you have identified as being in danger. Also consider one more time if you can move assets from hot wallets to cold storage (or if you can move them from a more vulnerable hot wallet to a less vulnerable one).
-5.  *Incorporate Process Solutions.* Finally, some adversaries will require more general process solutions, where you’ll need to make changes to your overall way of doing things. This is especially true for interface risks and non-physical asset risks, but it can also apply to general cryptocurrency storage processes. These are the most extensive solutions listed in the Adversaries document.
+1. *Introduce a Cold Storage Procedure.* If you already have a cold-storage procedure, you should update it with our [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit). If you don’t have a cold-storage procedure, you should consider introducing one, especially if some of your adversaries suggest doing so.
+2. *Incorporate Cold Storage Solutions.* Many potential solutions deal generally with the general procedures for cold storage, suggesting how to make it less prone to failure. Consider these and adopt them as required.
+3. *Add Cold Storage Optional Steps.* There may also be specific and precise optional steps that can be added to your cold-storage procedure. These steps can be simply integrated into our standard [*Cold Storage Procedure*](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8/edit).
+4. *Incorporate Hot Wallet Solutions.* Hot Wallet Solutions suggest procedural updates that will keep online funds safer (though online funds are always in greater danger). Consider incorporating them for any hot wallet sites that you have identified as being in danger. Also consider one more time if you can move assets from hot wallets to cold storage (or if you can move them from a more vulnerable hot wallet to a less vulnerable one).
+5. *Incorporate Process Solutions.* Finally, some adversaries will require more general process solutions, where you’ll need to make changes to your overall way of doing things. This is especially true for interface risks and non-physical asset risks, but it can also apply to general cryptocurrency storage processes. These are the most extensive solutions listed in the Adversaries document.
 
 You will probably *not* choose to use all of the Solutions for your Adversaries, but at least consider each in turn. Then, choose a reasonable subset to work on for your first cut. Don’t overdo it, or you could end up losing the ability to do *anything*. Instead, use the best or most important. Pay attention to solutions related to your highly ranked adversaries or that show up more than once. Maybe you’ll return to the rest at some time in the future.
 
@@ -674,15 +674,15 @@ You will probably *not* choose to use all of the Solutions for your Adversaries,
 
 ***Process Solutions:***
 
-1.  Maintain Emergency Procedure.
-2.  Practice Anonymity. **(x2)**
-3.  Practice Anonymizing Your Funds.
-4.  Practice Key Hygiene.
-5.  Proactively Visit Sites.
-6.  Redundantly Relay Your Secrets. **(x2)**
-7.  Register Your Funds.
-8.  Reveal Your Funds.
-9.  Take the Time. **(x2)**
+1. Maintain Emergency Procedure.
+2. Practice Anonymity. **(x2)**
+3. Practice Anonymizing Your Funds.
+4. Practice Key Hygiene.
+5. Proactively Visit Sites.
+6. Redundantly Relay Your Secrets. **(x2)**
+7. Register Your Funds.
+8. Reveal Your Funds.
+9. Take the Time. **(x2)**
 10. Use Funds Multisignatures.
 11. Verify Your Keys.
 
@@ -690,14 +690,14 @@ The process solutions are full of good advice, but there’s more than Alice can
 
 ***Cold Storage Solutions:***
 
-1.  Fortify Your Key Storage.
-2.  Redundantly Store Your Keys. **(x3)**
-3.  Widely Separate Your Keys.
-4.  [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps:*
-    a)  Hire a Lawyer
-    b)  Use Bags (Fire-Resistant)
-    c)  Use Metal Enhancement (Redundant Metal Devices) **(x2)**
-    d)  Use a (USB) Laser Printer
+1. Fortify Your Key Storage.
+2. Redundantly Store Your Keys. **(x3)**
+3. Widely Separate Your Keys.
+4. [**Cold Storage Scenario**](https://docs.google.com/document/d/1fOmMH2B8E3_vDDBNEL8dEX15jwdFohDlpeThMpjVBh8) *Optional Steps:*
+    a) Hire a Lawyer
+    b) Use Bags (Fire-Resistant)
+    c) Use Metal Enhancement (Redundant Metal Devices) **(x2)**
+    d) Use a (USB) Laser Printer
 
 Alice clearly needs to improve her cold storage procedure, especially since she moved more funds there. The key takeaway seems to be that she needs to redundantly store her keys, probably in a safety deposit box, and that she should use something more durable than her paper wallets.
 
