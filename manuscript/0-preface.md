@@ -44,6 +44,26 @@ To accomplish these goals, we are creating a series of best-practices white pape
 
 This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
 
+{id: why-cold-storage}
+
+## Why Cold Storage?
+
+Among the best practices outlined in this document is a cold-storage scenario for self-custody.
+
+Cold storage is primarily intended for digital-asset custodians who do not actively trade their digital assets. It offers a high level of protection for digital assets, because keys are secured offline or in hardware and _should_ _never be on networked computers._
+
+However, cold storage should be considered as an option for _everyone_ who is managing digital assets. It can be the secure foundation for a more complex scenario that also involves hot wallets, offering the maximum security for whatever percentage of funds don't need to be actively available at all times.
+
+A few questions can help you determine if you can move some of your funds from hot wallets to cold storage:
+
+1. How much quick liquidity do you need?
+2. How often are you moving your digital assets?
+3. How often are you exchanging your digital assets?
+
+After you answer these questions, you may discover that you don't actually need all of your funds to be always available. The remainder should then be moved off of exchanges into a cold-storage scenario, and the following can provide a model for that.
+
+Even if you determine that all of your funds must remain hot, our cold-storage scenario still suggests a variety of best practices for managing digital-asset keys, and does so in the context of risks and adversaries that can be used to model other scenarios.
+
 ## The #SmartCustody Team
 
 #SmartCustody is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security, and cryptographic research.
