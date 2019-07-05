@@ -4,27 +4,8 @@
 
 **_Version: 2019-06-27 Release 1.0.0_**
 
-{id: appendix-i-why-cold-storage}
-## Appendix I: Why Cold Storage?
-
-Cold storage is primarily intended for digital-asset custodians who do not actively trade their digital assets. It offers a high level of protection for digital assets, because keys are secured offline or in hardware and _should_ _never be on networked computers._
-
-However, cold storage should be considered as an option for _everyone_ who is managing digital assets. It can be the secure foundation for a more complex scenario that also involves hot wallets, offering the maximum security for whatever percentage of funds don't need to be actively available at all times.
-
-A few questions can help you determine if you can move some of your funds from hot wallets to cold storage:
-
-1. How much quick liquidity do you need?
-2. How often are you moving your digital assets?
-3. How often are you exchanging your digital assets?
-
-After you answer these questions, you may discover that you don't actually need all of your funds to be always available. The remainder should then be moved off of exchanges into a cold-storage scenario, and the following can provide a model for that.
-
-Even if you determine that all of your funds must remain hot, this cold-storage scenario still suggests a variety of best practices for managing digital-asset keys, and does so in the context of risks and adversaries that will be used to model other scenarios later in this course.
-
-{pagebreak}
-
-{id: appendix-ii-sample-digital-assets-letter}
-## Appendix II: Sample Digital-Assets Letter
+{id: appendix-i-sample-digital-assets-letter}
+## Appendix I: Sample Digital-Assets Letter
 
 _The following is a sample letter which could be used by a digital-asset holder to alert their heirs of the existence of the digital assets. For a more complete book on this topic, see Pamela Morgan's book [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya)._
 
