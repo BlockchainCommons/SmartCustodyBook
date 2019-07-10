@@ -336,6 +336,8 @@ Faythe knows that the hot wallets at the exchanges and Quedex represent the grea
 
 Still, she can try to reduce the danger, and these solutions point the way. First, she tells the interns to regularly rotate the passwords and other authentication information. Second, she begins preparing questions for the exchanges to assess how they protect their bitcoins; if they won’t answer or they give her answers that she doesn’t like, then Faythe will consider other alternatives: there are a lot of exchanges out there, and at least she can choose the ones that are best secured.
 
+## Section IV: Process Repetition
+
 ### Step 13: Repeat the Process
 
 ***Faythe’s Story.*** The biggest changes to come out of Faythe’s risk-modeling work were procedural, informational, or related to the single node of cold storage. A few months later, Dan is also able to come up with a solution that allows splitting the AWS node without damaging the overall process that allows trading of both currencies and options.
