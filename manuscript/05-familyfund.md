@@ -87,10 +87,10 @@ Faythe next draws out her interfaces. Most of them are just simple money exchang
 
 The AWS cloud acts as the control for automated purchases and sales of both options and currencies, so there are interfaces from the cloud to both the exchanges and Quedex. Finally, there are internal interfaces for both the exchanges and Quedex that represent buying currencies (for arbitrage) and buying options. The options are mechanically simple, but the arbitrage is a complex system that involves simultaneously buying and selling currencies at two different exchanges, followed by a rebalancing of funds between the exchanges. Despite that complexity, Faythe decides to represent it as a simple “purchase currencies” interfaces, because that’s the core action at each of the exchanges.
 
-The end result reminds Faythe of the importance of both the AWS Cloud, which has considerable control over these cryptocurrency holdings, and the Bitcoin exchanges, which sit at the center of the diagram and connect to a half-dozen interfaces.
-
 {class: center, width: "70%"}
 ![](resources/rff-image2.png)
+
+The end result reminds Faythe of the importance of both the AWS Cloud, which has considerable control over these cryptocurrency holdings, and the Bitcoin exchanges, which sit at the center of the diagram and connect to a half-dozen interfaces.
 
 {pagebreak}
 
