@@ -39,6 +39,8 @@ Faythe then realizes that she needs to write down one more asset: the AWS server
 
 4. Authentication Info at AWS
 
+{pagebreak}
+
 ### Step 2: Value Your Assets
 
 ***Faythe's Story.*** Faythe initially values Frank’s assets based on the percentage of the FFF’s value at each location, converting the percentagesages to a simpler number from 1 to 10:
@@ -73,6 +75,8 @@ Here are the final asset numbers for the FFF:
    b) Keys in Paper Wallets \[2\]
 4. Authentication Info at AWS \[8\]
 
+{pagebreak}
+
 ### Step 3: Diagram Your Process
 
 ***Faythe's Story.*** Faythe decides to represent the FFF asset list as four nodes: the AWS cloud, the Bitcoin exchanges, the Quedex site, and the cold storage. Both the exchanges and the cold storage have subnodes, so she duly notes those too (though she expects to treat all of the exchanges as having the same vulnerabilities).
@@ -87,6 +91,8 @@ The end result reminds Faythe of the importance of both the AWS Cloud, which has
 
 {class: center, width: "70%"}
 ![](resources/rff-image2.png)
+
+{pagebreak}
 
 ## Section II: Risk Characterization
 
@@ -118,6 +124,8 @@ The end result reminds Faythe of the importance of both the AWS Cloud, which has
 
 As she writes her list, Faythe also notices that funding Quedex and the exchanges have the same vulnerabilities, so she collapses them into one interface.
 
+{pagebreak}
+
 ### Step 5: Brainstorm Custody Vulnerabilities
 
 ***Faythe's Story.*** Faythe has a lot of different assets involved in the FFF cryptocurrency setup. She’s the queasiest about the AWS node, because of its enormous control over her network, but she also realizes that those paper wallets are disasters waiting to happen.
@@ -148,9 +156,13 @@ Though the Quedex site and the Bitcoin exchanges will have different risk profil
     b) Bitcoins are stolen by employees
     c) Site problems prevent executing options in time
 
+{pagebreak}
+
 ### Step 6: Brainstorm Non-Physical Vulnerabilities
 
 ***Faythe's Story.*** Faythe choose not to include any non-physical assets when she listed the FFF’s assets in Step 2. There are certainly reputation concerns if she had a big loss of bitcoin. And, physical security is a general issue — but it goes far beyond her company’s cryptocurrency holdings, so it’s part of her larger risk model. She thus can skip over this step when specifically working through bitcoin risks.
+
+{pagebreak}
 
 ### Step 7: Assess Consequences & Likelihoods of Vulnerabilities
 
@@ -212,6 +224,8 @@ When she’s done, she has a chart of consequences and likelihoods for each asse
     b) Bitcoins are stolen by employees \[C: 2, L: U\]
     c) Site problems prevent executing options in time \[C: 1, L: P\]
 
+{pagebreak}
+
 ### Step 8: Chart Consequences & Likelihoods to Reveal Risks
 
 ***Faythe’s Story.*** Faythe is now ready to chart out all the risks for the FFF.
@@ -222,6 +236,8 @@ As she does, she notices that her two axes aren’t quite in alignment because h
 ![](resources/rff-image4.png)
 
 The overall chart looks pretty good. As Faythe suspected, the interfaces are the least of her problems. Safety for the FFF depends largely on her securing the places where assets are sitting.
+
+{pagebreak}
 
 ### Step 9: Consider Asset Valuation Changes
 
@@ -245,9 +261,12 @@ This in turn raises the question of which cold storage to use, because it just c
 
 Faythe also talks with Chuck and Dan about whether the functionality of the AWS node can be divided up, perhaps with arbitrage control and options control being operated by different servers. Dan starts working on it. When he’s done, Faythe will be able to revise her risk structure again. For now, she charts out the updates the result from moving finances around:
 
+{class: center, width: "70%"} 
 ![](resources/rff-image1.png)
 
 There are actually more risks above Faythe’s risk-tolerance lines than there were *before* this step, but Faythe feels better with them as a whole, because everything is generally closer to the line.
+
+{pagebreak}
 
 ### Step 10: List Final Risks
 
@@ -264,6 +283,8 @@ There are actually more risks above Faythe’s risk-tolerance lines than there w
 9. 13A: Company is targeted by hackers
 
 Apparently, Faythe should be very worried about hackers, because the FFF has so much money in hot wallets and other online sites. That’s reasonable.
+
+{pagebreak}
 
 ## Section III: Risk Resolution
 
@@ -287,10 +308,12 @@ She then creates a prioritized list of adversaries to deal with:
 2. Systemic Network Attack \[9A, 10A, 11A, 12A, 13A\]
 3. Bitrot \[8A, 8C\]
 4. Institutional Theft \[9B\]
-5.  Key Fragility \[8B\]
+5. Key Fragility \[8B\]
 
 This is a nice reduction from the 30 risks that Faythe initially laid
 out … which is of course the point of the exercise.
+
+{pagebreak}
 
 ### Step 12: Take Steps to Foil Adversaries
 
@@ -301,10 +324,10 @@ out … which is of course the point of the exercise.
 1. **Maintain Emergency Procedure. (x2)**
 2. **Monitor the Industry. (x2)**
 3. **Monitor Your Funds. (x2)**
-4. **Practice Anonymity. **
-5. **Redundantly Relay Your Secrets. **
+4. **Practice Anonymity.**
+5. **Redundantly Relay Your Secrets.**
 6. **Take the Time.**
-7. **Verify Your Keys. **
+7. **Verify Your Keys.**
 
 For the process solutions, Faythe decides to concentrate on the first three, which showed up more than once. Emergency Procedures are exactly the sort of documented workflow that she wants to add to a process that grew up in an ad hoc manner. Meanwhile, regularly monitoring the industry and the FFF’s funds should help to offset some of the implicit danger of having funds in hot wallets. She sets the interns on the latter: they’ll spend some time watch Bitcoin news sources, and will also write some software to alert Faythe if funds suddenly change in an unexpected way.
 
@@ -312,7 +335,7 @@ For the process solutions, Faythe decides to concentrate on the first three, whi
 
 1. **Backup Your OS File System.**
 2. **Maintain Setup Information.**
-3. **Physically Store Your Keys. **
+3. **Physically Store Your Keys.**
 4. **Redundantly Store Your Keys.**
 5. **Rotate Your Key Storage.**
 6. **Verify & Rotate your Backups.**
@@ -336,6 +359,8 @@ Faythe knows that the hot wallets at the exchanges and Quedex represent the grea
 
 Still, she can try to reduce the danger, and these solutions point the way. First, she tells the interns to regularly rotate the passwords and other authentication information. Second, she begins preparing questions for the exchanges to assess how they protect their bitcoins; if they won’t answer or they give her answers that she doesn’t like, then Faythe will consider other alternatives: there are a lot of exchanges out there, and at least she can choose the ones that are best secured.
 
+{pagebreak}
+
 ## Section IV: Process Repetition
 
 ### Step 13: Repeat the Process
@@ -344,6 +369,7 @@ Still, she can try to reduce the danger, and these solutions point the way. Firs
 
 Thus, Faythe’s final diagram is a bit different from the original:
 
+{class: center, width: "70%"} 
 ![](resources/rff-image3.png)
 
 She’ll use this new diagram as the foundation of a new risk-modeling exercise in 6-12 months time.
