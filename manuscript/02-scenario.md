@@ -104,7 +104,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 
 ## The Basic Procedure
 
-#### **A. Setup Safes**
+#### **Step A: Setup Safes**
 
 1. [  ] Install Home Safe[^5]
    1. Ideally it should be physically secured by mounting it to floor or wall joists, or even more securely, directly to a foundation.
@@ -114,7 +114,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
       - Have sufficient funds in the joint bank account for several years of bank fees and box fees.
       - Have the safety deposit box be in both person's names.[^7]
 
-#### **B. Setup Computer** [^8]
+#### **Step B: Setup Computer** [^8]
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
 2. _This optional action is omitted in this basic procedure._
 3. _This optional action is omitted in this basic procedure._
@@ -122,7 +122,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    1. Download It
    2. Install It
 
-#### **C. Create Master HD Seed on Ledger** [^9] 
+#### **Step C: Create Master HD Seed on Ledger** [^9] 
 1. [  ] Start Up Ledger Live
    1. If necessary, verify for your operating system that you want to run this downloaded app
    2. **On Ledger Live (LL:)** Click "Get started"
@@ -185,7 +185,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    7. Hit the "X" button; you're done: you now have an account to send and receive bitcoins; discount the Ledger
 9. [  ] Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
 
-#### **D. Verify Recovery Phrase**
+#### **Step D: Verify Recovery Phrase**
 
 1. [  ] Restart Ledger Live, plug in your Ledger Nano, and login to both.
 2. [  ] **LL:** Click "Manager", and find "Recovery Check" in the List of Apps. "Install".
@@ -201,7 +201,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    1. If you didn't, check for simple mistakes. If you see them, repeat step D.
    2. Otherwise, restart from step C-3.
 
-#### **E. Create Test Transaction** [^13]
+#### **Step E: Create Test Transaction** [^13]
 1. [  ] Generate a test receive address
    1. **LL:** Select the "Receive" Menu item on Ledger Live
    2. If necessary navigate to the Bitcoin app on your Ledger and open it
@@ -222,7 +222,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    6. Repeat for additional accounts.
 5. [  ] Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
 
-#### **F. Setup Fireproof Key Recovery Phrase** [^15]
+#### **Step F: Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
    1. [  ] Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
       - Place the Bit Holder over each row before you begin stamping that word.
@@ -235,13 +235,13 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    2. [  ] After completing all 24 words, reclip the CryptoTag.
    3. See: [https://cryptotag.io/tutorial/](https://cryptotag.io/tutorial/) for a video tutorial.
 
-#### **G. Verify Recovery Phrase & Software Standards Conformance**
+#### **Step G: Verify Recovery Phrase & Software Standards Conformance**
 
 1. [  ] Use same PIN and restore Recovery Phrase on second Ledger.
    1. Use the Recovery Phrase from your Cryptosteel, to verify its accuracy.
 2. [  ] Connect the Ledger to your computer and run Ledger Live. Verify that the test transaction is listed and confirmed.
 
-#### **H. Transfer Existing Cold Funds**
+#### **Step H: Transfer Existing Cold Funds**
 
 1. [  ] Generate new receive addresses and transfer existing cold funds to the new master seed protected by the Ledger. Wait for confirmation.
    1. Have an appropriate amount of paranoia for the amount of funds you're transferring and your own peace of mind.
@@ -249,7 +249,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    3. Perhaps start transferring small amounts, increasing over the course of several transactions.
    4. Be sure to see actual confirmations from each transfer before transfering again.
 
-#### **I. Print Next Cold Storage Address**
+#### **Step I: Print Next Cold Storage Address**
 
 1. [  ] **LL:** Open Ledger Live and enter password, click "Receive", and hit "Continue" once the right account has been selected.
 2. [  ] Plug in your Ledger, enter the PIN, navigate to the Bitcoin app, and hit both buttons to select.
@@ -259,21 +259,21 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    2. Look not just for mistakes, but also where your printing might be ambiguous.
    3. If you prefer, scan the QR code.
 
-#### **K. Duplicate USB drive**
+#### **Step K: Duplicate USB drive**
 
 _This optional step is omitted in this basic procedure. Enable it with "Use a Second USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Key Fragility](#adversary-key-fragility). You must also have enabled "Use a USB Drive" previously._
 
-#### **L. Prepare Instructions for Heirs and/or Executor**
+#### **Step L: Prepare Instructions for Heirs and/or Executor**
 
 1. [  ] Print instructions for Heirs and/or Executor on waterproof paper, with information on bitcoin exchange accounts, spare hot wallets, and other digital assets. See example letter in [Appendix I](#appendix-i-sample-digital-assets-letter).
 
-#### **M. Store in Safes** [^16]
+#### **Step M: Store in Safes** [^16]
 1. [  ] Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
 2. [  ] OPTIONAL: Store materials in tamper-resistant bag and sign it; [  ] OPTIONAL: Store materials in fire resistant bag.
 3. [  ] Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. [  ] Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
-#### **N. Check Storage A — Spring** [^18]
+#### **Step N: Check Storage A — Spring** [^18]
 1. [  ] Confirm contents of Home Safe.
 2. [  ] OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. [  ] Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -282,7 +282,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 6. [  ] OPTIONAL: Save any transaction logs on waterproof paper and cstore in Home Safe.
 7. [  ] OPTIONAL: If you have used your cold storage address, print new set.
 
-#### **O. Check Storage B — Fall** [^19]
+#### **Step O: Check Storage B — Fall** [^19]
 1. [  ] Sign in to check contents of safety deposit box[^20]. Check safety deposit box signature logs to see if anyone else has signed in.
 2. [  ] OPTIONAL: If using any tamper-evident bags, check for tampering.
 3. [  ] Check to see if there have been any exploits against the Ledger hardware, the Ledger firmware, Ledger Live, or your OS. If there are, you may need to recreate your OS drive from scratch before connecting it to the Ledger.
@@ -314,7 +314,7 @@ _Each optional step addresses certain adversaries, but adding them ultimately ad
 * Use a USB Drive — for [Bitrot](#adversary-bitrot), [Personal Network Attack](#adversary-network-attack-personal)
 * Use a (Second) USB Drive — for [Bitrot](#adversary-bitrot), [Disaster](#adversary-disaster)
 
-See Chapter Two for a full discussion of adversaries. The following adversaries appear for the first time in this section:
+See **Chapter Three: Adversaries** for a full discussion of adversaries. The following adversaries appear for the first time in this section:
 
 11. [Bitrot](#adversary-bitrot) — _a hardware, software, or media failure leading to loss_
 12. [Institutional Theft](#adversary-institutional-theft) — _a theft by a trusted institution or its employee_
