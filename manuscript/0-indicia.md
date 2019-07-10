@@ -31,7 +31,7 @@ _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](http
 
 **Reviewers:** Bryan Bishop, Angus Champion de Crespigny, Adam Shostack
 
-***Cold Storage Self-Custody Scenario_***
+***Cold Storage Self-Custody Scenario***
 
 **Additional Contributors:** Bryan Bishop @kanzure
 
