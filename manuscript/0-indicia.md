@@ -3,7 +3,7 @@
 
 #### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
 
-Unless otherwise noted, the contents of this book are Copyright ©2017-2019 by Blockchain Commons and are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
+Unless otherwise noted, the contents of this book are Copyright 2017-2019 by Blockchain Commons and are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 {blurb, class: center}
 ![](resources/cc-by-sa.png).
