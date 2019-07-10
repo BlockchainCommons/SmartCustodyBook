@@ -1,4 +1,4 @@
-# Chapter Four: Risk Modeling
+# Chapter One: Risk Modeling
 
 #### _Managing storage & transaction vulnerabilities_
 
