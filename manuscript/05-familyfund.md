@@ -1,4 +1,4 @@
-# Chapter Five: The Frank Family Fund Example**
+# Chapter Five: The Frank Family Fund Example
 
 _Using risk modeling for more complex custodianship_
 
