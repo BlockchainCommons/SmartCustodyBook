@@ -1,4 +1,4 @@
-#  Introduction: The Power of Randomness
+#  Introduction: The Power of Randomness #
 
 #### _Why we do what we do_
 
