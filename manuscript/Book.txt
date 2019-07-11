@@ -1,7 +1,7 @@
 0-disclaimer.md
 0-indicia.md
-99-sponsors.md
-0-preface.md
+0-sponsors.md
+00-preface.md
 00-randomness.md
 P1-riskmodel.md
 01-riskmodel.md
