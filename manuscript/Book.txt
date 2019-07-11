@@ -1,5 +1,6 @@
 0-disclaimer.md
 0-indicia.md
+99-sponsors.md
 0-preface.md
 00-randomness.md
 P1-riskmodel.md
@@ -12,4 +13,3 @@ P3-fiduciary.md
 05-familyfund.md
 99-appendices.md
 99-bios.md
-99-sponsors.md
