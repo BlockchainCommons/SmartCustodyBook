@@ -2,11 +2,11 @@
 
 {float: left, width: "30%"}
 ![](resources/sponsors/adamant-capital.png)
-**[Adamant Capital](https://www.adamantcapitalfund.com/)**
+**[Adamant Capital](https://www.adamantcapitalfund.com/)** runs Adamant Fund I, a Bitcoin Alpha fund. Their mission is to responsibly outperform Bitcoin in a tax-efficient manner. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/blockstream.png)
-**[Blockstream](https://blockstream.com/)**
+**[Blockstream](https://blockstream.com/)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/crypto-inheritance-planning.png)
