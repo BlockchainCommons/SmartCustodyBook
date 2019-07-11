@@ -1,23 +1,8 @@
-
-# Copyright & Contributing
-
-#### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
-
-Unless otherwise noted, the contents of this book are Copyright 2017-2019 by Blockchain Commons and are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
-
-{blurb, class: center}
-![](resources/cc-by-sa.png).
-{/blurb}
-
-Please give attribution by linking to the [https://www.SmartCustody.com](https://www.SmartCustody.com) website.
-
-Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyWhitePapers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers).
-
-{pagebreak}
-
-# Credits
+# Credits #
 
 **Lead Authors:** Christopher Allen [@ChristopherA](https://twitter.com/ChristopherA), Shannon Appelcline [@Appelcline](https://twitter.com/Appelcline)
+
+#### _Part of the [#SmartCustody](https://www.SmartCustody.com) project of the [Blockchain Commons](https://www.blockchaincommons.com/)_
 
 ***The Power of Randomness***
 
@@ -40,4 +25,20 @@ _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](http
 **Additional Contributors:** Greg Maxwell, Bryan Bishop @kanzure
 
 **Reviewers:** Ryan Grant, Tuur Deemester @TuurDemeester, Angus Champion de Crespigny @anguschampion, Adam Shostack @adamshostack
+
+{pagebreak}
+
+# Copyright & Contributing
+
+Unless otherwise noted, the contents of this book are Copyright 2017-2019 by Blockchain Commons and are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
+
+{blurb, class: center}
+![](resources/cc-by-sa.png).
+{/blurb}
+
+Please give attribution by linking to the [https://www.SmartCustody.com](https://www.SmartCustody.com) website.
+
+Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyWhitePapers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers).
+
+
 
