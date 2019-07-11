@@ -10,23 +10,23 @@
 
 {float: left, width: "30%"}
 ![](resources/sponsors/crypto-inheritance-planning.png)
-**[Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan**
+**[Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/cryptotag.png)
-**[CryptoTag](https://cryptotag.io/)**
+**[CryptoTag](https://cryptotag.io/)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/dcd.png)
-**[Digital Contract Design](https://contract.design)**
+**[Digital Contract Design](https://contract.design)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/ledger.png)
-**[Ledger](https://www.ledger.com/)**
+**[Ledger](https://www.ledger.com/)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
-**[Unchained Capital](https://www.unchained-capital.com/)**
+**[Unchained Capital](https://www.unchained-capital.com/)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
 {float: left, width: "30%"}
 ![](resources/sponsors/winstead.png)
-**[Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)**
+**[Winstead](https://www.winstead.com/Practices/Corporate-SecuritiesMA/Fintech-Cryptocurrencies-Emerging-Technologies)** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
 
