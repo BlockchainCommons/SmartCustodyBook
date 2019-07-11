@@ -28,7 +28,7 @@ _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](http
 
 {pagebreak}
 
-# Copyright & Contributing
+## Copyright & Contributing
 
 Unless otherwise noted, the contents of this book are Copyright 2017-2019 by Blockchain Commons and are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
 
