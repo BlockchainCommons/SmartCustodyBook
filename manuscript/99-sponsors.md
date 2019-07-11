@@ -10,7 +10,7 @@
 
 {float: left, width: "30%"}
 ![](resources/sponsors/crypto-inheritance-planning.png)
-**[Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan** has a mission to create the financial infrastructure of the future. They build crypto-financial infrastructure based on Bitcoin, the most robust and secure blockchain. 
+**[Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya) by Pamela Morgan** is a clear blueprint to inheritance planning for those holding cryptocurrency, tokens, crypto-collectibles, and other cryptoassets. Since 2015, Pamela has educated thousands of cryptocurrency owners around the world about why inheritance planning for cryptoassets matters and how to do it in a secure, usable, resilient, and efficient manner.
 
 {float: left, width: "30%"}
 ![](resources/sponsors/cryptotag.png)
