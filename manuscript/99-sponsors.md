@@ -20,6 +20,8 @@
 
 **[CryptoTag](https://cryptotag.io/)** is a crypto security company from Amsterdam. They believe cryptocurrencies and blockchain will make our society a better place. They are a security company whose customers count on them to be there when all the other layers of security, like hardware and software layers, fail.
 
+{pagebreak}
+
 {float: left, width: "30%"}
 ![](resources/sponsors/dcd.png)
 
