@@ -6,7 +6,7 @@ P1-riskmodel.md
 01-riskmodel.md
 P2-buildingblocks.md
 02-scenario.md
-X03-adversaries.md
+03-adversaries.md
 P3-fiduciary.md
 04-custodianship.md
 05-familyfund.md
