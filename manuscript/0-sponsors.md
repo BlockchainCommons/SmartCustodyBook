@@ -23,7 +23,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 Project sponsors have donated funds specifically for the  creation of this #SmartCustody book.
 
 {float: left, width: "30%"}
-![](resources/sponsors/unchained.png)
+![](resources/sponsors/unchained-capital.png)
 
 **[Unchained Capital](https://www.unchained-capital.com/)** is a new kind of financial services company. They are the first collaborative asset management firm that offers loans and vaults for your Bitcoin. It was founded by people who believe that cryptocurrencies have the potential to change the world but only if they're useful. They set out to build financial products for long-term crypto-investors to get more value from their assets today and in the future.
 
