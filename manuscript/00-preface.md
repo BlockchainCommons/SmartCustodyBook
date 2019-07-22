@@ -40,9 +40,9 @@ Our goals:
 * To raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary threats.
 * To prepare for new custody technologies that break old models for custodianship.
 
-To accomplish these goals, we are creating a series of best-practices white papers and also offering a series of different workshops on these topics. We are additionally collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
+To accomplish these goals, we are creating a series of best-practices documents and also offering a series of different workshops on these topics. We are additionally collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
 
-This is the first of our [#SmartCustody](https://www.SmartCustody.com) best-practices white papers. To be informed of the release of future best-practices and other educational white papers and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
+This book is our first [#SmartCustody](https://www.SmartCustody.com) best-practices document. To be informed of the release of future best-practices and other educational documents and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
 
 {id: why-cold-storage}
 ## Why Cold Storage?
