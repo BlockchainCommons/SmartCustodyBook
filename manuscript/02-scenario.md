@@ -525,7 +525,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **Created Adversary:** [Physical Theft, Casual](#adversary-physical-theft-casual) or [Institutional Theft](#adversary-institutional-theft)
 
-_A Metal Tile with an Engraver is primarily an alternative to CryptoTag, which means that it can similarly increase protection against [Disaster](#adversary-disaster) or [Key Fragility](#adversary-key-fragility). The advantage of using a Engraved Metal Tile is that it's simpler and cheaper; the disadvantage is that it's more prone to [User Error](#adversary-user-error), as it can be harder to read the letters. Both Steel and Titanium options are available: be aware that Steel has a slightly lower melting point than Titanium. Of course, having a engraved tile in addition to the high-end CryptoTag can increase protection even more._
+_A Metal Tile with an Engraver is primarily an alternative to CryptoTag, which means that it can similarly increase protection against [Disaster](#adversary-disaster) or [Key Fragility](#adversary-key-fragility). The advantage of using a Engraved Metal Tile is that it's simpler and cheaper; the disadvantage is that it's more prone to [User Error](#adversary-user-error), as it can be harder to read the letters. (If you prefer, stamp it [by hand](https://stampingblanks.com/Stamp-Sets/). Both Steel and Titanium options are available: be aware that Steel has a slightly lower melting point than Titanium, and beware that some tiles advertised as steel are actually aluminum, which has an even lower melting point. (Read the fine print!) Of course, having a engraved tile in addition to the high-end CryptoTag can increase protection even more._
 
 _As with any unencrypted copy of your master seed, you should protect it somewhere like a safety deposit box, or you'll increase your vulnerability to [Physical Theft, Casual](#adversary-physical-theft-casual). However doing so increases the likelihood of [Institutional Theft](#adversary-institutional-theft), so be sure to assess which is more likely given your situation._
 
@@ -545,9 +545,7 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **_Add one of the following metal tiles to your requirements list:_**
 
-* Design Ideas Identity Plate [https://shop.designideas.net/product/identitycase-holder-give-taketake](https://shop.designideas.net/product/identitycase-holder-give-taketake) or
-* Steel Tile [https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I](https://www.amazon.com/Art3d-Backsplash-Kitchen-Bathrooms-Blushed/dp/B01ITO9X3I) or [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
-* Steel Tile [https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q](https://www.amazon.com/Art3d-4-Pieces-Stainless-Backsplash-Brushed/dp/B01DBN6D7Q) or
+* Design Ideas Identity Plate [https://shop.designideas.net/product/identitycase-holder-give-taketake](https://shop.designideas.net/product/identitycase-holder-give-taketake) or(
 * ColdTi Titanium Tile [https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6](https://www.amazon.com/TopHat-Technologies-ColdTi-Cryptocurrency-Storage/dp/B077CYKHZ6)
 
 **_AND add one of the following engravers to your requirements list:_**
@@ -562,9 +560,9 @@ _This is one of three possible options for maintaining a copy of your Recovery P
 
 **Obstructed Adversary:** [Disaster](#adversary-disaster), [Institutional Theft](#adversary-institutional-theft), [Key Fragility](#adversary-key-fragility)
 
-**Created Adversary:** [Death / Incapacitation](#adversary-death--incapacitation), [Process Fatigue](#adversary-process-fatigue), [User Error](#adversary-user-error)
+**Created Adversary:** [Death / Incapacitation](#adversary-death--incapacitation), [Process Fatigue](#adversary-process-fatigue), [User Error](#adversary-user-error) 
 
-_Cryptosteel, CryptoTag, and engravable steel or titanium tiles are great for preventing disastrous loss of your key, but introduce a real danger since you're forced to leave an unencrypted copy of your master seed in plain sight. An alternative is to use any of these methods to create a redundant set of three metal-protected copies of your master seed, where each copy contains only two-thirds of your words, and any two copies can recover your seed completely[^24]. This continues to protect you from [Disaster](#adversary-disaster) and [Key Fragility](#adversary-key-fragility) but also introduces robust protections against **Loss by Crime / Theft**, primarily focusing on [Institutional Theft](#adversary-institutional-theft) (since you'd usually be protecting your unencrypted master seed in a safety deposit box)._
+_Cryptosteel, CryptoTag, and engravable steel or titanium tiles are great for preventing disastrous loss of your key, but introduce a real danger since you're forced to leave an unencrypted copy of your master seed in plain sight. An alternative is to use any of these methods to create a redundant set of three metal-protected copies of your master seed, where each copy contains only two-thirds of your words, and any two copies can recover your seed completely. This continues to protect you from [Disaster](#adversary-disaster) and [Key Fragility](#adversary-key-fragility) but also introduces robust but imperfect[^24] protections against **Loss by Crime / Theft**, primarily focusing on [Institutional Theft](#adversary-institutional-theft) (since you'd usually be protecting your unencrypted master seed in a safety deposit box)._
 
 _The downside of using a two-of-three metal tile strategy is that it introduces complexity into your procedure. When you set up your tiles, [User Error](#adversary-user-error) could leave you with an incomplete set of 24 words, if you don't break them up correctly. Later, having to constantly collect two out of three tiles can introduce [Process Fatigue](#adversary-process-fatigue). Finally, the complexity of this setup might increase the danger of **Danger/Incapacitation** resulting in your digital fortunes being lost._
 
