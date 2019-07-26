@@ -2,27 +2,11 @@
 
 **Lead Authors:** Christopher Allen [@ChristopherA](https://twitter.com/ChristopherA), Shannon Appelcline [@Appelcline](https://twitter.com/Appelcline)
 
-***The Power of Randomness***
+**Additional Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure) (Adversaries, Risk Modeling), Greg Maxwell (Adversaries)
 
-**Reviewers:** Bryan Bishop [@kanzure](https://twitter.com/kanzure), Miron C., Glenn Willen [@gwillen](https://twitter.com/gwillen)
+**Reviewers:** Ferdinando Maria Ametrano, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Bryan Bishop @kanzure, Miron C., Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester), Ryan Grant, Greg Maxwell, Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Karim Nassar [@karimofthecrop](https://twitter.com/karimofthecrop), Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Jonathan Wilkins, Glenn Willen [@gwillen](https://twitter.com/gwillen)
 
 _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](https://www.youtube.com/watch?v=S9JGmA5_unY) on how to think about large numbers. We borrowed his process, but adapted it in our own way. Any understanding comes from his approach, while any mistakes in calculation are ours._
-
-***Risk Modeling***
-
-**Reviewers:** Bryan Bishop, Angus Champion de Crespigny, Adam Shostack
-
-***Cold Storage Self-Custody Scenario***
-
-**Additional Contributors:** Bryan Bishop @kanzure
-
-**Reviewers:** Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Glenn Willen @gwillen, Greg Maxwell, Jonathan Wilkins, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester)
-
-***Adversaries***
-
-**Additional Contributors:** Greg Maxwell, Bryan Bishop @kanzure
-
-**Reviewers:** Ryan Grant, Tuur Deemester @TuurDemeester, Angus Champion de Crespigny @anguschampion, Adam Shostack @adamshostack
 
 {pagebreak}
 
