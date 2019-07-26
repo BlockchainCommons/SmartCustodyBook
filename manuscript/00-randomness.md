@@ -135,6 +135,8 @@ In other words, in order to guess all of the possible combinations in a Bitcoin 
 
 Lucky you, on average you’ll find the key in half of that, or 4 million times!
 
+Bruce Schneier takes another approach in his _Applied Cryptography_ (pages 157-158), describing how it would take channeling the entire power of a supernova just to cycle a single 219-bit counter through all of its permutations, making an attack on a 256-bit key not just chronologically infeasible, but energetically infeasible too.
+
 Which is why cryptographers like randomness.
 
 (And why the 256-bit private key is a lot better than your 12- or 16-character password.)
