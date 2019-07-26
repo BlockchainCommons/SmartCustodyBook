@@ -498,7 +498,7 @@ Marginal risks that were on a line or between an asymptotic curve and a straight
 
 At this point, you might want to immediately start brainstorming ways to interdict, prevent, and further mitigate your risks. If you’re knowledgeable about smart custody, and feel like you already know how to reduce your risks, then jump forward to Step 12. However, we have another methodology that may (once more) allow you to approach your risk modeling in a *methodical* way.
 
-What follows is a list of adversaries drawn from the *Chapter Three*. These are sort of like risks, but each of them is an anthropomorphized adversarial entity that contains many related risks, and which details many related solutions. We believe that considering an anthropomorphized adversary of this sort makes it easier to consider the “motives” that might affect you, and also makes it easier to find solutions that address your risks. It’s our prime deviation from standard risk modeling methodologies.
+What follows is a list of adversaries drawn from the **Chapter Three: Adversaries**. These are sort of like risks, but each of them is an anthropomorphized adversarial entity that contains many related risks, and which details many related solutions. We believe that considering an anthropomorphized adversary of this sort makes it easier to consider the “motives” that might affect you, and also makes it easier to find solutions that address your risks. It’s our prime deviation from standard risk modeling methodologies.
 
 Go through the adversary list and checkmark all adversaries that correlate with the risks you identified. Your exact risk might not be here, so try and pick the adversaries that have risks that seem the closest to what you wrote.
 
@@ -739,6 +739,6 @@ The object of this risk modeling exercise was twofold.
 
 First, you were taken through a process (Steps 1-10) intended to help you identify risks related to your digital assets in as analytical of a way as possible. Human beings are generally awful at identifying risks because emotions get in the way. So we think that sharks or terrorists are existential threats to our everyday lives, but we underestimate actual risks like getting into a car accident. Analyzing things more abstractly hopefully helped you to step back and make a more balanced assessment.
 
-Second, you were linked to our Adversaries document so that you could cull through a wide collection of solutions and find the ones that would be the most helpful to you (Steps 11-12).
+Second, you summarized the adversaries building block, which you'll meet in more depth in **Chapter Three: Adversaries** so that you could cull through a wide collection of solutions and find the ones that would be the most helpful to you (Steps 11-12).
 
 The specifics of this risk modeling exercise aren’t important, except as a tool to help you arrive at your desired goal: more secure digital assets. If something doesn’t work for you, transform it, adjust it, or remove it. Just be aware of your goal and of that you’re trying to get there by taking emotions out of your decision making and by examining extensive lists of possible problems and solutions as a reference. 
