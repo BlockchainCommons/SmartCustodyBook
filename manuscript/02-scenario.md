@@ -296,9 +296,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 **Created Adversary:** [Process Fatigue](#adversary-process-fatigue)
 
-_The following optional steps can be added to this procedure to improve its robustness and its security._
-
-_Each optional step addresses certain adversaries, but adding them ultimately adds to the [Process Fatigue](#adversary-process-fatigue) of the entire procedure, so care should be taken to ensure that new steps are both important and understood._
+_The following optional steps can be added to this procedure to improve its robustness and its security. Each optional step addresses certain adversaries: they might be added if you know those adversaries to be a problem for your personal custody scenario, or if you identify the adversaries through the risk-modeling system outlined in this book. However, beware: adding optional staeps ultimately adds to the [Process Fatigue](#adversary-process-fatigue) of the entire procedure, so care should be taken to ensure that new steps are both important and understood._
 
 **_Optional Steps:_**
 
