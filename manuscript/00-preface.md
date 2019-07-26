@@ -6,7 +6,7 @@
 
 I first became fascinated by the possibilities offered by public key cryptography when reading about the RSA algorithm in the early '90s. However, I didn't really start to deal with the problems of key management of my own large large cryptographic keys until the launch of PGP in 1992. 
 
-Over those early years I've lost quite a few of my keys, mostly due to overly complex passwords that I thought I could remember. As I got better at that, I lost still more due to accidently erased folders or hard drives and a few others due to bitrot. I also got very early digital currency when I did some consulting with Digicash, but not only did I never cash it out, I can’t run the software anymore, as the servers it required have been gone for over a decade.
+Over those early years I've lost quite a few of my keys, mostly due to overly complex passwords that I thought I could remember. As I got better at that, I lost still more due to accidently erased folders or hard drives and a few others due to bitrot. I also got very early digital currency when I did some consulting with Digicash, but not only did I never cash it out, I can't run the software anymore, as the servers it required have been gone for over a decade.
 
 {float: right, width: "35%"}
 ![](resources/fw-1.jpg)
@@ -18,7 +18,7 @@ Last year I surveyed a number of my professional colleagues in both the Bitcoin 
 
 {float: right, width: "35%"}
 ![](resources/fw-2.jpg)
-When talking my colleagues I also learned that many didn’t want to share their best practices publically for operational security (op-sec) reasons, believing that it might put them at risk for attack or even physical coercion. Some of this is legitimate concern, especially for those living outside of the US, but to a certain extent I find in my work that "security by obscurity" is often a bad practice. Thus, the first version of the smart-custody scenarios included in this book are based on my own approach and methods, which I then shared with my professional colleagues for improvements.
+When talking my colleagues I also learned that many didn't want to share their best practices publically for operational security (op-sec) reasons, believing that it might put them at risk for attack or even physical coercion. Some of this is legitimate concern, especially for those living outside of the US, but to a certain extent I find in my work that "security by obscurity" is often a bad practice. Thus, the first version of the smart-custody scenarios included in this book are based on my own approach and methods, which I then shared with my professional colleagues for improvements.
 
 When I started to share these scenarios outside the professional community, I discovered that there were some very different ways of thinking about digital asset risk that kept people from adapting them for their own needs. So I've also explained my own approach here, to encourage adoption. It's an approach to risk modeling that is meant to balance the "perfection" problem and to engender a general cryptographer-oriented way of thinking from an "adversarial" perspective. 
 
@@ -26,7 +26,7 @@ This topic is evolving rapidly, and many things will likely change over time But
 
 We are very open to your feedback and look forward to learning from you what we missed.
 
-—	Christopher Allen
+--Christopher Allen
 
 {pagebreak}
 
