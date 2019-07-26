@@ -189,8 +189,8 @@ So, cryptographers love randomness. But, randomness is hard and needs to be gene
 
 ## The Core of Custody
 
-The \#SmartCustody courses don’t actually talk about *directly* protecting your cryptocurrency: your private key does all that all on its own. In fact, everything that you do with cryptography, from protecting digital assets to signing digital documents, ultimately goes back to that big random number. It doesn’t matter if that number is part of public-key cryptography or a classic symmetric key cryptography system; in either case, the number protects your assets.
+This \#SmartCustody book don’t actually talk about *directly* protecting your cryptocurrency: your private key does all that all on its own. In fact, everything that you do with cryptography, from protecting digital assets to signing digital documents, ultimately goes back to that big random number. It doesn’t matter if that number is part of public-key cryptography or a classic symmetric key cryptography system; in either case, the number protects your assets.
 
-What this course instead teaches is how to protect that number: so that you don’t lose it, misuse it, or have it stolen.
+What this book instead teaches is how to protect that number: so that you don’t lose it, misuse it, or have it stolen.
 
 That’s all that smart custody is.
