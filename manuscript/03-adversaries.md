@@ -256,7 +256,7 @@ A systemic problem in the generation of keys can leave them broadly vulnerable t
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes what to do if your security has been compromised. Follow it quickly and precisely. Generally, move funds if their keys have any possibility of compromise. *Dangers: [*Process Fatigue*](#adversary-process-fatigue).*
-2.  **Monitor the Industry.** Be aware of happenings in the Bitcoin industry, particularly security compromises.
+2.  **Monitor the Industry.** Read Bitcoin news sites or use a system like Google Alerts to receive relevant news, so that you can be aware of happenings in the Bitcoin industry, particularly security compromises.
 3.  **Rotate Your Keys.** Regularly change the keys being used to protect funds by sending those funds on to new addresses. *Dangers: [*Key Fragility*](#adversary-key-fragility).*
 
 ***Hot Wallet Solutions:***
@@ -307,7 +307,7 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 
 ***Process Solutions:***
 
-1.  **Monitor the Industry.** Be aware of happenings in the Bitcoin industry and the hardware devices you uses, particularly concerning security compromises.
+1.  **Monitor the Industry.** Read Bitcoin news sites or use a system like Google Alerts to receive relevant news, so that you can be aware of happenings in the Bitcoin industry, particularly security compromises.
 2.  **Monitor Your Funds.** Regularly monitor funds to make sure they’re not disappearing. Make sure that alarms are obtrusive. Have a plan in place to quickly save remaining funds if some disappear.
 
 ***Cold Storage Solutions:***
@@ -336,6 +336,8 @@ In rare cases, a whole institution might be corrupt. They might steal the coins 
 A person trusted with private keys could steal funds. This might be an asset holder’s heir or executor; within a corporate setting, it could be one of the persons trusted to use the keys or someone using social hacking to convince or coerce a trusted person to do the wrong thing. This is a difficult situation because the asset holder has typically trusted someone with a key because they need to have it in order to do their job. The problem is that the trust was mislaid or coercion was used.
 
 ***Historic Case Study: Stealing from Shapeshift.*** Shapeshift.io’s IT lead stole 315 bitcoins from them, then fled. However, that wasn’t the end of the story. Afterward, he sold information about the company’s security to a hacker, initiating a second breach, then sold the hacker access to a backdoor he’d installed, creating a third. **[News Story](https://news.bitcoin.com/looting-fox-sabotage-shapeshift/).**
+
+***Historic Case Study: Walking the Silk Road.*** While investigating Silk Road, Secret Service agent Shaun Bridges gained the login credentials of an admin and used them to steal 20,000 Bitcoins from Silk Road by transferring them to Mt. Gox. He then moved his funds from Mt. Gox just before the US government seized \$2.1 million dollars worth of Mt. Gox funds. He then stole another 1,600 bitcoins that had been seized from Bitstamp — this time *after* being found guilty to the first crime! **[News Story](https://arstechnica.com/tech-policy/2015/12/rogue-secret-service-agent-who-stole-from-silk-road-sentenced-to-nearly-6-years/), [News Story](https://motherboard.vice.com/en_us/article/vv7dgj/great-moments-in-shaun-bridges-a-corrupt-silk-road-investigator), [News Story](https://arstechnica.com/tech-policy/2017/11/ex-agent-corrupted-by-silk-road-sentenced-to-2-additional-years/).**
 
 {pagebreak}
 
@@ -436,7 +438,7 @@ Users are usually most concerned about Personal Network Attacks which target the
 ***Process Solutions:***
 
 1.  **Maintain Emergency Procedure.** Write a procedure that describes what to do if your security has been compromised. Follow it quickly and precisely. Generally, move funds if their keys have any possibility of compromise. *Dangers: [*Process Fatigue*](#adversary-process-fatigue).*
-2.  **Monitor the Industry.** Be aware of happenings in the Bitcoin industry and the hardware devices you uses, particularly concerning security compromises.
+2.  **Monitor the Industry.** Read Bitcoin news sites or use a system like Google Alerts to receive relevant news, so that you can be aware of happenings in the Bitcoin industry, particularly security compromises.
 
 ***Hot Wallet Solutions:***
 
@@ -659,7 +661,7 @@ The difference between Blackmail and Coercion is that Coercion tends to be less 
 
 ***Abstract Case Study: SWATing.*** Over the course of a month, Dan’s power and his DSL line are turned off. He contacts the utilities and is told that these occurred at his request. He then receives an email that says, “we know where you live, send us half your bitcoins or next time we swat you and maybe you end up dead.” A picture of his house from Google Street View is included.
 
-***Historical Case Study: Kidnapping.*** Ukranian cryptocurrency exchange executive Pavel Lerner was grabbed off the street outside his office, and held in an undisclosed location. He was told that he would not be released unless he paid \$1 million dollars in bitcoins. [**News Story**](https://cointelegraph.com/news/kidnapping-of-bitcoin-exchange-executive-showed-importance-of-financial-privacy)**.** A similar kidnapping occurred in Dubai and resulted in the transfer of 25 BTC. [**News Story**](https://www.khaleejtimes.com/news/crime-and-courts/3-fake-dubai-cops-kidnap-traders-/to-rob-bitcoins).
+***Historical Case Study: Kidnapping.*** Ukranian cryptocurrency exchange executive Pavel Lerner was grabbed off the street outside his office, and held in an undisclosed location. He was told that he would not be released unless he paid \$1 million dollars in bitcoins. [**News Story**](https://cointelegraph.com/news/kidnapping-of-bitcoin-exchange-executive-showed-importance-of-financial-privacy)**.** A similar kidnapping occurred in Dubai and resulted in the transfer of 25 BTC. [**News Story**](https://www.khaleejtimes.com/news/crime-and-courts/3-fake-dubai-cops-kidnap-traders-/to-rob-bitcoins). [**Other Physical Attacks**](https://github.com/jlopp/physical-bitcoin-attacks).
 
 {pagebreak}
 
@@ -807,8 +809,6 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 ***Historic Case Study: Stealing Safe Deposit Boxes.*** During a series of fiscal crises, the state of California reduced their time period for property to be considered abandoned to a paltry three years, and safety deposit boxes were then confiscated and auctioned off. Sufficiently aggressive banks began seizing safety deposit boxes that were unchecked, even when they remained in contact with the customer on other topics! Bitcoin keys stored in safety deposit boxes could be vulnerable to this malfeasance. **[News Story](https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/07/02/LOSTPROPERTY.TMP).**
 
-***Historic Case Study: Walking the Silk Road.*** While investigating Silk Road, Secret Service agent Shaun Bridges gained the login credentials of an admin and used them to steal 20,000 Bitcoins from Silk Road by transferring them to Mt. Gox. He then moved his funds from Mt. Gox just before the US government seized \$2.1 million dollars worth of Mt. Gox funds. He then stole another 1,600 bitcoins that had been seized from Bitstamp — this time *after* being found guilty to the first crime! **[News Story](https://arstechnica.com/tech-policy/2015/12/rogue-secret-service-agent-who-stole-from-silk-road-sentenced-to-nearly-6-years/), [News Story](https://motherboard.vice.com/en_us/article/vv7dgj/great-moments-in-shaun-bridges-a-corrupt-silk-road-investigator), [News Story](https://arstechnica.com/tech-policy/2017/11/ex-agent-corrupted-by-silk-road-sentenced-to-2-additional-years/).**
-
 ***Risks:***
 
 1.  **Key Loss.** A nation-state could purposefully seize private keys or they could casually do so while seizing electronics or safety deposit boxes.
@@ -820,7 +820,7 @@ More problematically, individuals might take on the mantle of the nation-state a
 
 1.  **Neutrally Store Your Funds.** Maintain funds or keys outside of the sphere of control of fascist and authoritarian nation-states.
 2.  **Practice Anonymity.** Do not let people know you have bitcoins; ensure that you in no way ever link your key to your real persona.
-3.  **Use Paranoid Key Procedures.** Take extreme protective methods when generating keys or when accessing accounts. Turn off phones. Remove cell phones. Unplug electronics. Cover windows. Tape your computer’s camera and muffle your microphone. Do not work in rooms adjacent to property that you don’t own. **I**n extreme cases, rent a random car in a far remote location to serve both as a faraday cage and as protection against observation. *Dangers: [*Process Fatigue*](#adversary-process-fatigue)*
+3.  **Use Paranoid Key Procedures.** Take extreme protective methods when generating keys or when accessing accounts. Turn off phones. Remove cell phones. Unplug electronics. Cover windows. Tape your computer’s camera and muffle your microphone. Do not work in rooms adjacent to property that you don’t own. In extreme cases, rent a random car in a far remote location to serve both as a faraday cage and as protection against observation. *Dangers: [*Process Fatigue*](#adversary-process-fatigue)*
 
 ***Cold Storage Solutions:***
 
@@ -860,6 +860,8 @@ More problematically, individuals might take on the mantle of the nation-state a
 Convenience can be the bane of any security procedure. It could be due to sheer laziness: because of Process Fatigue, a bitcoin holder might eliminate some of the more onerous elements of his procedure, such as the need to check his bitcoins twice a year, or the need to go out to a (potentially distant) safety deposit box to do so. However, there can also be real, pragmatic, and understandable reasons for increasing the Convenience of bitcoin access, despite the cost to security. A businessman going on a trip might ask for bitcoins to be moved from their normal multi-sig transaction to one that he can sign for alone, increasing his convenience of access, but opening up those bitcoins to any number of either adversaries.
 
 ***Abstract Case Study: Trusting the Wrong Person.*** Alice is going to be out of town all month. She expects to make some very large bitcoin purchases during that time period, so she needs her coins more conveniently accessible than her normal cold storage procedure allows. She opts not to go with the convenience of carrying them on one of her electronic devices because she’s afraid they could be seized. Instead, she gives her husband, Bob, access to her keys. When she calls up Bob to have him make a transaction, she finds his phone line disconnected. He’s gone, with her bitcoin wealth!
+
+***Abstract Case Study: Trusting the Hot Wallet.*** After the divorce, Alice is a bit more savvy, and decides to move her money to a hot wallet while she's out of town. Unfortunately, hot wallets can be a lot more vulnerable than cold storage, so she loses her bitcoin wealth again!
 
 {pagebreak}
 
