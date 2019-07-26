@@ -80,9 +80,11 @@ The following items are necessary for this procedure, and should be purchased in
 * [  ] Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
 * [  ] 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
 * [  ] 1 Package Waterproof Laser Paper (TerraSlate, made of 1-PET [https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4](https://www.amazon.com/TerraSlate-Paper-Waterproof-Printer-Sheets/dp/B00NWVGOF4) or Rite in the Rain All-Weather Copier Paper, made of coated recyclable wood [https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/](https://www.amazon.com/Rite-Rain-All-Weather-Copier-8511/dp/B0016H1RYE/) or equivalent)
-* [  ] 2 Ledger Nano S[^3], Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
-* [  ] One CryptoTag[^4] [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
+* [  ] 2 Ledger Nano S, Factory sealed, not used [https://www.ledgerwallet.com/products/ledger-nano-s](https://www.ledgerwallet.com/products/ledger-nano-s) or [https://www.amazon.com/gp/product/B01J66NF46](https://www.amazon.com/gp/product/B01J66NF46)
+* [  ] One CryptoTag [https://cryptotag.io/products/cryptotag-starter-kit/](https://cryptotag.io/products/cryptotag-starter-kit/)
 * [  ] 2 USB cables appropriate for connecting your computer's USB ports to the Ledger (offered as set at [https://www.ledgerwallet.com/products/ledger-otg-kit](https://www.ledgerwallet.com/products/ledger-otg-kit)
+
+Please see our footnotes on the Ledger[^3] and the CryptoTag[^4] for discussions of why we choose that hardware over other alternatives.
 
   _**Optional Steps** (described later) may require  purchases of additional items._
 
@@ -716,7 +718,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 [^2]:Current requirements are: macOS 10.9 (64-bit), Windows 8 (64-bit) or Linux Ubuntu 16.10.
 
-[^3]:We were forced to make a decision between two major hardware wallets: the Ledger and the Trezor. Both are good, mature solutions with well-reviewed code and solid ecosystems. We ultimately selected the Ledger because it stores its private keys on a cryptographic chip. Since we advocate keeping a hardware wallet in a less-secure home safe, this was a requirement, as it offsets the adversary of Casual Physical Theft. There are disadvantages to the Ledger as well: its cryptographic chip is proprietary, thus unlike the Trezor all of its code isn't open source. Thus, our understanding of its security is ultimately somewhat limited. If another hardware wallet were to appear with an open cryptographic private-key store and open-source code, we would recommend that instead. In the current market, however, we believe that the Ledger device is the best for this scenario. You may substitute a Trezor for this scenario as the tradeoffs are somewhat subjective.
+[^3]:We were forced to make a decision between two major hardware wallets: the Ledger and the Trezor. Both are good, mature solutions with well-reviewed code and solid ecosystems. We ultimately selected the Ledger because it stores its private keys on a cryptographic chip. Since we advocate keeping a hardware wallet in a less-secure home safe, this was a requirement, as it offsets the adversary of Casual Physical Theft. There are disadvantages to the Ledger as well: its cryptographic chip is proprietary, thus unlike the Trezor all of its code isn't open source. Thus, our understanding of its security is ultimately somewhat limited. If another hardware wallet were to appear with an open cryptographic private-key store and open-source code, we would recommend that instead. In the current market, however, we believe that the Ledger device is the best for this scenario. You may substitute a Trezor for this scenario as the tradeoffs are somewhat subjective. (There are also other options such as the Coldcard.)
 
 [^4]:We similarly chose the CryptoTag because we thought it the best option when compared to alternatives like Cryptosteel and engraved tiles: more discussion of this can be found in the Optional Steps section.
 
