@@ -36,13 +36,13 @@ However, if you use a more robust *cold storage procedure*, you might have redun
 
 ***Examples of Assets:***
 
-* Key on Ledger in fireproof home safe
+* Seed on Ledger in fireproof home safe
 * Key on Cryptosteel in safety deposit box
 
 Finally, you should consider whether there are other, more non-physical assets that you want to protect. Do you care about ***privacy*** regarding your identity? Are you concerned about ***compartmentalizing*** your activities? Do you want to ensure ***confidentiality*** of your total funds? Is ***ease of access*** something that you want to protect?
 
 {blurb, class: tip}
-**Write out each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
+**List each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
 {/blurb}
 
 
@@ -91,9 +91,9 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 
 ### Step 3: Diagram Your Process
 
-Your digital assets face two different categories of risks: one when it’s being stored and another when it’s on the move. Thus, the next step is to sketch out your cryptocurrency process by translating your assets list into graphical nodes, then showing how money transfers among them.
+Your digital assets face two different categories of risks: one when it’s being stored and another when it’s on the move. Thus, the next step is to sketch out your cryptocurrency process by translating your assets list into graphical nodes, then showing how money transfers among them. This will allow you to more easily identify all of the elements of your process — and thus determine their vulnerabilities.
 
-To do so, draw a simple diagram.
+To diagram your process, draw a simple illustration.
 
 1. *Draw physical assets as *nodes* (circles).* This should be assets that represent physical cryptocurrency or keys. They show where your cryptocurrency is stored.
    a) If a physical asset has subassets (such as cold storage with     multiple copies of keys), draw those subassets as *subnodes*     (*smaller circles*) linked to the main node.
@@ -207,9 +207,9 @@ Try to be thorough, but don’t go crazy. If something is laughably unlikely, th
 
 ### Step 5: Brainstorm Custody Vulnerabilities
 
-You’re now ready to move on to your list of nodes, where your funds are held in custody by someone. You can follow a similar process here, where you list your nodes on a piece of paper and brainstorm the dangers of each: how could you lose your funds to vulnerabilities, threats, and hazards while they are sitting on that node? If one of your nodes has subassets, you probably want to brainstorm about the subassets, not the category (e.g., brainstorm about your Ledger wallet, not your cold storage generally).
+You’re now ready to move on to your list of nodes, where your funds are held in custody by someone. You can follow a similar process here, where you list your nodes on a piece of paper and brainstorm the dangers of each: how could you lose your funds to vulnerabilities, threats, and hazards while they are sitting on that node? If one of your nodes has subassets, you probably want to brainstorm about the subassets, not the category, as that will more specifically identify the real-world vulnerabilities (e.g., brainstorm about your Ledger wallet, not your cold storage generally).
 
-Don’t worry about alternative nodes, like fiat currency accounts.
+Don’t worry about alternative nodes, like fiat currency accounts, as they're out-of-scope for this cryptocurrency risk modeling.
 
 ***Examples of Nodal Vulnerabilities:***
 
