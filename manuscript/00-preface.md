@@ -10,7 +10,7 @@ Over those early years I've lost quite a few of my keys, mostly due to overly co
 
 {float: right, width: "35%"}
 ![](resources/fw-1.jpg)
-The oldest keypair that I still have the private key for is now over 20 years old (ChristopherA@consensus.com ABB2B7CEE0983CD798D4266CCA7CBC1873262B3A DSA-1024 created 1998-12-09). I kept it for a long time due to the old, sentimental web-of-trust attestations associated with it, such as those from the founders of PGP and many early members of the SSL/TLS community, but I revoked it in 2015 as it was getting out-of-date with current standards.
+The oldest keypair that I still have the private key for is now over 20 years old (ChristopherA@consensus.com ABB2B7CEE0983CD798D4266CCA7CBC1873262B3A DSA-1024 created 1998-12-09). I kept it for a long time due to the old, sentimental web-of-trust attestations associated with it, such as those from the founders of PGP and many early members of the SSL/TLS community, but I revoked it in 2015 as it was getting out-of-date with current security standards.
 
 This history gives me some perspective when it comes to the protection and management of keys for digital assets. Bitcoin in particular made some some massive improvements to the ability to manage lots of keys. However, problems with managing digital assets still exist: despite these improvements, I have seen my own colleagues lose millions of dollars in early bitcoin. 
 
@@ -22,7 +22,7 @@ When talking my colleagues I also learned that many didn't want to share their b
 
 When I started to share these scenarios outside the professional community, I discovered that there were some very different ways of thinking about digital asset risk that kept people from adapting them for their own needs. So I've also explained my own approach here, to encourage adoption. It's an approach to risk modeling that is meant to balance the "perfection" problem and to engender a general cryptographer-oriented way of thinking from an "adversarial" perspective. 
 
-This topic is evolving rapidly, and many things will likely change over time But I hope that this book will help you to think differently about your digital assets and to know a bit more about how to get started, how to ask smart questions, and how to evolve your own procedures over time.
+This topic is evolving rapidly, and many things will likely change over time, but I hope that this book will help you to think differently about your digital assets and to know a bit more about how to get started, how to ask smart questions, and how to evolve your own procedures over time.
 
 We are very open to your feedback and look forward to learning from you what we missed.
 
