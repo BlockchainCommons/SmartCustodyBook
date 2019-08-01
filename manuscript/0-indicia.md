@@ -28,7 +28,7 @@ Unless otherwise noted, the contents of this book are Copyright 2017-2019 by Blo
 
 Please give attribution by linking to the [https://www.SmartCustody.com](https://www.SmartCustody.com) website.
 
-Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyWhitePapers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers).
+Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook).
 
 
 
