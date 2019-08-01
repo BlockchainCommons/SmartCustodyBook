@@ -734,6 +734,9 @@ She added a node (the Electrum wallet) and she split up the interfaces coming ou
 
 Alice’s setup has been changed enough that it may now have vulnerabilities that she didn’t previously think about. So, she puts a TODO item on her calendar to repeat this exercise in two months.
 
+***Other Peoples' Story:*** For further examples of using this risk modeling methodology see Ilya Evdokimov's ["Working with SmartCustody Risk Assessment Framework"](https://medium.com/@evdokimov.ilya/working-with-smartcustody-risk-assessment-framework-40ce82538eac) on _Medium_ and "The Frank Family Fund Example" in **Chapter Five** of this book.
+
+
 {pagebreak}
 
 ## Summary
