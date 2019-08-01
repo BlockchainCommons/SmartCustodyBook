@@ -30,7 +30,7 @@ For your ***cryptocurrency*** itself, you should identify where precisely the mo
 * Bitcoin held in cold storage
 * Ethereum held in a paper wallet
 
-The ***keys*** protecting the cryptocurrency are also a crucial asset, but often they’re entirely intertwined with the cryptocurrency itself: if your Bitcoin is at Coinbase, that means the keys are at Coinbase; and if your Ethereum is only accessible through a paper wallet, that’s because you printed your keys in the wallet.
+But talking about the cryptocurrency being held somewhere is actually an abstraction. The ***keys*** protecting the cryptocurrency are actually _the_ crucial asset. There's just usually not a difference between the two: if your Bitcoin is at Coinbase, that means the keys are at Coinbase; and if your Ethereum is only accessible through a paper wallet, that’s because you printed your keys in the wallet.
 
 However, if you use a more robust *cold storage procedure*, you might have redundant copies of your keys in several places. In that case, “Bitcoin held in cold storage” is too general of an asset; you instead need to consider each of your copies of a key as an asset, to correctly assess their risks.
 
@@ -516,7 +516,7 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
    * Attacker sends ransom note to demand bitcoins.
    * Attacker uses Ransomware to demand bitcoins.
 3. [*Adversary: Censorship*](#adversary-censorship) — *network denial that prevents the use of funds*
-   * Attacker blocks site from from creating transactions.
+   * Attacker blocks site from creating transactions.
    * Attacker blocks you from creating transactions.
 4. [*Adversary: Coercion*](#adversary-coercion) — *threat of death, disability, or detention*
    * Attacker kidnaps you.
