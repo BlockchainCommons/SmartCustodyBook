@@ -10,7 +10,7 @@ Cryptographers love randomness.
 
 They love numbers that are entirely unpredictable, where there’s an equal probability that any number will be selected, and where that selection occurs independently of anything else.
 
-Here’s why.
+Here’s why you should too.
 
 ### The Power of Large Numbers
 
