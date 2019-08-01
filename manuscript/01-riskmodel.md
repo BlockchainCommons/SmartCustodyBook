@@ -622,6 +622,8 @@ The ultimate object here is to take the general, off-the-cuff risks that you ide
     * You don’t maintain your key location.
     * You forget your key location.
 
+That's a big list, but the object isn't to thoroughly understand all of these adversaries, but instead to convert your ideas about vulnerabilities into our standard adversary profiles. And if some of them are scary, that probably means that you should be thinking about them (and hopefully avoiding them).
+
 After you’ve selected your adversaries, your should write them out in a list of decreasing problems. This might match precisely with your risk list, but some adversaries might get bumped up because they correlated to several risks that you identified. Keep the references to your asset and interface numbers, so that you can reference them later.
 
 {blurb, class: tip}
@@ -638,7 +640,7 @@ After you’ve selected your adversaries, your should write them out in a list o
 6. *9A: Poor address hygiene could correlate cold and hot wallets — **Correlation***
 7. *9B: Purchases from hot wallet could correlate name and Bitcoin assets — **Correlation***
 
-*Most of these were pretty obvious, but Alice has a bit of trouble figuring out how to classify that purchaser who reversed their charges after getting her Bitcoin. She finally decided it was an “social engineering”, since it feels like another sort of confidence-man attack.*
+*Most of these were pretty obvious, but Alice has a bit of trouble figuring out how to classify somewone reversing credit card charges after getting her Bitcoin (#1). She finally decided it was an “social engineering”, since it feels like another sort of confidence-man attack.*
 
 *She then organizes her adversaries into an ordered list, so she knows how to prioritize them. She uses her order from the true risks, but moves disaster up above key fragility since it’s linked to two different problems:*
 
@@ -736,11 +738,13 @@ Alice’s setup has been changed enough that it may now have vulnerabilities tha
 
 ## Summary
 
-The object of this risk modeling exercise was twofold.
+The object of this risk modeling exercise was threefold.
 
 First, you were taken through a process (Steps 1-10) intended to help you identify risks related to your digital assets in as analytical of a way as possible. Human beings are generally awful at identifying risks because emotions get in the way. So we think that sharks or terrorists are existential threats to our everyday lives, but we underestimate actual risks like getting into a car accident. Analyzing things more abstractly hopefully helped you to step back and make a more balanced assessment.
 
 Second, you summarized the adversaries building block, which you'll meet in more depth in **Chapter Three: Adversaries** so that you could cull through a wide collection of solutions and find the ones that would be the most helpful to you (Steps 11-12).
+
+Third, you repeated the process (Step 13), or at least planned to do so in the future. You'll learn something more each time you repeat the exercise, eliminating both false positives (where you identified something as a risk that wasn't) and false negatives (where you missed a crucial vulnerability). 
 
 The specifics of this risk modeling exercise aren’t important, except as a tool to help you arrive at your desired goal: more secure digital assets. If something doesn’t work for you, transform it, adjust it, or remove it. Just be aware of your goal and of that you’re trying to get there by taking emotions out of your decision making and by examining extensive lists of possible problems and solutions as a reference. 
 
