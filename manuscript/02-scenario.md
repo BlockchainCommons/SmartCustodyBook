@@ -10,7 +10,7 @@ Digital assets are only as safe as the procedures of their custodian. Many digit
 
 ### About The Base Scenario
 
-The base scenario presumes the following audience:
+The base scenario presumes an audience with all of the following characteristics:
 
 * A holder with a significant amount of digital assets (>5% of net worth);
     - with full and legal custody of the assets and no fiduciary responsibility to others;
@@ -118,9 +118,9 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 
 #### **Step B: Setup Computer** [^8]
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
-2. _This optional action is omitted in this basic procedure._
-3. _This optional action is omitted in this basic procedure._
-4. [  ] Install Ledger Live for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
+2. _This optional action is omitted in this basic procedure, but enabled by"Optional Steps" below._
+3. _This optional action is omitted in this basic procedure, but enabled by"Optional Steps" below._
+4. [  ] Install the Ledger Live software for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
    1. Download It
    2. Install It
 
