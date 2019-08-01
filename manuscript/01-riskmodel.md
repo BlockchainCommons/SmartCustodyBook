@@ -300,7 +300,8 @@ Generally, if you can separate likelihoods into ***five*** levels, that should p
 * 1, 2, 3, 4, 5
 * 25%, 20%, 15%, 10%, 5%
 * Constant Problem, Frequent Problem, Occasional Problem, Rare Problem, Extremely Rare Problem
-* Very Likely, Somewhat Likely, Possible, Unlikely, Very Unlikely
+* Very Likely, Somewhat Likely, Possible, Unlikely, Very Unlikely [^ourlikely]
+* Almost Certain, Probable, Even, Probably Not, Almost Certainly not [^cialikely]
 * Super Scary, Cold Chill, Frightening, Concerned, Not Worried
 * Great, Very Good, Good, OK, Poor
 
@@ -742,3 +743,7 @@ First, you were taken through a process (Steps 1-10) intended to help you identi
 Second, you summarized the adversaries building block, which you'll meet in more depth in **Chapter Three: Adversaries** so that you could cull through a wide collection of solutions and find the ones that would be the most helpful to you (Steps 11-12).
 
 The specifics of this risk modeling exercise aren’t important, except as a tool to help you arrive at your desired goal: more secure digital assets. If something doesn’t work for you, transform it, adjust it, or remove it. Just be aware of your goal and of that you’re trying to get there by taking emotions out of your decision making and by examining extensive lists of possible problems and solutions as a reference. 
+
+[^ourlikely]: This is the set of terms we use in our examples.
+
+[^ciaLikely]: These are the ["Words of Estimative Probability"](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/sherman-kent-and-the-board-of-national-estimates-collected-essays/6words.html). We don't use them because none of the risk-modeling odds are likely to be anywhere close to "even"; the vulnerabilities should all be much lower likely events. But, if these call out to you, definitely use them.
