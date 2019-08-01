@@ -55,7 +55,7 @@ However, cold storage should be considered as an option for _everyone_ who is ma
 
 A few questions can help you determine if you can move some of your funds from hot wallets to cold storage:
 
-1. How much quick liquidity do you need?
+1. How much readily available liquidity do you need?
 2. How often are you moving your digital assets?
 3. How often are you exchanging your digital assets?
 
