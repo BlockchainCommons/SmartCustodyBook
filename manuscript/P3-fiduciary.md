@@ -1,5 +1,5 @@
 # Part Three: Fiduciary Duties #
-Early parts of this book focused on the simplest scenario: self-custody, where you're only holding your own digital assets. Many people will instead be holding assets in trust for other people, and this introduces a whole new level of fiduciary duty — one that is discussed in this last Part.
+Early parts of this book focused on the simplest scenario: self-custody, where you're only holding your own digital assets. Many people will instead be holding assets in trust for other people, and this introduces a whole new level of fiduciary duty -- one that is discussed in this last Part.
 
 An overview of **Digital Custodianship Responsibilities** provides the barest summary of this complex area of law, acting as a starting place for anyone who needs to delve more into the topic of holding digital assets for other people.
 
