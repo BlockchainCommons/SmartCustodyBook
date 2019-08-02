@@ -30,24 +30,18 @@ We are very open to your feedback and look forward to learning from you what we 
 
 {pagebreak}
 
-## What is #SmartCustody?
+# Introduction to the Book
+
+This is a book about [#SmartCustody](https://www.SmartCustody.com), which we define as:
 
 > _**"The use of advanced cryptographic tools to improve the care, maintenance, control, and protection of digital assets."**_
->
 
-Our goals:
+There are many ways to address #SmartCustody. This book offers procedural solutions: it teaches you to model the risks to your digital assets using a methodology where you assess vulnerabilities in a systematic way, then address them. Two major building blocks will help you in doing so: a cold-storage scenario for protecting your less-used digital assets; and a set of adversaries, which are personifications of the risks you may face.
 
-* To raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary threats.
-* To prepare for new custody technologies that break old models for custodianship.
-
-To accomplish these goals, we are creating a series of best-practices documents and also offering a series of different workshops on these topics. We are additionally collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
-
-This book is our first [#SmartCustody](https://www.SmartCustody.com) best-practices document. To be informed of the release of future best-practices and other educational documents and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
+This book initially focuses on the simplest #SmartCustody scenarios, concentrating on self-custody, where someone is holding their own digital assets. But many cryptocurrency afficiandos will be more interested in scenarios where they are holding assets for clients. This same risk modeling methodology may be applied to these more complex scenarios, as is detailed in the latter part of this book.
 
 {id: why-cold-storage}
 ## Why Cold Storage?
-
-Among the best practices outlined in this document is a cold-storage scenario for self-custody.
 
 Cold storage is primarily intended for digital-asset custodians who do not actively trade their digital assets. It offers a high level of protection for digital assets, because keys are secured offline or in hardware and _should_ _never be on networked computers._
 
@@ -63,3 +57,16 @@ After you answer these questions, you may discover that you don't actually need 
 
 Even if you determine that all of your funds must remain hot, our cold-storage scenario still suggests a variety of best practices for managing digital-asset keys, and does so in the context of risks and adversaries that can be used to model other scenarios.
 
+{id: smartcustody}
+## About the #SmartCustody Project
+
+#SmartCustody is a Blockchain Commons project with two goals:
+
+* To raise the bar on best practices for digital-asset custodianship by building a greater understanding of different custody use cases, risk models, and adversary threats; and
+* To prepare for new custody technologies that break old models for custodianship.
+
+To accomplish these goals, we are creating a series of best-practices documents, offering a series of different workshops on these topics, and collaborating with cryptographic industry and regulatory stakeholders to establish standards, improve best practices, and create new cryptographic key-management and custody technologies.
+
+This book is our first best-practices document. 
+
+To be informed of the release of future best-practices and other educational documents and to learn about future workshops, subscribe to our email newsletter at [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody).
