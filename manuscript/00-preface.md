@@ -30,7 +30,7 @@ We are very open to your feedback and look forward to learning from you what we 
 
 {pagebreak}
 
-# Introduction to the Book
+# Preface to the Book
 
 This is a book about [#SmartCustody](https://www.SmartCustody.com), which we define as:
 
