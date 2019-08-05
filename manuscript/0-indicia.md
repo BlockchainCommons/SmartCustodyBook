@@ -4,7 +4,7 @@
 
 **Additional Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure) (Adversaries, Risk Modeling), Greg Maxwell (Adversaries)
 
-**Reviewers:** Ferdinando Maria Ametrano, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Bryan Bishop @kanzure, Miron C., Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester), Ryan Grant, Greg Maxwell, Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Karim Nassar [@karimofthecrop](https://twitter.com/karimofthecrop), Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Jonathan Wilkins, Glenn Willen [@gwillen](https://twitter.com/gwillen)
+**Reviewers:** Ferdinando Maria Ametrano, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Bryan Bishop @kanzure, Miron C., Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester), Ryan Grant, Greg Maxwell, Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Karim Nassar [@karimofthecrop](https://twitter.com/karimofthecrop), Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Peter Todd, Jonathan Wilkins, Glenn Willen [@gwillen](https://twitter.com/gwillen)
 
 _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](https://www.youtube.com/watch?v=S9JGmA5_unY) on how to think about large numbers. We borrowed his process, but adapted it in our own way. Any understanding comes from his approach, while any mistakes in calculation are ours._
 
