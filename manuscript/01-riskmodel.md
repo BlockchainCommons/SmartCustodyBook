@@ -39,13 +39,13 @@ However, if you use a more robust *cold storage procedure*, you might have redun
 * Seed on Ledger in fireproof home safe
 * Key on Cryptosteel in safety deposit box
 
+When thinking about these assets, you should also consider their purpose: whether they're long-term investments or currencies intended for trades. This is a topic you'll return to in Step 9.
+
 Finally, you should consider whether there are other, more non-physical assets that you want to protect. Do you care about ***privacy*** regarding your identity? Are you concerned about ***compartmentalizing*** your activities? Do you want to ensure ***confidentiality*** of your total funds? Is ***ease of access*** something that you want to protect?
 
 {blurb, class: tip}
 **List each asset of value to you, including funds, keys, and non-physical assets that you want to protect.**
 {/blurb}
-
-
 
 ***Alice’s Story.** Alice is a Bitcoin investor. Subsequent to its rise to \$1,000 in late 2013, she used a Coinbase account to buy at various dips. She invested about \$50,000 at prices between \$250 and \$400 between 2014 and 2016, netting a total of 150 BTC. She stopped investing after the price permanently climbed above \$400.*
 
@@ -74,8 +74,6 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 **Enumerate the value of each of your assets.**
 {/blurb}
 
-
-
 ***Alice’s Story.** Alice has moved about 100 BTC to paper wallets over the years and has about 50 BTC sitting at Coinbase. That seemed like a reasonable amount of liquidity when bitcoins were valued at \$300, but is a lot to keep in a hot wallet now that bitcoins are valued at \$8,000.*
 
 *Alice writes down a value for each of her assets, on a 10-point scale:*
@@ -91,7 +89,7 @@ For ***non-physical*** ***assets***, consider their value in relation to the dig
 
 ### Step 3: Diagram Your Process
 
-Your digital assets face two different categories of risks: one when it’s being stored and another when it’s on the move. Thus, the next step is to sketch out your cryptocurrency process by translating your assets list into graphical nodes, then showing how money transfers among them. This will allow you to more easily identify all of the elements of your process — and thus determine their vulnerabilities.
+Your digital assets face two different categories of risks: one when it’s being stored and another when it’s on the move. Thus, the next step is to sketch out your cryptocurrency process by translating your assets list into graphical nodes[^nodenote], then showing how money transfers among them. This will allow you to more easily identify all of the elements of your process — and thus determine their vulnerabilities.
 
 To diagram your process, draw a simple illustration.
 
@@ -374,7 +372,7 @@ Also, consider adding time into the equation: if an asset is only rarely sitting
 
 ### Step 8: Chart Consequences & Likelihoods to Reveal Risks
 
-By now, you might already have a rough idea of which vulnerabilities are actually risks that you need to watch out for. However, you can make a more robust analysis by graphing everything in a chart.
+By now, you might already have a rough idea of which vulnerabilities are actually risks that you need to watch out for. However, you can make a more robust analysis by graphing everything in a chart[^spreadsheet].
 
 1. *Label the horizontal axis.* Use your consequences as the horizontal axis, running from 0 to the top consequence that *you considered*.
 2. *Label the vertical axis.* Use your likelihood as the vertical axis, running from 0 to the top likelihood that *you considered*.
@@ -416,10 +414,10 @@ So what do you do with risks? Generally, there are four options to resolve them.
 
 One method of *mitigation* is to modify the valuation of assets to drop them below your risk-tolerance line:
 
-1. *Consider the value of assets.* Look at each of the assets that has a risk, and consider whether their valuation could be decreased sufficiently to push the related nodal risks below the risk-tolerance line.
-   a) Generally, it’s beneficial to move funds from hot wallets to     cold storage. So, for each of your hot wallets, consider if     the funds there are actually being used for active trading. If     not, you should move some or all of the funds.
-   b) Even if you can’t push an asset below your risk-tolerance line,     it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
-   c) Reducing some risks will inevitably result in increasing others.     This is OK. If you’re generally happier with the gestalt of the new asset valuations, and in particular if you’ve shifted     risk from hot wallets to cold storage, then you’ve benefited     your overall setup.
+1. *Consider the value of assets.* Look at each of the assets that has a risk, and consider whether their valuation could be decreased sufficiently to push the related nodal risks below the risk-tolerance line. This decision can be influenced by the purpose of the asset.
+   a) Generally, it’s beneficial to move funds from hot wallets to cold storage. So, for each of your hot wallets, consider if the purpose of some or all of the currency is actually investment, not trading. If so, you should move some or all of the funds.
+   b) Even if you can’t push an asset below your risk-tolerance line, it can be worthwhile to move it closer to the line, because     that’s implicitly a reduction in risk
+   c) Reducing some risks will inevitably result in increasing others. This is OK. If you’re generally happier with the gestalt of the new asset valuations; if the risks better fit the purposes; and if you’ve shifted risk from hot wallets to cold storage, then you’ve benefited your overall setup.
    d) Don’t bother trying to reduce the valuation of cold storage or     those hot wallets where the funds are actually being actively     used; you’ll instead want to resolve their risks via     interdiction, prevention, or different mitigation methods.
 2. *Modify consequences.* Based on your asset valuation changes, modify the consequences for those assets, and also consider any linked interfaces and see if their consequences changed as well. (Generally, an interface *originating* with an asset is the one likely to be changed when the asset changes.)
 3. *Rechart if needed*. If any valuation changes were made, rechart as per step 8.
@@ -751,6 +749,10 @@ Third, you repeated the process (Step 13), or at least planned to do so in the f
 
 The specifics of this risk modeling exercise aren’t important, except as a tool to help you arrive at your desired goal: more secure digital assets. If something doesn’t work for you, transform it, adjust it, or remove it. Just be aware of your goal and of that you’re trying to get there by taking emotions out of your decision making and by examining extensive lists of possible problems and solutions as a reference. 
 
+[^nodenote]: A graph is made up of nodes (which are points or vertexes) and edges (which are links or lines). The nodes in your graph shouldn't be confused with Bitcoin nodes. They're just places where you keep your cryptocurrency or other digital assets.
+
 [^ourlikely]: This is the set of terms we use in our examples.
 
 [^ciaLikely]: These are the ["Words of Estimative Probability"](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/sherman-kent-and-the-board-of-national-estimates-collected-essays/6words.html). We don't use them because none of the risk-modeling odds are likely to be anywhere close to "even"; the vulnerabilities should all be much lower likely events. But, if these call out to you, definitely use them.
+
+[^spreadsheet]: Some users of this risk modeling system have preferred to lay everything out in a spreadsheet, and then use that to create a graph (or to otherwise identify the risk). That's certainly a fine alternative if you have the spreadsheet expertise.
