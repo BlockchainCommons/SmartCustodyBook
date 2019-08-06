@@ -8,25 +8,25 @@
 
 Cryptographers love randomness.
 
-They love numbers that are entirely unpredictable, where there’s an equal probability that any number will be selected, and where that selection occurs independently of anything else.
+They love numbers that are entirely unpredictable, where there’s an equal probability that any number will be selected, and where that selection occurs independently of anything else. It creates a _secret_, which is the heart of cryptography.
 
-Here’s why you should too.
+Here’s why you should love those random numbers too.
 
 ### The Power of Large Numbers
 
-Imagine your Bitcoin (or other digital assets) as being held in a near-infinite set of lockers. Anyone can see what’s in a locker, and anyone can put money in a locker, but each locker is secured with a combination lock, and only the person with the combination can retrieve the money.
+Imagine your Bitcoin (or other digital assets) as being held in a near-infinite set of lockers. Anyone can see what’s in a locker, and anyone can put money in a locker, but each locker is secured with a (secret) combination, and only the person with the combination can retrieve the money.
 
-One standard type of combination lock has four digits that each run from 0 to 9. That creates 10^4 combinations or 10,000. Here’s where the randomness comes in: if the combination is actually unpredictable, then it can only be broken by someone running through all the possible combinations: 0000, 0001, 0002, etc. If they could test a number a second, they’d break the combination in at most three hours (and on average, in an hour and a half).
+One standard type of combination lock has four digits that each run from 0 to 9. That creates 10^4 combinations or 10,000 possible secrets. Here’s where the randomness comes in: if the combination is actually unpredictable, then it can only be broken by someone running through all the possible combinations: 0000, 0001, 0002, etc. If they could test a number a second, they’d break the combination in at most three hours (and on average, in an hour and a half).
 
-Clearly, that’s not sufficient to protect actual money (like cryptocurrencies), especially when attackers can test numbers secretly (over the internet). For that, you need a much larger secret number.
+Clearly, that’s not a sufficient secret to protect actual money (like cryptocurrencies), especially when attackers can test numbers covertly (over the internet). For that, you need a much larger secret number.
 
 ### The Weakness of Passwords
 
-“So,” you might say. “Does that mean that I can use a password to protect my digital assets? Then I can keep it in my head.” Unfortunately, there are multiple problems with this methodology. First, a “brain wallet” is innately prone to failure; worse, there won’t be any way for your heirs or descendants to reclaim your digital assets. However, one more sobering fact makes this methodology even more problematic: traditional passwords are no longer secure.
+“So,” you might say. “Does that mean that I can use a password as a secret for protecting my digital assets? Then I can keep it in my head.” Unfortunately, there are multiple problems with this methodology. First, a “brain wallet” is innately prone to failure; worse, there won’t be any way for your heirs or descendants to reclaim your digital assets. However, one more sobering fact makes this methodology even more problematic: traditional passwords are no longer secure.
 
 Theoretically an eight-character password contains 64 bits of randomness[^bitsdef], but that turns out not to be the case in reality. That’s because any character in a password is likely to be drawn from the 100 or so characters available on a standard keyboard: that immediately drops the 8 bits of randomness for each character down to 6 or 7, which would be 48 to 56 bits total for an eight-character password. But, passwords are worse than that. They tend to be arranged into words, and they tend to use standard substitutions, which makes them even less secure; like that four-digit locker combination, any short-to-medium-length password can be broken today in a fairly short amount of time!
 
-The [*zxcvbn*](https://github.com/dropbox/zxcvbn/blob/master/README.md) [*interactive password demo*](https://lowe.github.io/tryzxcvbn/) allows the testing of passwords, with results shown for computers of various powers. Obviously *real* passwords should not be tested on any internet service, but the following benchmarks for entirely random passwords of different lengths are instructive. Each entry shows how long the password would take to crack given a machine that could make 10B (billion) guesses a second, which turns out to be a [*realistic goal*](https://arstechnica.com/information-technology/2012/12/25-gpu-cluster-cracks-every-standard-windows-password-in-6-hours/):
+The [*zxcvbn*](https://github.com/dropbox/zxcvbn/blob/master/README.md) [*interactive password demo*](https://lowe.github.io/tryzxcvbn/) support the testing of passwords, with results shown for computers of various powers. Obviously *real* passwords should not be tested on any internet service, but the following benchmarks for entirely random passwords of different lengths are instructive. Each entry shows how long the password would take to crack given a machine that could make 10B (billion) guesses a second, which turns out to be a [*realistic goal*](https://arstechnica.com/information-technology/2012/12/25-gpu-cluster-cracks-every-standard-windows-password-in-6-hours/):
 
 * 5 characters (58T%n): less than a second 
 * 8 characters (lVA\#6jx6): less than a second 
@@ -35,9 +35,9 @@ The [*zxcvbn*](https://github.com/dropbox/zxcvbn/blob/master/README.md) [*intera
 * 18 characters (K1cAhiQ00I@Ol!vvvK): 1 year 
 * 20 characters (EoQ7\^\#y1xR\^WeQeqdst\$): centuries
 
-And that’s why you’re not going to be brain-walleting a password for your digital assets: there’s not enough randomness in a password for it to be well-protected unless it’s very long and fundamentally impossible to memorize. Oh, you could use an alternative like the [*EFF’s randomphrase list*](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases), which allows you to get the equivalent of 77 bits of protection with six seven-character words. But even in these situations, you’re unlikely to manage more than 80 bits of entropy, which is the absolute minimum you’d want in the current day and age.
+And that’s why you’re not going to be brain-walleting a password for your digital assets: there’s not enough randomness in a password for it to be an unguessable secret unless it’s very long and fundamentally impossible to memorize. Oh, you could use an alternative like the [*EFF’s randomphrase list*](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases), which allows you to get the equivalent of 77 bits of protection with six seven-character words. But even in these situations, you’re unlikely to manage more than 80 bits of entropy, which is the absolute minimum you’d want in the current day and age.
 
-At the moment, 80 bits of protection are theoretically safe under any likely cracking scenario … but the Bitcoin mining network as a group actually passed the ability to make 2\^80 guesses in a year at the end of 2013 and has [*peaked at closer to 2\^92*](https://crypto.stackexchange.com/questions/13299/is-80-bits-of-key-size-considered-safe-against-brute-force-attacks/13305#13305). Though it’s unlikely that someone could put together that much computing power to break a single key, that amount of computer power does already exist on Earth, and we wouldn’t want our assets’ safety lying so near the ever-advancing line of what can be broken.
+At the moment, 80 bits of protection (the equivalent of that EFF randomphrase or another long password) are theoretically safe under any likely cracking scenario … but the Bitcoin mining network as a group actually passed the ability to make 2\^80 guesses in a year at the end of 2013 and has [*peaked at closer to 2\^92*](https://crypto.stackexchange.com/questions/13299/is-80-bits-of-key-size-considered-safe-against-brute-force-attacks/13305#13305). Though it’s unlikely that someone could put together that much computing power to break a single key, that amount of computer power does already exist on Earth, and we wouldn’t want our assets’ safety lying so near the ever-advancing line of what can be broken.
 
 Which is why it’s fortunate that Bitcoin’s virtual combination lock isn’t 80 bits long, but rather 256.
 
@@ -131,13 +131,13 @@ Or:
 
 > 8M
 
-In other words, in order to guess all of the possible combinations in a Bitcoin private key, you’d have to have every star in the whole universe have an Earth-like planet where every person had their own complete Bitcoin mining network, and they’d all have to calculate for the entire lifetime of the universe, and then they’d have to do that 8 million more times!
+In other words, in order to crack a 256-bit secret by guessing all of the possible combinations in a Bitcoin private key, you’d have to have every star in the whole universe have an Earth-like planet where every person had their own complete Bitcoin mining network, and they’d all have to calculate for the entire lifetime of the universe, and then they’d have to do that 8 million more times!
 
 Lucky you, on average you’ll find the key in half of that, or 4 million times!
 
 Bruce Schneier takes another approach in his _Applied Cryptography_ (pages 157-158), describing how it would take channeling the entire power of a supernova just to cycle a single 219-bit counter through all of its permutations, making an attack on a 256-bit key not just chronologically infeasible, but energetically infeasible too.
 
-Which is why cryptographers like randomness.
+Which is why cryptographers like randomness for protecting their secrets.
 
 (And why the 256-bit private key is a lot better than your 12- or 16-character password.)
 
@@ -189,9 +189,9 @@ So, cryptographers love randomness. But, randomness is hard and needs to be gene
 
 ## The Core of Custody
 
-This \#SmartCustody book don’t actually talk about *directly* protecting your cryptocurrency: your private key does that all on its own. In fact, everything that you do with cryptography, from protecting digital assets to signing digital documents, ultimately goes back to that big random number. It doesn’t matter if that number is part of public-key cryptography or a classic symmetric key cryptography system; in either case, the number protects your assets.
+This \#SmartCustody book don’t actually talk about *directly* protecting your cryptocurrency: your private key does that all on its own. In fact, everything that you do with cryptography, from protecting digital assets to signing digital documents, ultimately goes back to that secret. It doesn’t matter if that number is part of public-key cryptography or a classic symmetric key cryptography system; in either case, the number protects your assets.
 
-What this book instead teaches is how to protect that number: so that you don’t lose it, misuse it, or have it stolen.
+What this book instead teaches is how to protect that number: so that you don’t lose your secret, misuse it, or have it stolen.
 
 That’s all that smart custody is.
 
