@@ -191,7 +191,7 @@ So, cryptographers love randomness. But, randomness is hard and needs to be gene
 
 This \#SmartCustody book don’t actually talk about *directly* protecting your cryptocurrency: your private key does that all on its own. In fact, everything that you do with cryptography, from protecting digital assets to signing digital documents, ultimately goes back to that secret. It doesn’t matter if that number is part of public-key cryptography or a classic symmetric key cryptography system; in either case, the number protects your assets.
 
-What this book instead teaches is how to protect that number: so that you don’t lose your secret, misuse it, or have it stolen.
+What this book instead teaches is how to protect that number, both by keeping it safe and only entrusting it to safe devices: so that you don’t lose your secret, misuse it, or have it stolen.
 
 That’s all that smart custody is.
 
