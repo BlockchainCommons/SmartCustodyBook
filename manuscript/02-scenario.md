@@ -75,7 +75,7 @@ See **Adversaries** for a more extensive list and discussion.
 
 The following items are necessary for this procedure, and should be purchased in advance of your setting up this scenario.[^1].
 
-* [  ] Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) )
+* [  ] Small Home Safe (For example: [https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/](https://www.amazon.com/AmazonBasics-Security-Safe-0-5-Cubic-Feet/dp/B00UG9HB1Q/) ) [^safe]
 * [  ] Safety Deposit Box at Bank or other institution
 * [  ] Existing Laptop or Desktop Computer capable of running [Ledger Live](https://www.ledger.com/pages/ledger-live) [^2], preferably able to boot from a USB drive
 * [  ] 1 Fine-point Permanent Marker (Sharpie [https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/](https://www.amazon.com/Sharpie-Plastic-Point-Resistant-1742663/) or equivalent)
@@ -271,7 +271,7 @@ _This optional step is omitted in this basic procedure. Enable it with "Use a Se
 
 #### **Step M: Store in Safes** [^16]
 1. [  ] Sign the plastic case of your Ledgers with a permanent marker, or use an engraving tool to sign it.[^17]
-2. [  ] OPTIONAL: Store materials in tamper-resistant bag and sign it; [  ] OPTIONAL: Store materials in fire resistant bag.
+2. [  ] OPTIONAL: Store materials in tamper-evident bag and sign it; [  ] OPTIONAL: Store materials in fire resistant bag.
 3. [  ] Place encrypted key-related devices and non-key devices in your Home Safe, including one Ledger, the your instructions for heirs, and one copy of the xpub and cold storage addresses. The safe should NOT have a copy of any unencrypted recovery phrases or the PIN.
 4. [  ] Place unencrypted key-related materials in the safety deposit box, including the CryptoTag and the paper Recovery Phrase and PIN. Also store duplicates: the second Ledger, the second copy of instructions, and one copy of the xpub and cold storage addresses.
 
@@ -458,7 +458,7 @@ _They can also increase [Process Fatigue](#adversary-process-fatigue) because of
 
 **_Add the following action to step "M" of your procedure:_**
 
-1. [  ] Store materials in tamper-evident bag and sign it.
+1. [  ] Store materials in tamper-evident bag, record the serial number, and sign it.
 
 **_Add the following to your requirements list:_**
 
@@ -472,7 +472,9 @@ _One bag is used for your home safe, one for your safety deposit box._
 
 **Obstructed Adversary:** [Key Fragility](#adversary-key-fragility), [Transaction Error](#adversary-transaction-error), [User Error](#adversary-user-error)
 
-_Printing information from your computer rather than hand copying it can improve [Key Fragility](#adversary-key-fragility) and can reduce [Transaction Error](#adversary-transaction-error) and [User Error](#adversary-user-error)._
+**Created Adversary:** Various varieties of Theft.
+
+_Printing information from your computer rather than hand copying it can improve [Key Fragility](#adversary-key-fragility) and can reduce [Transaction Error](#adversary-transaction-error) and [User Error](#adversary-user-error). However, be aware that a laser printer might keep what you printed in memory, opening you to Theft. Do not use a printer that will ever be reattached to a network, and clear its memory if you know how._
 
 **_Add the following action to step "B" of your procedure:_**
 
@@ -626,6 +628,8 @@ _The downside of using a USB Drive is that it requires both a fair amount of wor
 
 * 1 USB Drive (a new, unopened Memory Stick, rated for fastest speed you can find, that will work with your laptop). I like this dual A & C USB Memory Stick [https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2](https://www.amazon.com/Patriot-Stellar-C-Type-C-Flash-PIF64GSTRCOTG/dp/B015OYNHY2) or just a small USB Hard Drive.
 
+More sophisticated users might prefer a [read-only USB](https://www.amazon.com/FlashBlu30-Physical-Protect-Switch-SuperSpeed/dp/B00JJIEE4M/) or a [PIN-protected USB](https://www.amazon.com/Apricorn-Hardware-Encrypted-Validated-ASK3Z-128GB/dp/B0711KDGML/), though these tend to require more careful use and a clear understanding of when writing is required. They're also somewhat more expensive.
+
 {pagebreak}
 
 ### Optional Step: Use a (Second) USB Drive
@@ -714,6 +718,8 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 [^1]: These items should ideally be sent to your work address or to a UPS or FedEx store for pickup, not a home address, so as not to correlate your Bitcoin holdings and your real name.
 
+[^safe]: There's a tradeoff in every decision you make in a security scenario. Here, you have a cheap safe that certainly provides some security, but might draw more attention to your valuables. We don't believe in the alternative, security by obscurity, but this does raise the question of whether you should invest more money in a home safe that's harder to open.
+
 [^2]:Current requirements are: macOS 10.9 (64-bit), Windows 8 (64-bit) or Linux Ubuntu 16.10.
 
 [^3]:We were forced to make a decision between two major hardware wallets: the Ledger and the Trezor. Both are good, mature solutions with well-reviewed code and solid ecosystems. We ultimately selected the Ledger because it stores its private keys on a cryptographic chip. Since we advocate keeping a hardware wallet in a less-secure home safe, this was a requirement, as it offsets the adversary of Casual Physical Theft. There are disadvantages to the Ledger as well: its cryptographic chip is proprietary, thus unlike the Trezor all of its code isn't open source. Thus, our understanding of its security is ultimately somewhat limited. If another hardware wallet were to appear with an open cryptographic private-key store and open-source code, we would recommend that instead. In the current market, however, we believe that the Ledger device is the best for this scenario. You may substitute a Trezor for this scenario as the tradeoffs are somewhat subjective. (There are also other options such as the Coldcard.)
@@ -726,7 +732,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 [^7]:Joint names associated with a joint account should make it more difficult for legal physical [Denial of Access](#adversary-denial-of-access) to box by the heirs, however, the rules for this differ state-by-state. Ideally this account should be in the form of "joint tenancy" and "tenancy by the entirety". You should seek advice of a local lawyer. See [http://www.weisslawstl.com/2008/02/16/joint-tenancy-accounts-safe-deposit-boxes-will-substitutes-will-substitute-will](http://www.weisslawstl.com/2008/02/16/joint-tenancy-accounts-safe-deposit-boxes-will-substitutes-will-substitute-will)
 
-[^8]:Higher security scenarios will require the initialization of computer devices and keys generated in a room with no windows, all cell phones turned off, laptop cameras and microphones turned off and taped over, and limited internet connectivity (no wifi). This is not required for this base scenario, but is cheap and easy to do.
+[^8]:Higher security scenarios will require the initialization of computer devices and keys generated in a room with no windows, all cell phones removed, laptop cameras, microphones, and home security cameras turned off and taped over, and limited internet connectivity (no wifi). A [white noise generator](https://www.amazon.ca/Sleeping-Soothing-Portable-Permanent-Relaxation/dp/B071PB5PXG/) can further foil anything you might have missed. This is not required for this base scenario, but is cheap and easy to do.
 
 [^9]:One of the most important principles of these procedures is that the Recovery Phrase (which is the Master Private Key Seed for all of your digital assets) is generated on trusted hardware certified for key creation, and from that point the Recovery Phrase or Master Private Key Seed never resides physically on a network-attached computer.
 
