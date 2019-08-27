@@ -1,5 +1,9 @@
 # Sponsors
 
+The mission of the Blockchain Commons is to support blockchain infrastructure and the broader security industry through cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and supportive documentation. We are a “not-for-profit” benefit corporation, with a strong commitment to open source and a defensive patent strategy. 
+
+Our mission is funded by people like you: your personal or corporate patronage can help the Commons to accomplish its goals. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
+
 The following parties have contributed to this project in order to make it freely available to the public. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com).
 
 ### Sustaining Patrons
