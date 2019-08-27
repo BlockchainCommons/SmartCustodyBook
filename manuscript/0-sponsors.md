@@ -7,20 +7,35 @@ The following parties have contributed to this project in order to make it freel
 Sustaining patrons have made an ongoing commitment of funds for the support of Blockchain Commons and/or its #SmartCustody work.
 
 {float: left, width: "30%"}
-![](resources/sponsors/adamant-capital.png)
-
-**[Adamant Capital](https://www.adamantcapitalfund.com/)** believes that Bitcoin is retooling the financial industry. They run Adamant Fund I, a Bitcoin Alpha fund. Their mission is to responsibly outperform Bitcoin in a tax-efficient manner. Their vision is to build on Bitcoin as a collateral asset, as a basis for lending, as a financial benchmark, and as a developing technology.
-
-{float: left, width: "30%"}
 ![](resources/sponsors/dcd.png)
 
 **[Digital Contract Design](https://contract.design)** creates contracts with trust minimization. They engage in Contract Design to show how contracts could be made more reliable; they offer Threat Analysis to demonstrate how well contract design holds up in an adversarial setting; and they work with the W3C Credentials Community Group and Rebooting Web-of-Trust community to provide a Self-Sovereign Identity Wallet.
+
+{float: left, width: "30%"}
+![](resources/sponsors/htcexodus.png)
+
+**[HTC Exodus](https://www.htcexodus.com/eu/)** is the product of HTC, who brings brilliance to life through leading innovation in smart mobile device and experience design. Beginning with a vision to put a personal computer in the palm of our customers’ hands, they have led the way in the evolution from palm PC to smartphone. Their goal for the Exodus blockchain phone is to rebuild trust, one phone at a time.
 
 {pagebreak}
 
 ### Project Sponsors
 
 Project sponsors have donated funds specifically for the  creation of this #SmartCustody book.
+
+{float: left, width: "30%"}
+![](resources/sponsors/adamant-capital.png)
+
+**[Adamant Capital](https://www.adamantcapitalfund.com/)** believes that Bitcoin is retooling the financial industry. They run Adamant Fund I, a Bitcoin Alpha fund. Their mission is to responsibly outperform Bitcoin in a tax-efficient manner. Their vision is to build on Bitcoin as a collateral asset, as a basis for lending, as a financial benchmark, and as a developing technology.
+
+{float: left, width: "30%"}
+![](resources/sponsors/catallaxy-bleu.png)
+
+**[Catallaxy](https://catallaxy.rcgt.com/en/)** develops products and services in the domain of finance and accounting. They have a group of technology experts in cryptography, blockchain, data science and artificial intelligence to develop solutions that can help build trust in the digital economy. Based in Montréal, Catallaxy is a subsidiary of Raymond Chabot Grant Thornton, Quebec's largest accounting firm, part of the Grant Thornton network.
+
+{float: left, width: "30%"}
+![](resources/sponsors/ledger.png)
+
+**[Ledger](https://www.ledger.com/)** develops security and infrastructure solutions for cryptocurrencies, as well as blockchain applications for individuals and companies, by leveraging a distinctive, proprietary technology. Their Ledger Nano S and the touchscreen Ledger Blue can both directly support 23 cryptocurrencies -- and dozens more via third party applications.
 
 {float: left, width: "30%"}
 ![](resources/sponsors/unchained-capital.png)
@@ -53,8 +68,8 @@ In-kind sponsors have provided material such as books or hardware devices that w
 
 **[CryptoTag](https://cryptotag.io/)** is a crypto security company from Amsterdam. They believe cryptocurrencies and blockchain will make our society a better place. They are a security company whose customers count on them to be there when all the other layers of security, like hardware and software layers, fail.
 
-{float: left, width: "30%"}
-![](resources/sponsors/ledger.png)
+{pagebreak}
 
-**[Ledger](https://www.ledger.com/)** develops security and infrastructure solutions for cryptocurrencies, as well as blockchain applications for individuals and companies, by leveraging a distinctive, proprietary technology. Their Ledger Nano S and the touchscreen Ledger Blue can both directly support 23 cryptocurrencies -- and dozens more via third party applications.
+### Other Financial Contributors
 
+Thanks to the following who have offered financial contributions to Blockchain Commons or the #SmartCustody project: Anonymous (x1), Beam Privacy, Gabriele Domenichini, Frederic Meyer, David Strayhorn
