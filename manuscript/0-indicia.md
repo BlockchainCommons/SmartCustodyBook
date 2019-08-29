@@ -4,7 +4,7 @@
 
 **Additional Contributors:** Bryan Bishop [@kanzure](https://twitter.com/kanzure) (Adversaries, Risk Modeling), Greg Maxwell (Adversaries)
 
-**Reviewers:** Ferdinando Maria Ametrano, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Bryan Bishop @kanzure, Miron C., Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester), Ryan Grant, Greg Maxwell, Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Karim Nassar [@karimofthecrop](https://twitter.com/karimofthecrop), Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Peter Todd, Jonathan Wilkins, Glenn Willen [@gwillen](https://twitter.com/gwillen)
+**Reviewers:** Ferdinando Maria Ametrano, Nicolas Bacca [@LedgerHQ](https://twitter.com/LedgerHQ), Bryan Bishop [@kanzure](https://twitter.com/kanzure), Miron C., Angus Champion de Crespigny [@anguschampion](https://twitter.com/AngusChampion), Tuur Deemester [@TuurDemeester](https://twitter.com/TuurDemeester), Ryan Grant, Greg Maxwell, Pamela Morgan [@pamelawjd](https://twitter.com/pamelawjd), Karim Nassar [@karimofthecrop](https://twitter.com/karimofthecrop), Adam Shostack [@adamshostack](https://twitter.com/adamshostack), Peter Todd [@peterktodd](https://twitter.com/peterktodd), Jonathan Wilkins, Glenn Willen [@gwillen](https://twitter.com/gwillen)
 
 _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](https://www.youtube.com/watch?v=S9JGmA5_unY) on how to think about large numbers. We borrowed his process, but adapted it in our own way. Any understanding comes from his approach, while any mistakes in calculation are ours._
 
@@ -14,7 +14,7 @@ _Also, thanks to 3Blue1Brown who has created an excellent [*YouTube video*](http
 
 [#SmartCustody](https://www.SmartCustody.com) is a project of [Blockchain Commons](https://www.BlockchainCommons.com), which supports blockchain infrastructure, internet security, and cryptographic research.
 
-The leads for these #SmartCustody efforts are Christopher Allen ([@ChristopherA](https://twitter.com/ChristopherA)), Shannon Appelcline ([@Appelcline](https://twitter.com/Appelcline)), and Bryan Bishop ([@Kanzure](https://twitter.com/kanzure)). For more information see [Author Bios](#author-bios) at end of this white paper.
+The leads for these #SmartCustody efforts are Christopher Allen ([@ChristopherA](https://twitter.com/ChristopherA)) and Shannon Appelcline ([@Appelcline](https://twitter.com/Appelcline)). For more information see [Author Bios](#author-bios) at end of this white paper.
 
 The procedures and contents of this white paper have been comprehensively peer-reviewed by a number of experts in the digital-asset ecosystem, including contributors to open-source project like Bitcoin Core and [The Glacier Project](https://glacierprotocol.org/), employees of blockchain technology companies like Blockstream, Ledger, and Tokensoft, and attorneys from a variety of disciplines. We expect to iterate these procedures and update this document regularly as new digital asset technologies and best practices become mature.
 
