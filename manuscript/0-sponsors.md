@@ -32,6 +32,11 @@ Project sponsors have donated funds specifically for the  creation of this #Smar
 **[Adamant Capital](https://www.adamantcapitalfund.com/)** believes that Bitcoin is retooling the financial industry. They run Adamant Fund I, a Bitcoin Alpha fund. Their mission is to responsibly outperform Bitcoin in a tax-efficient manner. Their vision is to build on Bitcoin as a collateral asset, as a basis for lending, as a financial benchmark, and as a developing technology.
 
 {float: left, width: "30%"}
+![](resources/sponsors/beam.png)
+
+ **[Beam Privacy](https://t.co/eiJuqKMV7a)** offers scalable confidential cryptocurrency: a Mimblewimble implementation. It completely conceals the values and metadata of transactions, in a prunable way which also reduces bloating on the blockchain. In addition to enhanced privacy and fungibility, this allows for much greater scalability. Beam's emphasis is on privacy, scalability, and usability. Download [their wallet](https://t.co/ZN8hWljKG)) to try it out. 
+
+{float: left, width: "30%"}
 ![](resources/sponsors/catallaxy-bleu.png)
 
 **[Catallaxy](https://catallaxy.rcgt.com/en/)** develops products and services in the domain of finance and accounting. They have a group of technology experts in cryptography, blockchain, data science and artificial intelligence to develop solutions that can help build trust in the digital economy. Based in Montréal, Catallaxy is a subsidiary of Raymond Chabot Grant Thornton, Quebec's largest accounting firm, part of the Grant Thornton network.
@@ -76,4 +81,4 @@ In-kind sponsors have provided material such as books or hardware devices that w
 
 ### Other Financial Contributors
 
-Thanks to the following who have offered financial contributions to Blockchain Commons or the #SmartCustody project: Anonymous (x1), Beam Privacy, Gabriele Domenichini, Frederic Meyer, David Strayhorn
+Thanks to the following who have offered financial contributions to Blockchain Commons or the #SmartCustody project: Anonymous (x3), Gabriele Domenichini, Frederic Meyer, David Strayhorn
