@@ -4,7 +4,7 @@ The mission of the Blockchain Commons is to support blockchain infrastructure an
 
 Our mission is funded by people like you: your personal or corporate patronage can help the Commons to accomplish its goals. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
 
-The following parties have contributed to this project in order to make it freely available to the public. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com).
+The following parties have contributed to this project in order to make it freely available to the public. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com). You can also make a one-time contribution to our [BTCPay](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund).
 
 ### Sustaining Patrons
 
@@ -82,3 +82,5 @@ In-kind sponsors have provided material such as books or hardware devices that w
 ### Other Financial Contributors
 
 Thanks to the following who have offered financial contributions to Blockchain Commons or the #SmartCustody project: Anonymous (x3), Gabriele Domenichini, Frederic Meyer, David Strayhorn
+
+If you would like to support this project, you can do so with our [BTCPay](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) or by contacting [ChristopherA](mailto:ChristopherA@blockchaincommons.com).
