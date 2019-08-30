@@ -31,7 +31,7 @@ Project sponsors have donated funds specifically for the  creation of this #Smar
 
 **[Adamant Capital](https://www.adamantcapitalfund.com/)** believes that Bitcoin is retooling the financial industry. They run Adamant Fund I, a Bitcoin Alpha fund. Their mission is to responsibly outperform Bitcoin in a tax-efficient manner. Their vision is to build on Bitcoin as a collateral asset, as a basis for lending, as a financial benchmark, and as a developing technology.
 
-{float: left, width: "30%"}
+{float: left, width: "15%"}
 ![](resources/sponsors/beam.png)
 
  **[Beam Privacy](https://t.co/eiJuqKMV7a)** offers scalable confidential cryptocurrency: a Mimblewimble implementation. It completely conceals the values and metadata of transactions, in a prunable way which also reduces bloating on the blockchain. In addition to enhanced privacy and fungibility, this allows for much greater scalability. Beam's emphasis is on privacy, scalability, and usability. Download [their wallet](https://t.co/ZN8hWljKG)) to try it out. 
