@@ -31,4 +31,3 @@ Please give attribution by linking to the [https://www.SmartCustody.com](https:/
 Any questions or issues concerning this white paper or contributions of updates via pull requests can be made via our Github repository at [https://github.com/BlockchainCommons/SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook).
 
 
-
