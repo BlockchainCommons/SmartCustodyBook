@@ -4,7 +4,7 @@ The mission of the Blockchain Commons is to support blockchain infrastructure an
 
 Our mission is funded by people like you: your personal or corporate patronage can help the Commons to accomplish its goals. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
 
-The following parties have contributed to this project in order to make it freely available to the public. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com). You can also make a one-time contribution via our [Support #SmartCustody Book Crowdfunding](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) page.
+The following parties have contributed to this project in order to make it freely available to the public and to support continued updates as technology changes. If you're interested in sponsoring this or other Blockchain Commons projects, contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com). You can also make a one-time contribution via our [Support #SmartCustody Book Crowdfunding](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) page.
 
 ### Sustaining Patrons
 
@@ -81,7 +81,7 @@ In-kind sponsors have provided material such as books or hardware devices that w
 
 ### Other Financial Contributors
 
-Thanks to the following who have offered financial contributions to the #SmartCustody project in order to keep this book free-to-the-public and to support continued updates as technology changes.
+Thanks to the following who have offered financial contributions to the #SmartCustody project in order to make it freely available to the public and to support continued updates as technology changes.
 
 - **Anonymous (x3)**
 - **Gabriele Domenichini**
@@ -92,4 +92,4 @@ If you would like to support this project and be added to this list of financial
 
 {float: center}
 
-![](resources/Support_SmartCustody_Book_BTCPay.jpeg)
+![](resources/Support_SmartCustody_Book_BTCPay.jpg)

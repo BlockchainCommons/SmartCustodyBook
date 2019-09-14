@@ -6,7 +6,7 @@
 The Blockchain Commons is dedicated to "Supporting Blockchain Infrastructure, Internet Security & Cryptographic Research". #SmartCustody is a Blockchain Commons project.
 
 ### Blockcain Commons BTCPay
-[https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund)
+[https://btcpay.blockchaincommons.com/](https://btcpay.blockchaincommons.com/)
 
 To support the project, you can make one-time BTC contributions via our BTCPay server.
 
@@ -20,7 +20,13 @@ The #SmartCustody project is focused on "The use of advanced cryptographic tools
 
 The entire #SmartCustody book is available in a Github repo. Feel free to make Pull Requests or post issues to help us keep improving it.
 
+### #SmartCustody BTCPay
+
+[https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund)
+
+To support keeping this book freely available to the public and to support continued updates as technology changesm you can make one-time BTC contributions via our BTCPay server.
+
 ### The #SmartCustody Email List
 [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody)
 
-Sign up to receive occasional announcements about #SmartCustody workshops and new documents.
+Sign up to receive occasional announcements about new and updated documents and #SmartCustody workshops and events.
