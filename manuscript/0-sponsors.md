@@ -81,15 +81,15 @@ In-kind sponsors have provided material such as books or hardware devices that w
 
 ### Other Financial Contributors
 
-Thanks to the following who have offered financial contributions to the #SmartCustody project in order to make it freely available to the public and to support continued updates as technology changes.
+Thanks to the following who have offered financial contributions to the #SmartCustody project in order to make it freely available to the public and to support continued updates as the technology changes.
 
 - **Anonymous (x3)**
 - **Gabriele Domenichini**
 - **Frederic Meyer**
 - **David Strayhorn**
 
-If you would like to support this project and be added to this list of financial contributors, you can do so via [Support #SmartCustody Book Crowdfunding](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) page (or use the QR code below) of our [BTCPay](https://btcpay.blockchaincommons.com/) server, or contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com) directly.
+If you would like to support this project and be added to this list of financial contributors, you can do so via the [#SmartCustody Book Crowdfunding](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) page on our [BTCPay](https://btcpay.blockchaincommons.com/) server (also available via the QR code below). You can also contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com) directly, particularly if you're interested in making a larger or continuing contribution.
 
-{align: middle}
-![](resources/suport-btcpay.png)
+{align: middle, width: "25%"}
+![](resources/support-btcpay.png)
 
