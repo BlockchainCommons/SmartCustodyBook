@@ -90,6 +90,4 @@ Thanks to the following who have offered financial contributions to the #SmartCu
 
 If you would like to support this project and be added to this list of financial contributors, you can do so via [Support #SmartCustody Book Crowdfunding](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund) page (or use the QR code below) of our [BTCPay](https://btcpay.blockchaincommons.com/) server, or contact [ChristopherA](mailto:ChristopherA@blockchaincommons.com) directly.
 
-{float: center}
-
 ![](resources/Support_SmartCustody_Book_BTCPay.jpg)
