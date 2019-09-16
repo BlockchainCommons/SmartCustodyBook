@@ -753,6 +753,6 @@ The specifics of this risk modeling exercise aren’t important, except as a too
 
 [^ourlikely]: This is the set of terms we use in our examples.
 
-[^ciaLikely]: These are the ["Words of Estimative Probability"](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/sherman-kent-and-the-board-of-national-estimates-collected-essays/6words.html). We don't use them because none of the risk-modeling odds are likely to be anywhere close to "even"; the vulnerabilities should all be much lower likely events. But, if these call out to you, definitely use them.
+[^cialikely]: These are the ["Words of Estimative Probability"](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/sherman-kent-and-the-board-of-national-estimates-collected-essays/6words.html). We don't use them because none of the risk-modeling odds are likely to be anywhere close to "even"; the vulnerabilities should all be much lower likely events. But, if these call out to you, definitely use them.
 
 [^spreadsheet]: Some users of this risk modeling system have preferred to lay everything out in a spreadsheet, and then use that to create a graph (or to otherwise identify the risk). That's certainly a fine alternative if you have the spreadsheet expertise.
