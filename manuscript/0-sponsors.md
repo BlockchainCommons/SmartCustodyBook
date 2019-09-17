@@ -83,6 +83,7 @@ In-kind sponsors have provided material such as books or hardware devices that w
 
 Thanks to the following who have offered financial contributions to the #SmartCustody project in order to make it freely available to the public and to support continued updates as the technology changes.
 
+- **Andreas M. Antonopoulos**
 - **Anonymous (x3)**
 - **Gabriele Domenichini**
 - **Frederic Meyer**
