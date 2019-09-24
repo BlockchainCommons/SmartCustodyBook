@@ -39,7 +39,7 @@ Project sponsors have donated funds specifically for the  creation of this #Smar
 {float: left, width: "30%"}
 ![](resources/sponsors/blockchainbird.png)
 
-**[Blockchainbird](https://github.com/blockchainbird/bird)** is a free and open source software toolset with a manual to build an extra layer of guarantee on top of existing database systems. It's free to use and to adapt to your own needs. Bird gives wings to projects that are labeled as Blockchain, but in fact could be implemented with databases.
+**[Blockchainbird](https://github.com/blockchainbird/bird)** is a free and open source software toolset with a manual to build an extra guarantee layer on existing database systems. It is free to use and adapt to your own needs. Smartphones and smart custody arranged? Then Bird gives wings to projects that are labeled as blockchain, but can in fact be implemented with databases.
 
 {float: left, width: "30%"}
 ![](resources/sponsors/catallaxy-bleu.png)
