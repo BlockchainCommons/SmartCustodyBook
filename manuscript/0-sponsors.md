@@ -37,7 +37,7 @@ Project sponsors have donated funds specifically for the  creation of this #Smar
  **[Beam Privacy](https://beam.mw)** is a scalable confidential cryptocurrency: a Mimblewimble implementation. It completely conceals the values and metadata of transactions, in a prunable way which also reduces bloating on the blockchain. In addition to enhanced privacy and fungibility, this allows for much greater scalability. Beam's emphasis is on privacy, scalability, and usability. Download [their wallet](https://beam.mw/downloads) to try it out. 
 
 {float: left, width: "30%"}
-![](resources/sponsors/blockchainbird.tiff)
+![](resources/sponsors/blockchainbird.png)
 
 **[Blockchainbird](https://github.com/blockchainbird/bird)** is a free and open source software toolset with a manual to build an extra layer of guarantee on top of existing database systems. It's free to use and to adapt to your own needs. Bird gives wings to projects that are labeled as Blockchain, but in fact could be implemented with databases.
 
