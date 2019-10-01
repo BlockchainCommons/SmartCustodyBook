@@ -51,6 +51,11 @@ Smartphones and smart custody arranged? Then Bird gives wings to projects that a
 {pagebreak}
 
 {float: left, width: "30%"}
+![](resources/sponsors/hardcore.png)
+
+**[Hardcore Fund](https://hardcore.fund/)** is a nonprofit organization backed by hardcore bitcoiners. We donate to those who contribute to the Bitcoin ecosystem independently as an individual, a team or a nonprofit project. Our mission is to diversify the current bitcoin developement funding landscape and cover neutral developers from all over the world.  The fund is currently run and managed by Kevin Pan and Dovey Wan
+
+{float: left, width: "30%"}
 ![](resources/sponsors/ledger.png)
 
 **[Ledger](https://www.ledger.com/)** develops security and infrastructure solutions for cryptocurrencies, as well as blockchain applications for individuals and companies, by leveraging a distinctive, proprietary technology. Their Ledger Nano S and the touchscreen Ledger Blue can both directly support 23 cryptocurrencies -- and dozens more via third party applications.
