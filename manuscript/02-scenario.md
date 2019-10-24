@@ -164,6 +164,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    2. Afterward, you can hit the right button to go to the next word
 7. [  ] Write down Recovery Phrase, adding it to the waterproof paper page
    1. Write it in 6 rows, with 4 words in each row
+       - The specific order of words that appears on the device is crucial: be sure to duplicate it precisely
    2. Beware of homonyms or similar words
    3. Leave some room at the bottom of the page for notes
    4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
