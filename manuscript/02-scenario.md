@@ -168,10 +168,12 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    2. Beware of homonyms or similar words
    3. Leave some room at the bottom of the page for notes
    4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
-      - Never, _never_ put your Recovery Phrase on a connected device. If a device is connected to a network, it can be hacked and even a local copy of your Recovery Phrase will be stolen.
-   5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
-   6. You'll need to verify all 24 words; expect this to take some time.
-   7. You should see "Your device is now ready".
+   5. Protect your Recovery Phrase!
+      - Never, _never_ put your Recovery Phrase on a connected device. If a device is connected to a network, it can be hacked and even a local copy of your Recovery Phrase will be stolen. In fact, putting your Recovery Phrase on any sort of digital device is dangerous because they _could_ be connected — which is why this scenario recommends writing down phrases and embedded them in other physical devices
+      - Also, never re-enter your Recovery Phrase unless prompted by the physical device; responding to anything in email or on the web might make you vulnerable to phishing
+   6. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
+   7. You'll need to verify all 24 words; expect this to take some time.
+   8. You should see "Your device is now ready".
 8. [  ] Install Bitcoin on your Ledger
    1. **LL:** Choose the "Manager" in Ledger Live
    2. Hit the right button on your Ledger to Give Permissions
