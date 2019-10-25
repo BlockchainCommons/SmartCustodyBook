@@ -223,7 +223,8 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    5. [  ] OPTIONAL: Write the name of the account, the xpub, and the root path on your waterproof sheet
    6. Repeat for additional accounts.
 5. [  ] Once you've confirmed receipt of your transaction, and possibly spent part of it, disconnect the Ledger
-
+       - Note that your hardware wallet will continue to receive transactions even when it's not connected. You can generate multiple addresses, and store the QR codes on another device, and use those whenever you want to receive money.
+       
 #### **Step F: Setup Fireproof Key Recovery Phrase** [^15]
 1. Set up your CryptoTag
    1. [  ] Stamp the the first four letters of each word in your Recovery Phrase into your CryptoTag.
