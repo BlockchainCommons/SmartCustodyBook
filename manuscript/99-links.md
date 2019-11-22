@@ -22,7 +22,7 @@ The entire #SmartCustody book is available in a Github repo. Feel free to make P
 
 ### #SmartCustody BTCPay
 
-[https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund](https://btcpay.blockchaincommons.com/apps/r6JPAMd5pUed6x4iQChstkkUx3q/crowdfund)
+[https://smartcustody.btcpay.blockchaincommons.com/](https://smartcustody.btcpay.blockchaincommons.com/)
 
 To support keeping this book freely available to the public and to support continued updates as technology changesm you can make one-time BTC contributions via our BTCPay server.
 
