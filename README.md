@@ -6,12 +6,12 @@ The first **SmartCustody Book** focuses on a risk-modeling exercise, which teach
 
 The following files contain more information:
 
-* [v1.01](https://bit.ly/SmartCustodyBookV101) as a PDF
-* [Manuscript Pages](manuscript) for PDF generation
+* [v1.01](https://bit.ly/SmartCustodyBookV101) of the **SmartCustody Book** as a PDF
+* [Manuscript Pages](manuscript) for PDF generation for the **SmartCustody Book**
 
 ## Status - Late Alpha
 
-**SmartCustody Book** is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
+The **SmartCustody Book** is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
 
 ## Origin, Authors, Copyright & Licenses
 
