@@ -9,9 +9,13 @@ The following files contain more information:
 * [v1.01](https://bit.ly/SmartCustodyBookV101) of the **SmartCustody Book** as a PDF
 * [Manuscript Pages](manuscript) for PDF generation for the **SmartCustody Book**
 
-## Status - Late Alpha
+## Status - First Release 2019-09-16
 
-The **SmartCustody Book** is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
+This is the first pubic release of **SmartCustody Book**. The is still currently under active development for future minor releases and major editions.
+
+## Disclaimer
+
+The information included in this repository and its derivatives are intended to inform a set of best practices. It may not address risks specific to your situation, and if it does not, you should modify appropriately. While this information may inform best practices, there is no guarantee that following this advice will sufficiently ensure the security of your digital assets. In addition, this information is only a window on best practices at a specific moment in time. Be aware that the Bitcoin & blockchain ecosystems may have evolved and the risk assessments of specific products may have changed since the publication of this draft. In other words: be cautious, be careful, and be aware of the current Bitcoin & blockchain landscape before you use this information.
 
 ## Origin, Authors, Copyright & Licenses
 
@@ -22,6 +26,8 @@ In most cases, the authors, copyright, and license for each file reside in heade
 ### Derived from…
 
 This **SmartCustody Book** project is either derived from or was inspired by:
+
+- #SmartCustody — Early drafts of these materials were written by Christopher Allen & Shannon Appelcline, and were (c) 2018-2019 by Christopher Allen. All rights to these works transferred to Blockchain Commmons, LLC on September 16, 2019.
 
 - [#SmartCustody White Papers](https://github.com/BlockchainCommons/SmartCustodyWhitePapers) — Repo containing some of the original texts used in this book, by the same authors, and under the same license.
 
@@ -50,7 +56,7 @@ The following people directly contributed to this repository. You can add your n
 | Name              | Role                | Github                                            | Email                                 | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
-| Shannon Appelcline | Co-Author | [@shannona](https://github.com/shannona) | \<shannon.appelcline@gmail.com\> | 7EC6 B928 606F 27AD | 
+| Shannon Appelcline | Co-Author | [@shannona](https://github.com/shannona) | \<shannon.appelcline@gmail.com\> | 7EC6 B928 606F 27AD |
 
 ## Responsible Disclosure
 
