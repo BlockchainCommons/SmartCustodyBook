@@ -500,7 +500,7 @@ Unlike a Casual Theft, a Sophisticated Theft is a real-world crime that specific
 
 ***Abstract Case Study: Listening In.*** Mallory rents a suite next to a Bitcoin bank. He then sets up listening devices to engage in an EMI side channel attack, extracting crucial information from electromagnetic leaks.
 
-***Abstract Case Study: An Evil Maid Attacking.*** Bob leaves his computer in his hotel room, and Mallory, now masquerading as a maid, sneaks in and installs a keylogger, possibly after booting from a corrupted USB stick. When Bob .ater types in his encryption keys, they’ll be sucked up by the keylogger and available to Mallory.
+***Abstract Case Study: An Evil Maid Attacking.*** Bob leaves his computer in his hotel room, and Mallory, now masquerading as a maid, sneaks in and installs a keylogger, possibly after booting from a corrupted USB stick. When Bob later types in his encryption keys, they’ll be sucked up by the keylogger and available to Mallory.
 
 {pagebreak}
 
