@@ -8,6 +8,7 @@ The following files contain more information:
 
 * [v1.01](https://bit.ly/SmartCustodyBookV101) of the **SmartCustody Book** as a PDF
 * [Manuscript Pages](manuscript) for PDF generation for the **SmartCustody Book**
+* [TODO] featuring a Table of Contents for v2.0 of the #SmartCustody book; support us to help make it happen
 
 ## Status - First Release 2019-09-16
 
