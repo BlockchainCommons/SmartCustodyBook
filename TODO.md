@@ -12,6 +12,8 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 
 ## Updated Table of Contents
 
+Obviously this table of contents is subject to change. In particular, wer're considering moving the risk modeling to later in the book to make it more approachable.
+
 ```
 FRONT MATTER
 
