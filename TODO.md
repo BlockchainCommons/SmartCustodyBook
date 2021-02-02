@@ -107,6 +107,10 @@ i. Appendix I: Sample Digital Assets Letter
 ii. Author Bios
 iii. Blockchain Commons Links
 ```
+## Open Questions
+
+Has BCC created any tools such as LetheKit that would be worthwhile to integrate, or is that too specific?
+
 ## Other Sources
 
 These are other sources that might provide insights into adversaries
