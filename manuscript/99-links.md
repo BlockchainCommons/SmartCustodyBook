@@ -20,12 +20,6 @@ The #SmartCustody project is focused on "The use of advanced cryptographic tools
 
 The entire #SmartCustody book is available in a Github repo. Feel free to make Pull Requests or post issues to help us keep improving it.
 
-### #SmartCustody BTCPay
-
-[https://smartcustody.btcpay.blockchaincommons.com/](https://smartcustody.btcpay.blockchaincommons.com/)
-
-To support keeping this book freely available to the public and to support continued updates as technology changesm you can make one-time BTC contributions via our BTCPay server.
-
 ### The #SmartCustody Email List
 [https://tinyletter.com/SmartCustody](https://tinyletter.com/SmartCustody)
 
