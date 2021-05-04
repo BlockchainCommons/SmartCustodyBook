@@ -119,4 +119,4 @@ These are other sources that might provide insights into adversaries
 
 ## Support #SmartCustody 2.0
 
-If you would like to support the development of SmartCustody v2.0, then please [contribute to our BTCPay](https://smartcustody.btcpay.blockchaincommons.com/). We are looking to raise 5 Bitcoins to allow the redevelopment and expansion of the book.
+If you would like to support the development of SmartCustody v2.0, then please [contribute to our BTCPay](https://btcpay.blockchaincommons.com/). We are looking to raise 5 Bitcoins to allow the redevelopment and expansion of the book.
