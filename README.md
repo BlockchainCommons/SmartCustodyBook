@@ -46,8 +46,6 @@ The **SmartCustody Book**  is a project of [Blockchain Commons](https://www.bloc
 
 To financially support further development of **SmartCustody Book** and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
-There is also a distinct [#SmartCustody BTCPay Server](https://smartcustody.btcpay.blockchaincommons.com/).
-
 ## Contributing
 
 We encourage public contributions through issues and pull requests! Please review [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our development process. All contributions to this repository require a GPG signed [Contributor License Agreement](./CLA.md).
