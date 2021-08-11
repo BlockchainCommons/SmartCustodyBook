@@ -4,6 +4,8 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 
 ## New Topics
 
+**New Adversaries.** Rollup Attack: you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
+
 **New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
 
 **New Multisignatures.** A new PART will discuss multisignatures, first detailing why they're important and how to use them, then providing a variant of the core procedure for using multisignatures in a self-sovereign methodology. An open question for this section is: do we present it as a modification to the base scenario, or as its own scenario; this question will resolve itself as we write the scenario.
