@@ -2,7 +2,7 @@
 
 #### _Anthropomorphized risks for digital assets_
 
-**_Version: 2019-06-14 Release 1.0.0_**
+**_Version: 2021-08-11 Release 1.0.1_**
 
 ## Introduction to Adversaries
 
@@ -424,6 +424,8 @@ Users are usually most concerned about Personal Network Attacks which target the
 ***Historic Case Study: Unsigning the Transactions.*** In the early days of Bitcoin, there were sites that processed transactions, but which had bugs in their code. It was possible to send some of them invalid, unsigned transactions, and they would still think they had gotten paid. Some of these early sites were taken advantage of, and their customers lost money.
 
 ***Historic Case Study: Bankrupting Betcoin Dice.*** Hackers took over Ghash.io, giving them about 25-30% of network hashing power. They mined a block that gave Ghash’s funds to themselves, but before they announced it, they made a bunch of bets at Betcoin Dice. Some paid out, then Ghash announced a block that reversed the bets, effectively creating a double spend. Betcoin Dice lost 1000 bitcoins. **[Forum Post](https://bitcointalk.org/index.php?topic=327767.0).**
+
+**Historic Case Study: Crossing the Streams.** One of the largest hacks ever occurred at cross-chain platform Poly Network, which initially lost over $600M due to either the loss of a private key or the abuse of a signing protocol, used for their cross-chain messages. It demonstrated the threat of depending on third parties for control of cryptocurrencies. [**CoinDesk**](https://www.coindesk.com/cross-chain-defi-site-poly-network-hacked)
 
 ***Historic Case Study: Filling the Graveyard.*** Many other blockchains has suffered systemic network attacks over the years. **[Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/).** One recent report states that there were more than \$900 million dollars in losses, most of them from Systemic Attacks, just in the first nine months of 2018. [**CoinDesk**](https://www.coindesk.com/nearly-1-billion-stolen-in-crypto-hacks-so-far-this-year-research).
 
