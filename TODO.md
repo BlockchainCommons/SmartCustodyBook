@@ -120,6 +120,7 @@ Has BCC created any tools such as LetheKit that would be worthwhile to integrate
 These are other sources that might provide insights into adversaries
 
 * [Casa Threat Listing](https://docs.keys.casa/wealth-security-protocol/)
+* [Actual Kidnapping Example](https://www.elespanol.com/espana/20211103/fundador-tuenti-denuncia-secuestro-manos-millones-bitcoin/624188600_0.html?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1635924343)
 
 ## Support #SmartCustody 2.0
 
