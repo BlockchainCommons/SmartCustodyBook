@@ -39,6 +39,8 @@ Attack Trees [2021-12-13]
 Motivations [2021-12-13]
 - [Understanding cyber attacker motivations to best apply controls | AT&T Cybersecurity](https://cybersecurity.att.com/blogs/security-essentials/understanding-cyber-attacker-motivations-to-best-apply-controls)
 
+**How Do You Think About Smart Custody Designs?**
+
 ## Updated Table of Contents
 
 Obviously this table of contents is subject to change. In particular, wer're considering moving the risk modeling to later in the book to make it more approachable.
