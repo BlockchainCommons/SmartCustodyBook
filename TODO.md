@@ -8,15 +8,42 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 
 AirDrop Scam: https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-layer-1-defi-networks (a new type of social engineering, or something new entirely).
 
+DoS: Possibly related to Censorship. See https://github.com/btcpayserver/btcpayserver/issues/3190
+
 **New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
 
 **New Multisignatures.** A new PART will discuss multisignatures, first detailing why they're important and how to use them, then providing a variant of the core procedure for using multisignatures in a self-sovereign methodology. An open question for this section is: do we present it as a modification to the base scenario, or as its own scenario; this question will resolve itself as we write the scenario.
 
 **Fidicuiary Multisignatures.** Finally, we combine the lessons learned above to offer our first complete fiduciary scenario, using multisignatures to ensure separation of duties.
 
+**Other New Technologies.** Consider incorporating other #SC articles written since 1.0
+
+***Multisigs:***
+* [Designing Multisig for Indepedence & Resilience](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) (March 2021) - Design process & sample multisigs (released).
+
+***SSKR Shares:***
+* [Designing SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md) (August 2021) - How to manage SSKR shares (preliminary)
+* [The Dangers of Secret-Sharing Schemes](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md) (August 2021) - How secret-sharing can be subverted (preliminary)
+
+***Timelocks:***
+* [Using Timelocks to Protect Digital Assets](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) (July 2021) - Using Timelocks (very preliminary).
+
+
+**New Methods of Thinking About Attackers.**
+
+Attack Trees [2021-12-13]
+- [Academic: Attack Trees - Schneier on Security](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)
+- [Designing Trusted Services with Group Controls](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/groupcontrols.html)
+- [Attack tree - Wikipedia](https://en.wikipedia.org/wiki/Attack_tree)
+
+Motivations [2021-12-13]
+- [Understanding cyber attacker motivations to best apply controls | AT&T Cybersecurity](https://cybersecurity.att.com/blogs/security-essentials/understanding-cyber-attacker-motivations-to-best-apply-controls)
+
 ## Updated Table of Contents
 
 Obviously this table of contents is subject to change. In particular, wer're considering moving the risk modeling to later in the book to make it more approachable.
+
+We've also added some new potential topics since writing this ToC, including other new technologies (comprising several extensive articles) and new methods of thinking about attackers.
 
 ```
 FRONT MATTER
