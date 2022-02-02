@@ -10,6 +10,12 @@ AirDrop Scam: https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-lay
 
 DoS: Possibly related to Censorship. See https://github.com/btcpayserver/btcpayserver/issues/3190
 
+Centralization: This is a new adversary, currently missing from #SmartCustody, and more problematic on Ethereum. A single private key tends to be used to unlock personally held funds, to access smart contracts, and to create signatures. If that private key is lost or stolen then all functionality goes with it.
+
+Cost: A close kin to Convenience, this new adversary arises when the monetary cost of security is too high to adopt it. Again, Ethereum really shows off the problem because it can cost $100 to move funds to cold storage due to astronomical gas fees.
+
+Exposure: This is a primarily secondary adversary, something that can arise from using cryptocurrency, without necesarily endangering your cryptocurrency. It's when your personal information gets revealed. NFTs show how this can happen, since the URL of the NFT can track your IP address, among other things.
+
 **New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
 
 **New Multisignatures.** A new PART will discuss multisignatures, first detailing why they're important and how to use them, then providing a variant of the core procedure for using multisignatures in a self-sovereign methodology. An open question for this section is: do we present it as a modification to the base scenario, or as its own scenario; this question will resolve itself as we write the scenario.
@@ -151,6 +157,7 @@ These are other sources that might provide insights into adversaries
 * [Casa Threat Listing](https://docs.keys.casa/wealth-security-protocol/)
 * [Actual Kidnapping Example](https://www.elespanol.com/espana/20211103/fundador-tuenti-denuncia-secuestro-manos-millones-bitcoin/624188600_0.html?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1635924343)
 * [Trezor Hack](https://www.theverge.com/2022/1/24/22898712/crypto-hardware-wallet-hacking-lost-bitcoin-ethereum-nft) — PIN loss case study, "Hardware Hack" adversary?
+* [Mars Stealer Hack](https://cointelegraph.com/news/hodlers-beware-new-malware-targets-metamask-and-40-other-crypto-wallets) and [also](https://cryptobriefing.com/mars-stealer-can-grab-your-crypto/) with [specifics](https://3xp0rt.com/posts/mars-stealer).
 
 ## Support #SmartCustody 2.0
 
