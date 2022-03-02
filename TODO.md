@@ -4,6 +4,10 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 
 ## New Topics
 
+**New Risk-Modeling.**
+
+* Torino Scale as another 5-point scale
+
 **New Adversaries.** Rollup Attack: you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
 AirDrop Scam: https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-layer-1-defi-networks (a new type of social engineering, or something new entirely).
