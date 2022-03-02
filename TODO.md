@@ -7,6 +7,7 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 **New Risk-Modeling.**
 
 * Torino Scale as another 5-point scale
+* Consider showing a color version of risk graph for green/yellow/red in different regions
 
 **New Adversaries.** Rollup Attack: you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
