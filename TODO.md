@@ -21,6 +21,8 @@ Cost: A close kin to Convenience, this new adversary arises when the monetary co
 
 Exposure: This is a primarily secondary adversary, something that can arise from using cryptocurrency, without necesarily endangering your cryptocurrency. It's when your personal information gets revealed. NFTs show how this can happen, since the URL of the NFT can track your IP address, among other things.
 
+Who Knows, But a Big Hack: https://www.theblockcrypto.com/post/139761/axie-infinitys-ethereum-sidechain-ronin-hit-by-600-million-exploit (four validators subject to same attacks; 1 that signed for free)
+
 **New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
 
 **New Multisignatures.** A new PART will discuss multisignatures, first detailing why they're important and how to use them, then providing a variant of the core procedure for using multisignatures in a self-sovereign methodology. An open question for this section is: do we present it as a modification to the base scenario, or as its own scenario; this question will resolve itself as we write the scenario.
