@@ -21,6 +21,8 @@ Cost: A close kin to Convenience, this new adversary arises when the monetary co
 
 Exposure: This is a primarily secondary adversary, something that can arise from using cryptocurrency, without necesarily endangering your cryptocurrency. It's when your personal information gets revealed. NFTs show how this can happen, since the URL of the NFT can track your IP address, among other things.
 
+Boundary Breaker: See Below
+
 Who Knows, But a Big Hack: https://www.theblockcrypto.com/post/139761/axie-infinitys-ethereum-sidechain-ronin-hit-by-600-million-exploit (four validators subject to same attacks; 1 that signed for free)
 
 **New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
@@ -153,6 +155,22 @@ i. Appendix I: Sample Digital Assets Letter
 ii. Author Bios
 iii. Blockchain Commons Links
 ```
+
+## Identity Adversaries
+
+We've done some work on adversaries that are primarily related to identity. We may want to do more on these and also do want to see which are related to the wider world of digital assets.
+
+Attacker Name: Boundary Breaker
+Assumptions
+* Public goods often have boundaries (in particular to keep the viability of the system intact, see Ostrom)
+* Established boundaries are often perceived as unfair.
+* We don’t want to destroy the value of the system, we want part of it.
+* May perceive any legitimate means of changing the boundary as not possible, too slow, too expensive, etc. * Related systems may be used for leverage.
+Motivation:
+* Because of my lack of agreement on the boundaries of membership, I desire to change/subvert the boundaries (to include me or others like me, or exclude someone else).
+* Because the process to change boundaries is “unfair” (has favoritism), I desire to change/subvert the process.
+* Because I don’t have access to process to change the boundaries, break the process.
+
 ## Open Questions
 
 Has BCC created any tools such as LetheKit that would be worthwhile to integrate, or is that too specific?
