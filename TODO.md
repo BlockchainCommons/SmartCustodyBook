@@ -160,8 +160,9 @@ iii. Blockchain Commons Links
 
 We've done some work on adversaries that are primarily related to identity. We may want to do more on these and also do want to see which are related to the wider world of digital assets.
 
-Attacker Name: Boundary Breaker
-Assumptions
+**Boundary Breaker:**
+
+Assumptions:
 * Public goods often have boundaries (in particular to keep the viability of the system intact, see Ostrom)
 * Established boundaries are often perceived as unfair.
 * We don’t want to destroy the value of the system, we want part of it.
