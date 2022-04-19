@@ -184,6 +184,7 @@ These are other sources that might provide insights into adversaries
 * [Actual Kidnapping Example](https://www.elespanol.com/espana/20211103/fundador-tuenti-denuncia-secuestro-manos-millones-bitcoin/624188600_0.html?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1635924343)
 * [Trezor Hack](https://www.theverge.com/2022/1/24/22898712/crypto-hardware-wallet-hacking-lost-bitcoin-ethereum-nft) — PIN loss case study, "Hardware Hack" adversary?
 * [Mars Stealer Hack](https://cointelegraph.com/news/hodlers-beware-new-malware-targets-metamask-and-40-other-crypto-wallets) and [also](https://cryptobriefing.com/mars-stealer-can-grab-your-crypto/) with [specifics](https://3xp0rt.com/posts/mars-stealer).
+* [Metamask Social Engineering](https://twitter.com/serpent/status/1515545806857990149?s=21&t=JjMXGdO1X1VCl0_B4SUcVQ)
 
 ## Support #SmartCustody 2.0
 
