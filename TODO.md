@@ -9,6 +9,10 @@ v2.0 of the Smart Custody book will generally expand the book to include new har
 * Torino Scale as another 5-point scale
 * Consider showing a color version of risk graph for green/yellow/red in different regions
 
+**New Scenarios.**
+
+* Our new [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) would obviously be the heart of a new book. It was written as a match for the original, for easy incorporation, but it still needs some expansion for alternative signing devices.
+
 **New Adversaries.** Rollup Attack: you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
 AirDrop Scam: https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-layer-1-defi-networks (a new type of social engineering, or something new entirely).
@@ -58,9 +62,7 @@ Motivations [2021-12-13]
 
 ## Updated Table of Contents
 
-Obviously this table of contents is subject to change. In particular, wer're considering moving the risk modeling to later in the book to make it more approachable.
-
-We've also added some new potential topics since writing this ToC, including other new technologies (comprising several extensive articles) and new methods of thinking about attackers.
+Our original table-of-contents for a 2.0 is somewhat dated, as we've since written four new articles and a new scenario, some or all of which will be incorporated into the book, and also identified a lot of other potential material. We've also largely decided to push risk modeling back in the book, to make the introduction to smart custody less intimidating. Nonetheless, this table of contents has some large scale thoughts on new content for 2.0.
 
 ```
 FRONT MATTER
