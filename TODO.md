@@ -27,7 +27,7 @@ iv. Introduction: The Power of Randomness
 v. Introduction: The Power of Checklists **NEW**
   a. Introduction to Self-Custody **NEW**
   b. Introduction to the Custody Scenarios **REVISED**
-  c. How the Scenarios Were Created **REVISED FORM ARTICLE**
+  c. How the Scenarios Were Created **REVISED FROM ARTICLE**
   d. Procedures **EXPANDED**
 
 PART ONE: COLD CUSTODY SCENARIO BUILDING
@@ -60,11 +60,11 @@ IV. Chapter Four: Multisig Self-Custody Scenario **NEW FROM ARTICLE**
   F. SPOCs & SPOFs in this Scenario
 
 V. Chapter Five: Designing Multisig Scenarios **NEW FROM ARTICLE**
-  A. [Multisig Design Article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) **REVISED TO FIT**
+  A. Multisig Design Article: https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md **REVISED TO FIT**
 
 VI. Chapter Six: Designing SSKR Scenarios **NEW FROM ARTICLE**
-  A. [SSKR Design Article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md) **REVISED TO FIT**
-  B. [The Dangers of SSKR](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md) **REVISED TO FIT**
+  A. SSKR Design Article: https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md **REVISED TO FIT**
+  B. The Dangers of SSKR: https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md **REVISED TO FIT**
   
 PART THREE: RISK MODELING
 
@@ -84,13 +84,15 @@ VIII. Chapter Eight: Adversaries
   F. Category: Loss by Government
   G. Category: Loss by Mistakes
   H. Category: Privacy-related Problems
+VIIIa. Chapter Eight-and-a-Half: Alternative Risk Models [Optional]
 
 PART FOUR: FIDUCIARY DUTIES
 
 IX. Chapter Nine: Digital Custodianship Responsibilities
   A. Introduction to Fiduciary Responsibilities
   B. Best Practices of Digital Custodianship
-  C. References
+  C. Multisig Procedures **NEW**
+  D. References
 X. Chapter Ten: The Frank Family Fund Example
   A. Introduction to the Frank Family Fund
   B. Section I: Asset Characterization
@@ -100,10 +102,12 @@ X. Chapter Ten: The Frank Family Fund Example
 
 PART FIVE: THE FUTURE OF SMARTCUSTODY
 
-XI. New Technologies on the Horizon
+XI. New Technologies on the Horizon **NEW**
   A. Taproot
   B. Schnoor
-XII. New Technology Spotlight: Timelocks **ADAPTED FORM ARTICLE**
+XII. New Technology Spotlight: Timelocks **ADAPTED FROM ARTICLE**
+  A. Paper: https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Timelocks.md
+  B. Mori-cli Prototype: https://github.com/BlockchainCommons/mori-cli
 
 APPENDICES
 
@@ -113,95 +117,73 @@ iii. Author Bios
 iv. Blockchain Commons Links
 ```
 
-## New Topics
+## Updated Material
 
-**New Risk-Modeling.**
+The following Additional material will expand current chapters.
 
-* Torino Scale as another 5-point scale
+### Chapter Seven: Risk Modeling
+
+* Mention Torino Scale as another 5-point scale
 * Consider showing a color version of risk graph for green/yellow/red in different regions
 
-**New Scenarios.**
+### Chapter Eight: Adversaries
 
-* Our new [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) would obviously be the heart of a new book. It was written as a match for the original, for easy incorporation, but it still needs some expansion for alternative signing devices.
+#### New Adversaries
 
-**New Adversaries.** Rollup Attack: you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
+The following adversaries will all be considered for inclusion:
 
-AirDrop Scam: https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-layer-1-defi-networks (a new type of social engineering, or something new entirely).
+* **AirDrop Scam:** https://www.bsc.news/post/airdrop-scams-continue-to-surface-on-layer-1-defi-networks (a new type of social engineering, or something new entirely).
+* **Boundary Breaker:** See Below
+* **Centralization:** This is a new adversary, currently missing from #SmartCustody, and more problematic on Ethereum. A single private key tends to be used to unlock personally held funds, to access smart contracts, and to create signatures. If that private key is lost or stolen then all functionality goes with it.
+   * This was primarily a centralization hack, further empowered by convenience: https://www.theblockcrypto.com/post/139761/axie-infinitys-ethereum-sidechain-ronin-hit-by-600-million-exploit (four validators subject to same attacks; 1 that signed for free)
+* **Cost:** A close kin to Convenience, this new adversary arises when the monetary cost of security is too high to adopt it. Again, Ethereum really shows off the problem because it can cost $100 to move funds to cold storage due to astronomical gas fees.
+* **DoS:** Possibly related to Censorship. See https://github.com/btcpayserver/btcpayserver/issues/3190
+* **Exposure:** This is a primarily secondary adversary, something that can arise from using cryptocurrency, without necesarily endangering your cryptocurrency. It's when your personal information gets revealed. NFTs show how this can happen, since the URL of the NFT can track your IP address, among other things.
+* **Rollup Attack:** you attack a social network of peers using secrets and use that social network to make it easier to attack the rest of the social network.
 
-DoS: Possibly related to Censorship. See https://github.com/btcpayserver/btcpayserver/issues/3190
+#### Hacks that May Be Examples or Adversaries
 
-Centralization: This is a new adversary, currently missing from #SmartCustody, and more problematic on Ethereum. A single private key tends to be used to unlock personally held funds, to access smart contracts, and to create signatures. If that private key is lost or stolen then all functionality goes with it.
+The following hacks may reveal additional adversaries, or just be good examples for existing ones.
 
-Cost: A close kin to Convenience, this new adversary arises when the monetary cost of security is too high to adopt it. Again, Ethereum really shows off the problem because it can cost $100 to move funds to cold storage due to astronomical gas fees.
-
-Exposure: This is a primarily secondary adversary, something that can arise from using cryptocurrency, without necesarily endangering your cryptocurrency. It's when your personal information gets revealed. NFTs show how this can happen, since the URL of the NFT can track your IP address, among other things.
-
-Boundary Breaker: See Below
-
-Who Knows, But a Big Hack: https://www.theblockcrypto.com/post/139761/axie-infinitys-ethereum-sidechain-ronin-hit-by-600-million-exploit (four validators subject to same attacks; 1 that signed for free)
-
-**New Hardware Wallets.** A new Chapter Three will offer variable options for Hardware Wallets, currently planned to include KeepKey, Ledger, and Trezor. These will cleanly slot into the middle of the cold-storage procedure. A short article will also discuss deciding among the hardware wallets. This will also require a revision of the scenario section, which will allow us to more cleanly divide the core scenario, the Hardware Wallets, and the optional steps.
-
-**New Multisignatures.** A new PART will discuss multisignatures, first detailing why they're important and how to use them, then providing a variant of the core procedure for using multisignatures in a self-sovereign methodology. An open question for this section is: do we present it as a modification to the base scenario, or as its own scenario; this question will resolve itself as we write the scenario.
-
-**Fidicuiary Multisignatures.** Finally, we combine the lessons learned above to offer our first complete fiduciary scenario, using multisignatures to ensure separation of duties.
-
-**Other New Technologies.** Consider incorporating other #SC articles written since 1.0
-
-***Multisigs:***
-* [Designing Multisig for Indepedence & Resilience](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) (March 2021) - Design process & sample multisigs (released).
-
-***SSKR Shares:***
-* [Designing SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md) (August 2021) - How to manage SSKR shares (preliminary)
-* [The Dangers of Secret-Sharing Schemes](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md) (August 2021) - How secret-sharing can be subverted (preliminary)
-
-***Timelocks:***
-* [Using Timelocks to Protect Digital Assets](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) (July 2021) - Using Timelocks (very preliminary).
-
-
-**New Methods of Thinking About Attackers.**
-
-Attack Trees [2021-12-13]
-- [Academic: Attack Trees - Schneier on Security](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)
-- [Designing Trusted Services with Group Controls](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/groupcontrols.html)
-- [Attack tree - Wikipedia](https://en.wikipedia.org/wiki/Attack_tree)
-
-Motivations [2021-12-13]
-- [Understanding cyber attacker motivations to best apply controls | AT&T Cybersecurity](https://cybersecurity.att.com/blogs/security-essentials/understanding-cyber-attacker-motivations-to-best-apply-controls)
-
-**How Do You Think About Smart Custody Designs?**
-
-
-
-## Identity Adversaries
-
-We've done some work on adversaries that are primarily related to identity. We may want to do more on these and also do want to see which are related to the wider world of digital assets.
-
-**Boundary Breaker:**
-
-Assumptions:
-* Public goods often have boundaries (in particular to keep the viability of the system intact, see Ostrom)
-* Established boundaries are often perceived as unfair.
-* We don’t want to destroy the value of the system, we want part of it.
-* May perceive any legitimate means of changing the boundary as not possible, too slow, too expensive, etc. * Related systems may be used for leverage.
-Motivation:
-* Because of my lack of agreement on the boundaries of membership, I desire to change/subvert the boundaries (to include me or others like me, or exclude someone else).
-* Because the process to change boundaries is “unfair” (has favoritism), I desire to change/subvert the process.
-* Because I don’t have access to process to change the boundaries, break the process.
-
-## Open Questions
-
-Has BCC created any tools such as LetheKit that would be worthwhile to integrate, or is that too specific?
-
-## Other Sources
-
-These are other sources that might provide insights into adversaries
-
-* [Casa Threat Listing](https://docs.keys.casa/wealth-security-protocol/)
 * [Actual Kidnapping Example](https://www.elespanol.com/espana/20211103/fundador-tuenti-denuncia-secuestro-manos-millones-bitcoin/624188600_0.html?utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1635924343)
 * [Trezor Hack](https://www.theverge.com/2022/1/24/22898712/crypto-hardware-wallet-hacking-lost-bitcoin-ethereum-nft) — PIN loss case study, "Hardware Hack" adversary?
 * [Mars Stealer Hack](https://cointelegraph.com/news/hodlers-beware-new-malware-targets-metamask-and-40-other-crypto-wallets) and [also](https://cryptobriefing.com/mars-stealer-can-grab-your-crypto/) with [specifics](https://3xp0rt.com/posts/mars-stealer).
 * [Metamask Social Engineering](https://twitter.com/serpent/status/1515545806857990149?s=21&t=JjMXGdO1X1VCl0_B4SUcVQ)
+
+#### Boundary Breaker
+
+**Assumptions:**
+
+* Public goods often have boundaries (in particular to keep the viability of the system intact, see Ostrom)
+* Established boundaries are often perceived as unfair.
+* We don’t want to destroy the value of the system, we want part of it.
+* May perceive any legitimate means of changing the boundary as not possible, too slow, too expensive, etc. * Related systems may be used for leverage.
+
+**Motivation:**
+
+* Because of my lack of agreement on the boundaries of membership, I desire to change/subvert the boundaries (to include me or others like me, or exclude someone else).
+* Because the process to change boundaries is “unfair” (has favoritism), I desire to change/subvert the process.
+* Because I don’t have access to process to change the boundaries, break the process.
+
+#### Identity Adversaries
+
+More broadly: we've done some work on adversaries that are primarily related to identity. We may want to do more on these and also do want to see which are related to the wider world of digital assets.
+
+#### Alternative Methods of Thinking About Attackers
+
+These articles should be considered for whether they deserve attention on their own, slight mentions, footnotes, or nothing. If there's sufficient material, they could lead to the optional Chapter 8.5 mentioned.
+
+* Attack Tree
+   - [Academic: Attack Trees - Schneier on Security](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)
+   - [Designing Trusted Services with Group Controls](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/groupcontrols.html)
+   - [Attack tree - Wikipedia](https://en.wikipedia.org/wiki/Attack_tree)
+* Motivations
+- [Understanding cyber attacker motivations to best apply controls | AT&T Cybersecurity](https://cybersecurity.att.com/blogs/security-essentials/understanding-cyber-attacker-motivations-to-best-apply-controls)
+* [Casa Threat Listing](https://docs.keys.casa/wealth-security-protocol/)
+
+### Open Questions
+
+Has BCC created any tools such as LetheKit that would be worthwhile to integrate, or is that too specific?
 
 ## Support #SmartCustody 2.0
 
