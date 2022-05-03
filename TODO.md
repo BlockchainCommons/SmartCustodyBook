@@ -2,6 +2,117 @@
 
 v2.0 of the Smart Custody book will generally expand the book to include new hardware solutions and also to provide new solutions for multisignatures.
 
+## New Table of Contents
+
+## Updated Table of Contents
+
+Our original table-of-contents for a 2.0 is somewhat dated, as we've since written four new articles and a new scenario, some or all of which will be incorporated into the book, and also identified a lot of other potential material. We've also largely decided to push risk modeling back in the book, to make the introduction to smart custody less intimidating. Nonetheless, this table of contents has some large scale thoughts on new content for 2.0.
+
+```
+FRONT MATTER
+
+i. Disclaimer
+ii. Credits
+  a. The #SmartCustody Team
+  b. Copyright & Contributing
+  c. Sponsors
+iii. Foreword
+  a. The Key Management of Digital Assets
+iv. Preface to the Book
+  a. About the #SmartCustody Project
+iv. Introduction: The Power of Randomness
+  a. Introduction to Randomness
+  b. The Danger of Randomness
+  c. The Core of Custody
+v. Introduction: The Power of Checklists **NEW**
+  a. Introduction to Self-Custody **NEW**
+  b. Introduction to the Custody Scenarios **REVISED**
+  c. How the Scenarios Were Created **REVISED FORM ARTICLE**
+  d. Procedures **EXPANDED**
+
+PART ONE: COLD CUSTODY SCENARIO BUILDING
+
+  A. Why to Use Cold Storage
+  
+II. Chapter Two: Cold Storage Self-Custody Scenario **REVISED**
+  A. Introduction to the Cold Storage Self-Custody Scenario
+  B. Why Cold Storage?
+  C. The Basic Procedure
+  D. Optional Steps
+  E. Alternative Procedures
+  F. SPOCs & SPOFs in this Scenario **NEW**
+
+III. Chapter Three: Hardware Wallets **NEW**
+  A. Introduction to Hardware Wallets **NEW**
+     1. Two Generations **NEW**
+  B. Alternate Trezor Procedures **NEW**
+
+PART TWO: MULTISIG SCENARIO BUILDING
+
+  A. Why to Use Multisig
+
+IV. Chapter Four: Multisig Self-Custody Scenario **NEW FROM ARTICLE**
+  A. Introduction to the Multisig Self-Custody Scenario
+  B. Why Multisig?
+  C. The Basic Procedure
+  D. Optional Steps
+  E. Alternative Hardware Wallet Procedures
+  F. SPOCs & SPOFs in this Scenario
+
+V. Chapter Five: Designing Multisig Scenarios **NEW FROM ARTICLE**
+  A. [Multisig Design Article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) **REVISED TO FIT**
+
+VI. Chapter Six: Designing SSKR Scenarios **NEW FROM ARTICLE**
+  A. [SSKR Design Article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md) **REVISED TO FIT**
+  B. [The Dangers of SSKR](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md) **REVISED TO FIT**
+  
+PART THREE: RISK MODELING
+
+VII. Chapter Seven: Risk Modeling
+  A. Introduction to Risk Modeling
+  B. Section I: Asset Characterization
+  C. Section II: Risk Characterization
+  D. Section III: Risk Resolution
+  E. Section IV: Process Repetition
+  F. Summary
+VIII. Chapter Eight: Adversaries
+  A. Introduction to Adversaries
+  B. Category: Loss by Acts of God
+  C. Category: Loss by Computer Error
+  D. Category: Loss by Crime, Theft
+  E. Category: Loss by Crime, Other Attacks
+  F. Category: Loss by Government
+  G. Category: Loss by Mistakes
+  H. Category: Privacy-related Problems
+
+PART FOUR: FIDUCIARY DUTIES
+
+IX. Chapter Nine: Digital Custodianship Responsibilities
+  A. Introduction to Fiduciary Responsibilities
+  B. Best Practices of Digital Custodianship
+  C. References
+X. Chapter Ten: The Frank Family Fund Example
+  A. Introduction to the Frank Family Fund
+  B. Section I: Asset Characterization
+  C. Section II: Risk Characterization
+  D. Section III: Risk Resolution
+  E. Section IV: Process Repetition
+
+PART FIVE: THE FUTURE OF SMARTCUSTODY
+
+XI. New Technologies on the Horizon
+  A. Taproot
+  B. Schnoor
+XII. New Technology Spotlight: Timelocks **ADAPTED FORM ARTICLE**
+
+APPENDICES
+
+i. Appendix I: Preserving Assets for Yoru Heirs
+ii. Appendix II: Sample Digital Assets Letter
+iii. Author Bios
+iv. Blockchain Commons Links
+```
+
 ## New Topics
 
 **New Risk-Modeling.**
@@ -60,103 +171,7 @@ Motivations [2021-12-13]
 
 **How Do You Think About Smart Custody Designs?**
 
-## Updated Table of Contents
 
-Our original table-of-contents for a 2.0 is somewhat dated, as we've since written four new articles and a new scenario, some or all of which will be incorporated into the book, and also identified a lot of other potential material. We've also largely decided to push risk modeling back in the book, to make the introduction to smart custody less intimidating. Nonetheless, this table of contents has some large scale thoughts on new content for 2.0.
-
-```
-FRONT MATTER
-
-i. Disclaimer
-ii. Credits
-  a. The #SmartCustody Team
-  b. Copyright & Contributing
-  c. Sponsors
-iii. Foreword
-  a. The Key Management of Digital Assets
-  b. Preface to the Book
-    1. Why Cold Storage?
-    2. About the #SmartCustody Project
-iv. Introduction: The Power of Randomness
-  a. Introduction to Randomness
-  b. The Danger of Randomness
-  c. The Core of Custody
-
-PART ONE: RISK MODELING
-
-I. Chapter One: Risk Modeling
-  A. Introduction to Risk Modeling
-  B. Section I: Asset Characterization
-  C. Section II: Risk Characterization
-  D. Section III: Risk Resolution
-  E. Section IV: Process Repetition
-  F. Summary
-
-PART TWO: BASIC SCENARIO BUILDING
-
-II. Storage Scenarios **REVISED**
-  A. Introduction to the Custody Scenarios **REVISED**
-  B. Procedures **EXPANDED**
-
-III. Chapter Two: Cold Storage Self-Custody Scenario **REVISED**
-  A. Introduction to the Cold Storage Self-Custody Scenario
-  B. The Basic Procedure
-
-III. Chapter Three: Hardware Wallets **NEW**
-  A. Introduction to Hardware Wallets **NEW**
-  B. KeepKey Procedures **NEW**
-  C. Ledger Procedures **NEW**
-  D. Trezor Procedures **NEW**
-
-IV. Chapter Four: Other Alternatives **REVISED**
-  A. Introduction to Other Alternatives **REVISED**
-  B. Alternative Scenarios **REVISED**
-  C. Optional Steps **REVISED**
-
-PART THREE: ADVERSARIAL ANALYSIS
-
-V. Chapter Five: Adversaries
-  A. Introduction to Adversaries
-  B. Category: Loss by Acts of God
-  C. Category: Loss by Computer Error
-  D. Category: Loss by Crime, Theft
-  E. Category: Loss by Crime, Other Attacks
-  F. Category: Loss by Government
-  G. Category: Loss by Mistakes
-  H. Category: Privacy-related Problems
-
-PART FOUR: MULTISIGNATURE USAGE **NEW**
-
-VI. Chapter Six: Multisignatures **NEW**
-  A. Introduction to Multisignatures **NEW**
-  B. Multisignature Creation **NEW**
-  C. Multisignature Spending **NEW**
-VII. Chapter Seven: Self-Sovereign Multisignature Scenario* **NEW**
-  A. Introduction to the Self-Soveriegn Multisignature Scenario **NEW**
-  B. The Multi-sig Scenario **NEW**
-
-PART FIVE: FIDUCIARY DUTIES
-
-VIII. Chapter Eight: Digital Custodianship Responsibilities
-  A. Introduction to Fiduciary Responsibilities
-  B. Best Practices of Digital Custodianship
-  C. References
-IX. Chapter Nine: The Frank Family Fund Example
-  A. Introduction to the Frank Family Fund
-  B. Section I: Asset Characterization
-  C. Section II: Risk Characterization
-  D. Section III: Risk Resolution
-  E. Section IV: Process Repetition
-X. Chapter Ten: Fiduciary Multisignature Scenario **NEW**
-  A. Introduction to the Fiduciary Multisignature Scenario **NEW**
-  B. The Fiduciary Scenario **NEW**
-
-APPENDICES
-
-i. Appendix I: Sample Digital Assets Letter
-ii. Author Bios
-iii. Blockchain Commons Links
-```
 
 ## Identity Adversaries
 
