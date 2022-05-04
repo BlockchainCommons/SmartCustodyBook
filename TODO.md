@@ -2,8 +2,6 @@
 
 v2.0 of the Smart Custody book will generally expand the book to include new hardware solutions and also to provide new solutions for multisignatures.
 
-## New Table of Contents
-
 ## Updated Table of Contents
 
 Our original table-of-contents for a 2.0 is somewhat dated, as we've since written four new articles and a new scenario, some or all of which will be incorporated into the book, and also identified a lot of other potential material. We've also largely decided to push risk modeling back in the book, to make the introduction to smart custody less intimidating. Nonetheless, this table of contents has some large scale thoughts on new content for 2.0.
@@ -113,8 +111,9 @@ APPENDICES
 
 i. Appendix I: Preserving Assets for Yoru Heirs
 ii. Appendix II: Sample Digital Assets Letter
-iii. Author Bios
-iv. Blockchain Commons Links
+iii. Appendic III: Smart Custody Case Studies
+iv. Author Bios
+v. Blockchain Commons Links
 ```
 
 ## Updated Material
@@ -184,6 +183,24 @@ These articles should be considered for whether they deserve attention on their 
 ### Open Questions
 
 Has BCC created any tools such as LetheKit that would be worthwhile to integrate, or is that too specific?
+
+## Current Documents
+
+The following documents are the current forms of a variety of SmartCustody documents, which are not in their final forms for #SC 2.0, but which reveal much of the current information. They'll need to be revised for #SC to standardize everything into the same format and to link it all together. Material will be added and removed in the process.
+
+* [SmartCustody 1.01 Manuscript](https://github.com/BlockchainCommons/SmartCustodyBook/tree/master/manuscript) (September 2019) — Manuscript files for current iteration of book, also [see PDF](v1.01) (released).
+* [MultiSig Self-Custody Scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) (April 2022) — Scenario for multisig usage (undergoing review).
+* [Designing Multisig for Indepedence & Resilience](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md) (March 2021) - Design process & sample multisigs (released).
+* [Designing SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md) (August 2021) - How to manage SSKR shares (preliminary)
+* [The Dangers of Secret-Sharing Schemes](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md) (August 2021) - How secret-sharing can be subverted (preliminary)
+* [Using Timelocks to Protect Digital Assets](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) (July 2021) - Using Timelocks (very preliminary).
+* [Smart Custody Case Studies](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Studies-Overview.md) (February 2022) — Details of case study criteria (released).
+   * [Blockchain Commons Seed Tool](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-SeedTool.md) (February 2022) — Airgapped Hardware Wallet (released)
+   * [Foundation Devices Passport](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-Passport.md) (February 2022) — Airgapped Hardware Wallet (released).
+   * [Sparrow Bitcoin Wallet](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Study-Sparrow.md) (February 2022) — Software Wallet & Transaction Coordinator (released).
+
+Also see our experimental [mori-cli](https://github.com/BlockchainCommons/mori-cli) app for a real usage of Timelocks.
+
 
 ## Support #SmartCustody 2.0
 
