@@ -149,6 +149,7 @@ The following hacks may reveal additional adversaries, or just be good examples 
 * [Mars Stealer Hack](https://cointelegraph.com/news/hodlers-beware-new-malware-targets-metamask-and-40-other-crypto-wallets) and [also](https://cryptobriefing.com/mars-stealer-can-grab-your-crypto/) with [specifics](https://3xp0rt.com/posts/mars-stealer).
 * [Metamask Social Engineering](https://twitter.com/serpent/status/1515545806857990149?s=21&t=JjMXGdO1X1VCl0_B4SUcVQ)
 * [Hacking IronKey/Lost BTCs](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/?fbclid=IwAR0Z9r8z09aIJzH_rtse8-F94QWnVMbZfL4dyMXnPqnc-77HhTk8B4fPhJA_aem_AcYAY9aeu5vRtvFhctE_i-hIl8wkCrETJtyMVMLV8o0pEymL_YTUVbJcYoFkxhSz60Y&mibextid=Zxz2cZ)
+* [Censorship / State: Making Mixers Illegal](https://www.coindesk.com/policy/2023/10/19/us-treasury-seeks-to-name-crypto-mixers-as-money-laundering-concern/)
 
 #### Boundary Breaker
 
