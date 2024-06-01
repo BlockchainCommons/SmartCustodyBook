@@ -120,15 +120,15 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
 1. *This optional action is omitted in this basic procedure. Enable it with "Use a USB Drive" if you are concerned about [Bitrot](#adversary-bitrot) or [Personal Network Attack](#adversary-network-attack-personal).*
 2. _This optional action is omitted in this basic procedure, but enabled by"Optional Steps" below._
 3. _This optional action is omitted in this basic procedure, but enabled by"Optional Steps" below._
-4. [  ] Install the Ledger Live software for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
-   1. Download It
-   2. Install It
 
 #### **Step C: Create Master HD Seed on Ledger** [^9] 
-1. [  ] Start Up Ledger Live
+1. [  ] Install the Ledger Live software for Mac, Windows or Linux [https://support.ledger.com/hc/en-us/articles/360006395553](https://support.ledger.com/hc/en-us/articles/360006395553)
+   1. Download It
+   2. Install It
+2. [  ] Start Up Ledger Live
    1. If necessary, verify for your operating system that you want to run this downloaded app
    2. **On Ledger Live (LL:)** Click "Get started"
-2. [  ] Upgrade Ledger (if Needed)
+3. [  ] Upgrade Ledger (if Needed)
    1. Plug Ledger into computer holding down the right button (furthest from the plug).
    2. Watch for the screen to say "Recovery"; hit both buttons, then hit them again, so that "Settings" pops up on the Ledger.
    3. **LL:** Click "Manager"
@@ -148,36 +148,41 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
        - You may also need to update the MCU. If so, Ledger Live will alert you. You'll need to disconnect the Ledger, then plug it back in while holding the left button this time.
        - You will usually see that the Bootloader is updating, then the MCU, then the Firmware. (Whew!)
     12. Disconnect your Ledger from your computer; exit Ledger Live.
-3. [  ] Initialize Your Ledger
+4. [  ] Initialize Your Ledger
    1. Restart Ledger Live; enter your password; and plug your Ledger back into your computer.
    2. Click both buttons on your Ledger when it says "Welcome"; this is generally how you clear a screen.
    3. Click both buttons again.
    4. You should now see "Configure as new device" with an "X" to the left and a "√" on the right. This means that you hit the left button to choose "No" ("X") and the right button to choose "Yes" ("√"). Click the right button.
-4. [  ] Create Your PIN[^10]
+5. [  ] Create Your PIN
    1. Hit both buttons on your Ledger to create a PIN
    2. Create at least a 6-to-8 digit PIN
    3. If you desire PIN compatibility with Trezor, don't use the number "0".
    4. Hit both buttons to verify your PIN
    5. [  ] Write the PIN and the Date that the key was generated using permanent marker on waterproof paper page
-5. [  ] View Recovery Phrase
+6. [  ] View Recovery Phrase[^10]
    1. Hit both buttons on your Ledger to view your 24-word Recovery Phrase
    2. Afterward, you can hit the right button to go to the next word
-6. [  ] Write down Recovery Phrase, adding it to the waterproof paper page
+7. [  ] Write down Recovery Phrase, adding it to the waterproof paper page
    1. Write it in 6 rows, with 4 words in each row
+       - The specific order of words that appears on the device is crucial: be sure to duplicate it precisely
    2. Beware of homonyms or similar words
    3. Leave some room at the bottom of the page for notes
    4. Afterward, go back through all 24 words, and look at each character in the words to make sure you got them right
-      - Never, _never_ put your Recovery Phrase on a connected device. If a device is connected to a network, it can be hacked and even a local copy of your Recovery Phrase will be stolen.
-   5. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
-   6. You'll need to verify all 24 words; expect this to take some time.
-   7. You should see "Your device is now ready".
-7. [  ] Install Bitcoin on your Ledger[^11]
+   5. Protect your Recovery Phrase!
+      - Never, _never_ put your Recovery Phrase on a connected device. If a device is connected to a network, it can be hacked and even a local copy of your Recovery Phrase will be stolen. In fact, putting your Recovery Phrase on any sort of digital device is dangerous because they _could_ be connected — which is why this scenario recommends writing down phrases and embedding them in physical devices such as metal tiles
+      - Also, never re-enter your Recovery Phrase unless prompted by the physical device; responding to anything in email or on the web might make you vulnerable to phishing
+   6. Hit both buttons to exit the word list, then hit both buttons to verify your Recovery Phrase
+   7. You'll need to verify all 24 words; expect this to take some time.
+   8. You should see "Your device is now ready".
+8. [  ] Install Bitcoin on your Ledger
    1. **LL:** Choose the "Manager" in Ledger Live
    2. Hit the right button on your Ledger to Give Permissions
    3. **LL:** Install Bitcoin
    4. **LL:** Hit "Close"
    5. **LL:** Repeat for any other cryptocurrency you want to use
-8. [  ] Create Your Bitcoin Account
+      - Though we describe here how to install Bitcoin on your Ledger, the Ledger software actually supports multiple cryptocurrencies. The same procedures can be adapted for any other cryptocurrencies that you are holding.
+
+9. [  ] Create Your Bitcoin Account
    1. **LL:** Click the "+" next to Accounts to Add Accounts
    2. **LL:** Choose Bitcoin and hit "Continue"
    3. On your Ledger, hit the right button to navigate to the Bitcoin app, then both buttons to run
@@ -185,7 +190,7 @@ This procedure will secure your Bitcoin private keys by keeping the more sensiti
    5. **LL:** Hit "Continue" in Ledger Live
    6. **LL:** Name the account (e.g. "Investment Cold Storage"), select the checkmark, and hit "Add Account"
    7. Hit the "X" button; you're done: you now have an account to send and receive bitcoins; discount the Ledger
-9. [  ] Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
+10. [  ] Write the date the key was generated, the Ledger firmware version number, and the Bitcoin app version number on waterproof paper.[^12]
 
 #### **Step D: Verify Recovery Phrase**
 
@@ -737,9 +742,7 @@ The increased protection of Level 1 theft protection might be insufficient if yo
 
 [^9]:One of the most important principles of these procedures is that the Recovery Phrase (which is the Master Private Key Seed for all of your digital assets) is generated on trusted hardware certified for key creation, and from that point the Recovery Phrase or Master Private Key Seed never resides physically on a network-attached computer.
 
-[^10]:Though not supported by Ledger Live today, some other wallet software allows the encryption of the Recovery Phrase with an additional password using BIP38. We recommend in this base scenario AGAINST encrypting the Recovery Phrase. The loss of a password in an encrypted Recovery Phrase is one of THE most common reasons for bitcoin loss. In this procedure the Recovery Phrase is unencrypted in the most secure location and is thus available as last resort.
-
-[^11]:Though we describe here how to install Bitcoin on your Ledger, the Ledger software actually supports multiple cryptocurrencies. The same procedures can be adapted for any other cryptocurrencies that you are holding.
+[^10]:Some wallet software further allows the encryption of the Recovery Phrase with an additional password using BIP38. We recommend in this base scenario AGAINST encrypting the Recovery Phrase. The loss of a password in an encrypted Recovery Phrase is one of THE most common reasons for bitcoin loss. In this procedure the Recovery Phrase is unencrypted in the most secure location and is thus available as last resort.
 
 [^12]:Why? Because if there is ever a systematic attack on the chips (as happened with the Infineon chip in the YubiKey), firmware (as happened with the Trezor), firmware app, or client software, you can know if you were possibly affected.
 
