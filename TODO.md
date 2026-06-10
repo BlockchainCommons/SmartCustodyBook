@@ -7,6 +7,7 @@ _See [the old TODO file](TODO-old.md) for our previous thoughts on a new iterati
 1. Introduction
    - What are digital assets?
    - What are cryptocurrencies?
+   - What is an address? What is a key?
    - What are the advantages of cryptocurrencies?
    - Are cryptocurrencies criminal?
    - What are the dangers of cryptocurrencies? [SPOF/SPOC/State]
@@ -17,43 +18,55 @@ _See [the old TODO file](TODO-old.md) for our previous thoughts on a new iterati
    - Hardware Wallets
       - The Best
       - Example Setup
+      - Using a Hardware Wallet
    - Sofwater Wallets
       - The Best
       - Example Setup
+      - Using a Software Wallet
 4. Funding Your Cryptocurrency
    - Send to Address
    - Bank Transfers
    - Bitcoin ATMs
 5. Spending Your Cryptocurrency
+   - Disclaimer: are they still legit?
    - Bank Transfers
    - Gift Card & Prepaid CC Purchases [Bitrefill, Coingate]
    - Bitcoin Circular Economies
    - Bitcoin Map
    - Bitcoin ATMs
-6. Locale-Specific Resources
+6. Locale-Specific Resources [possibly]
 
 ## Part Two: Smart Custody, Backing Up Your Secrets
 
 1. Introduction
    - The Importance of Backups
+   - Seeds, Keys & Descriptors
    - Metadata
    - SSKR
    - Advantages & Disadvantages
-2. Storing Secrets with Gordian Envelope
-3. Sharding Secrets with SSKR
-4. Designing SSKR Scenarios
+2. Storing Secrets with Gordian Seed Tool
+3. Storing Secrets with Gordian Envelope
+4. Sharding Secrets with SSKR
+5. Designing SSKR Scenarios
    - https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md
    - https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md
 
 ## Part Three: Smart Custody, Using Multisigs
 
 1. Introduction
+   - Cold, warm, and hot storage
    - Multisig vs SSKR
-3. Multisig Procedure
+2. Multisig Procedure
    - https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md
-4. Designing Multisig Scenarios
+3. Designing Multisig Scenarios
    - https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md
   
-## Part Four: Smart Custody, Designing for Safety
+## Part Four: Smart Custody, Architecting for Risk
 
-
+1. Introduction
+   - Your custody model is personal
+2. Risk Modeling
+   - Existing chapter
+3. Adversaries
+   - Existing chapter
+4. Inheritance
